@@ -25,39 +25,39 @@
 ## Priorités (IPR décroissant)
 | Rubrique | Catégorie | IPR | Robustesse (rang min-max, 1er tiers) | Dernière | Notions officielles |
 |---|---|---|---|---|---|
-| 2.1 Analyse et choix stratégiques | PRIORITÉ MAXIMALE | 74.6 | 1-2, 7/7 | 2024 | diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances |
-| 2.5 La planification et le diagnostic stratégique | PRIORITÉ MAXIMALE | 74.0 | 1-2, 7/7 | 2025 | CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire |
-| 4.1 La gestion des ressources humaines | PRIORITÉ MAXIMALE | 64.8 | 3-4, 7/7 | 2025 | tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…) |
-| 4.2 La gestion des compétences | PRIORITÉ TRÈS ÉLEVÉE | 56.1 | 4-5, 7/7 | 2025 | identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel |
-| 2.4 La gestion du périmètre de l'entité | PRIORITÉ ÉLEVÉE | 44.1 | 3-7, 5/7 | 2025 | extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert |
-| 2.3 Approche du marketing stratégique | PRIORITÉ ÉLEVÉE | 43.5 | 5-7, 1/7 | 2024 | leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data |
-| 1.2 Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie | PRIORITÉ ÉLEVÉE | 40.7 | 5-8, 1/7 | 2025 | rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie |
-| 2.6 Analyse des parties prenantes et structures de gouvernance | PRIORITÉ ÉLEVÉE | 38.0 | 6-9, 0/7 | 2025 | cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes |
-| 3.3 Le contrôle de gestion et le pilotage stratégique | PRIORITÉ ÉLEVÉE | 32.0 | 7-10, 0/7 | 2020 | performance globale, FCS, KPI, tableaux de bord stratégiques |
-| 3.2 Management et pilotage par les processus | À MAÎTRISER | 28.8 | 9-10, 0/7 | 2023 | cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit |
-| 3.1 Le management du changement | COMPLÉMENT | 19.5 | 11-12, 0/7 | 2018 | types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement |
-| 1.1 Évolution des modèles d'organisation | COMPLÉMENT | 16.2 | 11-14, 0/7 | 2019 | formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé |
-| 2.2 Place et rôle du contrôle de gestion stratégique | COMPLÉMENT | 15.5 | 12-14, 0/7 | jamais | CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils |
+| 2.1 Analyse et choix stratégiques | PRIORITÉ MAXIMALE | 74.8 | 1-2, 7/7 | 2024 | diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances |
+| 2.5 La planification et le diagnostic stratégique | PRIORITÉ MAXIMALE | 73.2 | 1-2, 7/7 | 2025 | CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire |
+| 4.1 La gestion des ressources humaines | PRIORITÉ MAXIMALE | 64.4 | 3-4, 7/7 | 2025 | tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…) |
+| 4.2 La gestion des compétences | PRIORITÉ TRÈS ÉLEVÉE | 55.3 | 4-5, 7/7 | 2025 | identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel |
+| 2.4 La gestion du périmètre de l'entité | PRIORITÉ ÉLEVÉE | 43.4 | 3-7, 5/7 | 2025 | extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert |
+| 2.3 Approche du marketing stratégique | PRIORITÉ ÉLEVÉE | 43.0 | 5-7, 1/7 | 2024 | leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data |
+| 1.2 Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie | PRIORITÉ ÉLEVÉE | 40.3 | 5-8, 1/7 | 2025 | rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie |
+| 2.6 Analyse des parties prenantes et structures de gouvernance | PRIORITÉ ÉLEVÉE | 37.3 | 6-9, 0/7 | 2025 | cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes |
+| 3.3 Le contrôle de gestion et le pilotage stratégique | PRIORITÉ ÉLEVÉE | 32.0 | 6-10, 0/7 | 2020 | performance globale, FCS, KPI, tableaux de bord stratégiques |
+| 3.2 Management et pilotage par les processus | À MAÎTRISER | 28.1 | 9-10, 0/7 | 2023 | cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit |
+| 3.1 Le management du changement | COMPLÉMENT | 19.2 | 11-12, 0/7 | 2018 | types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement |
+| 1.1 Évolution des modèles d'organisation | COMPLÉMENT | 15.8 | 11-14, 0/7 | 2019 | formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé |
+| 2.2 Place et rôle du contrôle de gestion stratégique | COMPLÉMENT | 14.8 | 12-14, 0/7 | jamais | CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils |
 | 2.7 Contrôle de gestion et changement organisationnel | COMPLÉMENT | 12.6 | 12-15, 0/7 | jamais | CG interface stratégie/organisation, aide à l'évolution de la structure |
 | 1.3 Le contrôle de gestion et les systèmes d'information et de communication | COMPLÉMENT | 8.3 | 13-15, 0/7 | jamais | PGI, transmission électronique de l'information, mégadonnées |
 
 ## Techniques les plus mobilisées
 | Technique | Sessions 2016-25 | Depuis 2020 | Dernière |
 |---|---|---|---|
+| Note de synthèse | 4 | 4 | 2025 |
 | Analyse d'écarts | 6 | 3 | 2025 |
 | Parties prenantes | 5 | 3 | 2025 |
+| PESTEL | 4 | 3 | 2024 |
 | Coûts cachés (Savall-Zardet) | 4 | 3 | 2023 |
-| Note de synthèse | 3 | 3 | 2025 |
 | 5 (+1) forces de Porter | 3 | 3 | 2024 |
+| Stratégies génériques | 5 | 2 | 2024 |
 | RSE / DD | 4 | 2 | 2025 |
 | Gestion des compétences | 3 | 2 | 2025 |
 | Masse salariale (effets niveau/masse/report) | 3 | 2 | 2025 |
-| PESTEL | 3 | 2 | 2023 |
 | Marketing digital | 2 | 2 | 2024 |
 | Prévisions de CA / résultat | 2 | 2 | 2024 |
 | Tarification / grille de prix | 2 | 2 | 2024 |
 | Tableau de bord social | 2 | 2 | 2023 |
-| Stratégies génériques | 4 | 1 | 2022 |
 | Diagnostic ressources / compétences | 3 | 1 | 2025 |
 | Franchise / plateforme | 2 | 1 | 2024 |
 | SWOT | 2 | 1 | 2021 |
@@ -119,7 +119,15 @@
 - **2025 D3 — Q2 résultats des entités avec le PCI actuel** (n.c.) : Montesquieu : 9 900 € avant IS (7 425 € net) · Athéna : 106 812 000 € (90 790 200 € net). PCI de 1 599 € ≈ coût variable : transfert du bénéfice vers l'Irlande (IS 15 %) · taux de MCV 0,13 % contre 12,60 %. — *Pièges :* Calculer chaque entité séparément puis le groupe. Identifier l'effet fiscal du prix de transfert.
 - **2025 D3 — Q3 nouveau PCI coût complet + marge** (n.c.) : PCI = coût complet 1 644,83 + 10 % = 1 809,31 € · résultat avant impôt du GROUPE inchangé, impôt total plus élevé. — *Pièges :* Un PCI déplace le résultat entre entités sans changer le résultat consolidé avant impôt : seul l'impôt change.
 - **2025 D3 — Q4 arguments pour réviser le PCI** (n.c.) : Quatre registres : financier, fiscal (risque de redressement, principe de pleine concurrence), social (participation des salariés), sociétal (citoyenneté fiscale). — *Pièges :* Structurer par registre.
-- **2024 D1-2 — Toutes questions** (n.c.) : Non vérifié : corrigé 2024 non exploitable (fichier Drive > 10 Mo, téléchargement impossible). — *Pièges :* À compléter dès réception d'une version légère.
+- **2024 D1 — 1.1 micro-environnement avec l outil pertinent** (n.c.) : L'outil attendu est les 5 (+1) forces de Porter (et non PESTEL/SWOT). Rivalité forte (indépendants, chaînes, franchises), clients à faible pouvoir mais versatiles, bailleur puissant, professeurs indépendants à faible pouvoir (marché saturé), entrants sans barrière (aucun diplôme requis), substituts nombreux (cours en ligne, applis, yoga en entreprise, puppy yoga…), État (exonération de cotisations, réglementation possible du métier). — *Pièges :* Le jury 2024 relève que de nombreux candidats ont utilisé PESTEL ou SWOT pour le micro-environnement : erreur d'outil.
+- **2024 D1 — 1.2-1.3 grille tarifaire, CA et résultat prévisionnels** (n.c.) : Prix HT = TTC / 1,2 · CA HT prévisionnel = 66 837,50 € pour 208 inscrits (ex. Sat Nam 36 × 375 € + 60 × 362,50 € Early Bird) · résultat prévisionnel = 66 837,50 − 28 700 = 38 137,50 €. — *Pièges :* Raisonner en HT (TVA 20 %). Tous les chiffres recalculés : cohérents.
+- **2024 D1 — 1.4 note de résultats et préconisations (20 lignes)** (n.c.) : Résultat 2022 = 54 226,67 − 31 738 = 22 488,67 € · objectif 45 000 € · économies possibles de 3 038 € seulement (charges fixes peu compressibles) → agir sur les prix · coût d'opportunité de l'Early Bird = 80 × 15 / 1,2 = 1 000 € · hausse du résultat de 15 648,83 € mais objectif non atteint. — *Pièges :* Respecter le format (note, 20 lignes) · conclure clairement sur l'objectif.
+- **2024 D1 — 1.5 options stratégiques** (n.c.) : Matrice d'Ansoff : passer de la pénétration de marché au développement de produits · externalisation (sous-traitance de capacité des professeurs, fonctions support) et franchise envisageable · stratégies génériques : focalisation, à préciser en focalisation par différenciation (yoga traditionnel) plutôt que par les coûts. — *Pièges :* Distinguer stratégies globales (Ansoff, externalisation/intégration) et stratégies de domaine (Porter).
+- **2024 D2 — 2.1 écarts sur CA expliqués par le micro et le macro-environnement** (n.c.) : CA 2023 = 64 680 € (+10 453,33 €, +19 %) mais écart défavorable de 2 045 € sur le budget (3 %) · écart sur prix −1 709,93 € (plus d'Early Bird, box moins chères) · écart sur quantité Sat Nam +2 570,31 €, Shanti −3 105 € · écart sur composition des ventes −1 005,68 € (cannibalisation vers les formules bon marché) · explication PESTEL : socioculturel (engouement), économique (inflation, pouvoir d'achat), technologique (cours en ligne). — *Pièges :* Décomposer écart sur prix / quantité puis volume global / composition · relier chaque écart à une cause d'environnement · remettre en cause la reconduction de l'Early Bird.
+- **2024 D2 — 2.2 programme optimal de stages (facteur rare) et résultat marginal** (n.c.) : Ressource rare = 10 week-ends · MCV par stage : Little Nirvana 390 €, Nirvana 876 €, Nirvana Zen 567,50 € (après location de salle de 100 €) · MCV par week-end : 780 (2 Little Nirvana), 876, 567,50 → ordre Nirvana, Little Nirvana, Nirvana Zen · au moins une date par catégorie (2,5 week-ends) · programme 6 Little Nirvana, 6 Nirvana, 1 Nirvana Zen · résultat marginal = 8 163,50 € (pas de charge fixe supplémentaire). — *Pièges :* Classer par marge par unité de ressource rare, pas par marge unitaire · intégrer les minima imposés avant d'optimiser · le plafond de 6 Nirvana relève d'une contrainte du sujet (non vérifiée ici, le sujet n'étant pas disponible).
+- **2024 D2 — 2.3 communication et marketing digital** (n.c.) : Communication actuelle outbound (flyers, affichettes) → approche inbound · leviers POEM : Paid (référencement payant, QR codes), Owned (site, un réseau social ciblé comme Instagram, ton adapté), Earned (likes, partages). — *Pièges :* Proposer un plan d'action concret et adapté à une TPE.
+- **2024 D2 — 2.4 adhésion à une marketplace (approche marginale)** (n.c.) : CA supplémentaire = 64 680 × 7 % = 4 527,60 € · coûts = abonnement 39 × 12 = 468 € + commission 10 % du TTC = 12 % du HT (543,31 €) = 1 011,31 € · résultat marginal = 3 516,29 € → adhésion profitable. — *Pièges :* Piège : une commission de 10 % sur le TTC représente 12 % du HT.
+- **2024 D2 — 2.5 adhésion à un réseau de franchise** (n.c.) : Définition de la franchise · avantages (assistance, indépendance) et inconvénients (normes, droit d'entrée, redevances) · Yoga World : investissement 500 000 €, droit d'entrée 35 000 €, redevance 7 % (17 500 € sur 250 000 €), philosophie incompatible · Studio Zen : investissement 5 000 €, redevance 1 500 €/an (3,75 % du CA prévu, 2,32 % du CA actuel) mais CA prévu 40 000 € < 64 680 € actuel → conclusion : n'adhérer à aucun réseau. — *Pièges :* Relier les chiffres à la vision de la dirigeante (yoga traditionnel, vie personnelle).
 - **2023 D1 — Q1 PESTEL opportunités/menaces, facteurs pivots, scénarios** (n.c. (dossier 30 pts)) : PESTEL appliqué à l'éolien · identifier les variables pivots (acceptabilité, dérèglement climatique, soutien public) · construire deux scénarios (favorable, défavorable) · conclure sur l'incertitude (investissement = pari, activité d'exploration). — *Pièges :* Le corrigé sanctionne la liste « à la Prévert » : il faut hiérarchiser et conclure.
 - **2023 D1 — Q2 5 (+1) forces de Porter** (n.c.) : 5 forces ou 5+1 acceptées · schéma conforme à Porter (axe horizontal fournisseurs-concurrents-clients) · clients très puissants (oligopole, 9/10), État 8/10, fournisseurs 6/10, concurrence et entrants 5/10, substituts 1/10 (notes facultatives). — *Pièges :* Analyser le marché de l'entreprise (composants) et non celui de ses clients. Ne pas oublier une force essentielle.
 - **2023 D1 — Q3 synthèse environnement général et concurrentiel** (n.c.) : Demi-page combinant PESTEL et Porter : forte incertitude, forces principales = clients et pouvoir politique. — *Pièges :* Respecter la longueur imposée.
@@ -194,8 +202,8 @@
 | 2025 | 1 | Incidence de la RSE et coût de la pollution (Tanneries Montesquieu) | 8/20 | 2.5|2.6|1.2 | 3.3 | RSE|ecarts|parties_prenantes|note_synthese |
 | 2025 | 2 | Gestion des compétences et des ressources humaines | 6/20 | 4.1|4.2 | 2.1 | diagnostic_ressources_competences|competences|masse_salariale |
 | 2025 | 3 | Gestion des prix de transfert | 6/20 | 2.4 | 2.1|2.2|2.6 | PCI|integration_verticale|couts_transaction |
-| 2024 | 1 | Situation initiale : diagnostic et nouvelle grille de prix (école de yoga, TPE de services) | n.v./n.v. | 2.1|2.3|2.5 |  | Porter_5F|tarification|previsions_resultat |
-| 2024 | 2 | Année suivante : suivi, révision et décisions (écarts, facteur rare, marketing digital, marketplace, franchise) | n.v./n.v. | 2.5|2.3|2.4 | 3.3 | ecarts|facteur_rare|digital|franchise_plateforme |
+| 2024 | 1 | Analyse de la situation initiale et première décision (école de yoga Yoga Life, TPE de services) | n.v./n.v. | 2.1|2.3|2.5 | 2.4 | Porter_5F|tarification|previsions_resultat|strategies_generiques|note_synthese |
+| 2024 | 2 | Analyse des résultats et nouveaux projets (écarts, facteur rare, marketing digital, marketplace, franchise) | n.v./n.v. | 2.5|2.3|2.4 | 3.3|2.1 | ecarts|facteur_rare|digital|franchise_plateforme|PESTEL |
 | 2023 | 1 | Analyse de la stratégie commerciale (gamme Brise) | 30/100 | 2.1 |  | PESTEL|Porter_5F|scenarios|note_synthese |
 | 2023 | 2 | Analyse stratégique (relocalisation/internalisation Ciel'Ouvert) | 35/100 | 2.5|2.4|2.6 |  | ecarts|faire_faire_faire|parties_prenantes|note_synthese |
 | 2023 | 3 | Organisation et management des ressources humaines | 35/100 | 4.2|4.1|3.2 |  | competences|formation|QVT_attractivite|couts_caches|TBS |

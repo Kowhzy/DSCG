@@ -291,7 +291,7 @@ def build(ue):
     for t, x in METHODE_COMMUNE:
         S.append(P(f"<b>{t}.</b> {x}"))
     S.append(P('Hiérarchie des sources utilisées', 'h2'))
-    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2022, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction en tête des manuels Dunod UE2/UE3 et dans le document « Programme MSI 19-20 » pour l'UE5) ; éléments indicatifs de corrigé 2020-2025 (lus question par question, sauf UE3 2024 indisponible)."),
+    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2022, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction en tête des manuels Dunod UE2/UE3 et dans le document « Programme MSI 19-20 » pour l'UE5) ; éléments indicatifs de corrigé 2020-2025 (lus question par question, pour les 3 UE)."),
           B("Niveau 2 (contrôle) : Compta Online (articles « Pronostic DSCG … thèmes récurrents », « réforme ») via les extraits de moteur de recherche, le site étant inaccessible ; tes notes Drive (UE5-01 à UE5-07) ; ta base Notion (héritée d'un modèle, donc utilisée comme index et non comme preuve)."),
           B("Contrôle croisé : les structures des sujets 2020, 2021, 2022, 2024 et 2025 ont été vérifiées contre la description qu'en donne le rapport du jury correspondant (concordance constatée).")]
     S.append(CondPageBreak(170 * mm))
@@ -360,7 +360,7 @@ def build(ue):
     S.append(CondPageBreak(170 * mm))
     # --- 6. jury
     S.append(P('6. Analyse des rapports du jury', 'h1'))
-    S.append(P("Rapports lus : sessions 2020, 2021, 2022, 2024, 2025 (le rapport 2023 n'a pas pu être consulté). Observations en paraphrase fidèle ; les citations entre guillemets sont verbatim. Pages = pagination imprimée."))
+    S.append(P("Rapports lus : sessions 2020, 2021, 2022, 2024, 2025 (aucun rapport n'a été publié pour la session 2023, selon toi ; non vérifié sur le site officiel). Observations en paraphrase fidèle ; les citations entre guillemets sont verbatim. Pages = pagination imprimée."))
     data = [['Année', 'Page', 'Observation du jury', 'Rubriques', 'Pb candidats', 'Conséquence pour ta révision']]
     for (an, pg, o, rub, pb, cons) in JURY[ue]:
         data.append([str(an), pg, o, rub.replace('|', ' ') or 'général', 'oui' if pb else '—', cons])
@@ -492,7 +492,7 @@ def link(u, label=None):
 CORR = {
  'UE2': {'2025': '1VyyKcpbKQMFO1Q1HWEsJ7ePS-8i3p0Xm', '2024': '1Ynbj96O5VQmAWUJtCLxwL9_Q_PhQb774', '2023': '1Sy9p7pZ5Xb7p85ZXfRkcykmnSeA7ZmPP',
          '2022-S1': '1DK-UytkLXYDX3jO-zr8sqjaBR9ceQDVv', '2022-S2': '195xbM4fcoUkDgDG42BCNn0Xb1hAIsRqd', '2021': '1fayxXx8Yd_7y5iHW_hFzLiv_SxLpbEVO', '2020': '1agfC5cyoSYfiForcBlRWb04t1QbOyRR4'},
- 'UE3': {'2025': '1irKIEaezI8N3EG1xgiJGNVG50ZhSAgV4', '2023': '1TsDftRM2UUzNSuKA92-_ayHUVFE0bp3e', '2022': '1_Bx33FaSMe6wD9KiLurXEnkfOZ01qV--',
+ 'UE3': {'2025': '1irKIEaezI8N3EG1xgiJGNVG50ZhSAgV4', '2024': '183QNpAJ0I1tPmx22_Gx-bkJGOwxixLZ2', '2023': '1TsDftRM2UUzNSuKA92-_ayHUVFE0bp3e', '2022': '1_Bx33FaSMe6wD9KiLurXEnkfOZ01qV--',
          '2021': '1WS2cRZP5ysjQMWEzOHfbq6kp8oJCwBYo', '2020': '1ql7hwyfHiHC_lvRp7McdXzAN103_6u1T'},
  'UE5': {'2025': '1BEsDUzNE4onNpgm4tRLulqtNtfiuy9WP', '2024': '1QQ_uF8gU-bwjMuZ4iRuKXqdAVb1M8Lib', '2023': '1CR9tu9QcKhTYPWpSFmTUTfL_vjeQSUrH',
          '2022': '1JuMyuPIJ2yRa8Wm2X4SuTtbtPM_nKX_E', '2021': '1moGNzX5oR_n-Z0vmQze3SRwDE3U_pn4j', '2020': '1Cq8YX9LolnuaS21GS64M5o_rv2lMZ9AT'},
@@ -530,7 +530,7 @@ def SOURCES(ue, rows):
               ["Notes Drive UE5-01 à UE5-07 (cadrage, matrice, sécurité moderne)", "Sacha (session Claude du 27/08/2026)", "2026", link('https://docs.google.com/document/d/1GPQsrbp1XjcbGl4-jc6M_O_Ao3vcs5SXiu0qLdEjd0I/edit', 'UE5-01 cadrage')],
               ["Cours et fiches UE5 (enseignante), Expert DSCG UE5", "établissement ; éditeur", "—", "/Users/sacha/Documents/DSCG/UE 5 - MSI/ ; Drive « Expert DSCG UE 5.pdf »"]]
     s.append([f"Éléments indicatifs de corrigé DSCG {ue} sessions 2020-2025 [Corrigé {ue} année]", "Jury national (copies FicheBEN / Drive)", "2020-25",
-              ' ; '.join(link(d + i + '/view', a) for a, i in sorted(CORR[ue].items(), reverse=True)) + (" — UE3 2024 : non disponible (fichier > 10 Mo)" if ue == 'UE3' else '')])
+              ' ; '.join(link(d + i + '/view', a) for a, i in sorted(CORR[ue].items(), reverse=True))])
     seen = set()
     anc = sorted({r['annee'] for r in rows if r['y'] < 2020})
     s.append([f"Sujets DSCG {ue} sessions {anc[0]} à {anc[-1]} (ancien programme) [DSCG {ue} {anc[0]}-{anc[-1]}]", "SIEC / MESR (sujets nationaux)", f"{anc[0]}-{anc[-1][2:]}",

@@ -62,7 +62,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Analyse et choix stratégiques",
    "notions_officielles": "diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances",
-   "ipr": 74.6,
+   "ipr": 74.8,
    "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -144,7 +144,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "La planification et le diagnostic stratégique",
    "notions_officielles": "CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire",
-   "ipr": 74.0,
+   "ipr": 73.2,
    "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -234,7 +234,7 @@
    "partie": "4. Management des ressources humaines et des compétences (30 h)",
    "intitule": "La gestion des ressources humaines",
    "notions_officielles": "tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…)",
-   "ipr": 64.8,
+   "ipr": 64.4,
    "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -318,7 +318,7 @@
    "partie": "4. Management des ressources humaines et des compétences (30 h)",
    "intitule": "La gestion des compétences",
    "notions_officielles": "identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel",
-   "ipr": 56.1,
+   "ipr": 55.3,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -377,7 +377,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "La gestion du périmètre de l'entité",
    "notions_officielles": "extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert",
-   "ipr": 44.1,
+   "ipr": 43.4,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -433,7 +433,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Approche du marketing stratégique",
    "notions_officielles": "leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data",
-   "ipr": 43.5,
+   "ipr": 43.0,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -495,7 +495,7 @@
    "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
    "intitule": "Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie",
    "notions_officielles": "rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie",
-   "ipr": 40.7,
+   "ipr": 40.3,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -558,7 +558,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Analyse des parties prenantes et structures de gouvernance",
    "notions_officielles": "cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes",
-   "ipr": 38.0,
+   "ipr": 37.3,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -606,7 +606,7 @@
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 9,
-    "rang_min": 7,
+    "rang_min": 6,
     "rang_max": 10,
     "scenarios_premier_tiers": "0/7"
    },
@@ -649,7 +649,7 @@
    "partie": "3. Conduite du changement (40 h)",
    "intitule": "Management et pilotage par les processus",
    "notions_officielles": "cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit",
-   "ipr": 28.8,
+   "ipr": 28.1,
    "categorie": "À MAÎTRISER",
    "regle_jury_2025": false,
    "robustesse": {
@@ -690,7 +690,7 @@
    "partie": "3. Conduite du changement (40 h)",
    "intitule": "Le management du changement",
    "notions_officielles": "types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement",
-   "ipr": 19.5,
+   "ipr": 19.2,
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
@@ -735,7 +735,7 @@
    "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
    "intitule": "Évolution des modèles d'organisation",
    "notions_officielles": "formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé",
-   "ipr": 16.2,
+   "ipr": 15.8,
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
@@ -775,7 +775,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Place et rôle du contrôle de gestion stratégique",
    "notions_officielles": "CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils",
-   "ipr": 15.5,
+   "ipr": 14.8,
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
@@ -875,6 +875,21 @@
  ],
  "techniques": [
   {
+   "technique": "note_synthese",
+   "libelle": "Note de synthèse",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 4.0,
+   "sessions_2023_2025": 3.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2024 D1",
+    "2023 D2",
+    "2023 D1",
+    "2020 D1"
+   ]
+  },
+  {
    "technique": "ecarts",
    "libelle": "Analyse d'écarts",
    "sessions_2016_2025": 6.0,
@@ -906,6 +921,20 @@
    ]
   },
   {
+   "technique": "PESTEL",
+   "libelle": "PESTEL",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2",
+    "2023 D1",
+    "2022 D1",
+    "2017 D1"
+   ]
+  },
+  {
    "technique": "couts_caches",
    "libelle": "Coûts cachés (Savall-Zardet)",
    "sessions_2016_2025": 4.0,
@@ -920,20 +949,6 @@
    ]
   },
   {
-   "technique": "note_synthese",
-   "libelle": "Note de synthèse",
-   "sessions_2016_2025": 3.0,
-   "sessions_2020_2025": 3.0,
-   "sessions_2023_2025": 2.0,
-   "derniere": 2025,
-   "dossiers": [
-    "2025 D1",
-    "2023 D2",
-    "2023 D1",
-    "2020 D1"
-   ]
-  },
-  {
    "technique": "Porter_5F",
    "libelle": "5 (+1) forces de Porter",
    "sessions_2016_2025": 3.0,
@@ -944,6 +959,21 @@
     "2024 D1",
     "2023 D1",
     "2022 D1"
+   ]
+  },
+  {
+   "technique": "strategies_generiques",
+   "libelle": "Stratégies génériques",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2022 D1",
+    "2019 D2",
+    "2018 D1",
+    "2016 D1"
    ]
   },
   {
@@ -984,19 +1014,6 @@
     "2025 D2",
     "2022 D2",
     "2017 D3"
-   ]
-  },
-  {
-   "technique": "PESTEL",
-   "libelle": "PESTEL",
-   "sessions_2016_2025": 3.0,
-   "sessions_2020_2025": 2.0,
-   "sessions_2023_2025": 1.0,
-   "derniere": 2023,
-   "dossiers": [
-    "2023 D1",
-    "2022 D1",
-    "2017 D1"
    ]
   },
   {
@@ -1045,20 +1062,6 @@
    "dossiers": [
     "2023 D3",
     "2022 D2"
-   ]
-  },
-  {
-   "technique": "strategies_generiques",
-   "libelle": "Stratégies génériques",
-   "sessions_2016_2025": 4.0,
-   "sessions_2020_2025": 1.0,
-   "sessions_2023_2025": 0.0,
-   "derniere": 2022,
-   "dossiers": [
-    "2022 D1",
-    "2019 D2",
-    "2018 D1",
-    "2016 D1"
    ]
   },
   {
@@ -1663,13 +1666,93 @@
   },
   {
    "annee": "2024",
-   "dossier": "1-2",
-   "question": "Toutes questions",
+   "dossier": "1",
+   "question": "1.1 micro-environnement avec l outil pertinent",
    "bareme": "n.c.",
-   "attendus": "Non vérifié : corrigé 2024 non exploitable (fichier Drive > 10 Mo, téléchargement impossible).",
-   "pieges": "À compléter dès réception d'une version légère.",
+   "attendus": "L'outil attendu est les 5 (+1) forces de Porter (et non PESTEL/SWOT). Rivalité forte (indépendants, chaînes, franchises), clients à faible pouvoir mais versatiles, bailleur puissant, professeurs indépendants à faible pouvoir (marché saturé), entrants sans barrière (aucun diplôme requis), substituts nombreux (cours en ligne, applis, yoga en entreprise, puppy yoga…), État (exonération de cotisations, réglementation possible du métier).",
+   "pieges": "Le jury 2024 relève que de nombreux candidats ont utilisé PESTEL ou SWOT pour le micro-environnement : erreur d'outil.",
    "alerte": false,
-   "source": "Non vérifié"
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "1.2-1.3 grille tarifaire, CA et résultat prévisionnels",
+   "bareme": "n.c.",
+   "attendus": "Prix HT = TTC / 1,2 · CA HT prévisionnel = 66 837,50 € pour 208 inscrits (ex. Sat Nam 36 × 375 € + 60 × 362,50 € Early Bird) · résultat prévisionnel = 66 837,50 − 28 700 = 38 137,50 €.",
+   "pieges": "Raisonner en HT (TVA 20 %). Tous les chiffres recalculés : cohérents.",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé) + recalcul"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "1.4 note de résultats et préconisations (20 lignes)",
+   "bareme": "n.c.",
+   "attendus": "Résultat 2022 = 54 226,67 − 31 738 = 22 488,67 € · objectif 45 000 € · économies possibles de 3 038 € seulement (charges fixes peu compressibles) → agir sur les prix · coût d'opportunité de l'Early Bird = 80 × 15 / 1,2 = 1 000 € · hausse du résultat de 15 648,83 € mais objectif non atteint.",
+   "pieges": "Respecter le format (note, 20 lignes) · conclure clairement sur l'objectif.",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "1.5 options stratégiques",
+   "bareme": "n.c.",
+   "attendus": "Matrice d'Ansoff : passer de la pénétration de marché au développement de produits · externalisation (sous-traitance de capacité des professeurs, fonctions support) et franchise envisageable · stratégies génériques : focalisation, à préciser en focalisation par différenciation (yoga traditionnel) plutôt que par les coûts.",
+   "pieges": "Distinguer stratégies globales (Ansoff, externalisation/intégration) et stratégies de domaine (Porter).",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.1 écarts sur CA expliqués par le micro et le macro-environnement",
+   "bareme": "n.c.",
+   "attendus": "CA 2023 = 64 680 € (+10 453,33 €, +19 %) mais écart défavorable de 2 045 € sur le budget (3 %) · écart sur prix −1 709,93 € (plus d'Early Bird, box moins chères) · écart sur quantité Sat Nam +2 570,31 €, Shanti −3 105 € · écart sur composition des ventes −1 005,68 € (cannibalisation vers les formules bon marché) · explication PESTEL : socioculturel (engouement), économique (inflation, pouvoir d'achat), technologique (cours en ligne).",
+   "pieges": "Décomposer écart sur prix / quantité puis volume global / composition · relier chaque écart à une cause d'environnement · remettre en cause la reconduction de l'Early Bird.",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.2 programme optimal de stages (facteur rare) et résultat marginal",
+   "bareme": "n.c.",
+   "attendus": "Ressource rare = 10 week-ends · MCV par stage : Little Nirvana 390 €, Nirvana 876 €, Nirvana Zen 567,50 € (après location de salle de 100 €) · MCV par week-end : 780 (2 Little Nirvana), 876, 567,50 → ordre Nirvana, Little Nirvana, Nirvana Zen · au moins une date par catégorie (2,5 week-ends) · programme 6 Little Nirvana, 6 Nirvana, 1 Nirvana Zen · résultat marginal = 8 163,50 € (pas de charge fixe supplémentaire).",
+   "pieges": "Classer par marge par unité de ressource rare, pas par marge unitaire · intégrer les minima imposés avant d'optimiser · le plafond de 6 Nirvana relève d'une contrainte du sujet (non vérifiée ici, le sujet n'étant pas disponible).",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé) + recalcul"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.3 communication et marketing digital",
+   "bareme": "n.c.",
+   "attendus": "Communication actuelle outbound (flyers, affichettes) → approche inbound · leviers POEM : Paid (référencement payant, QR codes), Owned (site, un réseau social ciblé comme Instagram, ton adapté), Earned (likes, partages).",
+   "pieges": "Proposer un plan d'action concret et adapté à une TPE.",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.4 adhésion à une marketplace (approche marginale)",
+   "bareme": "n.c.",
+   "attendus": "CA supplémentaire = 64 680 × 7 % = 4 527,60 € · coûts = abonnement 39 × 12 = 468 € + commission 10 % du TTC = 12 % du HT (543,31 €) = 1 011,31 € · résultat marginal = 3 516,29 € → adhésion profitable.",
+   "pieges": "Piège : une commission de 10 % sur le TTC représente 12 % du HT.",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé) + recalcul"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.5 adhésion à un réseau de franchise",
+   "bareme": "n.c.",
+   "attendus": "Définition de la franchise · avantages (assistance, indépendance) et inconvénients (normes, droit d'entrée, redevances) · Yoga World : investissement 500 000 €, droit d'entrée 35 000 €, redevance 7 % (17 500 € sur 250 000 €), philosophie incompatible · Studio Zen : investissement 5 000 €, redevance 1 500 €/an (3,75 % du CA prévu, 2,32 % du CA actuel) mais CA prévu 40 000 € < 64 680 € actuel → conclusion : n'adhérer à aucun réseau.",
+   "pieges": "Relier les chiffres à la vision de la dirigeante (yoga traditionnel, vie personnelle).",
+   "alerte": false,
+   "source": "Corrigé UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », éléments indicatifs de corrigé)"
   },
   {
    "annee": "2023",
@@ -2371,28 +2454,28 @@
   {
    "annee": "2024",
    "dossier": "1",
-   "intitule": "Situation initiale : diagnostic et nouvelle grille de prix (école de yoga, TPE de services)",
+   "intitule": "Analyse de la situation initiale et première décision (école de yoga Yoga Life, TPE de services)",
    "points": "",
    "total_points": "",
-   "questions_resume": "1.1 diagnostic du micro-environnement (5 forces attendues) · 1.2-1.5 nouvelle grille tarifaire, prévisions de CA/résultat, note sur les options stratégiques",
+   "questions_resume": "1.1 micro-environnement avec l'outil pertinent (5+1 forces) · 1.2 nouvelle grille tarifaire et CA prévisionnel · 1.3 résultat prévisionnel · 1.4 note de résultats et préconisations (20 lignes) · 1.5 options stratégiques (Ansoff, externalisation, stratégies génériques)",
    "rubriques_principales": "2.1|2.3|2.5",
-   "rubriques_secondaires": "",
-   "techniques": "Porter_5F|tarification|previsions_resultat",
+   "rubriques_secondaires": "2.4",
+   "techniques": "Porter_5F|tarification|previsions_resultat|strategies_generiques|note_synthese",
    "nature": "mixte",
-   "source": "Rapport du jury 2024 p. 24-25 + page Notion « UE3 2024 — apprendre » (PDF Drive = scan non exploitable ici)"
+   "source": "Corrigé officiel UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », id 183QNpAJ0I1tPmx22_Gx-bkJGOwxixLZ2), qui reproduit les énoncés · Rapport du jury 2024 p. 24-26"
   },
   {
    "annee": "2024",
    "dossier": "2",
-   "intitule": "Année suivante : suivi, révision et décisions (écarts, facteur rare, marketing digital, marketplace, franchise)",
+   "intitule": "Analyse des résultats et nouveaux projets (écarts, facteur rare, marketing digital, marketplace, franchise)",
    "points": "",
    "total_points": "",
-   "questions_resume": "2.1 analyse d'écarts sur CA (fournis) · 2.2 programme optimal sous contrainte (méthode du facteur rare = week-ends) · 2.3 marketing digital · 2.4-2.5 marketplace, réseau de franchise, effets sur la rentabilité",
+   "questions_resume": "2.1 écarts sur CA expliqués par le micro et le macro-environnement · 2.2 programme optimal de stages sous contrainte (facteur rare = week-ends) et résultat marginal · 2.3 plan de communication et marketing digital · 2.4 adhésion à une marketplace (approche marginale) · 2.5 franchise : avantages, inconvénients, comparaison de deux réseaux",
    "rubriques_principales": "2.5|2.3|2.4",
-   "rubriques_secondaires": "3.3",
-   "techniques": "ecarts|facteur_rare|digital|franchise_plateforme",
+   "rubriques_secondaires": "3.3|2.1",
+   "techniques": "ecarts|facteur_rare|digital|franchise_plateforme|PESTEL",
    "nature": "mixte",
-   "source": "idem"
+   "source": "Corrigé officiel UE3 2024 (Drive « UE-Corrige--2024.-1.pdf », id 183QNpAJ0I1tPmx22_Gx-bkJGOwxixLZ2), qui reproduit les énoncés · Rapport du jury 2024 p. 24-26"
   }
  ],
  "jury_toutes_observations": [

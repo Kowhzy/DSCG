@@ -1,18 +1,18 @@
 technique;libelle;sessions_2016_2025;sessions_2020_2025;sessions_2023_2025;derniere_apparition;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;dossiers
+note_synthese;Note de synthèse;4;4;3;2025;;;;;X;;;X;X;X;2023 D1, 2023 D2, 2025 D1, 2020 D1, 2024 D1
 ecarts;Analyse d'écarts;6;3;3;2025;X;X;;X;;;;X;X;X;2023 D2, 2025 D1, 2019 D3, 2017 D3, 2016 D2, 2024 D2
 parties_prenantes;Parties prenantes;5;3;2;2025;X;;X;;;;X;X;;X;2023 D2, 2022 D3, 2025 D1, 2018 D1, 2016 D1
+PESTEL;PESTEL;4;3;2;2024;;X;;;;;X;X;X;;2023 D1, 2022 D1, 2017 D1, 2024 D2
 couts_caches;Coûts cachés (Savall-Zardet);4;3;1;2023;;;X;;X;;X;X;;;2023 D3, 2022 D2, 2020 D2, 2018 D1
-note_synthese;Note de synthèse;3;3;2;2025;;;;;X;;;X;;X;2023 D1, 2023 D2, 2025 D1, 2020 D1
 Porter_5F;5 (+1) forces de Porter;3;3;2;2024;;;;;;;X;X;X;;2023 D1, 2022 D1, 2024 D1
+strategies_generiques;Stratégies génériques;5;2;1;2024;X;;X;X;;;X;;X;;2022 D1, 2019 D2, 2018 D1, 2016 D1, 2024 D1
 RSE;RSE / DD;4;2;1;2025;;;X;X;;;X;;;X;2022 D3, 2025 D1, 2019 D1, 2018 D1
 competences;Gestion des compétences;3;2;2;2025;;;;X;;;;X;;X;2023 D3, 2025 D2, 2019 D2
 masse_salariale;Masse salariale (effets niveau/masse/report);3;2;1;2025;;X;;;;;X;;;X;2022 D2, 2025 D2, 2017 D3
-PESTEL;PESTEL;3;2;1;2023;;X;;;;;X;X;;;2023 D1, 2022 D1, 2017 D1
 digital;Marketing digital;2;2;1;2024;;;;;;;X;;X;;2022 D1, 2024 D2
 previsions_resultat;Prévisions de CA / résultat;2;2;1;2024;;;;;;X;;;X;;2021 D4, 2024 D1
 tarification;Tarification / grille de prix;2;2;1;2024;;;;;X;;;;X;;2020 D1, 2024 D1
 TBS;Tableau de bord social;2;2;1;2023;;;;;;;X;X;;;2023 D3, 2022 D2
-strategies_generiques;Stratégies génériques;4;1;0;2022;X;;X;X;;;X;;;;2022 D1, 2019 D2, 2018 D1, 2016 D1
 diagnostic_ressources_competences;Diagnostic ressources / compétences;3;1;1;2025;X;;;X;;;;;;X;2025 D2, 2019 D2, 2016 D1
 franchise_plateforme;Franchise / plateforme;2;1;1;2024;;;;X;;;;;X;;2019 D3, 2024 D2
 SWOT;SWOT;2;1;0;2021;;X;;;;X;;;;;2021 D1, 2017 D1

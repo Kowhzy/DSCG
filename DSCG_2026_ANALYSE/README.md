@@ -31,7 +31,7 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 ```
 
 ## Sources
-- **Niveau 1 (officiel)** : rapports du jury DSCG 2020, 2021, 2022, 2024, 2025 (lus intégralement, copies Google Drive) ; sujets 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, Drive) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction Dunod UE2/UE3 et « Programme MSI 19-20 » UE5) ; éléments indicatifs de corrigé 2020-2025 (sauf UE3 2024).
+- **Niveau 1 (officiel)** : rapports du jury DSCG 2020, 2021, 2022, 2024, 2025 (lus intégralement, copies Google Drive) ; sujets 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, Drive) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction Dunod UE2/UE3 et « Programme MSI 19-20 » UE5) ; éléments indicatifs de corrigé 2020-2025 (les 3 UE).
 - **Niveau 2 (contrôle)** : Compta Online (extraits de recherche : pronostics UE2/UE3/UE5, réforme 2027), notes Drive UE5-01 à UE5-07, base Notion (index uniquement, car héritée d'un modèle).
 - Recoupements réalisés : la structure des sujets 2020, 2021, 2022, 2024 et 2025 concorde avec la description du rapport du jury correspondant.
 
@@ -44,10 +44,10 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 ## Limites
 - Rapport du jury 2023 non consulté : absent du Drive, et sites officiels inaccessibles depuis l'environnement d'analyse (politique réseau).
 - Annexe du BO non ouverte directement (domaine bloqué) ; son texte a été relu dans les reproductions citées. Les notions affichées en sont un résumé fidèle.
-- UE2 2024, UE3 2024 et UE5 2024 : PDF scannés. UE2 2024 a été lu en image ; UE3 2024 a été reconstitué d'après le rapport du jury et la page Notion (points non vérifiés) ; UE5 2024 d'après une transcription Drive.
+- UE2 2024 et UE5 2024 : corrigés scannés. UE2 2024 a été lu en image ; UE3 2024 : questions vérifiées sur le corrigé officiel, qui reproduit les énoncés (points non communiqués) ; UE5 2024 d'après une transcription Drive.
 - Le Mac n'était pas accessible (session cloud) : les ressources locales ont été repérées via Notion et Google Drive.
 - Les rattachements aux rubriques relèvent d'un jugement d'analyste ; tous sont traçables dans `02_data`, et les 30 corrections de la passe 2 dans `03_analyses/reclassement_journal.csv`.
-- Rapport du jury 2023 et sujet/corrigé UE3 2024 toujours manquants. Le fichier Drive « 2023 corrigé UE3 dscg.php.pdf » (21 Mo, id 1vu6X1uiyZ0pHs7cSut6-0BmqdELFDg9p) est un corrigé commenté UE3 **2023** (Sup Expertise / Compta Online, pages en image) : source secondaire, non exploitée car le corrigé officiel 2023 est déjà intégré.
+- Session 2023 : aucun rapport du jury publié, selon Sacha (non vérifié sur le site officiel, inaccessible). Sujet UE3 2024 non consulté, mais corrigé officiel intégré. Le fichier Drive « 2023 corrigé UE3 dscg.php.pdf » (21 Mo, id 1vu6X1uiyZ0pHs7cSut6-0BmqdELFDg9p) est un corrigé commenté UE3 **2023** (Sup Expertise / Compta Online, pages en image) : source secondaire, non exploitée car le corrigé officiel 2023 est déjà intégré.
 
 ## Passe 2 (24/09/2026) — ce qui a changé
 - Programmes officiels relus : notions réécrites, volumes horaires par partie (critère « programme » de l'IPR).
