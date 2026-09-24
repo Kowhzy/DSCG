@@ -15,7 +15,7 @@
 ## Constats clés
 - Référentiel applicable : programme de 2019 (140 h ; 1re session en 2020) ; la réforme de 2025 (Zero Trust, NIS2, IA, Green IT, MiCA) ne s'applique qu'à partir de la session 2027. Le sujet 2025 montre toutefois une lecture extensive du programme de 2019 (Zero Trust, RTO/RPO, BI).
 - La conduite de projet SI est le thème le plus constant : en principal dans 8 sessions sur 10, et un diagramme de Gantt (ou un PERT) est demandé en 2018, 2019, 2021, 2023 et 2025.
-- Droit et sécurité de l'information (RGPD/DPO, conservation, dématérialisation, cryptographie) : 7 sessions sur 10 ; le RGPD est mobilisé dans chacune des 5 sessions 2020-2023 et en 2025. Surveillance et prévention (PSSI, PCA/PRA, Shadow IT, Zero Trust) figure dans chacune des 3 dernières sessions (en principal en 2023 et 2025, en toile de fond en 2024).
+- Droit et sécurité de l'information (RGPD/DPO, conservation, dématérialisation, cryptographie) : 7 sessions sur 10 ; le RGPD est mobilisé dans chacune des sessions de 2020 à 2023 et en 2025. Surveillance et prévention (PSSI, PCA/PRA, Shadow IT, Zero Trust) figure dans chacune des 3 dernières sessions (en principal en 2023 et 2025, en toile de fond en 2024).
 - Alignement stratégique et schéma directeur : 6 sessions sur 10, et c'est la notion que le jury critique le plus (2024 et 2025) : copies « sans fondements théoriques solides », alignement « réduit à un choix technique ».
 - 2025 ouvre de nouveaux champs : audit du SI (COBIT, ISO 27001, méthodologie de mission) comme « socle structurant », Zero Trust et BI/Data Science. Le jury rappelle qu'un point faible une année peut être réinterrogé dès l'année suivante [Rapport du jury 2025, p. 21].
 - Changements de format : notation sur 40 points depuis 2024, calculatrice interdite, formats imposés (note de 20 lignes). Le taux de réussite chute de 57,85 % (2024) à 38,87 % (2025).
@@ -157,7 +157,7 @@
 - **2022 (sujet entier)** — Gouvernance SI, architecture cible, workflow facture, Factur-X, SaaS vs On Premise, mutualisation du DPO.
 - **2020 Q1-Q15** — RGPD complet : DPO, AIPD, registre, consentement, sous-traitants, continuité et formation.
 - **2018 D2 + D3** — PERT/chemin critique ; VPN et clés de chiffrement : seul entraînement « cryptographie » récent.
-- **2017 D2** — SLA/ITIL, TCO, virtualisation : le seul dossier sur la partie « performance informationnelle » (zone peu interrogée).
+- **2017 D2** — SLA/ITIL, TCO, virtualisation : le dossier le plus complet sur la partie « performance informationnelle » (contrat de services, coûts), zone peu interrogée.
 - **2016 D3** — Audit en environnement informatisé et audit assisté par ordinateur (6.2/6.3).
 
 ## Dossiers d'annales 2016-2025

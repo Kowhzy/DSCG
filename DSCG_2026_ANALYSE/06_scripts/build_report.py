@@ -142,10 +142,10 @@ ACC = colors.HexColor('#1c5cab'); LIGHT = colors.HexColor('#eef4fc'); LINE = col
 st = {
  'title': ParagraphStyle('title', fontName='DVB', fontSize=19, leading=24, textColor=colors.HexColor(INK), spaceAfter=10),
  'sub': ParagraphStyle('sub', fontName='DV', fontSize=10, leading=14, textColor=colors.HexColor(INK2)),
- 'h1': ParagraphStyle('h1', fontName='DVB', fontSize=14, leading=18, textColor=ACC, spaceBefore=4, spaceAfter=8),
- 'h2': ParagraphStyle('h2', fontName='DVB', fontSize=11, leading=14, textColor=colors.HexColor(INK), spaceBefore=8, spaceAfter=4),
+ 'h1': ParagraphStyle('h1', keepWithNext=1, fontName='DVB', fontSize=14, leading=18, textColor=ACC, spaceBefore=4, spaceAfter=8),
+ 'h2': ParagraphStyle('h2', keepWithNext=1, fontName='DVB', fontSize=11, leading=14, textColor=colors.HexColor(INK), spaceBefore=8, spaceAfter=4),
  'h2n': ParagraphStyle('h2n', fontName='DVB', fontSize=11, leading=14, spaceBefore=8, spaceAfter=4),
- 'h3': ParagraphStyle('h3', fontName='DVB', fontSize=9.5, leading=12, textColor=ACC, spaceBefore=6, spaceAfter=2),
+ 'h3': ParagraphStyle('h3', keepWithNext=1, fontName='DVB', fontSize=9.5, leading=12, textColor=ACC, spaceBefore=6, spaceAfter=2),
  'p': ParagraphStyle('p', fontName='DV', fontSize=8.6, leading=11.8, textColor=colors.HexColor(INK), spaceAfter=4),
  'b': ParagraphStyle('b', fontName='DV', fontSize=8.6, leading=11.8, leftIndent=10, bulletIndent=2, spaceAfter=2.5),
  'small': ParagraphStyle('small', fontName='DV', fontSize=7, leading=9, textColor=colors.HexColor(INK2)),
@@ -153,7 +153,7 @@ st = {
  'cellb': ParagraphStyle('cellb', fontName='DVB', fontSize=6.8, leading=8.4),
  'hdr': ParagraphStyle('hdr', fontName='DVB', fontSize=6.8, leading=8.4, textColor=colors.white),
  'toc1': ParagraphStyle('toc1', fontName='DV', fontSize=9.5, leading=14, leftIndent=0),
- 'toc2': ParagraphStyle('toc2', fontName='DV', fontSize=8, leading=11, leftIndent=14, textColor=colors.HexColor(INK2)),
+ 'toc2': ParagraphStyle('toc2', fontName='DV', fontSize=7.6, leading=9.6, leftIndent=14, textColor=colors.HexColor(INK2)),
  'box': ParagraphStyle('box', fontName='DV', fontSize=8.4, leading=11.4),
 }
 
@@ -248,7 +248,7 @@ def build(ue):
     doc = Doc(fn, ue)
     S = []
     # --- couverture + sommaire
-    S += [Spacer(1, 30 * mm), P(TITRES[ue], 'title'),
+    S += [Spacer(1, 18 * mm), P(TITRES[ue], 'title'),
           P(f"Étude documentaire et statistique — sessions 2016 à 2025 — préparée pour Sacha, le {DATE}.", 'sub'), Spacer(1, 6 * mm),
           box("<b>Question directrice.</b> Compte tenu du programme officiel, des attentes du jury, des annales et de tes ressources, "
               "quelles compétences maîtriser en priorité pour être prêt au mieux en 2026 ? <br/><b>Avertissement.</b> Cet indice hiérarchise un effort de révision : "
@@ -448,6 +448,7 @@ def build(ue):
     S.append(tbl(data, [15 * mm, 30 * mm, 14 * mm, 75 * mm, 44 * mm]))
     S.append(P(f"Source : 02_data/{ue}_attendus_corriges.csv (colonne source : fichier du corrigé). n.c. = barème par question non communiqué.", 'small'))
     alert = [a for a in att if 'ALERTE' in a['pieges_et_vigilance'] or 'ALERTE' in a['attendus_du_corrige']]
+    S.append(CondPageBreak(45 * mm))
     S.append(P('10.3 Corrigés à lire avec prudence', 'h2'))
     if alert:
         S.append(P("Points où le corrigé semble contenir une erreur ou une information dépassée. Ne pas apprendre le chiffre ou la règle du corrigé sans vérification dans ton cours ou auprès de ton enseignant."))
@@ -523,8 +524,7 @@ def SOURCES(ue, rows):
               ["Fascicules INTEC UE212 Finance, cours 1 à 4 (2025/2026)", "Cnam-Intec", "2025", "Drive, dossier COURS 1-4 ; /Users/sacha/Documents/DSCG/UE 2 - Finance/Cours INTEC/"]]
     if ue == 'UE3':
         s += [["Pronostic DSCG UE3 : thèmes récurrents sur 12 sessions (contrôle secondaire)", "Compta Online", "2025-26", link('https://www.compta-online.com/analyse-des-sujets-du-dscg-ue3-management-et-controle-de-gestion-ao4628')],
-              ["Livre Dunod MCG UE3 ; cours de l'enseignante", "Dunod ; établissement", "—", "/Users/sacha/Documents/DSCG/UE 3 - MCG/"],
-              ["Page Notion « UE3 2024 — apprendre » (découpage des questions 2024)", "Notion (Sacha)", "2026", link('https://app.notion.com/p/06b9f8997e9f8241a71281b43468d614', 'Notion')]]
+              ["Livre Dunod MCG UE3 ; cours de l'enseignante", "Dunod ; établissement", "—", "/Users/sacha/Documents/DSCG/UE 3 - MCG/"]]
     if ue == 'UE5':
         s += [["Pronostic DSCG UE5 : thèmes récurrents sur 12 sessions (contrôle secondaire)", "Compta Online", "2025-26", link('https://www.compta-online.com/analyse-des-sujets-du-dscg-ue5-management-des-systemes-information-ao4630')],
               ["Notes Drive UE5-01 à UE5-07 (cadrage, matrice, sécurité moderne)", "Sacha (session Claude du 27/08/2026)", "2026", link('https://docs.google.com/document/d/1GPQsrbp1XjcbGl4-jc6M_O_Ao3vcs5SXiu0qLdEjd0I/edit', 'UE5-01 cadrage')],

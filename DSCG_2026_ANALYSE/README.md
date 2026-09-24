@@ -6,8 +6,8 @@ Mise à jour : 24/09/2026. Étude réalisée pour Sacha (session DSCG d'octobre 
 | Fichier | Contenu |
 |---|---|
 | `05_rapports/DSCG_2026_UE2.pdf` | UE2 Finance — 33 pages |
-| `05_rapports/DSCG_2026_UE3.pdf` | UE3 Management et contrôle de gestion — 30 pages |
-| `05_rapports/DSCG_2026_UE5.pdf` | UE5 Management des systèmes d'information — 35 pages |
+| `05_rapports/DSCG_2026_UE3.pdf` | UE3 Management et contrôle de gestion — 31 pages |
+| `05_rapports/DSCG_2026_UE5.pdf` | UE5 Management des systèmes d'information — 34 pages |
 | `08_export_agent/UE*.json` et `UE*.md` | Base machine-lisible pour un agent IA de révision : consignes, priorités, robustesse, techniques, attendus des corrigés, jury, dossiers |
 
 Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officiel, historique des annales, statistiques, rapports du jury, croisement programme/jury/annales/cours, priorités 2026, analyse thème par thème, annales recommandées, checklist, sources.
@@ -25,8 +25,7 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 03_analyses/                         stats par rubrique, matrices, techniques, sensibilité de l'IPR, journal du reclassement, jury, cours
 04_graphiques/                       carte thermique, fréquences, IPR, poids des parties, taux de réussite
 05_rapports/                         les 3 PDF
-06_scripts/                          referentiel.py · reclassement.py · contenu.py · stats.py · build_report.py · export_agent.py · qc.py
-07_ressources/                       extraits de manuels ayant servi à relire les programmes (local, non versionné)
+06_scripts/                          extract_pdf.py · referentiel.py · reclassement.py · contenu.py · stats.py · build_report.py · export_agent.py · qc.py
 08_export_agent/                     export JSON + Markdown pour l'agent IA
 ```
 

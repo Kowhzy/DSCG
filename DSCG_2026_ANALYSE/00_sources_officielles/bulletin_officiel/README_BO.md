@@ -9,8 +9,9 @@
   (Compta Online, « DSCG 2027 : nouveau programme, mêmes épreuves » ; note Drive UE5-01) — texte officiel non ouvert.
 - **Attention** : le fichier `annexe-2-programme-DSCG.pdf` présent dans le Drive de l'enseignante correspond, selon la note Drive UE5-01, au NOUVEAU programme (2027) : ne pas réviser dessus.
 
-## Limite
-L'annexe officielle n'a pas pu être téléchargée depuis l'environnement d'analyse (domaines education.gouv.fr bloqués par la politique réseau).
-Les 57 rubriques (19 UE2, 15 UE3, 23 UE5) sont reprises de la page Notion qui les a relevées sur l'annexe ; les « notions » du référentiel
-de travail (06_scripts/referentiel.py) sont un résumé à confronter à l'annexe. Pour une vérification complète : déposer l'annexe dans ce dossier
-et relancer l'analyse.
+## Texte du programme utilisé
+L'annexe du BO n'a pas pu être téléchargée (domaines education.gouv.fr bloqués par la politique réseau). Son texte a été relu dans ses reproductions :
+- UE2 : `programme_UE2_via_Dunod.txt` (en tête du manuel Dunod DSCG 2, 140 h, 15 ECTS) ;
+- UE3 : `programme_UE3_via_Dunod.txt` (en tête du manuel Dunod DSCG 3, 180 h, 20 ECTS) ;
+- UE5 : `programme_UE5_transcription.txt` (document « Programme MSI 19-20 », 140 h, 15 ECTS).
+Les 57 rubriques (19 UE2, 15 UE3, 23 UE5), leurs notions et les volumes horaires par partie de `06_scripts/referentiel.py` en sont issus.

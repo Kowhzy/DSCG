@@ -8,7 +8,7 @@ TITRES = {
 }
 
 EPREUVE = {
- 'UE2': "Écrit de 3 heures, coefficient 1 ; calculatrice en mode examen autorisée ; 3 dossiers indépendants depuis 2020 (sujets 2023-2024 notés sur 20, 2025 sur 50) [DSCG UE2 2023-2025, page de garde]. Date 2026 : non vérifiée dans les sources consultées.",
+ 'UE2': "Écrit de 3 heures, coefficient 1 ; calculatrice en mode examen autorisée ; 3 dossiers indépendants depuis 2020, sauf le sujet de secours 2022 en 4 parties (sujets 2023-2024 notés sur 20, 2025 sur 50) [DSCG UE2 2023-2025, page de garde]. Date 2026 : non vérifiée dans les sources consultées.",
  'UE3': "Écrit de 4 heures (coefficient 1,5 en 2019 selon la page de garde du sujet ; coefficient 2026 : non vérifié) ; 2 à 4 dossiers ; 2025 : 3 dossiers sur 20 points (8/6/6) [DSCG UE3 2025, page de garde]. Date 2026 : non vérifiée.",
  'UE5': "Écrit de 3 heures, coefficient 1, aucun document ni matériel (calculatrice interdite) ; 3 dossiers ; noté sur 40 points depuis 2024 (14/14/12 en 2024, 18/12/10 en 2025) [DSCG UE5 2024-2025]. Date de l'épreuve : jeudi 22 octobre 2026, 9h30-12h30 selon ta convocation (note Drive « UE5-01-cadrage-et-programme »).",
 }
@@ -17,7 +17,7 @@ SYNTHESE = {
  'UE2': [
   "Référentiel applicable : programme de l'arrêté du 13 février 2019 (1re session en 2020). La réforme du 4 août 2025 ne s'applique qu'à partir de la session 2027 : la session d'octobre 2026 est la dernière sur le programme 2019.",
   "Socle calculatoire quasi systématique : « la valeur et le risque » (bêta, MEDAF, CMPC) est présent dans chacune des trois dernières sessions (2023, 2024, 2025) et dans 6 sessions sur 10 depuis 2016. En 2025, le coût du capital d'une société non cotée par comparables reprend exactement la mécanique du sujet 2016.",
-  "La gouvernance et l'extra-financier (RSE/ESG, parties prenantes, agence, Copé-Zimmermann, société à mission) sont la rubrique la plus présente depuis la réforme (4 sessions sur 6 en principal ; en 2025 seulement en toile de fond). Le jury 2024 en fait un attendu explicite : « la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique ».",
+  "La gouvernance et l'extra-financier (RSE/ESG, parties prenantes, agence, Copé-Zimmermann, société à mission) sont, à égalité avec « la valeur et le risque », la rubrique la plus présente depuis la réforme (4 sessions sur 6 en principal ; en 2025 seulement en toile de fond). Le jury 2024 en fait un attendu explicite : « la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique ».",
   "Depuis 2020, la « question de réflexion » (25 % des points) a disparu : elle est remplacée par de petites questions de cours insérées dans le cas [Rapport du jury 2020, p. 7]. Chaque sujet combine désormais un dossier calculatoire et des questions de restitution argumentée.",
   "Le jury 2025 rappelle que les acquis du DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) « peuvent légitimement faire l'objet de questions ». Il déplore la faible maîtrise du LBO et un dossier 3 (crowdfunding, dividende) sacrifié faute de temps.",
   "Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le pic de 2022 s'explique par le sujet de secours « conçu sans besoin de faire de calculs », une « exception » selon le jury [Rapport du jury 2022, p. 9]. Le socle technique est discriminant.",
@@ -35,7 +35,7 @@ SYNTHESE = {
  'UE5': [
   "Référentiel applicable : programme de 2019 (140 h ; 1re session en 2020) ; la réforme de 2025 (Zero Trust, NIS2, IA, Green IT, MiCA) ne s'applique qu'à partir de la session 2027. Le sujet 2025 montre toutefois une lecture extensive du programme de 2019 (Zero Trust, RTO/RPO, BI).",
   "La conduite de projet SI est le thème le plus constant : en principal dans 8 sessions sur 10, et un diagramme de Gantt (ou un PERT) est demandé en 2018, 2019, 2021, 2023 et 2025.",
-  "Droit et sécurité de l'information (RGPD/DPO, conservation, dématérialisation, cryptographie) : 7 sessions sur 10 ; le RGPD est mobilisé dans chacune des 5 sessions 2020-2023 et en 2025. Surveillance et prévention (PSSI, PCA/PRA, Shadow IT, Zero Trust) figure dans chacune des 3 dernières sessions (en principal en 2023 et 2025, en toile de fond en 2024).",
+  "Droit et sécurité de l'information (RGPD/DPO, conservation, dématérialisation, cryptographie) : 7 sessions sur 10 ; le RGPD est mobilisé dans chacune des sessions de 2020 à 2023 et en 2025. Surveillance et prévention (PSSI, PCA/PRA, Shadow IT, Zero Trust) figure dans chacune des 3 dernières sessions (en principal en 2023 et 2025, en toile de fond en 2024).",
   "Alignement stratégique et schéma directeur : 6 sessions sur 10, et c'est la notion que le jury critique le plus (2024 et 2025) : copies « sans fondements théoriques solides », alignement « réduit à un choix technique ».",
   "2025 ouvre de nouveaux champs : audit du SI (COBIT, ISO 27001, méthodologie de mission) comme « socle structurant », Zero Trust et BI/Data Science. Le jury rappelle qu'un point faible une année peut être réinterrogé dès l'année suivante [Rapport du jury 2025, p. 21].",
   "Changements de format : notation sur 40 points depuis 2024, calculatrice interdite, formats imposés (note de 20 lignes). Le taux de réussite chute de 57,85 % (2024) à 38,87 % (2025).",
@@ -45,7 +45,7 @@ SYNTHESE = {
 SURPRISES = {
  'UE2': [
   "2022 : l'épreuve du 25 octobre 2022 a été annulée et repassée le 5 janvier 2023 (arrêté publié au BO ESR n°46 de 2022, référence ESRS2233990A, repérée par recherche web, non ouverte). Le rapport du jury 2022 (p. 9) tranche : « le sujet de secours a été activé » ; c'est le sujet Energy+ en 4 parties égales, « conçu sans besoin de faire de calculs » par exception. C'est lui qui compte pour la session 2022 ; le sujet initial (Sopra Steria, 2022-S1) reste une annale d'entraînement, exclue des statistiques.",
-  "2023 : taux de réussite de 14,75 % et médiane de 6/20, les plus bas de la période [Rapport du jury 2024, p. 10 et 18]. Le sujet combinait options réelles (Black-Scholes), CMPC/covariance, DCF, multiples et swap de taux. Le rapport 2023 n'a pas été consulté : l'explication officielle n'est pas vérifiée.",
+  "2023 : taux de réussite de 14,75 % et médiane de 6/20, les plus bas de la période [Rapport du jury 2024, p. 10 et 18]. Le sujet combinait options réelles (Black-Scholes), CMPC/covariance, DCF, multiples et swap de taux. Aucun rapport du jury n'a été publié pour 2023 (selon toi ; non vérifié sur le site officiel) : l'explication officielle de ce résultat n'est pas disponible.",
   "Fraude et blanchiment (5.3) n'a jamais été interrogé en UE2 sur la période (le blanchiment est apparu en UE1 en 2024 [Rapport du jury 2024, p. 20]). La structure de financement (4.3) n'apparaît qu'en toile de fond (CMPC, levier).",
  ],
  'UE3': [
@@ -74,8 +74,8 @@ TROUS = {
   '1.3': "Jamais interrogé : ERP, mégadonnées, circulation de l'information au service du contrôle de gestion.",
   '2.7': "Jamais interrogé en principal, alors que les jurys 2020-2021 citent « la mise en œuvre stratégique et la gestion du changement et des transformations ».",
   '3.1': "Absent depuis 2018 (conduite du changement, styles, résistances, progrès continu vs projet). Les annales 2016 D2 et 2018 D2 sont les meilleures ressources.",
-  '2.2': "Jamais en principal : positionner le contrôle de gestion face à l'audit (interne/externe, légal/contractuel) et au contrôle interne, identifier les risques de l'entité, communication financière. Seulement en toile de fond (2019 D2-D3 : risques ; 2020 D2 : audit vs diagnostic ; 2025 D3 : risque fiscal). Fiche de définitions et de liens CG/audit/CI.",
-  '3.2': "Coûts cachés et dysfonctionnements : 2018 D1, 2020 D2, 2023 D3 (et 2022 D2 en toile de fond). Coûts cibles et analyse de la valeur, pourtant cités par le programme, n'ont jamais été interrogés sur la période.",
+  '2.2': "Jamais en principal : positionner le contrôle de gestion face à l'audit (interne/externe, légal/contractuel) et au contrôle interne, identifier les risques de l'entité, communication financière. Seulement en toile de fond (2019 D2 : risques ; 2020 D2 : audit vs diagnostic ; 2025 D3 : risque fiscal). Fiche de définitions et de liens CG/audit/CI.",
+  '3.2': "Coûts cachés et dysfonctionnements : 2018 D1, 2020 D2, 2023 D3 (et 2016 D2, 2022 D2 en toile de fond). Coûts cibles et analyse de la valeur, pourtant cités par le programme, n'ont jamais été interrogés sur la période.",
   '1.2': "En principal en 2019 D1 (RSE), 2021 D4 (rôle du contrôleur en start-up) et 2025 D1 (RSE et redevance de pollution) : la RSE vue par le contrôle de gestion est revenue en 2025.",
  },
  'UE5': {
@@ -121,7 +121,7 @@ ANNALES = {
   ("2022 (sujet entier)", "Gouvernance SI, architecture cible, workflow facture, Factur-X, SaaS vs On Premise, mutualisation du DPO."),
   ("2020 Q1-Q15", "RGPD complet : DPO, AIPD, registre, consentement, sous-traitants, continuité et formation."),
   ("2018 D2 + D3", "PERT/chemin critique ; VPN et clés de chiffrement : seul entraînement « cryptographie » récent."),
-  ("2017 D2", "SLA/ITIL, TCO, virtualisation : le seul dossier sur la partie « performance informationnelle » (zone peu interrogée)."),
+  ("2017 D2", "SLA/ITIL, TCO, virtualisation : le dossier le plus complet sur la partie « performance informationnelle » (contrat de services, coûts), zone peu interrogée."),
   ("2016 D3", "Audit en environnement informatisé et audit assisté par ordinateur (6.2/6.3)."),
  ],
 }

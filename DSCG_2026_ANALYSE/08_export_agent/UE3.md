@@ -103,8 +103,8 @@
 - **1.3** — Jamais interrogé : ERP, mégadonnées, circulation de l'information au service du contrôle de gestion.
 - **2.7** — Jamais interrogé en principal, alors que les jurys 2020-2021 citent « la mise en œuvre stratégique et la gestion du changement et des transformations ».
 - **3.1** — Absent depuis 2018 (conduite du changement, styles, résistances, progrès continu vs projet). Les annales 2016 D2 et 2018 D2 sont les meilleures ressources.
-- **2.2** — Jamais en principal : positionner le contrôle de gestion face à l'audit (interne/externe, légal/contractuel) et au contrôle interne, identifier les risques de l'entité, communication financière. Seulement en toile de fond (2019 D2-D3 : risques ; 2020 D2 : audit vs diagnostic ; 2025 D3 : risque fiscal). Fiche de définitions et de liens CG/audit/CI.
-- **3.2** — Coûts cachés et dysfonctionnements : 2018 D1, 2020 D2, 2023 D3 (et 2022 D2 en toile de fond). Coûts cibles et analyse de la valeur, pourtant cités par le programme, n'ont jamais été interrogés sur la période.
+- **2.2** — Jamais en principal : positionner le contrôle de gestion face à l'audit (interne/externe, légal/contractuel) et au contrôle interne, identifier les risques de l'entité, communication financière. Seulement en toile de fond (2019 D2 : risques ; 2020 D2 : audit vs diagnostic ; 2025 D3 : risque fiscal). Fiche de définitions et de liens CG/audit/CI.
+- **3.2** — Coûts cachés et dysfonctionnements : 2018 D1, 2020 D2, 2023 D3 (et 2016 D2, 2022 D2 en toile de fond). Coûts cibles et analyse de la valeur, pourtant cités par le programme, n'ont jamais été interrogés sur la période.
 - **1.2** — En principal en 2019 D1 (RSE), 2021 D4 (rôle du contrôleur en start-up) et 2025 D1 (RSE et redevance de pollution) : la RSE vue par le contrôle de gestion est revenue en 2025.
 
 ## Attendus des corrigés officiels (2020-2025)
