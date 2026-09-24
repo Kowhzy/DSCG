@@ -1,0 +1,549 @@
+=== PAGE 1 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 1 / 11 
+ 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ 
+ET DE GESTION 
+ 
+ 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+SESSION 2025 
+ 
+ 
+ 
+ 
+Durée de l’épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Il est strictement interdit de poser des questions relatives au contenu du sujet 
+durant l’épreuve. 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler 
+une ou plusieurs hypothèses, il vous est demandé de la (ou les) mentionner 
+explicitement dans votre copie. Toutes les réponses devront être justifiées. 
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 2 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 2 / 11 
+ 
+UE5 – Management des systèmes d’information 
+Durée : 3 heures – Coefficient : 1 
+___________________________________________________________________ 
+ 
+Document autorisé 
+Aucun document ni aucun matériel n’est autorisé. En conséquence, tout usage 
+d’une calculatrice est INTERDIT et constituerait une fraude. 
+ 
+Document remis au candidat 
+Le sujet comporte 11 pages numérotées de 1 / 11 à 11 / 11. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants sur 40 points. 
+ 
+DOSSIER 1 – Audit et convergence ........................................................... 18 points 
+DOSSIER 2 – Sécurité et Zero Trust .......................................................... 12 points 
+DOSSIER 3 – Valorisation des données .................................................... 10 points 
+ 
+Le sujet comporte 6 annexes. 
+ 
+Annexe 1 - Description du regroupement, des systèmes d’information des cabinets et 
+de la structure de gouvernance de la SAS IAG-DD 
+Annexe 2 - Choix d’une solution logicielle et convergence des systèmes d’information 
+Annexe 3 - Sécurité des systèmes d’information et architecture Zero Trust 
+Annexe 4 - Les cabinets d’expertise comptable, informatique décisionnelle et la 
+science des données 
+Annexe 5 - Témoignages des collaborateurs, associés des cabinets comptables et 
+partenaires 
+Annexe 6 - Organigramme de la DSI de la SAS IAG-DD 
+ 
+ 
+ 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre 
+copie et à la qualité rédactionnelle.  
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 3 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 3 / 11 
+ 
+SUJET 
+ 
+REGROUPEMENT DE CABINETS COMPTABLES 
+ET GOUVERNANCE SI INTÉGRÉE  
+ 
+Début 2025, afin de faire face aux mutations profondes de leur environnement, huit 
+cabinets d’expertise comptable indépendants du Grand-Est, de taille moyenne 
+(50 collaborateurs en moyenne par cabinet), ont décidé de créer ensemble une société 
+par actions simplifiée, la SAS IAG-DD. 
+L’objectif stratégique de cette SAS est de mutualiser ressources et compétences afin 
+d’atteindre une taille critique, indispensable pour relever les défis technologiques et 
+organisationnels que chaque cabinet, isolément, ne pourrait affronter efficacement. 
+Douze collaborateurs des cabinets fondateurs sont transférés dans la SAS IAG-DD et 
+huit collaborateurs sont embauchés pour couvrir les compétences visées.  
+Les principales missions assignées à la SAS IAG-DD sont les suivantes : 
+• anticiper et accompagner les évolutions technologiques qui impactent le cœur 
+de métier et les processus de travail (automatisation, intelligence artificielle – 
+IA, dématérialisation des documents comptables et administratifs, gestion 
+électronique des documents – GED, signature électronique) ; 
+• répondre à la concurrence accrue, en particulier celle des plateformes 
+numériques proposant des services de facturation, pré-comptabilisation ou 
+gestion des notes de frais et qui captent une clientèle traditionnelle des 
+cabinets ; 
+• négocier collectivement des contrats plus adaptés avec les éditeurs de logiciels 
+métiers et les fournisseurs de matériels, chaque collaborateur étant doté 
+professionnellement en moyenne de 4 unités informatiques (PC, tablette, 
+smartphone et périphériques diverses) ; 
+• développer des compétences internes en exploitation et valorisation des 
+données grâce à des outils d’informatique décisionnelle (Business Intelligence 
+– BI) et à l’IA, pour proposer de nouveaux services (accompagnement 
+stratégique, audit de durabilité, protection des données, etc.) ; 
+• renforcer la sécurité des données et des systèmes d’information (SI), enjeu 
+majeur à l’heure de la dématérialisation ; 
+• contribuer à la formation continue et au développement des compétences 
+numériques des collaborateurs, afin d’améliorer l’attractivité des métiers de la 
+comptabilité ; 
+• déployer un plan de communication interne et externe, notamment via un site 
+Internet mutualisé. 
+Outre la réalisation de ces missions, la SAS IAG-DD doit également permettre de 
+mutualiser les ressources. Cette mutualisation devrait se traduire notamment par une 
+convergence de la politique de sécurité, des logiciels métiers et du support utilisateurs. 
+Durant les 18 premiers mois, et pour une montée en charge progressive de ses 
+activités, le périmètre d’action de la SAS se limitera à l’audit et à la sécurité des SI des 
+différents cabinets.  
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 4 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 4 / 11 
+ 
+Elle concentre ses activités sur l’audit et la sécurisation des SI des cabinets associés, 
+en vue de préconiser les évolutions nécessaires pour harmoniser les outils, améliorer 
+la gouvernance et optimiser l’exploitation des données. 
+Vous avez été recruté(e) en tant que président et directeur des SI de la SAS IAG-DD 
+et votre mission portera sur la sécurité et l’audit des SI des cabinets-associés ; il s’agit 
+pour vous de proposer aussi de nouveaux services élargissant les champs d’activité 
+en lien avec les méga données ou Big data et l’IA. 
+Ainsi, vous êtes concrètement chargé(e) de : 
+• identifier les failles existantes ; 
+• piloter un audit de sécurité SI ; 
+• formuler des recommandations de mise en conformité ; 
+• proposer des pistes de développement de nouveaux services à plus forte valeur 
+ajoutée, notamment en lien avec le Big Data et l’IA, tout en intégrant les enjeux 
+de durabilité. 
+ 
+DOSSIER 1 – Audit et convergence 
+ 
+Dans le cadre de votre prise de poste, vous réalisez une première mission d’audit 
+visant à poser les bases d’une convergence stratégique des SI des cabinets associés. 
+Vous mobiliserez pour cela les annexes 1, 2, 5 et 6 ainsi que vos connaissances et 
+compétences. 
+1. Expliquer en quoi une démarche d’alignement stratégique du SI est pertinente 
+dans le contexte de création de la SAS IAG-DD. Présenter les notions et expliciter 
+les bénéfices attendus pour les cabinets membres. 
+2. Après avoir défini la notion d’audit des SI, identifier deux référentiels ou normes 
+mobilisables pour faire évoluer le SI. Préciser, pour chacun, en quoi il peut 
+constituer une aide pour structurer votre mission. 
+3. Élaborer une méthodologie d’audit adaptée au projet de convergence des SI dans 
+la SAS IAG-DD. Votre proposition devra explicitement présenter : 
+• le périmètre de l’audit ; 
+• les objectifs visés ; 
+• deux exemples de livrables attendus ; 
+• un échéancier indicatif précisant les principales étapes en utilisant un 
+diagramme de GANTT. 
+4.  Analyser d’éventuels problèmes organisationnels au vu des annexes 5 et 6 et 
+proposer des solutions palliatives.  
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 5 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 5 / 11 
+ 
+DOSSIER 2 – Sécurité et Zero Trust 
+ 
+Le conseil de gouvernance de la SAS IAG-DD vous confie la mission de construire un 
+plan global de sécurité pour l’ensemble des systèmes d’information mutualisés des 
+cabinets associés. Mobilisez les annexes 3 et 5 ainsi que vos connaissances et 
+compétences pour réaliser ce travail. 
+ 
+5. Présenter deux objectifs fondamentaux d’une politique de sécurité des SI, en les 
+définissant et en identifiant leurs implications concrètes. Expliquer le rôle dans un 
+plan de continuité et de reprise des activités (PCA/PRA) pour l’atteinte des 
+objectifs PSSI. 
+6. Dans le contexte spécifique de la SAS IAG-DD, expliquer pourquoi une politique 
+de Zero Trust est pertinente, notamment pour certains cabinets associés. Préciser 
+en quoi l’utilisation potentielle d’ordinateurs personnels par les collaborateurs peut 
+accroître les risques. 
+7. Formuler trois mesures opérationnelles inspirées du modèle Zero Trust, que la 
+SAS IAG-DD pourrait déployer auprès des collaborateurs pour améliorer la 
+sécurité SI, en décrivant pour chaque mesure brièvement son principe et en 
+justifiant sa pertinence au regard du contexte des cabinets. 
+ 
+ 
+DOSSIER 3 – Valorisation des données 
+ 
+Dans la continuité de votre mission, vous êtes chargé(e) d’analyser et de présenter en 
+quoi les évolutions technologiques, la science des données (Data Science) et la 
+position privilégiée des cabinets dans la collecte et le traitement de données peuvent 
+offrir de nouvelles opportunités de développement pour la SAS IAG-DD. 
+Pour ce faire, vous vous appuierez sur les annexes 4 et 5 ainsi que sur vos 
+connaissances et compétences. 
+8. Expliquer en quoi l’utilisation d’outils de BI transforme l’exercice des métiers des 
+cabinets d’expertise comptable, en précisant les nouvelles compétences 
+attendues chez les collaborateurs et les bénéfices apportés aux clients. 
+9. Présenter deux rôles majeurs que la DSI de la SAS IAG-DD doit jouer pour 
+accompagner l’intégration de la BI et de la Data Science au sein des cabinets, en 
+décrivant pour chacun les actions concrètes à mener et les moyens techniques et 
+humains à mettre en œuvre.  
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 6 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 6 / 11 
+ 
+ANNEXES 
+Annexe 1 - Description du regroupement, des systèmes d’information des 
+cabinets et de la structure de gouvernance de la SAS IAG-DD 
+ 
+Les membres fondateurs de la SAS IAG-DD sont huit cabinets d’expertise comptables 
+indépendants, situés dans le Grand-est. Confrontés aux transformations de leurs 
+métiers, à l’arrivée de nouveaux entrants, ces cabinets s’interrogent sur l’évolution de 
+leurs activités. En outre, la digitalisation, le Big Data, l’intelligence artificielle et les 
+contraintes légales et réglementaires (facture électronique, RGPD, bulletin 
+électronique, mais aussi les nouvelles demandes de la clientèle) ont convaincu les 
+propriétaires de ces cabinets que leur pérennité et leur indépendance passent par la 
+création d’un regroupement permettant de mutualiser certaines fonctions supports, en 
+particulier au niveau des systèmes d’information.  
+Le regroupement de la gestion des systèmes d’information a pris la forme d’une SAS 
+dotée d’un président qui est aussi le directeur des systèmes d’information, ainsi que 
+d’un conseil de gouvernance comprenant les représentants des huit cabinets. 
+L’objet et les missions de la SAS IAG-DD est de devenir un prestataire de services en 
+matière de systèmes d’information (choix de logiciels et de leur implémentation, de 
+l’infrastructure matériel, sécurité, Data Science et BI, formation). La SAS aura 
+également pour mission de prendre en charge l’accompagnement des clients des 
+cabinets en proposant de nouvelles opportunités d’affaires liées aux données et à la 
+transformation numérique. 
+La SAS IAG-DD devra ainsi gérer et piloter les systèmes d’information utilisés par 400 
+collaborateurs des cabinets, avec 20 experts-comptables et travaillant pour plus de 
+8 000 petites et moyennes entreprises clientes. 
+Les ressources humaines de la SAS en matière de système d’information sont au 
+nombre de 6 informaticiens, dont les contrats de travail lui ont été transférés des 
+cabinets fondateurs, auxquels s’ajoutent 6 autres nouvellement recrutés (hors 
+directeur DSI). 
+Les différents cabinets ont des systèmes d’information présentant une maturité 
+technologique et des compétences numériques très proches, même si les logiciels 
+métiers et le matériel proviennent de fournisseurs différents. Dans la majorité des cas, 
+les cabinets utilisent une infrastructure matérielle propriétaire, que ce soit au niveau 
+des postes de travail (postes avec deux écrans, portables, etc.), des réseaux ou d’une 
+partie des serveurs. Ces derniers peuvent être installés en local ou en mode nuage 
+ou cloud. En effet, plusieurs configurations sont présentes : 
+• 
+déploiement des serveurs dans une salle dédiée au sein des locaux ; 
+• 
+hébergement chez un prestataire externe, notamment pour les logiciels 
+métiers ; 
+• 
+ou solution hybride (une partie en local et une partie externalisée). 
+Néanmoins, certains cabinets n’hésitent pas à inciter leurs collaborateurs à utiliser 
+aussi leur ordinateur personnel (pratique de BYOD), en particulier en cas de 
+télétravail. 
+Plus généralement, la SAS devra procéder à un audit complet des différents systèmes 
+d’information en lien avec les objectifs métiers et les différents processus d’activité 
+des cabinets. Cet audit portera sur l’ensemble des composantes du système 
+d’information et s’étalera sur deux mois.  
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 7 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 7 / 11 
+ 
+Le directeur des systèmes d’information de la SAS devra présenter un rapport d’audit 
+avec les recommandations d’évolution et de convergence à présenter au conseil de 
+gouvernance de la SAS.  
+ 
+Annexe 2 - Choix d’une solution logicielle et convergence des systèmes 
+d’information 
+ 
+Une revue sommaire des solutions logicielles métiers des cabinets membres 
+fondateurs de la SAS IAG-DD fait ressortir les constats suivants : 
+• l’ensemble des associés ont des contrats d’utilisations de logiciels métiers en 
+mode Saas. Seuls les outils bureautiques sont installés dans les serveurs 
+locaux ; 
+• quatre cabinets utilisent les mêmes solutions logicielles en matière de 
+comptabilité et de paie ; chacun des quatre autres cabinets fait appel à un 
+éditeur différent ; 
+• les huit cabinets ont une GED, mais cette GED n’est pas interfacée avec les 
+logiciels métiers. Les travaux d’enregistrement comptable sont entièrement 
+réalisés par les collaborateurs et contrôlés par les chefs d’équipe. Une des 
+priorités, en cas de projet de convergence de solution, est d’automatiser les 
+écritures comptables en installant une application d’intelligence artificielle de 
+reconnaissance des caractères et de passation comptable. Le travail des 
+collaborateurs devra se limiter à contrôler et à valider les écritures 
+automatisées. La GED devra être interfacée avec les autres logiciels métiers 
+(notamment la paie) ; 
+• les dossiers mensuels de clients sont soit déposés directement, soit envoyés 
+par courriel, soit transférés sur une plateforme de dépôt de certains cabinets. 
+Souvent les clients utilisent les trois canaux de transfert, parfois pour le même 
+dossier mensuel. 
+Les projets de changement et de convergence des systèmes d’information devront 
+porter sur les applications métiers, la GED et les dossiers clients.  
+ 
+Une solution logicielle globale, avec une gestion intégrée et performante des 
+interfaces, devra faire l’objet d’une étude approfondie par la SAS. Un cahier des 
+charges précis sera réalisé pour servir de base aux négociations avec les éditeurs. 
+ 
+Annexe 3 - Sécurité des systèmes d’information et architecture Zero Trust  
+ 
+La SAS IAG-DD aura également pour mission de concevoir et de mettre en place une 
+politique de sécurité des systèmes d’information des cabinets.   
+Cette politique devra garantir la continuité et la reprise des activités en cas de 
+défaillance ou de menaces sur les systèmes d’information, en adoptant une démarche 
+Zero Trust. 
+Selon l’ANSSI, cette démarche Zero Trust part du constat que les mesures 
+traditionnelles de sécurisation du SI, telles que les pares-feux, le cloisonnement 
+(physique ou logique) ou les VPN, rencontrent des limites. Le modèle Zero Trust 
+propose de pallier ces problèmes de sécurité en faisant évoluer la notion de périmètre. 
+Le Zero Trust est avant tout un concept d’architecture dédié au renforcement de la 
+sécurité d’accès aux ressources et aux services et non pas une technologie en soi ; a 
+fortiori, ce n’est pas une solution logicielle « tout-en-un » commerciale.  
+F  I  C  H  E  B  E  N
+
+=== PAGE 8 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 8 / 11 
+ 
+Dans une logique de défense périmétrique traditionnelle, les utilisateurs connectés 
+depuis le réseau de l’entité ont le droit d’accéder à de larges ressources, sans que 
+soient appliquées des mesures élémentaires de cloisonnement ou des contrôles 
+ultérieurs à leur authentification et l’accès à leur session : les utilisateurs sont 
+considérés, par hypothèse, comme étant « de confiance ». 
+ 
+Annexe 4 - Les cabinets d’expertise comptable, informatique décisionnelle et la 
+science des données 
+ 
+La science des données (Data Science) est un domaine interdisciplinaire qui utilise 
+les mathématiques, les statistiques, le calcul scientifique, les méthodes scientifiques, 
+les process, les algorithmes et les systèmes informatiques automatisés pour extraire 
+et extrapoler des connaissances à partir de grandes quantités de données brutes 
+structurées ou non.  
+Elle est souvent associée aux données massives (Big Data), à l’analyse des données, 
+aux techniques d’apprentissage automatique comme le Machine Learning et le Deep 
+Learning.  
+La Data Science permet de produire des algorithmes et méthodes d’analyse de 
+grandes masses de données afin d’en extraire des informations et de réaliser des 
+modèles et prédictions utiles. Ces algorithmes et leur traduction en intelligence 
+artificielle peuvent mettre en évidence des tendances, des corrélations et des 
+prédictions, qui autrement seraient passées inaperçues. 
+ 
+La Data Science met en œuvre les étapes suivantes :  
+• 
+définir des objectifs et des problèmes à résoudre ; 
+• 
+élaborer des stratégies d’analyse des données ; 
+• 
+recueillir, explorer et analyser les données par la fouille de données et l’analyse 
+exploratoire des données (Data Mining) ; 
+• 
+préparer, structurer, formater les données ; 
+• 
+créer des modèles avec les données à l’aide de différentes méthodes et 
+algorithmes tels :  
+o les modèles d’apprentissage automatique (Machine Learning) ; 
+o les modèles d’apprentissage profond (Deep Learning). 
+• 
+aider au déploiement et à l’exploitation des modèles et de leurs résultats :  
+o sous forme brute ; 
+o sous forme de visuels comme des tableaux de bord ; 
+o sous forme d’applications ou d’outils d’aide à la décision. 
+ 
+Une des modalités particulières d’application de la Data Science et de présentation de 
+ses résultats est basée sur l’utilisation des outils de Business Intelligence (BI). Ces 
+outils permettent de collecter, consolider, modéliser et restituer les données, 
+matérielles ou immatérielles, d’une entreprise en vue d’offrir une aide à la décision et 
+de permettre à un décideur d’avoir une vue d’ensemble de l’activité traitée. Les outils 
+de BI permettent de créer des visualisations interactives, actualisables, en croisant 
+simultanément plusieurs critères (cube ou hypercube) et facilitent la prise de décision.  
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 9 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 9 / 11 
+ 
+Annexe 5 - Témoignages des collaborateurs, associés des cabinets comptables 
+et partenaires 
+ 
+Témoignage de Nathalie B., responsable paie et RH transférée à la SAS IAG-DD 
+« Travailler désormais pour tous les cabinets associés est un défi intéressant. On sent 
+bien qu’il y a des écarts dans la façon de gérer les postes informatiques et les droits 
+d’accès aux logiciels. Certains cabinets sont déjà avancés sur la GED et le télétravail 
+sécurisé, mais d’autres laissent encore des collaborateurs utiliser leur ordinateur 
+personnel sans procédure claire. 
+Pour moi, l’un des enjeux majeurs sera de définir des standards communs pour la 
+gestion des accès, la formation et la remontée des incidents de sécurité. » 
+ 
+Témoignage de Marc P., collaborateur comptable d’un cabinet membre 
+« Depuis que l’idée du regroupement est apparue, on attend beaucoup de la SAS pour 
+moderniser nos outils. Parfois, on perd un temps fou à ressaisir des données parce 
+que nos logiciels ne communiquent pas entre eux. Et quand on fait du télétravail, 
+chacun se débrouille avec son matériel. 
+Si la nouvelle équipe DSI peut mettre en place des solutions plus simples, tout en 
+garantissant la sécurité, je pense que ça facilitera notre travail et réduira la charge de 
+contrôle. » 
+ 
+Témoignage de Lucie D., associée fondatrice d’un cabinet 
+« La création de la SAS IAG-DD, c’est avant tout une réponse à l’évolution de notre 
+activité, avec une concurrence accrue de plateformes en ligne. 
+Mais c’est aussi une étape culturelle : nous allons devoir harmoniser nos méthodes de 
+travail, accepter de mutualiser certaines décisions technologiques et partager des 
+données plus sensibles dans un cadre sécurisé. Pour nous, dirigeants, l’alignement 
+stratégique du SI est une question de survie à long terme. » 
+ 
+Témoignage de Sophie M., informaticienne transférée à la SAS IAG-DD 
+« En réalisant l’inventaire des solutions logicielles, on s’est rendu compte que chaque 
+cabinet avait ses préférences, souvent pour des raisons historiques ou parce qu’ils 
+ont négocié individuellement. 
+Pour moi, le vrai challenge sera de convaincre tout le monde qu’une solution unique, 
+interfacée et avec un bon niveau d’automatisation, ça va vraiment réduire la charge 
+de travail et les risques d’erreurs. 
+Mais il faudra faire attention aux besoins spécifiques de chaque cabinet, car certains 
+clients ont des exigences différentes. Le cahier des charges sera donc déterminant 
+pour éviter les blocages. » 
+ 
+Témoignage de Samuel G., Conseil en assistance à la maîtrise d’ouvrage (AMO) 
+Copgemano 
+« Dans un groupement de cabinets d’expertise comptable, l’enjeu est de mutualiser le 
+support technologie de l’information (TI) tout en garantissant un service homogène. 
+Pour une structure de taille moyenne, on observe qu’un technicien de support peut 
+gérer en moyenne entre 80 et 120 postes de travail et périphériques, selon le niveau 
+d’automatisation et la diversité des applications métiers. La mise en place d’un support 
+à trois niveaux (N1 à N3) est fortement conseillée, avec une base de connaissances 
+partagée pour fluidifier la résolution des tickets.  
+F  I  C  H  E  B  E  N
+
+=== PAGE 10 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 10 / 11 
+ 
+Un parc de 400 à 600 matériels peut ainsi être couvert par une équipe de maintenance 
+de 4 à 6 techniciens, ce qui est un ratio généralement équilibré pour ce type 
+d’organisation. 
+L’essentiel est de piloter ce dispositif avec des indicateurs simples : délai moyen de 
+traitement, taux de résolution au premier contact et suivi des pics d’activité. Cela 
+permet de maintenir un niveau de service satisfaisant, tout en maîtrisant les coûts pour 
+chaque cabinet membre. » 
+ 
+Témoignage de Jean Z., AMO chez Sepro Stario 
+« Le principe du Zero Trust, c’est de considérer qu’aucun utilisateur ni appareil n’est 
+fiable par défaut, même à l’intérieur du réseau. Chaque accès à une ressource est 
+contrôlé dynamiquement, avec authentification forte et vérification de l’état du 
+terminal. 
+Cela permet de mieux protéger les applications sensibles et les données 
+confidentielles. Concrètement, on combine la gestion des identités (IAM), la micro-
+segmentation du réseau et la supervision continue des comportements. 
+L’objectif n’est pas de complexifier, mais de limiter les risques de mouvements 
+latéraux en cas d’attaque. On priorise généralement les accès critiques, puis on étend 
+la couverture progressivement. 
+L’automatisation des règles d’accès et une bonne gestion des rôles améliorent 
+l’efficacité du dispositif. La réussite dépend aussi de la culture de sécurité partagée 
+par tous les utilisateurs. Le Zero Trust devient ainsi un socle essentiel pour renforcer 
+la résilience face aux menaces modernes. 
+Chez Sepro Stario, nous aidons nos clients à rendre cette approche concrète et 
+adaptée à leurs besoins. » 
+ 
+Témoignage de Valentine H. – Responsable Data Science (OTAS) 
+« La science des données, ce n’est pas seulement collecter et stocker : c’est donner 
+du sens à l’information pour éclairer la décision. 
+Une étape clé est l’exploration de données (Exploratory Data Analysis), qui permet de 
+comprendre la structure, de détecter des anomalies et de guider la suite du projet. 
+Ensuite, le data mining entre en jeu pour identifier des schémas cachés, des 
+corrélations inattendues ou des regroupements significatifs. 
+Cette phase d’extraction de connaissances est essentielle pour alimenter la 
+construction de modèles prédictifs pertinents. Sans exploration ni data mining, on 
+risque de bâtir un modèle sur des hypothèses fragiles ou des données biaisées. 
+Chez OTAS, nous accompagnons nos clients pour structurer leurs flux de données, 
+analyser les signaux faibles et développer des modèles robustes. 
+L’enjeu, c’est de rendre ces modèles explicables et utiles pour les métiers, pas 
+seulement pour les data scientists. La valeur se crée quand la donnée devient un actif 
+partagé, piloté par une gouvernance claire. 
+Notre rôle, c’est de sécuriser l’ensemble du processus, de l’exploration et du data 
+mining jusqu’au déploiement et au suivi opérationnel. C’est ainsi que la data science 
+devient un levier stratégique durable pour l’organisation. » 
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 11 ===
+25DSCG-UE5  
+Management des systèmes d’information 
+Page 11 / 11 
+ 
+Annexe 6 - Organigramme de la DSI de la SAS IAG-DD 
+ 
+ 
+ 
+ 
+Direction SI (1 
+collaborateur)
+Support & Maintenance 
+technologie de 
+l'information (3 
+personnes)
+Audit & conformité (1 
+personne)
+Sécurité SI (1 personne)
+RSSI (1 personne)
+Convergence & 
+Interopérabilités 
+applicatives (2 
+personnes)
+Projets & 
+Développements (2 
+personnes)
+Qualité & Méthodes (2 
+personnes)
+F  I  C  H  E  B  E  N

@@ -1,0 +1,790 @@
+=== PAGE 1 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+0/13 
+ 
+ 
+                    1720003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2017 
+ 
+ 
+ 
+UE3 – MANAGEMENT ET CONTRÔLE DE 
+GESTION 
+ 
+ 
+ 
+Durée de l'épreuve : 4 heures  
+Coefficient : 1,5 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+1/13 
+ 
+                   1720003 
+ 
+ 
+ 
+ 
+SESSION 2017 
+ 
+ 
+MANAGEMENT ET CONTRÔLE DE GESTION  
+Durée de l’épreuve : 4 heures   -   coefficient : 1,5 
+ 
+Matériel autorisé :  
+Une calculatrice de poche à fonctionnement autonome sans imprimante et sans aucun moyen 
+de transmission, à l’exclusion de tout autre élément matériel ou documentaire (circulaire n° 
+99-186 du 16/11/99 ; BOEN n° 42).  
+Document remis au candidat :  
+Le sujet comporte 14 pages numérotées de 0/13 à 13/13.  
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants 
+Page de garde ................................................................................................................... page 0 
+Présentation du sujet  ....................................................................................................... page 2 
+DOSSIER 1 - Analyse stratégique (20 points .................................................................. page 3 
+DOSSIER 2 - Organisation et développement (30 points)  ............................................ page 3 
+DOSSIER 3 - Politique ressources humaines (RH) et  
+maîtrise de la masse salariale (50 points)  ....................................................................... page 3 
+_____________________________________________________________________________________________ 
+ 
+Le sujet comporte les annexes suivantes 
+ 
+ 
+Annexe 1 - Mazzella, F. (2015). « Blablacar et le tourisme collaboratif »  
+Annales des Mines Réalités industrielles, ........................................................................ page 4 
+Annexe 2 - Extrait « Blablacar améliore sa relation client grâce au Big Data »  ........... page 7 
+Annexe 3 - Extrait « Une concurrence sérieuse pour BlaBlaCar »  ............................... page 8 
+Annexe 4 - Extrait Mazzela, F. (2015) : « La magie des nouvelles technologies, 
+c’est de pouvoir s’adapter et anticiper »  ........................................................................ page 8 
+Annexe 5 - Extrait « BlaBlaCar soigne ses utilisateurs » ................................................ page 9 
+Annexe 6 - Extrait « Le covoiturage est-il légal ? Oui si c’est du covoiturage ! » ..........page 9  
+Annexe 7 - Extrait « Blablacar soulève le capot »  ........................................................ page 10 
+Annexe 8 – « Blablacar s’attaque au Mexique » ........................................................... page 12  
+Annexe 9 - Données sur les masses salariales 2015 et 2016  .......................................... page 12 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou plusieurs 
+hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre copie 
+ 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+2/13 
+ 
+ 
+Présentation du sujet 
+ 
+ 
+BlaBlaCar est une plateforme de covoiturage sur longs trajets (en moyenne 300 km/trajet). Son objectif est 
+de mettre en relation des conducteurs ayant des places libres dans leur voiture et des voyageurs cherchant à 
+faire le même trajet. Fondée en 2006 par Frédéric Mazzella sous le nom de « covoiturage.com », elle est 
+aujourd’hui considérée comme une des perles françaises de l’économie collaborative. Avec une part de 
+marché de 90% en France, en Allemagne, en Italie et en Espagne, et plus 20 millions d’utilisateurs dans le 
+monde, BlaBlaCar est le leader mondial du covoiturage. 
+ 
+Selon Frédéric Mazzella, son fondateur, une des raisons principales de son succès tient en un mot : la 
+confiance. Depuis sa création, BlaBlaCar a cherché à créer une communauté de confiance. La création de 
+cette confiance a été rendue possible grâce à la mise à disposition d’informations de six natures différentes, 
+modélisées par les dirigeants de BlaBlaCar sous l’acronyme DREAMS (cf. : annexe1).  
+ 
+Depuis 2012, BlaBlacar connaît une croissance exponentielle de son chiffre d’affaires qui s’appuie sur une 
+stratégie d’internationalisation rendue possible notamment par les différentes levées de fonds, dont la levée 
+record de 200 millions de dollars en septembre 2015. BlaBlaCar est actuellement présente dans 22 pays 
+(France, Espagne, Royaume-Uni, Italie, Pologne, Allemagne, Portugal, Belgique, Pays-Bas, Luxembourg, 
+Russie, Ukraine, Turquie, Inde, Mexique, Serbie, Roumanie, Croatie, Hongrie, Brésil, Slovaquie, République 
+Tchèque) et compte bien poursuivre son internationalisation. Pour s’implanter à l’international, l’entreprise 
+préfère procéder par rachats pour imposer rapidement sa présence avec des acteurs soit établis, soit très au 
+fait du marché local.  
+ 
+Cette croissance exponentielle s’est accompagnée d’une forte croissance de ses effectifs. La société est ainsi 
+passée de 60 salariés en 2013 à plus de 400 début 2016. Depuis 4-5 ans, les effectifs ont doublé chaque 
+année et BlaBlacar envisageait de recruter sur l’année 2016, 300 nouveaux collaborateurs. Le défi pour elle, 
+comme l’explique Frédéric Mazzella1 est « d’intégrer ces nouveaux talents sans perdre pour autant notre 
+agilité et notre sens de l’innovation ». Pour cela, Frédéric Mazzella explique que BlaBlacar s’appuie avant 
+tout sur le partage de 10 valeurs communes qui guident l’action quotidienne de tous les collaborateurs et sur 
+une organisation horizontale qui repose sur l’autonomie et la responsabilisation de chacun. Actuellement, 
+BlaBlaCar est dirigée par trois associés, Frédéric Mazzella, Francis Nappez et Nicolas Brusson, en charge 
+respectivement de la vision de BlaBlacar, des évolutions techniques et de l’expansion internationale. À leurs 
+côtés, la société s’appuie sur les « Heads of department » qui chapeautent chacun un des dix départements et 
+sur une vingtaine de « Teams leaders ». Les bureaux étrangers fonctionnent eux avec un « Country 
+manager » et une petite équipe. 
+ 
+Il vous est demandé, en vous appuyant sur les différents éléments de cette présentation de 
+BlaBlaCar et des documents figurant en annexes, et notamment les articles académiques et les articles 
+de presse consacrés à BlaBlaCar, de conduire une réflexion, autour des trois problématiques 
+suivantes :  
+- 
+l’analyse stratégique de BlaBlaCar (Dossier 1),  
+- 
+l’organisation et le développement de BlaBlaCar (Dossier 2),  
+- 
+la politique RH et la maîtrise de la masse salariale (Dossier 3). 
+ 
+ 
+ 
+ 
+1 Mazzella, F. (2015). Blablacar et le tourisme collaboratif, Annales des Mines-Réalités industrielles, p.54-57 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+3/13 
+ 
+ 
+DOSSIER 1 - ANALYSE STRATÉGIQUE DE BLABLACAR (20 points) 
+À l’aide des annexes 1 à 6, répondez aux questions suivantes. 
+ 
+1. Quelles sont les évolutions socio-économiques qui, selon vous, sont susceptibles d’avoir une 
+influence sur l’activité de BlaBlaCar ? Vous répondrez à cette question au moyen du modèle 
+PESTEL que vous aurez préalablement défini. (10 points) 
+2. Après en avoir rappelé les principales caractéristiques, présenter une analyse SWOT de 
+BlaBlaCar. Vous justifierez les différentes composantes de votre analyse. (10 points) 
+ 
+ 
+DOSSIER 2 - ORGANISATION ET DÉVELOPPEMENT DE BLABLACAR (30 points) 
+À l’aide des annexes 1, 7 et 8, répondez aux questions suivantes. 
+ 
+A- DIAGNOSTIC ORGANISATIONNEL de BlaBlaCar (20 points) 
+ 
+1.     Présenter les 6 principaux mécanismes de coordination définis par Henry Mintzberg. Rappeler 
+pour chacun de ces mécanismes de coordination, la configuration structurelle associée. (6 points) 
+2.       Dans quelle mesure, à partir des configurations structurelles de Mintzberg, pourrait-on qualifier 
+le modèle d’organisation de BlaBlaCar de configuration structurelle hybride « structure 
+divisionnalisée-adhocratie-organisation missionnaire » ? (4,5 points) 
+3.    Présenter les principes fondamentaux du modèle d’évolution des structures de l’organisation   
+selon Larry Greiner. A ce stade, vous préciserez quelles sont les différentes phases de croissance,  
+les différentes crises ainsi que la manière dont elles s’articulent mais il ne vous est pas demandé  
+de les décrire. (5 points) 
+4.   
+À la lumière du modèle de Greiner, à quel type de crise risque d’être confrontée BlaBlacar dans 
+les prochaines années ? Quelle(s) suggestion(s) pourriez-vous faire aux dirigeants de BlaBlaCar 
+pour la surmonter ? (4,5 points)  
+ 
+B-  CROISSANCE de BlaBlaCar (10 points) 
+ 
+1. 
+Pour se développer à l’international, quel est le mode de croissance privilégié par BlaBlaCar ? 
+Quels sont les principaux avantages de ce type de croissance dans le cas de BlaBlacar ? (5 points) 
+2. 
+Quels sont les principaux risques associés à ce type de croissance ? Quel est le risque majeur 
+pour BlaBlaCar ? (5 points) 
+ 
+DOSSIER 3 - POLITIQUE DES RESSOURCES HUMAIRES ET MAITRISE DE LA 
+MASSE SALARIALE (50 points) 
+ 
+Début 2016, BlaBlaCar comprenait environ 400 personnes réparties sur cinq types de profil, à savoir : 
+o des programmateurs et développeurs ; 
+o des créatifs ; 
+o des personnes en charge de l’assistance, du conseil et de la communication ; 
+o des marketeurs ; 
+o des personnes en charges du réseau. 
+ 
+En 2016, BlaBlaCar envisageait de recruter 300 personnes sur trois profils : 
+o des ingénieurs et développeurs qui devront faire évoluer de nombreuses fonctionnalités du 
+site ; 
+o des marketeurs en charge des campagnes de communication et d’affichages ; 
+o des agents de relation avec les membres. 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+4/13 
+ 
+ 
+Travail à faire : 
+À l’aide de l’annexe 9. 
+ 
+1. Expliquer en quoi la gestion de la masse salariale constitue un enjeu fondamental pour une 
+entreprise. Citer au moins 3 arguments en faveur de cette affirmation. (6 points)  
+2. Calculer la masse salariale de BlaBlaCar en 2016, dans l’hypothèse où elle aurait opté pour le 
+scénario décrit en annexe 9. (9 points) 
+3. Calculer la variation globale et par catégorie de personnel de la masse salariale entre le 31/12/2015 
+et le 31/12/2016. Après avoir rappelé la signification de l’écart de salaire, l’écart de composition et 
+l’écart de l’effectif global, analyser la variation de la masse salariale globale. Commenter. (11 
+points) 
+4. Rappeler quel est l’objectif du calcul des effets de niveau, de masse et de report. Après avoir 
+rappelé les définitions de chacun de ces effets, calculer pour les agents de relation présents en 2015, 
+l’effet de niveau et de masse en 2016 et l’effet de report sur 2017. On considère qu’il n’y pas eu 
+d’augmentation salariale en 2015. (9 points) 
+5. En vous appuyant sur les priorités des dirigeants de BlaBlaCar en matière de politique de gestion 
+des ressources humaines qui sont perceptibles dans les différents documents à votre disposition, et 
+notamment dans la présentation du sujet et les annexes 1 et 2, vous proposerez un tableau de bord 
+de pilotage des ressources humaines pour 2018. Expliquer comment vous structureriez ce tableau 
+de bord. Expliquer comment vous en organiseriez l’utilisation dans l’entreprise. Ce tableau de 
+bord devra comprendre au moins trois objectifs prioritaires. (15 points) 
+ 
+ 
+ANNEXE 1 : Mazzella, F. (2015). « Blablacar et le tourisme collaboratif, Annales des Mines-
+Réalités industrielles. » 
+ 
+La genèse de BlaBlaCar remonte à Noël 2003. Je devais retourner en Vendée pour y passer les fêtes en 
+famille, et je me suis rendu compte que tous les trains étaient complets. Ma sœur est venue me sortir de cette 
+impasse en faisant un détour et en passant me chercher en voiture. Lors de ce trajet, je me suis rendu compte 
+que la majorité des véhicules que nous croisions étaient quasi vides. C’est alors que l’idée me vint : des 
+places libres, il y en avait. Elles ne se trouvaient pas dans des trains, mais bel et bien dans des voitures ! Il 
+fallait donc trouver un moyen de les répertorier et de les indexer pour que des conducteurs puissent être 
+facilement mis en relation avec de futurs passagers souhaitant faire le même trajet. Et ainsi, plus qu’un 
+trajet…, partager les frais associés (frais d’essence, de péage, notamment). Une dizaine d’années plus tard, 
+BlaBlaCar rassemble la plus grande communauté au monde de covoiturage longue distance, avec plus de 20 
+millions de membres dans 19 pays - du Mexique à l’Inde, en passant par l’Europe, la Turquie ou encore la 
+Russie. Notre petite start-up française est devenue une « scale-up » globale, dans laquelle travaillent chaque 
+jour plus de 300 collaborateurs (tous des covoitureurs !) de 29 nationalités différentes. Si la France est de fait 
+le pays où la pratique du covoiturage est la plus répandue et aussi celui où est né BlaBlaCar, aujourd’hui 3 
+nouveaux inscrits sur 4 à notre plateforme vivent dans un autre pays. Comment expliquer un tel essor du 
+covoiturage et de BlaBlaCar à travers le monde ? 
+ 
+Créer un lien de confiance interpersonnel pour désamorcer les appréhensions 
+ 
+Une des raisons principales de ce succès tient en un mot : la confiance ! Depuis sa création, BlaBlaCar a 
+tourné tous ses efforts vers la constitution d’une communauté de confiance, exprimant ainsi sa volonté de 
+créer de la confiance interpersonnelle entre ses membres et de dépasser le stade du  « voyage avec un 
+inconnu » qui constitue la première des appréhensions. Cela fut un travail de longue haleine, car il fallut 
+attendre que le bouche-à-oreille positif se répande et que la prescription sociale joue à plein son rôle. Avec le 
+temps et l’expérience, nous avons appris que pour pouvoir faire confiance à une personne rencontrée par 
+l’intermédiaire d’une plateforme de mise en relation comme BlaBlaCar, il fallait disposer d’informations de 
+six natures différentes. Nous en avons théorisé un modèle, sous l’acronyme DREAMS : 
+• 
+Declared : chaque membre doit déclarer des informations sur lui-même (son prénom, son âge, 
+son numéro de téléphone, ses préférences en matière de voitures…). Il doit également préciser son 
+indice de bavardage, noté (par ordre croissant) Bla, BlaBla, ou BlaBlaBla, d’où notre nom 
+BlaBlaCar ; 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+5/13 
+ 
+2
+• 
+Rated : après chaque trajet, le conducteur et ses passagers formulent des avis réciproques 
+permettant de construire une réputation en ligne ; 
+• 
+Engaged : le fait de réserver sa place en réglant en ligne à l’avance sa contribution à la couverture 
+des frais du conducteur est un « engagement » qui offre une garantie essentielle (notamment contre 
+les risques de désistement) ; 
+• 
+Active : sont indiqués sur le site BlaBlaCar les différents trajets et la dernière connexion de 
+chaque membre afin de montrer son activité et sa réactivité sur la plateforme ; 
+• 
+Moderated : une équipe de plus de 60 personnes vérifie au quotidien au sein de BlaBlaCar 
+l’authenticité du contenu publié par la communauté, constituant ainsi un support fondamental 
+pour tous ses membres ; 
+• 
+Social : chaque membre peut relier son profil créé sur BlaBlaCar à celui qui est affiché sur des 
+réseaux sociaux (tels que Facebook ou Linkedin) afin de créer davantage de traçabilité. 
+ 
+Résultat : le covoiturage fiabilisé organisé par BlaBlaCar (à l’origine, l'apanage des étudiants) s’est 
+aujourd’hui démocratisé. L’âge moyen des nouveaux membres ne cesse d’augmenter : de 29 ans en 2010, il 
+est passé à 34 ans en 2015. Et les plus de 35 ans représentent aujourd’hui le tiers de la communauté, avec un 
+effet de rattrapage indéniable auprès des quadras, des quinquas et des sexagénaires de toutes les catégories 
+socio-professionnelles. 
+ 
+Le covoiturage, vecteur de nombreuses externalités positives 
+ 
+La belle surprise du covoiturage, c’est le fait que lorsqu’il est réalisé à une échelle aussi importante, il génère 
+des externalités positives qui sont loin d’être négligeables ! 
+L’impact premier est celui sur l’environnement. Le covoiturage permet en effet de passer d’un taux de 
+remplissage moyen par voiture (en France, sur des trajets longue distance) de 1,6 personne à un taux de 2,8 
+personnes. Cette optimisation d’une ressource sous-utilisée équivaut à l’économie de 500 000 tonnes 
+équivalent pétrole, ainsi qu’à une économie de 1 million de tonnes d’émissions de CO2, sur les deux 
+dernières années, pour l’ensemble de nos activités. 
+ 
+Mais les impacts sociaux ne sont pas moindres. Nous offrons en effet une solution de transport longue 
+distance très abordable permettant d’augmenter l’accès à la mobilité. Les conducteurs peuvent réduire 
+significativement le coût de leur trajet, tandis que les passagers peuvent voyager pour un prix deux à trois 
+fois moins élevé que celui affiché par un autre mode de transport. C’est un échange gagnant-gagnant. Nous 
+souhaitons ici apporter une précision importante : les conducteurs sur BlaBlaCar sont tous des particuliers 
+qui effectuent déjà un trajet pour leur propre compte, et non des chauffeurs professionnels qui répondent à la 
+demande d’un client. Le covoiturage n’est en effet légal que s’il correspond à un partage des frais, il ne doit 
+en aucun cas permettre aux conducteurs de dégager un revenu. Nous sommes très vigilants sur ce point et 
+avons mis en place tout un système afin d’empêcher les tentatives de contournement de ce principe 
+(notamment par le plafonnement du nombre des places proposées dans une voiture et du prix demandé par le 
+conducteur, par la vérification des trajets par notre équipe relation membres, par la limitation du nombre des 
+trajets possibles dans une même journée). Les passagers ne contribuent donc financièrement au voyage qu’à 
+la seule hauteur des frais du trajet, partageant avec le conducteur les coûts d’essence, des péages, etc. 
+ 
+Si nos membres viennent initialement sur BlaBlaCar pour le prix, c’est en revanche la convivialité de 
+l’expérience qui les incite à y revenir. La magie surprenante du covoiturage, c’est ce moment de vie unique et 
+inattendu passé avec des personnes « que l’on n’aurait sans doute jamais rencontrées dans la vie courante ». 
+Selon une étude réalisée par TNS-Sofres, 97 % des membres BlaBlaCar interrogés estiment que le 
+covoiturage permet de rendre le trajet plus agréable ! 
+Et, au final, pourquoi nos membres aiment-ils tant BlaBlaCar, et, de manière générale, le covoiturage ? 
+ 
+Pour la liberté ! Cette liberté qui leur est donnée de se déplacer à moindre frais, mais aussi celle de faire des 
+trajets mal ou pas du tout desservis par les autres moyens de transport. Une des grandes forces du 
+covoiturage, c’est aussi la capillarité théoriquement illimitée du réseau. Avec BlaBlaCar, il est possible 
+d’aller partout où on le souhaite… pour peu qu’il existe une route ! En d’autres termes, cela signifie que nous 
+optimisons le réseau existant et que nous permettons à un plus grand nombre de gens de se déplacer sans 
+qu’il soit nécessaire pour l’État d’investir le moindre centime dans de nouvelles infrastructures qui 
+pourraient elles-mêmes être coûteuses et polluantes, et dont la construction prendrait beaucoup de temps. 
+Tous y gagnent : les conducteurs, les passagers et les contribuables. 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+6/13 
+ 
+ 
+Une illustration des attraits du covoiturage BlaBlaCar s’exprime dans l’engagement très fort de notre 
+communauté au travers du service d’entraide collaborative BlaBlaHelp. Il s’agit d’un tchat sur le site 
+BlaBlaCar qui fonctionne comme un forum sur lequel les nouveaux visiteurs peuvent poser en temps réel 
+leurs questions sur le fonctionnement du service. Et ce ne sont pas des salariés de BlaBlaCar qui leur 
+répondent, mais des membres aguerris ! C’est de l’entraide communautaire. Ces derniers s’investissent quand 
+ils en ont envie et quand ils en ont le temps afin d’aider la communauté à titre gracieux. Les chiffres sont 
+éloquents : plus de 95 % des messages sont traités en moins de 10 secondes, pour un taux de satisfaction de 
+94 % ! L’économie collaborative est la preuve que la numérisation peut également générer de nouveaux 
+rapports humains et être créatrice de liens sociaux. 
+ 
+Autre externalité positive : l’impact bénéfique du covoiturage sur la sécurité routière. BlaBlaCar, l’agence de 
+sondages TNS-Sofres et la MAIF ont réalisé conjointement une étude sur ce sujet au mois d’avril 2014. 
+Premier enseignement de cette enquête : le fait d’avoir des passagers à bord influence positivement le 
+comportement des conducteurs. La majorité des conducteurs français (70%) estiment ainsi que le 
+covoiturage les encourage à respecter plus scrupuleusement le code de la route (pour les membres de 
+BlaBlaCar, ce chiffre est même de 80 %). D’autre part, la présence de passagers à bord permet de maintenir 
+la concentration du conducteur. Ainsi, 79 % des conducteurs membres de BlaBlaCar en France déclarent que 
+le covoiturage les aide à rester bien éveillés (rappelons que la somnolence est la première cause d’accidents 
+sur autoroute). Les conversations pendant un trajet en covoiturage permettent ainsi d’éviter aux conducteurs 
+de s’endormir au volant. Le système d’échange d’avis permis par BlaBlaCar entre les passagers et les 
+conducteurs responsabilise encore plus ces derniers : 83 % des conducteurs de BlaBlaCar apportent une 
+grande attention aux évaluations laissées par leurs passagers sur le site, après la réalisation du trajet, et la 
+majorité d’entre eux estime que cette notation les incite à avoir un comportement plus responsable au volant. 
+ 
+Convivial et d’un prix abordable même pour un voyage décidé à la dernière minute, le 
+covoiturage permet aussi un tourisme plus authentique 
+ 
+BlaBlaCar a de fait créé un segment de mobilité abordable permettant aux voyageurs de bénéficier d’une 
+nouvelle offre de transport à la fois accessible, conviviale et fiable, à laquelle s’ajoute un maillage très fin des 
+trajets possibles à travers les géographies couvertes par notre service. Qui plus est, cette solution de mobilité 
+longue distance reste abordable même pour des voyages décidés à la dernière minute, contrairement à la 
+majorité des alternatives existantes. Ainsi, le prix d’un trajet réservé le jour même, que celui-ci soit national 
+ou international, ne sera pas majoré et de nombreuses nouvelles offres sont souvent proposées en dernière 
+minute. Les covoitureurs pourront aller d’Amsterdam à Bruxelles pour un prix moyen de 15 euros, de 
+Toulouse à Barcelone pour 28 euros, ou de Lille à Paris pour 17 euros. Des trajets encore mal desservis par 
+les infrastructures existantes deviennent envisageables, comme, par exemple, Rouen-Rennes, qui prendrait 5 
+heures en train, avec deux changements, et pour un coût moyen de 70 euros, mais qui en covoiturage est 
+réalisable en 3 heures pour environ 21 euros. 
+ 
+La présence globale de BlaBlaCar implique que nos membres peuvent à présent trouver une solution de 
+transport de ville à ville à travers 19 pays du bout des doigts, grâce à une application mobile, et ce, où 
+qu’ils soient ! La mise en réseau de nos 20 millions de membres à travers trois continents nous permet de 
+renforcer le phénomène de « village global » engendré par l’inter-connectivité sans précédent de notre ère. 
+D’un point de vue humain, cela est d’autant plus fort que covoiturer à l’étranger vous permet d’aller à la 
+rencontre d’autochtones et d’apporter une touche d’authenticité à votre voyage grâce à des échanges 
+qu’il aurait été plus difficile de susciter autrement. 
+ 
+BlaBlaCar est donc fière d’apporter sa pierre à l’édifice d’un tourisme collaboratif créateur de liens humains 
+forts. Pour assurer un accès toujours plus large aux trajets offerts par notre communauté, nous avons conclu 
+plusieurs partenariats avec des acteurs du tourisme. Les trajets BlaBlaCar sont ainsi proposés aux utilisateurs 
+de sites de navigation comme Mappy ou Via Michelin, de sites de voyages comme Kayak ou Liligo, mais 
+aussi de sites visant à identifier des possibilités complémentaires de transport pour une solution porte-à-porte 
+comme Rome- 2Rio, GoEuro ou FromAtoB. 
+ 
+Nous nous efforçons d’apporter une solution de transport à des covoitureurs qui ne partagent pas seulement 
+une destination, mais aussi une passion. En effet, nous collaborons avec les organisateurs de nombreux 
+festivals de musique (FrancoFolies, Le Printemps de Bourges, Deichbrand en Allemagne, ou Sziget en 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+7/13 
+ 
+Hongrie) ou d’événements sportifs (par exemple, des matchs de football des Girondins de Bordeaux ou de 
+rugby des Cardiff Blues), permettant ainsi aux covoitureurs de s’y rendre ensemble et de décongestionner les 
+alentours et les parkings de ces vastes rassemblements. 
+ 
+Canaliser la croissance par les valeurs 
+ 
+Pour BlaBlaCar, aujourd’hui, le défi à relever est celui de la gestion d’une croissance exponentielle de son 
+activité : celle de nos membres, mais aussi celle de nos effectifs, qui doublent chaque année. 
+Comment réussir à intégrer ces nouveaux talents sans perdre pour autant notre agilité et notre sens de 
+l’innovation ? 
+Notre réponse à cette question se cristallise dans 10 valeurs communes que nous partageons et qui guident 
+notre action au quotidien. Nous nous sommes réunis et nous avons décrit ensemble ces valeurs qui 
+définissent l’ADN de BlaBlaCar. Ces dernières sont affichées sur les murs de nos bureaux et distribuées sous 
+la forme d’autocollants. Ces référents essentiels à nos yeux guident nos méthodes de travail et nos décisions, 
+et permettent aux nouveaux collaborateurs de s’imprégner rapidement de  la culture de notre entreprise. Pour 
+prendre une décision, chaque salarié peut ainsi se référer à nos valeurs ancrées dans l’action, plutôt qu’à un 
+manager hiérarchique. Les maxims “Share more. Learn more”, “Fail. Learn. Succeed”, “Never assume. 
+Always check.” sont autant d’exhortations qui génèrent une atmosphère de travail encourageant le partage 
+d’expériences, désamorçant la peur d’échouer, tout en responsabilisant les individus. Aussi bien garde-fous 
+que moteur, une culture d’entreprise clairement communiquée et pleinement assimilée permet de créer un 
+cadre porteur. Motivés par la confiance qui leur est accordée, nos collaborateurs se sentent habilités à libérer 
+leur potentiel dans le cadre d’une vision commune. 
+ 
+Une révolution porteuse de bien-être économique, social et environnemental 
+ 
+Il est fascinant de voir la vitesse avec laquelle le covoiturage s’est ancré dans les habitudes, devenant un 
+réflexe en France et ailleurs en Europe. Ainsi, moins de dix ans après la création de BlaBlaCar, un internaute 
+français sur cinq a déjà pratiqué le covoiturage, selon le baromètre du CtoC 2014 réalisé par OpinionWay. 
+Cette tendance s’inscrit dans le mouvement beaucoup plus global de la consommation collaborative. Nous 
+n’en sommes qu’au début de cette révolution qui donne la primauté à l’usage plutôt qu’à la propriété. Les 
+potentialités, notamment dans le tourisme, sont conséquentes : covoiturage, location de voitures entre 
+particuliers, hébergement et/ou repas chez l’habitant, services gratuits de guides touristiques locaux… ; tout 
+un pan de l’économie va s’en trouver bouleversé, pour le plus grand bonheur du consommateur final qui va 
+pouvoir profiter d’une nouvelle offre, moins chère, plus conviviale et souvent plus économe des ressources 
+énergétiques. 
+ANNEXE 2 : Extrait « Blablacar améliore sa relation client grâce au Big Data » (Publié le 25 
+novembre 2014 par La revue du digital) 
+BlaBlaCar, le service de covoiturage, travaille à la fidélisation de ses clients et à l’efficacité de ses 
+campagnes marketing grâce au Big Data. 
+Relation client 
+« Le Big Data nous sert à optimiser la performance de nos campagnes de Gestion de la Relation Client et à 
+améliorer le confort d’utilisation de nos services pour nos clients » déclare Gaëlle Periat, Manager Business 
+Intelligence chez BlaBlaCar. « Plus de deux millions de personnes utilisent les services de BlaBlaCar tous 
+les mois » complète-t-elle. 
+L’analyse Big Data est réalisée en temps réel. A terme, Blablacar intégrera les données des réseaux sociaux. 
+BlaBlaCar a une autonomie informatique complète sur cette analyse des données ce qui réduit les temps de 
+traitement. La solution a été mise en place à partir d’analyses Big Data réalisées avec la plateforme Vertica 
+de HP et la plateforme Data Science Studio de la jeune société française Dataiku.[…] 
+FICHEBEN 
+
+=== PAGE 9 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+8/13 
+ 
+ANNEXE 3 : Extrait : « Une concurrence sérieuse pour BlaBlaCar » (Publié le 19/05/2015, 
+Les Echos) 
+Le covoiturage ne sera plus la seule alternative à petits prix de la SNCF. 
+[…] Mais elle [La SNCF] n'est pas la seule à appréhender l'échéance : BlaBlaCar, le leader incontesté du 
+covoiturage, a peut-être lui aussi du souci à se faire. […] 
+Mais la période à venir pourrait être plus compliquée, car le développement massif des lignes d'autocars va 
+faire perdre à BlaBlaCar une partie de sa spécificité. Jusqu'ici bridés par la réglementation, les iDbus, 
+Transdev, Starshipper et autres vont pouvoir enrichir le nombre de villes desservies, avec des tarifs (une 
+vingtaine d'euros dans la plupart des cas) comparables à ceux du covoiturage. Voire inférieurs si certains 
+opérateurs se lancent dans une guerre des prix pour se faire une place sur le marché. En termes de temps de 
+parcours, la comparaison devrait rester légèrement favorable au covoiturage. D'autant que le chauffeur peut, 
+dans certains cas, proposer un trajet porte à porte. Mais les autocaristes mettent en avant leurs propres atouts, 
+à commencer par le wi-fi et les toilettes à bord. Et promettent une grosse bagarre commerciale. « Plus que le 
+ferroviaire, notre véritable concurrent, c'est le covoiturage », confirme la Fédération nationale des transports 
+de voyageurs, qui représente les entreprises du secteur. 
+Rivalité directe sur les axes majeurs  
+En face, BlaBlaCar se dit serein. « Nous sommes déjà en concurrence frontale avec l'autocar dans d'autres 
+pays où nous sommes présents, et cela ne nous empêche pas de nous développer », assure Laure Wagner, 
+porte-parole de la start-up. La responsable évoque aussi la variété des trajets et des horaires proposés par le 
+site : « Notre activité ne se limite pas à la vingtaine de liaisons sur lesquelles nous nous retrouverons face 
+aux autocaristes. » Pour relier les petites villes entre elles, le covoiturage restera dans bien des cas la seule 
+option sans rupture de charge. BlaBlaCar n'en devra pas moins affronter une rivalité directe avec l'autocar 
+sur les liaisons comme Paris-Rennes, Paris-Lyon, Paris-Lille ou encore Bordeaux-Lyon, qui figurent parmi 
+les trajets les plus demandés sur le site. Des lignes sur lesquelles la start-up, habituée aux postures 
+offensives, va devoir apprendre à défendre ses parts de marché... 
+ANNEXE 4 : Frédéric Mazzella : « La magie des nouvelles technologies, c'est de pouvoir 
+s'adapter et anticiper » (Publié par Les Echos, le 04/02/2015, Valérie Froger) 
+Plus de 10 millions de membres dans le monde, une présence dans 14 pays... Comment gérez-vous cette 
+communauté ?  
+Nous sommes présents sur les réseaux sociaux comme Facebook, Twitter, YouTube... avec plus de 1,7 
+million de membres. Une équipe interne, multilingue et centralisée à Paris, gère les demandes et les 
+messages de notre communauté. Les réseaux sociaux nous permettent de communiquer avec nos membres et 
+d'établir un lien entre le on-line et la « vraie » vie. Mais c'est aussi une formidable source d'informations pour 
+nous en termes d'exploitation des données. Il y a quelques mois, nous avons d'ailleurs mis en place une 
+politique reposant sur les dimensions du Big Data avec des outils et des services adaptés. L'idée est 
+d'améliorer la relation client et d'optimiser nos services grâce à l'analyse prédictive des données. 
+Après le lancement de votre site de covoiturage en 2006, vous faites aujourd'hui le choix d'une 
+stratégie mobile. Pourquoi ce virage ? 
+C'est la magie des nouvelles technologies, qui permettent de s'adapter et d'anticiper l'évolution des usages à 
+moyen terme. Aujourd'hui, 30 % des connexions se font par mobile mais, dans quelques années, la plupart de 
+nos membres n'utiliseront BlaBlaCar que depuis leur smartphone. Cette tendance, liée à la mobilité, est 
+inévitable, et nous le savons. Fin 2014, nous avons donc conçu une nouvelle application mobile, pour les 
+passagers comme pour les conducteurs, encore plus facile à utiliser. De nouvelles fonctionnalités ont été 
+ajoutées, comme le filtre de recherche (possibilité de sélectionner des trajets par prix, par expérience du 
+conducteur ou encore selon l'heure de départ), l'édition d'un profil utilisateur, la suggestion intelligente des 
+villes ou encore l'historique des recherches récentes permettant aux membres de retrouver facilement leurs 
+trajets favoris. Cette application native, sur iPhone et Android, est totalement autonome du site Web. 
+FICHEBEN 
+
+=== PAGE 10 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+9/13 
+ 
+Etes-vous en train d'annoncer la fin du Web au profit du mobile ?  
+Non, bien sûr, la plateforme Internet restera accessible via un ordinateur, mais, en France, comme à 
+l'étranger, l'accent sera mis sur le mobile. C'est un choix délibéré de notre part. Nous avons déjà franchi cette 
+étape dans plusieurs pays [Turquie, Inde, Russie, NDLR] dans lesquels nous nous sommes récemment 
+implantés. Sur ces marchés, la pénétration des smartphones est telle que, pour la plupart des gens, Internet 
+signifie téléphone portable. En termes de business, cette stratégie nous permet d'aller plus vite, de capter 
+davantage d'utilisateurs et de proposer un service mobile accessible de partout. Dans notre secteur, je suis 
+convaincu que l'avenir d'Internet passera par le téléphone. C'est la raison pour laquelle nous ciblons en 
+priorité des pays avec un fort développement des réseaux sociaux, de téléphonie mobile et de bande passante. 
+ANNEXE 5 : Blablacar soigne ses utilisateurs (Publié par Décideur Magazine, le 08/12/2015) 
+Après des partenariats avec Vinci, Total et Axa, Blablacar annonce un nouvel accord avec Boursorama. Un 
+moyen pour le leader du covoiturage de fidéliser ses utilisateurs. Signe que cette annonce est importante pour 
+les deux groupes, Frédéric Mazzella, le président et fondateur de Blablacar, et Marie Cheval, directrice 
+générale de Boursorama, ont fait le déplacement. Le partenariat entre les deux pure players concerne le 
+lancement d’une offre bancaire dédiée aux membres de Blablacar. Cette dernière ouvre le droit à des 
+réductions pouvant aller jusqu’à deux cents euros. 
+Le vrai plus 
+Dans le détail, cinquante euros sont offerts lors de la création d’un compte bancaire. Vient ensuite le 
+versement de quinze euros maximum par covoiturage dans la limite de 150 euros sur deux ans pour la 
+souscription d’une carte bancaire et d’un compte sur livret. Si l’utilisateur ne souhaite prendre qu’une carte 
+bancaire ou un compte sur livret, le montant descend alors à 75 euros. Dans les faits, rien de bien 
+révolutionnaire puisque Boursorama réalise fréquemment des promotions pour inciter à la création de 
+compte. Ainsi, si l’on se rend sur le site de la banque en ligne, on peut actuellement bénéficier de 80 euros 
+offerts pour la création d’un compte. Le vrai plus de cette offre est que la domiciliation des revenus n’est pas 
+obligatoire. 
+ 
+ « Créer de la valeur pour nos membres » 
+Pour Blablacar, cette opération s’inscrit dans une stratégie de partenariats très poussée. En un an, la start-up 
+a ainsi signé quatre accords avec des grands groupes, Vinci, Total et Axa ayant déjà accordé leur confiance 
+au leader du covoiturage. « L’objectif est de créer de la valeur pour nos membres tout en leur simplifiant la 
+vie », insiste Frédéric Mazzella. Un moyen efficace pour fidéliser ses vingt millions d’utilisateurs. « Nous 
+comptons également sur ces partenariats pour favoriser le bouche à oreille. C’est notre plus grande force et 
+nous voulons que cela le reste », poursuit-il. 
+Pour les grands groupes, l’intérêt est de cibler une clientèle jeune et dynamique. Boursorama par exemple, 
+dont la moyenne d’âge de ses clients est de 40 ans, parie sur cet accord pour intensifier le rajeunissement de 
+ses nouveaux clients dont l'âge moyen se situe autour de 35 ans selon Marie Cheval. Un partenariat gagnant-
+gagnant pour lequel aucune des deux sociétés n’est rémunérée. « Notre objectif commun est de recruter de 
+nouveaux utilisateurs », insiste-t-elle. Au vu de la croissance exponentielle du nombre d’utilisateurs de 
+Blablacar – ils n’étaient « que » dix millions fin 2014 –, on comprend l’appétit des grands groupes pour des 
+partenariats de ce type. Un intérêt qui devrait conduire à de nouveaux accords dans les mois à venir. 
+Interrogé sur ce sujet, Frédéric Mazzella botte en touche : « Stay tuned, comme diraient les Américains. » 
+ 
+ANNEXE 6 : Extrait de l’article : Le covoiturage est-il légal ? Oui, si c’est du covoiturage ! 
+(Publié le 29/12/2014, Karos Magazine, par Olivier Binet) 
+Durant toute l’année 2014, les médias se sont fait l’écho de l’émergence de nouveaux modèles de mobilité. 
+Le covoiturage est sur toutes les lèvres, le terme est utilisé à outrance… et sans nuance. A force de mélanger 
+les concepts, on en vient à douter de la légalité du covoiturage. 
+Des tendances a priori contradictoires 
+D’une part, Blablacar, leader français du covoiturage longue distance, est souvent mentionné comme une des 
+plus belles réussites du web français. On cite par ailleurs très souvent le covoiturage comme une opportunité 
+de progrès social et écologique. Plusieurs textes de lois (loi sur l’air et l’utilisation rationnelle de l’énergie de 
+1996, Grenelle de l’environnement en 2009, loi relative à la transition énergétique pour une croissance verte 
+FICHEBEN 
+
+=== PAGE 11 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+10/13 
+ 
+en 2014) ont créé les conditions du développement de cette pratique, soutenue par les personnalités 
+politiques de tous bords et poussée par des organismes publics de référence comme le CERTU et l’ADEME. 
+D’autre part, suite au lancement en février dernier d’un nouveau service (Uberpop), présenté comme du 
+« covoiturage urbain », la société de VTC Uber a été condamnée pour pratique commerciale trompeuse. 
+Selon la presse, de nombreux chauffeurs Uberpop ont été depuis arrêtés et risquent jusqu’à 3 ans de prison et 
+45 000 € d’amende. Le ministère de l’Intérieur l’a répété le 15 décembre dernier : Uberpop est illégal et sera 
+interdit dès le 1er janvier 2015, en application de la loi Thévenoud. […] 
+Le communiqué de la DGCCRF du 7 février 2014, en réaction au lancement du service Uberpop, est 
+limpide : « La légalité du covoiturage a été consacrée par la Cour de cassation dans un arrêt du 12 mars 
+2013, à condition toutefois qu’il ne soit pas pratiqué dans un but lucratif. Dans le cadre du covoiturage, la 
+participation financière des passagers est donc limitée au partage des coûts. En revanche, le transport de 
+passagers, sous couvert de covoiturage, réalisé dans un but lucratif est illégal. Il constitue en effet une 
+activité de transport public non autorisée. » 
+ANNEXE 7 : Extrait de : « Blablacar soulève le capot », article publié 09/09/2015 sur le site Strategies.fr 
+et qui fait partie du supplément Transitions 4, publié le 23/07/2015 avec le Stratégies n°1824. Entretien réalisé par 
+Laure Cailloce 
+C’est l’une des perles de l’économie collaborative et elle est française. Son fondateur, Frédéric 
+Mazzella, revient sur le succès et le développement de cette entreprise nouvelle génération qui a 
+longtemps cherché son business model. 
+Son nom sonne comme un présage. BlablaCar, la société fondée par Frédéric Mazzella en 2006, fait 
+beaucoup parler d’elle. Et pour cause : depuis un an, elle multiplie les annonces. En juillet  2014, le leader du 
+covoiturage européen a décroché 100 millions de dollars (73 millions d’euros) auprès du fonds américain 
+Index Ventures, qui finance notamment Dropbox, Skype ou encore le français Criteo. Du jamais vu dans 
+l’Hexagone depuis la levée record de Deezer en 2012. BlablaCar a par ailleurs racheté à la mi-avril 2015 son 
+principal concurrent sur le sol européen, l’allemand Carpooling. Et l’entreprise en a profité pour poursuivre 
+son internationalisation à marche forcée. Après la Turquie en décembre 2014, l’entreprise a ouvert l’Inde en 
+janvier, son premier pays hors d’Europe, la Hongrie, la Roumanie, la Serbie et la Croatie en mars, le 
+Mexique en avril… Ce qui porte à 19 le nombre de pays couverts par le service de covoiturage. Heureux 
+hasard ou ambition maîtrisée ? Frédéric Mazzella livre à Stratégies Transitions les secrets de son 
+développement supersonique. 
+Vous venez de passer de 10 à 20 millions d’utilisateurs dans le monde en une année à peine… 
+Comment fait-on une telle bascule ? 
+Frédéric Mazzella. Ce sont des chiffres qui impressionnent, mais c’est ce qui se produit lorsqu’on est sur 
+une tendance de croissance exponentielle. Dans les premières années, vous passez de 0 à 500 000 
+utilisateurs, puis de 500 000 à un million… et ainsi de suite. Mais forcément, le jour où vous passez de 10 à 
+20 millions, comme cette année, cela ne passe pas inaperçu. Tout à coup, les gens vous découvrent et 
+s’étonnent : « Qui est ce nouveau venu avec une croissance pareille ?» L’effet de surprise est d’autant plus 
+fort que nous avons changé de marque en 2013 – Blablacar a remplacé covoiturage.fr –, ce qui donne 
+l’impression que nous sommes tout neufs dans l’économie numérique. En réalité, cela fait presque dix ans 
+que nous sommes là. Et, nous avons pas mal tâtonné avant de trouver le bon business model. 
+Combien de business models différents avez-vous essayé ? 
+F.M. On en a testé cinq ! Dès le départ, l’idée a toujours été de faire du covoiturage sur de longs trajets. Mais 
+trouver le modèle économique sur la longue distance est compliqué, car il faut avoir beaucoup de volume 
+pour que ça fonctionne. Pour faire vivre le site et assurer son développement dans les premières années, nous 
+avons commencé par vendre des plateformes de covoiturage domicile-travail aux entreprises — un service 
+arrêté il y a deux ans car ce n’est pas notre cœur de métier. Nous avons aussi testé le modèle publicitaire en 
+insérant des bannières sur nos pages, mais le ciblage s’est révélé difficile et la pub nous a semblé en 
+contradiction avec l’esprit de partage du site. Nous avons également essayé la mise en relation téléphonique 
+payante entre passagers et conducteurs, mais ceux-ci rechignaient à laisser leur vrai numéro sur le site. Le 
+quatrième essai, le modèle premium, consistait à faire payer les services supplémentaires – remonter son 
+annonce en haut de page, recevoir un SMS quand un message était déposé sur le site –, mais il a séduit 
+seulement un conducteur sur 1000 ! Il faut croire que le service gratuit était déjà trop bien fait… 
+FICHEBEN 
+
+=== PAGE 12 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+11/13 
+ 
+Et le cinquième modèle, celui que vous avez choisi ? 
+F.M. Notre modèle est un modèle dit transactionnel. Il s’applique déjà en France, en Espagne, au Portugal et 
+en Angleterre. Il consiste à prélever une commission de 15% TVA incluse sur chaque trajet vendu ; cela 
+signifie que lorsqu’un conducteur demande 20 euros, le prix acquitté par le passager est de 23 euros. 
+Evidemment, cela suppose que le paiement se fasse en ligne, sur notre site. J’ai eu l’idée de ce 
+fonctionnement dès 2007, lors de mon master à l’Insead. Mais nous avons dû attendre 2011 pour le mettre en 
+place, le temps d’atteindre un volume suffisant de trajets – quelques dizaines par jour sur chaque axe. Au-
+dessous de ce seuil critique, il est indispensable de laisser de la souplesse aux membres pour qu’ils négocient 
+entre eux et tombent d’accord, ou pas, sur l’heure et le point de départ… Donc de conserver le paiement de 
+la main à la main. 
+2011, c’est vraiment l’année du tournant pour BlablaCar ? 
+F.M. On peut le dire, oui. Avec un business model opérant et duplicable à d’autres pays, le site a pu enfin 
+commencer à générer des revenus solides. Il a aussi gagné en crédibilité auprès des investisseurs qui nous ont 
+suivis plus facilement. C’est d’ailleurs à partir de ce moment que nous avons pris notre virage international : 
+entre 2011 et 2012, nous avons ouvert six pays en Europe. Mais les avantages du nouveau modèle 
+économique sont allés bien au-delà de ce que nous avions envisagé. Grâce au paiement en ligne, le taux de -
+désistement sur le site est tombé de 35 % à… 3 % ! Ce qui représente un gain énorme en qualité de service. 
+Quand le paiement se fait de la main à la main, les passagers ne viennent pas toujours et les conducteurs 
+tendent à faire de la surréservation. Conséquence de ce saut qualitatif, nous avons attiré des membres plus 
+âgés : l’âge moyen des nouveaux inscrits est passé de 29 ans en 2009 à 34 ans en 2014. 
+Pourquoi avoir lancé l’Espagne dès 2009, alors que vous étiez encore en plein tâtonnement ? 
+F.M. Nous avons toujours voulu nous internationaliser. Lancer l’Espagne était le moyen de préparer notre 
+plateforme à cette globalisation. Un produit qui marche dans une seule langue est difficile à exporter tel que, 
+mais quand il existe dans deux cultures, ça change tout… La langue espagnole, avec ses caractères spéciaux 
+(ñ, ¿…), est à cet égard très formatrice. Après ça, basculer vers le russe ou l’ukrainien se fait sans 
+difficultés ! 
+La société est passée de 60 salariés en 2013 à près de 300 aujourd’hui, dont 200 sur votre site parisien. 
+Comment fait-on pour garder sa culture d’entreprise et intégrer les nouveaux venus quand on grossit 
+aussi vite ? 
+F.M. Tant qu’on était 60, on arrivait tous à se connaître et à se parler. Mais on savait que ça n’allait pas 
+durer. En 2013, on a fait notre premier « Blablabreak » au ski – devenu une institution. C’était l’occasion de 
+se retrouver et de décompresser. On en a profité pour faire un vaste brainstorming, afin d’identifier les mots 
+qui caractérisaient le mieux notre façon de travailler. Mis en forme, cela a donné les dix valeurs qui sont 
+aujourd’hui affichées partout dans nos locaux et fournissent à chacun une guideline pour travailler au 
+quotidien : « Fail. Learn. Succeed», car je crois aux vertus de l’échec, «Done is better than perfect», «The 
+member is the boss»… A côté de ça, nous avons mis en place des mécanismes pour intégrer au mieux les 
+nouveaux venus et créer de la cohésion : un petit déjeuner le vendredi dans notre salle lounge pour tous ceux 
+qui le souhaitent, un «Blablatalk» par semaine où chaque département (architecture, produit, développement, 
+communication…) raconte son actualité à tour de rôle, un système de parrainage pour les nouveaux venus, 
+un intranet où tout le monde publie des articles sur ce qu’il fait… On a même une application mobile qui 
+permet de mettre un nom sur les visages de chacun ! 
+Comment le travail est-il organisé chez Blablacar ? 
+F.M. C’est une organisation horizontale, qui repose sur l’autonomie et la responsabilisation de chacun. À 
+côté des trois associés – Francis Nappez, Nicolas Brusson et moi-même –, la société s’appuie sur les «heads 
+of department» qui chapeautent chacun les dix départements et sur une vingtaine de «teams leaders». Ce sont 
+plus des coordinateurs que des managers au sens strict, car notre management est plus orienté objectifs que 
+contrôle. Nos douze bureaux étrangers fonctionnent avec un country manager et une petite équipe. […]  
+Et lorsque vous ouvrez un nouveau pays ? 
+F.M. C’est compliqué de créer une équipe sur place en partant de zéro. Quand cela est possible, nous faisons 
+des « acquihires», des acquisitions destinées avant tout à recruter une équipe. Pour nous, cela consiste à 
+racheter un petit site de covoiturage local dont l’équipe se bat comme nous l’avons fait dans les premières 
+années. On va les voir, on leur propose notre produit, notre méthode de croissance, notre SAV… et on essaie 
+de les convaincre de nous rejoindre. En échange, on gagne des gens ultramotivés qui connaissent 
+FICHEBEN 
+
+=== PAGE 13 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+12/13 
+ 
+parfaitement le marché local. Si cela n’est pas possible, nous envoyons quelqu’un de chez nous sur place –
+ avec 29 nationalités différentes dans nos équipes, cela peut se trouver. Si nous n’avons personne en interne, 
+alors nous prenons la «hard way» : nous recrutons directement dans le pays. C’est ce qu’on a fait pour la 
+Turquie ou l’Inde, notamment.[…] 
+ANNEXE 8 : « BlaBlaCar s’attaque au Mexique »  
+Article publié sur le site : Le Monde.fr | 22.04.2015 à 16h11 • Mis à jour le 23.04.2015 à 11h08 | Par 
+Philippe Jacqué 
+En savoir plus sur http://www.lemonde.fr/economie/article/2015/04/22/apres-l-europe-et-l-inde-blablacar-s-attaque-au-
+mexique_4620741_3234.html#QZxHTmBzW5WE1ZlY.99 
+BlaBlaCar poursuit sa politique d’expansion internationale, par acquisitions. Après de récentes 
+opérations en Inde et en Europe, le site, dirigé par Frédéric Mazzela, s’implante au Mexique, pays où 
+les transports ferroviaires longue distance sont relativement peu développés, au contraire de l’autocar, 
+concurrent sérieux du covoiturage dont BlaBlaCar est devenu l’acteur de référence sur le Vieux 
+Continent. La PME française a annoncé, mercredi 22 avril, le rachat de la start-up mexicaine, Rides. 
+A son habitude, elle n’a pas dévoilé le montant de la transaction. 
+Cette acquisition intervient tout juste une semaine après le rachat de Carpooling, jusqu’alors principal 
+concurrent européen de BlaBlaCar, ainsi que du petit site hongrois, AutoHop. Avec ces trois achats 
+successifs, le site de covoiturage de référence sur le vieux continent grossit singulièrement. Désormais, il 
+emploie 290 personnes sur trois continents, et compte 20 millions d’utilisateurs, installés dans 19 pays, 
+comme la Russie, l’Allemagne ou la Turquie. 
+Pour accélérer ce développement international, l’entreprise, créée en 2004 – mais lancée officiellement 
+en 2006 – avait procédé, en 2014, à une levée de 100 millions de dollars de capital (93,22 millions d’euros). 
+Concrètement, à l’étranger, elle préfère avancer ses pions à travers des rachats pour imposer rapidement sa 
+présence avec des acteurs soit établis, soit très au fait du marché local. De plus, si dans l’Hexagone 
+l’utilisation de la plateforme Internet de mise en relation entre conducteurs et passagers est payante depuis 
+2010, à l’étranger, le service est, pour l’instant, le plus souvent gratuit afin d’accélérer la venue de 
+conducteurs et donc doper le nombre d’utilisateurs. 
+BlaBlaCar va sans doute encore accélérer son déploiement sur d’autres marchés afin d’imposer sa marque au 
+niveau mondial. Entre le Canada, les Etats-Unis, et, plus au sud, le Brésil ou le Chili, l’entreprise ne manque 
+pas de marchés qui pourraient l’accueillir. Aux Etats-Unis, elle aurait pu capitaliser sur le nouveau service 
+lancé récemment par Carpooling, qui offrait du covoiturage longue distance avec un acteur local à partir des 
+campus. Cela ne semble, pour l’instant, pas être la voie choisie. 
+ANNEXE 9 : Données sur les masses salariales 2015 et 2016  
+Au premier janvier 2016, BlaBlaCar comptait 400 salariés qui représentaient une masse salariale de 
+12 456 000 € au 31/12/2015. La répartition au 31/12/2015 était la suivante : 
+ 
+Effectifs 
+31/12/2015 
+Salaire moyen 
+mensuel 
+2015 (en €) 
+Masse salariale 
+annuelle 
+2015 (en €) 
+Ingénieurs et développeurs 
+100 
+3600 
+4 320 000 
+Marketeurs 
+70 
+3400 
+2 856 000 
+Agents de relation 
+150 
+1700 
+3 060 000 
+Créatifs 
+30 
+2000 
+720 000 
+Personnes en charge du réseau 
+50 
+2500 
+1 500 000 
+TOTAL 
+400 
+ 
+12 456 000 
+ 
+Scénario de recrutement envisagé :  
+• 
+50 ingénieurs/développeurs : 25 au 1/04/2016 et 25 au 1/09/2016. Le salaire moyen mensuel 
+d’embauche des ingénieurs/développeurs sera de 3 500 € ;  
+• 
+100 marketeurs : 50 au 1/01/2016 et 50 au 1/06/2016. Le salaire moyen mensuel d’embauche sera de 
+3 400 € ; 
+• 
+150 agents de relation : 50 au 1/01/2016, 50 au 1/06/2016 et 50 au 1/09/2016. Le salaire moyen 
+mensuel sera de 1 600 €. 
+FICHEBEN 
+
+=== PAGE 14 ===
+DSCG 2017 UE3 – Management et contrôle de gestion   
+13/13 
+ 
+BlaBlaCar envisage une augmentation collective de 3% au 01/07/2016 pour tous les salariés qui étaient 
+présents au sein de la société au 1/01/2016. 
+Pour le suivi de la masse salariale 2016 (question 2), on utilisera pour les catégories de personnel qui ont 
+connu des changements d’effectifs au cours de l’année 2016, les ETP (Equivalents Temps Plein) suivants :  
+• 
+ETP Ingénieurs/développeurs : 127 
+• 
+ETP Marketeurs : 149 
+• 
+ETP Agents de relation : 245 
+FICHEBEN 

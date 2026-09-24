@@ -1,0 +1,526 @@
+=== PAGE 1 ===
+DSCG 2017 UE2 Finance  
+ 
+1/7 
+ 
+ 
+ 
+ 
+ 
+1720002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2017 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2017 UE2 Finance  
+ 
+2/7 
+ 
+ 
+  
+ 
+ 
+ 
+     1720002 
+ 
+ 
+ 
+ 
+SESSION 2017 
+ 
+ 
+UE 2 – FINANCE 
+Durée de l’épreuve : 3 heures - coefficient : 1 
+Document autorisé : 
+Aucun  
+ 
+Matériel autorisé : 
+Une calculatrice de poche à fonctionnement autonome sans imprimante et sans aucun moyen de transmission, 
+à l’exclusion de tout autre élément matériel ou documentaire (circulaire n° 99-186 du 16/11/99 ; BOEN 
+n° 42). 
+ 
+Document remis au candidat : 
+Le sujet comporte 7 pages numérotées de 1 à 7. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+Le sujet se présente sous la forme de 2 parties indépendantes 
+Page de garde ............................................................................................................................................ page 1 
+PARTIE 1 - Étude de cas : le cas CARBIOS ................................... (75 points, soit 15/20) ...................... page 3 
+PARTIE 2 - Réflexion sur la couverture des risques financiers ..... (25 points, soit  5/20) ....................... page 4 
+________________________________________________________________________________________________ 
+Le sujet comporte les annexes suivantes 
+ 
+PARTIE  1 
+Annexe 1 - Présentation de la société CARBIOS ......................................................................................... page 4 
+Annexe 2 - Modalités d’admission sur Alternext (Euronext Growth) ........................................................... page 5 
+Annexe 3 - Modalités de fixation du prix de l’action CARBIOS .................................................................. page 5 
+Annexe 4 - Détermination de la fourchette de prix de l’action CARBIOS .................................................... page 6 
+ 
+PARTIE  2 
+Annexe 5 - Prudence sur le risque de change ............................................................................................... page 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs hypothèses, 
+il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2017 UE2 Finance  
+ 
+3/7 
+ 
+ 
+PARTIE 1 - ÉTUDE DE CAS  
+ 
+CARBIOS est une société de biotechnologie clermontoise créée en 2011 et spécialisée dans la valorisation 
+des déchets plastiques. La société développe des solutions innovantes pour les industriels à partir des enzymes 
+permettant la dégradation des plastiques et la conception de procédés industrialisables exploitant ces outils. Alors 
+que la réglementation en matière de recyclage et de valorisation plastiques se durcit en Europe, CARBIOS apparaît 
+comme un opérateur capable de proposer aux industriels une solution économique, environnementale et 
+réglementaire attractive. Son ambition est de devenir un acteur de premier plan sur un marché en fort essor autour 
+de trois axes de développement majeurs :  
+• développer des plastiques dont l’auto-dégradation en fin de vie est programmable ;  
+• régénérer les vieux plastiques en plastiques neufs ;  
+• faire des déchets plastiques une nouvelle matière première de grande valeur, substituable au pétrole.  
+ 
+CARBIOS souhaite s’introduire en bourse sur le marché réglementé Alternext1 Paris en vue d’obtenir des   
+moyens supplémentaires pour financer son développement. 
+ 
+Les deux dossiers suivants peuvent être traités de manière indépendante. M€ signifie millions d’euros. 
+Dossier 1 
+À l’aide de vos connaissances et des annexes 1, 2 et 3, il vous est demandé le travail suivant : 
+ 
+ 
+Travail à faire 
+ 
+1. Présenter les avantages et les inconvénients d’une introduction en bourse dans le cadre général.  
+ 
+2. Exposer les objectifs recherchés par CARBIOS au travers de son introduction en bourse. Préciser une 
+alternative à l’introduction en bourse qu’auraient pu choisir les dirigeants de CARBIOS en vue de 
+s’adresser à un nombre limité d’investisseurs. 
+ 
+3. Que signifie une option de sur-allocation ? Pourquoi un tel dispositif a été prévu ? 
+ 
+4. La société DEINOVE détient 2.8% du capital de CARBIOS préalablement à l’émission. Puisqu’elle décide 
+de ne pas souscrire à l’émission des actions nouvelles, sa participation dans le capital CARBIOS devrait 
+baisser. En supposant l’augmentation de capital souscrite à 100%, présenter la situation de DEINOVE après 
+l’introduction dans les deux cas de figure suivants :  
+• 
+émission réalisée à 100%, soit 810 000 actions nouvelles ;  
+• 
+exécution de la clause d’extension de 15%, soit 121 500 actions nouvelles supplémentaires. 
+ 
+Dossier 2 
+ 
+À l’aide de vos connaissances et des annexes 3 et 4, il vous est demandé le travail suivant :  
+ 
+ 
+Travail à faire 
+ 
+ 
+5. Justifier le choix de ne pas utiliser la méthode des comparables pour calculer la fourchette de prix 
+indicative pour l’introduction en bourse. 
+ 
+6. Calculer la valeur de marché des fonds propres de CARBIOS par la méthode des flux de trésorerie 
+disponibles actualisés (en l’absence d’exercice de la clause d’extension). 
+ 
+7. L’introduction en bourse a été réalisée à 100% pour un prix de 14 € par action. Déterminer le montant du 
+capital flottant de la société immédiatement après l’introduction en bourse. 
+ 
+8. Au 1er mars 2017, le cours d’une action CARBIOS est de 7,39 €. Il a été conseillé aux dirigeants de 
+procéder à un regroupement d’actions. Préciser en quoi le regroupement est pertinent. 
+ 
+ 
+ 
+1 Euronext Growth 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2017 UE2 Finance  
+ 
+4/7 
+ 
+ 
+PARTIE 2 - RÉFLEXION  
+ 
+À partir de vos connaissances et de l’annexe 5, il est demandé au candidat de traiter le sujet suivant :  
+ 
+« La couverture des risques financiers dans une entreprise internationale » 
+ 
+Après avoir rappelé les principaux risques financiers auxquels une entreprise ayant une activité internationale est 
+confrontée, vous expliquerez sous quelles conditions et comment elle peut s’en couvrir.  
+ 
+Il est demandé au candidat de répondre de manière précise et structurée à la question posée, en limitant sa 
+réponse à 4 pages au maximum. 
+ 
+Annexe 1 - Présentation de la société CARBIOS 
+CARBIOS est une société anonyme (SA) créée en 2011 et basée à Clermont-Ferrand. Depuis sa création, 
+cette jeune société innovante s’est financée par des levées de fonds d’un montant cumulé de 4,4 M€ constitué d’un 
+emprunt obligataire convertible de 0,8 M€, des aides de BPI France (ex-Oséo) et de la région Auvergne de 3,6 M€. 
+Ses actionnaires historiques sont au nombre de trois : la Holding Incubatrice Chimie Verte (55,8%), Truffle 
+Capital, un fonds européen de capital-investissement (41,4%) et le groupe Deinove (2,8%).  
+La société n'a pas de concurrence identifiée directe ou indirecte. Les opérateurs en chimie verte, certes 
+nombreux, sont la plupart du temps positionnés sur les biocarburants et utilisent souvent une technologie basée sur 
+des micro-organismes modifiés (bactéries, micro-algues). Plutôt que de modifier des micro-organismes, CARBIOS 
+développe des solutions technologiques autour des enzymes responsables des réactions biologiques dans le micro-
+organisme. Grâce à son expertise sur les enzymes, la société développe des bioprocédés permettant de mieux 
+valoriser les déchets plastiques des industriels. Le modèle économique de CARBIOS repose sur la vente de 
+licences (royalties) liées à ces bioprocédés auprès de partenaires industriels, qui en assurent l’exploitation et la 
+commercialisation.  
+CARBIOS s'est développé autour du programme de développement Thanaplast qui a bénéficié du soutien de 
+trois instituts de recherche (INRA, CNRS, Université de Poitiers). La signature de deux contrats de deux 
+partenariats industriels de long terme constitue une étape clé de ce programme car ils valident la technologie 
+d'encapsulation des enzymes responsables de la dégradation des polymères. Le premier contrat signé avec le groupe 
+Limagrain concerne le marché des films de paillage pour l’agriculture. Le second contrat signé avec le groupe 
+Barbier concerne le marché des sacs plastiques ménagers biodégradables. Suite à la réalisation de ces deux contrats, 
+CARBIOS a reçu en 2017 le prix Cleantech du « Meilleur Partenariat PME innovante/Grand Groupe » décerné par 
+l’AFIC (Association Française des Investisseurs pour la Croissance) et le cabinet Ernst and Young. 
+ 
+Le recyclage est un autre champ d'application de Thanaplast, grâce à l'identification d'enzymes lié au 
+polyéthylène téréphtalate (PET). Dans ce cadre, il serait possible de créer une économie circulaire où le PET serait 
+recyclé à l'identique permettant une réutilisation théoriquement illimitée. Enfin, CARBIOS explore la production 
+de bioplastiques pour substituer les polymères existants.  
+ 
+CARBIOS souhaite développer prioritairement ces quatre marchés : films de paillage, sacs plastiques, PET 
+et bioplastiques. Les dirigeants de CARBIOS et son actionnaire Truffle Capital prévoient des besoins de trésorerie 
+importants liés au développement de la société sur ces quatre marchés. Toutefois, ils ne souhaitent pas recourir à 
+l’endettement bancaire pour le financer. En revanche, l’augmentation de capital réalisée à l’occasion de son 
+introduction sur Alternext2 doit permettre à CARBIOS d’accélérer son développement par une levée de fonds 
+significative espérée entre 10 et 15 M€. 
+ 
+Les revenus de licence (royalties) liés aux contrats signés avec les groupes Limagrain et Barbier constituent 
+la majeure partie du chiffre d’affaires (CA) réalisés en 2012 mais aussi en 2013.  
+Par ailleurs, les dirigeants de CARBIOS prévoient une amélioration nette du CA dès l’année 2014 car ils anticipent 
+de prochaines signatures de contrats de licence de long terme avec des industriels sur les quatre marchés indiqués 
+auparavant: films de paillage, sacs plastiques, PET et bioplastiques. 
+ 
+ 
+ 
+ 
+2 Euronext Growth 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2017 UE2 Finance  
+ 
+5/7 
+ 
+ 
+Annexe 2 - Modalités d’admission sur Alternext (Euronext Growth) 
+ 
+Période de souscription : 
+La période de souscription débutera le 29 novembre et prendra fin le 12 décembre 2013 à 18 heures (heure de 
+Paris). Avant introduction, le capital social de l’entreprise CARBIOS est constitué de 2 700 000 actions d’une 
+valeur nominale de 0,7 € chacune. 
+ 
+Nombre d’actions offertes : 
+810 000 Actions Nouvelles par augmentation de capital (total de 10 327 500 euros) sont offertes au prix de 12,75 € 
+(prix égal au point médian de la fourchette indicative de prix) 
+Fourchette indicative de prix : 11,48 € - 14,02€ 
+ 
+Procédure de diffusion : 
+- 
+placement global : 90% de l’offre d’Actions Nouvelles ; 
+- 
+offre à Prix Ouvert : 10% de l’offre d’Actions Nouvelles. 
+ 
+Clause d’extension et option de sur-allocation : 
+En fonction de la demande, la Société pourra, en accord avec le Chef de File et Teneur de Livre, décider 
+d’augmenter le nombre d’Actions Offertes d’un maximum de 15% du nombre initial d'Actions Nouvelles dans le 
+cadre de l’Offre, soit un maximum de 121 500 Actions Nouvelles Complémentaires allouées. 
+Afin de couvrir d’éventuelles sur-allocations, la Société CARBIOS consentira à la banque émettrice (Invest 
+Securities), une option permettant l’acquisition d’un nombre d’actions représentant un maximum de 15% du 
+nombre d’Actions Nouvelles. Cette Option de sur-allocation pourra être exercée, en tout ou partie, au prix de 
+l’Offre, en une seule fois à tout moment par Invest Securities, jusqu’au 13 janvier 2014 (inclus). 
+ 
+Produits et charges relatifs à l’offre : 
+Sur la base d’une émission de 810 000 Actions Nouvelles à un prix se situant au point médian de la fourchette 
+indicative du prix de l’Offre (soit 12,75€ par action), le produit brut estimé de l’émission des actions nouvelles est 
+de 10,327 M€. Il pourra être porté à 11,877 M€ en cas d’exercice intégral de la clause d’extension et de l’option de 
+sur-allocation. 
+Sur la base d’une émission de 810 000 Actions Nouvelles et en l’absence d’exercice de la clause d’extension et de 
+l’option de sur-allocation, la rémunération globale des intermédiaires financiers et le montant des frais juridiques, 
+comptables et administratifs sont estimés à 1,1 M€. Les frais juridiques, comptables et administratifs seront pris en 
+charge par la Société CARBIOS. La rémunération globale des intermédiaires financiers sera également prise en 
+charge par la Société CARBIOS. 
+ 
+Engagements de souscriptions : 
+Truffle Capital s’engage à souscrire pour 2 M€, soit 19,3 % du montant brut de l’offre (hors exercice de la clause 
+d’extension et de l’option de sur-allocation) sur la base d’un prix égal au point médian de la fourchette indicative 
+du prix de l’Offre, soit 12,75€ 
+ 
+Garantie :  
+L'offre ne fait pas l'objet d'un contrat de garantie. En cas d’insuffisance de demande, l’augmentation de capital 
+pourrait être limitée aux souscriptions reçues à condition qu’elles atteignent 75% du montant prévu. Si ce seuil 
+n’est pas atteint, l’opération sera annulée. 
+ 
+Opération de stabilisation : 
+Des opérations en vue de stabiliser ou soutenir le prix de marché des actions de la société sur Alternext3 pourront 
+être réalisées du 13 décembre 2013 au 13 janvier 2014 (inclus). 
+ 
+Annexe 3 - Modalités de fixation du prix de l’action CARBIOS 
+ 
+Le prix des actions dans le cadre de l’Offre à Prix Ouvert sera égal au prix des actions dans le cadre du 
+Placement Global et sera arrêté en même temps que celui-ci soit le 13 décembre 2013.  
+Le prix de l’Offre résultera de la confrontation de l’offre de titres et des demandes d’achat émises selon la 
+technique de « construction du livre d’ordres » effectuée sur la base des critères de marché suivants : 
+- capacité des investisseurs retenus à assurer un développement ordonné du marché secondaire ; 
+- ordre d’arrivée des demandes des investisseurs ; 
+ 
+3 Euronext Growth 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2017 UE2 Finance  
+ 
+6/7 
+ 
+ 
+- quantité demandée ;  
+- sensibilité au prix des demandes exprimées par ces investisseurs. 
+ 
+Le Prix du Placement Global devrait se situer dans une fourchette comprise entre 11,48 € et 14,02 € par 
+action, fourchette qui pourra être modifiée à tout moment jusqu’au jour prévu pour la fixation du Prix du Placement 
+Global. Cette fourchette indicative a été déterminée conformément aux pratiques de marché et est cohérente avec 
+les résultats fournis par la méthode des Flux de Trésorerie Actualisés (FTD) habituellement employée dans le cadre 
+de projets d’introduction en bourse de sociétés de chimie verte. 
+ 
+ 
+Annexe 4 - Détermination de la fourchette de prix de l’action CARBIOS 
+ 
+Deux méthodes ont été envisagées pour déterminer la fourchette indicative de prix de l’action CARBIOS. 
+ 
+ 
+Méthodes des multiples de comparables boursiers : 
+La méthode de valorisation par les comparables boursiers est une méthode analogique qui vise à comparer 
+CARBIOS à d’autres sociétés cotées appartenant au secteur de la chimie verte présentant un modèle opérationnel et 
+des caractéristiques financiers proches. Quatre sociétés cotées ont été retenues.  
+DEINOVE est une société de biotechnologie française qui a réalisé en 2013 un chiffre d’affaires d’un million 
+d’euros. Elle utilise les propriétés enzymatiques de certaines bactéries pour produire des biocarburants, des 
+antibiotiques ou des produits chimiques rares, qui ne pourraient être obtenus autrement.  
+ 
+GLOBAL BIOENERGIES est une société de biotechnologie française qui a développé un procédé pour produire 
+de l’isobutène (un dérivé du pétrole) à partir d’un procédé biologique. D'autres molécules pétrochimiques, 
+notamment le propylène et le butadiène font l’objet de recherche et pourraient être commercialisés prochainement. 
+ 
+METABOLIC EXPLORER est une société de biotechnologie française qui commercialise depuis le début de 
+l’année 2012 trois produits : le PDO, la L-Méthionine et le MPG. Leurs ventes ont permis à Metabolic Explorer de 
+dégager un CA de 4 millions d’euros en 2013 soit près du double de celui de 2012. 
+ 
+METABOLIX est une société de biotechnologie américaine, qui développe et commercialise des technologies 
+pour produire des biopolymères, des composés chimiques biosourcés et de la bioénergie. Elle cotée sur le marché 
+américain du Nasdaq.  
+ 
+Société 
+Pays 
+VE  
+(en million €) 
+CA  
+(en million €) 
+EBE  
+(en million €) 
+ 
+ 
+2012     2013 
+2012      2013 
+2012      2013 
+Deinove  
+France 
+52 
+63 
+0 
+1 
+- 4 
+-4 
+Global Bioenergies  
+France 
+45 
+48 
+2 
+2 
+- 6 
+-1,2 
+METabolic EXplorer  
+France 
+46 
+53 
+2 
+3,9 
+1 
+2,1 
+Metabolix  
+Etats-Unis 
+20 
+20 
+4 
+3,3 
+-21 
+3,6 
+                                                                                        Source : Factset  
+ 
+ 
+Note : VE et EBE signifient respectivement Valeur d’Entreprise et Excédent Brut d’Exploitation.  
+ 
+Méthodes des flux de trésorerie disponibles actualisés (FTD) : 
+La méthode des flux de trésorerie actualisés permet d’apprécier la valeur intrinsèque de la société CARBIOS 
+sur la base de ses cash-flows futurs qu’elle produira à partir des revenus issus de la vente de licences (royalties). 
+Cette méthode est adaptée à la valorisation de CARBIOS qui évolue sur un secteur à fort potentiel de croissance et 
+extériorisant des cash-flows disponibles positifs, après financement des investissements en R&D et financement 
+des besoins en fonds de roulement.  
+La mise en œuvre de cette méthode à partir d’hypothèses de travail établies par un analyste financier de la 
+société Invest Securities est cohérente avec la fourchette de prix proposée dans le présent prospectus. Les 
+hypothèses retenues par cet analyste, pour la valorisation par les FTD, sont les suivantes :  
+- la date de l’évaluation – et donc de l’actualisation des flux – est fixée est au 1er janvier 2013. Par conséquent, 
+l’estimation du flux de trésorerie disponible à fin 2013 se fait sur 12 mois ; 
+- par mesure de simplification, les flux de trésorerie disponibles sont actualisés en années entières ; 
+- les flux de trésorerie sont actualisés au coût moyen pondéré du capital évalué à 10,75% ;  
+- le taux de croissance à l’infini est estimé à 2,4% ; 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2017 UE2 Finance  
+ 
+7/7 
+ 
+ 
+- les prévisions sont effectuées sur la base d’une période de 7 ans et concernent le chiffre d’affaires, le niveau de 
+marge opérationnelle, d’investissements, de besoin en fonds de roulement ; 
+- les investissements prévus concernent uniquement les projets présentés en Annexes 1 et 2 ; 
+- CARBIOS ne reporte pas les pertes prévues en 2013 et en 2014 pour les déduire des bénéfices des exercices 
+suivants ; 
+- CARBIOS a un endettement nul à la date de son introduction et il n’est pas prévu que la société contracte des 
+dettes financières ces huit prochaines années ; 
+- un taux normatif d’Impôt sur les Sociétés (IS) 33 1/3% sera seulement appliqué.  
+ 
+Données prévisionnelles exprimées en millions d’euros 
+ 
+en millions d’€ 
+2013 2014 2015 2016 2017 2018 2019 
+Chiffre d’affaires (CA) 
+1 
+2,4 
+3 
+7,4 
+13,6 
+21,4 
+32,9 
+Résultat d’exploitation (REX) 
+-2,0 
+-1,7 
+0,1 
+2,1 
+5 
+6,9 
+8,45 
+Dotations aux Amortissements (DAP) 
+0,7 
+0,6 
+0,6 
+0,7 
+0,7 
+0,8 
+0,8 
+Investissements 
+0,4 
+0,5 
+0,2 
+0,2 
+0,2 
+0,1 
+0,1 
+Variation du BFR (BFRN – BFRN-1) 
+0,1 
+-0,2 
+-0,2 
+-0,4 
+0,1 
+0,1 
+0,1 
+ 
+Valeur de la société CARBIOS :  
+La valeur retenue correspond à la valeur découlant de la méthode des Flux de Trésorerie Disponibles (FTD) 
+actualisés (moyenne de la fourchette).  
+Après avoir appliqué une variation de + et – 10% à la valeur obtenue selon cette même méthode, les 
+dirigeants de CARBIOS ont ensuite fixé une fourchette de prix entre 11,48 € et 14,02 € par action.  
+ 
+Annexe 5 - Prudence sur le risque de change 
+Extrait de L'AGEFI Hebdo n°553 du jeudi 16 février 2017, Yves Rivoal 
+ 
+Pour se prémunir contre la chute du sterling dans les jours qui ont suivi le référendum britannique, les 
+entreprises ont opéré des ajustements dans leur stratégie de couverture, comme le confirme le trésorier d'un groupe 
+du CAC 40. « Pour 2016, le Brexit n'était pas un sujet car nous étions totalement couverts sur la paire euro/livre. 
+Pour 2017, nous avons décidé à l'approche du référendum d'augmenter notre taux de couverture jusqu'à 85 %, 
+essentiellement avec des 'forwards' et quelques options afin de créer une symétrie favorable dans notre portefeuille 
+de couverture. Cette politique systématique nous a permis d'acheter un an de tranquillité. » Chez Interparfums, un 
+groupe spécialisé dans la conception, la fabrication et la distribution de parfums pour de grandes marques du luxe, 
+le changement de stratégie sur la paire euro/livre est intervenu... la veille du référendum. « Comme nous ne 
+croyions pas au scénario du Brexit, nous n'avions couvert que 50 % de nos factures clients au Royaume-Uni, se 
+souvient Franz Zurenger, trésorier d'Interparfums. C'est en visitant une salle des marchés où régnait une ambiance 
+très pesante la veille du référendum que nous avons décidé de changer notre fusil d'épaule. En rentrant au bureau, 
+j'ai couvert toute la fin de l'exercice 2016 et le premier trimestre 2017 au cours de 0,77 livre pour un euro. Cette 
+décision nous a permis de ne pas être affectés par la dévaluation de la livre. Elle nous a même permis de gagner de 
+l'argent car le cours est aujourd'hui autour de 0,86. »  
+Le tremblement de terre du Brexit à peine digéré, le marché des changes a dû faire face à une deuxième 
+secousse avec l'élection de Donald Trump en novembre. Les circonvolutions de la paire euro/dollar ayant été moins 
+marquées que celles de l'euro/livre, l'impact sur les stratégies de couverture a été plus mesuré, comme le reconnaît 
+Clémentine Tassin, directeur de la trésorerie et des marchés de capitaux du groupe Suez : « Sur les financements 
+intragroupes, nous sommes toujours couverts à 100 %, et il n'y a pas de dérogation possible à cette règle. Pour la 
+couverture d'actifs nets, nous avons simplement ajusté notre stratégie en revoyant nos cours 'target'. Et pour ce qui 
+est de nos projets de développement à l'international, nous intégrons dans le prix remis au client au moment de 
+l'appel d'offres une analyse du cours de change et des évolutions potentielles de la devise qui inclut une revue du 
+risque de fluctuation du cours 'spot', ainsi que des points de terme sur l'horizon de signature du contrat. Et lorsque 
+nous décrochons un appel d'offres et que le projet entre en vigueur, nous couvrons systématiquement le risque de 
+change associé. » L'incertitude sur la paire euro/dollar a en revanche conduit le groupe Interparfums à infléchir sa 
+stratégie. « Le groupe ayant peu de dépenses en devise américaine, nous nous contentons en général de couvrir 
+entre 50 % et 70 % de nos factures clients afin de profiter, sur les 30 % restants, des opportunités offertes par le 
+'spot', confie Franz Zurenger.  
+FICHEBEN 

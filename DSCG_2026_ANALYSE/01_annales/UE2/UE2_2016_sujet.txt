@@ -1,0 +1,689 @@
+=== PAGE 1 ===
+DSCG 2016 UE2 Finance  
+ 
+1/8 
+ 
+ 
+ 
+ 
+1620003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2016 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2016 UE2 Finance  
+ 
+2/8 
+ 
+  
+ 
+ 
+ 
+     1620003 
+ 
+ 
+ 
+ 
+SESSION 2016 
+ 
+ 
+UE 2 – FINANCE 
+Durée de l’épreuve : 3 heures - coefficient : 1 
+Document autorisé : 
+Aucun  
+ 
+Matériel autorisé : 
+Une calculatrice de poche à fonctionnement autonome sans imprimante et sans aucun moyen de transmission, 
+à l’exclusion de tout autre élément matériel ou documentaire (circulaire n° 99-186 du 16/11/99 ; BOEN 
+n°42). 
+ 
+Document remis au candidat : 
+Le sujet comporte 8 pages numérotées de 1/8 à 8/8. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+Le sujet se présente sous la forme de 2 parties indépendantes 
+Page de garde ............................................................................................................................................ page 1 
+PARTIE 1 : Étude de cas : le cas GLI ............................................. (75 points, soit 15/20) ...................... page 3 
+PARTIE 2 : Réflexion sur les opérations de croissance externe (25 points soit 5/20) .............................. page 4 
+________________________________________________________________________________________________ 
+Le sujet comporte les annexes suivantes 
+ 
+PARTIE  1 
+Annexe 1 : Comptes consolidés de GLI  ...................................................................................................... page 5 
+Annexe 2 : Activité GLI et croissance externe ............................................................................................. page 7 
+Annexe 3 : Ratios sectoriels......................................................................................................................... page 7 
+Annexe 4 : Données boursières et financières des concurrents A, B, C ......................................................... page 7 
+Annexe 5 : Prévisions financières de GLI .................................................................................................... page 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs hypothèses, 
+il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2016 UE2 Finance  
+ 
+3/8 
+ 
+ 
+PARTIE 1 : ÉTUDE DE CAS – LE CAS GLI 
+ 
+Cotée au compartiment C, l’entreprise GLI, faiblement risquée, est spécialisée dans le secteur de la 
+prestation et de l’ingénierie informatique. Afin d’atteindre une taille critique, cette entreprise a mis en 
+œuvre sur les trois dernières années une stratégie de croissance externe qui l’a amenée à prendre le 
+contrôle de l’entreprise SSII INFOSET. Cette période a cependant été également marquée par un léger 
+ralentissement de l’activité, lié en particulier à l’arrivée à maturité des secteurs dans lesquels 
+interviennent ses clients. Par ailleurs, le groupe s’est retrouvé, auprès de ses clients grands comptes, en 
+concurrence avec d’autres acteurs, plus importants et plus réputés. 
+Depuis quelques semaines, GLI est la cible amicale du groupe PROSA, intervenant dans le même secteur 
+d’activité et dont l’objectif est de se positionner comme un acteur majeur du conseil en informatique sur 
+le marché français et européen.  
+ 
+Le directeur de PROSA vous charge de lui fournir une note synthétique sur la situation financière (dossier 
+1) et les principales méthodes d’évaluation en analysant leur pertinence pour évaluer le groupe cible 
+(dossiers 2 et 3).  
+ 
+Les trois dossiers suivants peuvent être traités de manière indépendante. Le taux d’imposition (IS) à 
+retenir pour les dossiers 2 et 3 est de 33,33%. 
+ 
+Dossier 1 
+ 
+A l’aide de vos connaissances et des annexes 1, 2 et 3, vous devez préparer un rapport sur la situation 
+financière de la  société cible GLI. 
+ 
+Travail à faire 
+ 
+1. Analyser l’aptitude du groupe, sur les deux dernières années, à dégager des résultats au 
+regard de la stratégie mise en œuvre. 
+2. Analyser la rentabilité du groupe à partir de la détermination de sa rentabilité financière 
+(Return On Equity ou ROE). 
+3. Analyser la situation financière du groupe. Pour ce faire, vous déterminerez notamment le 
+taux d’endettement (le gearing), la capacité de remboursement et la couverture des frais 
+financiers. 
+4. Réaliser un diagnostic financier en l’articulant avec la stratégie mise en œuvre et en 
+dégageant les points forts et les points faibles de GLI. 
+ 
+Dossier 2 
+ 
+Afin de préparer le dossier de valorisation des titres GLI, le directeur financier de PROSA vous demande 
+d’estimer son coût moyen pondéré du capital (CMPC). 
+ 
+Travail à faire 
+  
+5. À partir de l’annexe 1, déterminer le coût apparent de la dette brute de GLI pour 2015.  
+6. A l’aide de l’annexe 4, déterminer le bêta d’activité moyen des trois sociétés comparables A, 
+B et C, le bêta de la dette de GLI, et le bêta des capitaux propres de GLI. En déduire le coût 
+des fonds propres de GLI pour 2015.  
+7. Définir et calculer le coût moyen du capital pour 2015 en supposant que le ratio 
+d’endettement brut (dettes financières brutes/capitaux propres) sera constant tout au long 
+de la durée de vie de l’entreprise. 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2016 UE2 Finance  
+ 
+4/8 
+ 
+Dossier 3 
+ 
+Le directeur financier de PROSA souhaite évaluer la société en utilisant la méthode des flux de trésorerie 
+actualisés. Quels que soient les résultats obtenus dans les parties précédentes, vous utiliserez les données 
+suivantes pour la suite du sujet :  
+ 
+Coût des capitaux propres : 9,5 % 
+Coût moyen pondéré du capital : 9 % 
+Nombre actions : 30 000 000 
+Taux de croissance infini « g » pour les flux de trésorerie disponibles : 1,5% 
+ 
+L’évaluation se fera au 31 décembre 2015. 
+ 
+Travail à faire 
+ 
+8. Établir les flux de trésorerie disponibles prévisionnels (Free Cash Flows) en utilisant 
+l’annexe 5. 
+9. Déterminer la valeur des capitaux propres de GLI au 31/12/2015. Commenter les 
+résultats obtenus. 
+ 
+ 
+ 
+PARTIE 2 : RÉFLEXION  
+ 
+ 
+A partir de vos connaissances, il est demandé au candidat de traiter le sujet suivant :  
+ 
+Motivations stratégiques et financières des opérations de croissance externe  
+ 
+Après avoir défini les modalités de la croissance externe, vous analyserez les objectifs stratégiques et 
+financiers de ce mode de développement ainsi que leurs limites. 
+ 
+Il est demandé au candidat de répondre de manière précise et structurée à la question posée, en limitant 
+sa réponse à 4 pages au maximum. 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2016 UE2 Finance  
+ 
+5/8 
+ 
+Annexe 1. Comptes consolidés de GLI 
+ 
+Bilan (chiffres exprimés en K€) 
+ACTIF 
+  
+  
+2015 
+2014 
+Écarts d'acquisition 
+ 
+ 
+44 368 
+46 515 
+Immobilisations incorporelles 
+ 
+ 
+35 
+404 
+Immobilisations corporelles 
+ 
+ 
+3 340 
+2 828 
+Immobilisations financières 
+ 
+ 
+3 079 
+2 545 
+Autres actifs non courants 
+ 
+ 
+2 394 
+608 
+Impôts différés actifs 
+ 
+ 
+107 
+759 
+Actifs non courants 
+ 
+ 
+53 323 
+53 659 
+Clients et comptes rattachés 
+ 
+ 
+43 103 
+41 836 
+Autres créances 
+ 
+ 
+21 385 
+24 577 
+Actifs d'impôt exigibles 
+ 
+ 
+1 424 
+334 
+Équivalents de trésorerie 
+ 
+ 
+23 714 
+19 487 
+Actifs courants 
+ 
+ 
+89 626 
+86 234 
+Total actif 
+ 
+ 
+142 949 
+139 893 
+PASSIF 
+ 
+ 
+2 014 
+2 013 
+Capital (30 000 000 actions) 
+ 
+ 
+2 877 
+2 867 
+Primes 
+ 
+ 
+36 645 
+36 575 
+Réserves consolidées 
+ 
+ 
+21 116 
+19 169 
+Résultat net part du groupe 
+ 
+ 
+6 300 
+4 420 
+Capitaux propres part du groupe 
+ 
+66 938 
+63 031 
+Participations ne donnant pas le contrôle (intérêts minoritaires) 
+2 166 
+1 097 
+Capitaux propres consolidés 
+ 
+ 
+69 104 
+64 128 
+Dettes financières à long terme 
+ 
+ 
+6 801 
+10 107 
+Provisions à long terme 
+ 
+ 
+2 167 
+1 613 
+Impôts différés passif 
+ 
+ 
+3 
+5 
+Autres passifs non courants 
+ 
+ 
+56 
+252 
+Passifs non courants 
+ 
+ 
+9 027 
+11 977 
+Dettes financières à court terme 
+ 
+ 
+3 548 
+3 573 
+Provisions à court terme 
+ 
+ 
+50 
+75 
+Dettes fournisseurs 
+ 
+ 
+12 702 
+8 760 
+Autres dettes 
+ 
+ 
+48 290 
+50 730 
+Passifs d'impôt exigible 
+ 
+ 
+228 
+650 
+Passifs courants 
+ 
+ 
+64 818 
+63 788 
+Total passif 
+  
+  
+142 949 
+139 893 
+ 
+Les provisions à CT et à LT n’ont pas un caractère de dettes financières.   
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2016 UE2 Finance  
+ 
+6/8 
+ 
+Compte de résultat (chiffres exprimés en K€) 
+ 
+  
+2015 
+2014 
+Chiffre d'affaires 
+154 150 
+158 116 
+Autres produits opérationnels d'exploitation 
+4 674 
+3 481 
+Achats consommés 
+-1 032 
+-1 031 
+Charges externes 
+-35 809 
+-35 517 
+Impôts et taxes 
+-3 071 
+-2 967 
+Personnel 
+ 
+-110 207 
+-112 963 
+Dotations nettes aux amortissement et provisions 
+-1 765 
+-561 
+Autres produits et charges d'exploitation 
+395 
+-19 
+Résultat opérationnel courant 
+7 335 
+8 539 
+Dépréciation des écarts d'acquisition 
+-1 386 
+-170 
+Autres produits et charges opérationnels non courants (1) 
+4 691 
+-115 
+Résultat opérationnel 
+10 640 
+8 254 
+Produits des équivalents de trésorerie 
+162 
+66 
+Coût endettement brut  
+-520 
+-881 
+Autres produits et charges financiers 
+-413 
+76 
+Résultat avant impôts 
+9 869 
+7 515 
+Charges d'impôt 
+-3 003 
+-2 998 
+Résultat des activités cédées ou encours de cession 
+-400 
+0 
+Résultat de l'ensemble consolidé 
+6 466 
+4 517 
+Dont participations ne donnant pas le contrôle (intérêts minoritaires) 
+166 
+97 
+Résultat net part du groupe 
+6 300 
+4 420 
+(1) incluant les produits nets de cession de l’activité CETACOM 
+ 
+ 
+Tableau des flux de trésorerie consolidés (chiffres exprimés en K€) 
+ 
+ 
+ 
+2015 
+2014 
+Marge Brute d’Autofinancement  
+  
+  
+4 736 
+6 870 
+Variations clients 
+ 
+ 
+-1 936 
+4 523 
+Variation fournisseurs 
+ 
+ 
+4 330 
+-1 726 
+Variation autres actifs et passifs 
+ 
+ 
+-553 
+-877 
+Flux de trésorerie des activités opérationnelles 
+6 577 
+8 790 
+Acquisitions d'immobilisations 
+ 
+ 
+-2 497 
+-1 473 
+Cessions d'immobilisations 
+ 
+ 
+449 
+138 
+Variation de périmètre (1) 
+ 
+ 
+4 689 
+-313 
+Flux de trésorerie des activités d'investissement 
+2 641 
+-1 648 
+Augmentations de capital 
+ 
+ 
+135 
+38 
+Dividendes 
+ 
+ 
+-1 544 
+-213 
+Nouveaux emprunts 
+ 
+ 
+0 
+81 
+Remboursements d'emprunts 
+ 
+ 
+-3 578 
+-3 603 
+Flux de trésorerie des activités de financement 
+-4 987 
+-3 697 
+Variation de trésorerie nette 
+ 
+ 
+4 231 
+3 445 
+(1) cession de la branche d’activité CETACOM en décembre 2015
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2016 UE2 Finance  
+ 
+7/8 
+ 
+Annexe 2. Activité GLI et croissance externe 
+ 
+Le chiffre d’affaires consolidé de GLI fin 2013 (hors INFOSET) était de 133 100 K€ pour un résultat 
+opérationnel de 9 317 K€. GLI a procédé à l’acquisition de la société SSII INFOSET fin 2013 
+(décembre), celle-ci dégageant un chiffres d’affaires de 36 000 K€ en 2013. Sa contribution au chiffre 
+d’affaires consolidé de GLI est de 37 110 K€ en 2014 et 38 080 K€ en 2015. GLI contrôle 92% du capital 
+d’INFOSET. 
+INFOSET est spécialisée dans les solutions de out sourcing, alors que GLI s’était positionnée sur 
+l’intégration de systèmes (ERP) pour les moyennes entreprises et le consulting. Ces deux activités sont à 
+maturité, avec une croissance de 1,1% mais sont désormais captées par les grands acteurs SSII au 
+détriment des groupes plus petits comme GLI.  
+Par ailleurs en décembre 2015, GLI a cédé une de ses activités d’origine CETACOM (cette cession 
+n’avait pas été anticipée fin 2014). 
+ 
+Annexe 3. Ratios sectoriels 
+ 
+Les principaux indicateurs financiers sont les suivants : 
+ 
+Ratios médians 
+2015 
+Variation Chiffre d’affaires  HT 
+3% 
+EBITDA/CA 
+9% 
+Gearing* 
+32% 
+Dettes financières nettes/EBITDA 
+1,8 
+*Dettes financières nettes/Capitaux propres 
+ 
+Annexe 4. Données boursières et financières des concurrents A, B, C 
+ 
+ 
+A 
+B 
+C 
+Bêta des capitaux propres endetté 
+1,3 
+1,5 
+1,28 
+Dette financière brute/Capitaux Propres 
+0,5 
+0,67 
+0,3 
+Coût endettement brut avant IS 
+3,60% 3,90% 
+3% 
+Taux des OAT 
+2% 
+2% 
+2% 
+Rendement attendu du marché des actions 
+9% 
+9% 
+9% 
+ 
+On rappelle les formules suivantes :  
+βa =   βcp x [CP / (CP +D)] + βd x [D / (CP +D)]  
+βd = [coût de la dette – taux sans risque] / [E(Rm) – taux sans risque] 
+avec,  
+βa, le bêta de l’activité (ou des actifs économiques),  
+βd le bêta de la dette,  
+βcp, le bêta des capitaux propres endetté, 
+E(Rm), le taux de rendement du marché. 
+CP, les capitaux propres 
+D, la dette 
+ 
+A titre de simplification, on admettra que les capitaux propres et la dette soient évalués à leur valeur 
+comptable  
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2016 UE2 Finance  
+ 
+8/8 
+ 
+ 
+Annexe 5. Prévisions financières de GLI 
+ 
+Les prévisions d'activité données par la Directrice administrative et financière de GLI, hors effets du 
+rachat par PROSA, sont les suivantes :  
+ 
+En K€ 
+2016 
+2017 
+2018 
+2019 
+2020 
+% croissance CA 
+1,00% 
+2,00% 
+3,00% 
+4,00% 
+4,00% 
+CA 
+155 692 
+158 805 
+163 569 
+170 112 
+176 917 
+Achats consommés 
+-1 042 
+-1 063 
+-1 095 
+-1 139 
+-1 184 
+Charges fixes (hors DAP) 
+-149 087 
+-149 087 
+-149 087 
+-149 087 
+-149 087 
+Dotations (DAP) 
+-1 765 
+-1 765 
+-1 765 
+-1 765 
+-1 765 
+Résultat opérationnel courant  
+3 797 
+6 890 
+11 622 
+18 121 
+24 880 
+ 
+Le besoin en fonds de roulement (BFR) prévisionnel est estimé à 12 jours de CAHT. L’année est 
+supposée être à 360 jours. Le BFR 2014 peut être estimé à partir des actifs courants et dettes courantes, y 
+compris les postes d’impôts exigibles et hors éléments de trésorerie. 
+ 
+Les investissements annuels de croissance interne seront du même montant que celui de 2015 pour les 5 
+prochaines années. Les Free cash flows se calculeront hors cessions, celles-ci n’étant pas prévisibles ou 
+envisagées. Les montants des autres postes bilanciels  nécessaires seront déterminés à partir des éléments 
+du bilan de l’exercice 2015. 
+ 
+FICHEBEN 

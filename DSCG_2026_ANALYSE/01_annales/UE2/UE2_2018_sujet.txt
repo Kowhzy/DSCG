@@ -1,0 +1,340 @@
+=== PAGE 1 ===
+DSCG 2018 UE2 Finance  
+ 
+1/5 
+ 
+ 
+ 
+               1820002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2018 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2018 UE2 Finance  
+ 
+2/5 
+ 
+ 1820002 
+ 
+ 
+ 
+ 
+SESSION 2018 
+ 
+FINANCE 
+Durée de l’épreuve : 3 heures     -     coefficient : 1 
+ 
+Document autorisé : 
+Aucun  
+ 
+Matériel autorisé : 
+L’usage de tout modèle de calculatrice, avec ou sans mode examen, est autorisé. 
+ 
+Document remis au candidat : 
+Le sujet comporte 5 pages numérotées de 1/5 à 5/5. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+Le sujet se présente sous la forme de 2 dossiers indépendants 
+Page de garde..........................................................................................................................  page 1 
+DOSSIER 1 : Étude de cas  (75 points, soit 15/20).................................................................  page 3 
+DOSSIER 2 : Réflexion (25 points, soit 5/20).........................................................................  page 5 
+ 
+________________________________________________________________________________________ 
+Liste des annexes du dossier1 
+Annexe 1 : Cours boursier de LVMH et rentabilité du marché en N............................................ page 4 
+Annexe 2 : Compte de résultat en N+1 et N+2............................................................................ page 4 
+Annexe 3 : Informations extraites du bilan économique de LVMH en N+1 et N+2 ..................... page 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs 
+hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+ 
+ 
+ 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+ 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2018 UE2 Finance  
+ 
+3/5 
+DOSSIER 1 : ÉTUDE DE CAS  
+ 
+Le groupe LVMH est spécialisé dans les produits hauts de gamme à destination de la clientèle retail. 
+Leader mondial du luxe, le groupe LVMH Moët Hennessy-Louis Vuitton possède un portefeuille de 
+plus de 60 marques prestigieuses et plus de 2 500 magasins dans le monde.  
+Il est présent dans 5 secteurs d’activités : 
+- 
+Vins et Spiritueux : Moët et Chandon, Dom Pérignon, Veuve Clicquot, Krug... ;  
+- 
+Mode et Maroquinerie : Louis Vuitton, Céline, Kenzo, Givenchy... ; 
+- 
+Parfums et Cosmétiques : Dior, Guerlain, Kenzo, Givenchy... ; 
+- 
+Montres et Joaillerie : Tag Heuer, Zenith, Fred, Chaumet, De Beers... ;  
+- 
+Distribution sélective : Sephora, Au bon marché...  
+Confrontée aux variations de la conjoncture économique, cette entreprise a adopté une stratégie 
+d’internationalisation à destination des marchés émergents. Les valeurs de marché retenues sont celles 
+du portefeuille MSCI ACWI. Cet indice est composé de 2 490 entreprises (moyennes et grandes 
+capitalisations) de 23 pays développés et 24 pays émergents, ce qui couvre 85% des opportunités 
+d’investissement sur le marché des actions.  
+Dans le présent dossier, il vous est demandé d’analyser l’exposition de cette entreprise au risque de 
+marché en N, de faire le diagnostic de ses comptes consolidés et de procéder à une évaluation de sa 
+valeur. 
+Le dossier 1 se décompose en deux parties indépendantes. 
+ 
+Partie A : Évaluation du risque et de la performance de marché 
+ 
+Travail à faire 
+ 
+A l’aide de l’annexe 1 et de vos connaissances : 
+1. Calculez la rentabilité moyenne du titre et la rentabilité moyenne du marché. 
+2. Calculez la variance du titre et la variance du marché, en déduire les écart-types. 
+3. Sachant que la covariance entre la rentabilité du titre et celle du marché est de 25,05 
+calculez le coefficient béta. 
+4. Analysez le couple rentabilité-risque de ce titre au prisme des différents indicateurs calculés 
+dans les questions précédentes. 
+5. Décomposez la variance du titre en risque spécifique et en risque systématique en deux 
+temps : 
+5.1.  Définissez le risque spécifique et le risque systématique d’un titre. 
+5.2.  Calculez le risque spécifique et commentez le résultat obtenu, sachant qu’il est une 
+des deux composantes de la variance du titre (du risque total). 
+6. Après avoir défini le concept de diversification,  
+6.1. 
+Que se passe-t-il quand un investisseur décide d’acheter des titres d’une entreprise 
+concurrente du même secteur d’activité ? 
+6.2. 
+Calculez la rentabilité et le risque d’un portefeuille composé, dans une proportion 
+équivalente, de titres LVMH et de titres de l’entreprise (Y) sachant que la 
+rentabilité moyenne de ces derniers est de 3,5%, que leur écart-type est de 4,34% 
+et que le coefficient de corrélation entre les deux titres est de 0,9 ? 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2018 UE2 Finance  
+ 
+4/5 
+Partie B : Diagnostic des comptes consolidés 
+ 
+Au regard de ces performances boursières exceptionnelles, une analyse des comptes consolidés de 
+LVMH mérite d’être réalisée pour s’interroger sur la pertinence des anticipations des investisseurs. 
+Pour ce faire, un diagnostic du compte de résultat et du bilan économique permet d’apprécier les 
+fondamentaux de l’entreprise les deux années suivantes en N+1 et N+2. 
+ 
+Travail à faire 
+ 
+A l’aide de l’annexe 2, de l’annexe 3 et de vos connaissances, pour les années N+1 et N+2 :  
+1. Analysez la profitabilité de LVMH en calculant les soldes de profitabilité qui vous 
+semblent pertinents.  
+2. Analysez la rentabilité économique et financière du groupe LVMH en utilisant le taux 
+réel d’imposition.  
+3. Analysez la structure de LVMH au regard de son ratio d’endettement, de son ratio de 
+solvabilité et de ses trois ratios de liquidités. 
+4. Quelles sont vos conclusions sur la santé financière de LVMH ?  
+ 
+Annexe 1 : cours boursier de LVMH et rentabilité du marché en N 
+ 
+Date 
+Cours du titre en 
+euros 
+Rentabilité mensuelle du 
+marché 
+Mois 13 
+124,50 
+1,496% 
+Mois 12 
+117,45 
+7,217% 
+Mois 11 
+113,40 
+-2,395% 
+Mois 10 
+107,50 
+3,534% 
+Mois 9 
+92,00 
+9,353% 
+Mois 8 
+93,92 
+-3,688% 
+Mois 7 
+88,73 
+8,016% 
+Mois 6 
+85,59 
+-3,220% 
+Mois 5 
+86,17 
+-9,818% 
+Mois 4 
+87,10 
+-0,018% 
+Mois 3 
+80,00 
+6,186% 
+Mois 2 
+78,03 
+1,107% 
+Mois 1 
+78,61 
+ 
+ 
+Annexe 2 : Compte de résultat de LVMH en N+1 et N+2 
+ 
+ 
+N+2 
+N+1 
+Ventes 
+27 970 
+23 659 
+Coût des ventes  
+-9 863 
+-8 092 
+Marge brute 
+18107 
+15 567 
+Charges commerciales 
+-10 013 
+-8 360 
+Charges administratives  
+-2 151 
+-1 944 
+Part des résultats des sociétés mises en équivalence  
+-19 
+-6 
+Résultat opérationnel courant   
+5 924 
+5 257 
+Autres produits et charges opérationnels   
+-182 
+-109 
+Résultat opérationnel    
+5 742 
+5 148 
+Coût de la dette financière nette   
+-138 
+-151 
+Autres produits et charges financiers   
+126 
+-91 
+Résultat financier    
+-12 
+-242 
+Impôts sur les bénéfices  
+-1 820 
+-1 453 
+Résultat net avant part des minoritaires    
+3910 
+3 453 
+Part des minoritaires  
+-485 
+-400 
+Résultat net, part du Groupe   
+3 425 
+3 053 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2018 UE2 Finance  
+ 
+5/5 
+ 
+Annexe 3 : Informations extraites du bilan économique de LVMH en N+1 et N+2 
+ 
+ 
+N+2 
+N+1 
+actifs immobilisés nets  
+23 824 
+22 624 
++ BFRE 
+6 272 
+5 765 
++ trésorerie 
+2 187 
+2 303 
+= capitaux employés 
+32 283 
+30 692 
+capitaux propres groupe 
+24 424 
+22 371 
++ intérêts minoritaires 
+1 084 
+1 055 
++ dettes financières 
+6 775 
+7 266 
+Relevant des passifs non courants 
+3 825 
+2 871 
+Relevant des passifs courants 
+2 950 
+4 395 
+= capitaux employés 
+32 283 
+30 692 
+Total de l’actif  
+38 738 
+35 891 
+Dont Actifs courants 
+14 914 
+13 267 
+Dont Stocks 
+8 741 
+7 510 
+Dont créances 
+3 986 
+3 454 
+Passifs courants 
+9 405 
+9 594 
+ 
+ 
+ 
+DOSSIER 2 : RÉFLEXION  
+ 
+À partir de vos connaissances, il est demandé au candidat de traiter le sujet suivant :  
+ 
+« Innovation et modes de financement » 
+ 
+Il est demandé au candidat de répondre de manière précise et structurée à la question posée, en 
+limitant sa réponse à 4 pages au maximum.  
+ 
+Après avoir défini et présenté le concept d’innovation, expliquer les spécificités du lien innovation-
+financement puis présenter ses modes de financement. 
+FICHEBEN 

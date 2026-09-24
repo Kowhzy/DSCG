@@ -1,0 +1,340 @@
+=== PAGE 1 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 1 / 7 
+ 
+1900005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SESSION 2019 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D'INFORMATION 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 2 / 7 
+1900005 
+ 
+ 
+ 
+SESSION 2019 
+ 
+ 
+MANAGEMENT DES SYSTÈMES D'INFORMATION 
+Durée de l’épreuve : 3 heures     -     coefficient : 1 
+ 
+Document autorisé : 
+Aucun. 
+ 
+Matériel autorisé : 
+Aucun. 
+ 
+Document remis au candidat : 
+Le sujet comporte 7 pages numérotées de 1/7 à 7/7. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants 
+Page de garde ................................................................................................................. page 1 
+Présentation du sujet ..................................................................................................... page 3 
+DOSSIER 1 – Urbanisation du SI................................................ (6 points) .................... page 4 
+DOSSIER 2 – Alignement stratégique du SI .............................. (7 points) .................... page 4 
+DOSSIER 3 – Pilotage du changement ...................................... (7 points) .................... page 5 
+ 
+Annexe 1 – Information sur l’indicateur Net Promotor Score (NPS) ....................... page 5 
+Annexe 2 – Information sur la solution Planning & Tracking éditée par Aleth ......... page 5 
+Annexe 3 – Information sur les fonctions « achat » et « approvisionnement » ....... page 6 
+Annexe 4 – Intervention de Mme R. Surcouf (gestionnaire - approvisionnement) .. page 6 
+Annexe 5 – Intervention de M. J. Cartier (ingénieur - maintenance informatique) .. page 7 
+Annexe 6 – Récapitulatif des acteurs de l’écosystème SOLIDOR .......................... page 7 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 3 / 7 
+SUJET 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+ 
+Cas SOLIDOR 
+ 
+L’entreprise de nationalité française SOLIDOR intervient sur un secteur confronté à une 
+concurrence agressive et innovante, celui de la lingerie féminine. Elle intervient à la fois comme 
+producteur et comme distributeur. Elle est franchisée et cherche à faire évoluer sa stratégie pour 
+lui permettre d’affronter l’arrivée de nouvelles franchises avec des offres sophistiquées portées par 
+des prix tirés vers le bas. Fondamentalement, SOLIDOR aimerait ajuster son offre en développant 
+des lignes « modes », féminines et exotiques, tout en amorçant une baisse significative de ses 
+prix.  
+Le cœur de cible de cette entreprise est celui des femmes de 30 à 45 ans et sa stratégie marketing 
+tourne autour de concepts qui restent chers à SOLIDOR comme le raffinement, la séduction et le 
+glamour. Afin de veiller à bien fidéliser sa clientèle, la marque se concentre donc sur le conseil et 
+l’écoute, la personnification des relations et l’évaluation de la satisfaction des clients.  
+De plus, dans une optique de croissance à l’international, SOLIDOR vient de racheter une 
+douzaine de magasins en Europe qui sont désormais présents et actifs sous son enseigne. Dès 
+lors, le réseau SOLIDOR compte quelques 123 boutiques franchisées qui sont toutes situées en 
+centre-ville ou en galerie de centre commercial avec 7 d’entre elles localisées en Belgique. Enfin, 
+SOLIDOR révise et étend son réseau d’approvisionnement et de fournisseurs sachant que plus de 
+4000 commandes d’achats sont effectuées chaque année et le réseau de fournisseurs est 
+désormais composés de 54 entreprises qui doivent s’engager à respecter une charte éthique et de 
+qualité qui est essentielle pour la communication de SOLIDOR.  
+Concernant les technologies de l’information (TI), les systèmes d’information (SI) et l’équipe de la 
+direction des systèmes d’information (DSI), l’entreprise les installe au cœur de sa nouvelle 
+dynamique stratégique. Dans sa démarche d’urbanisation, l’entreprise concentre notamment ses 
+efforts sur les métiers du marketing et sur ceux de la Supply Chain (SC). Tout d’abord, concernant 
+le marketing, la DSI a introduit un outil de type CRM (Customer Relationship Management) afin 
+d’améliorer les processus de caractérisation et de fidélisation de sa clientèle. Elle décide 
+également de mettre en place un indicateur de type NPS (Net Promotor Score) permettant 
+d’évaluer la fidélité de la clientèle et de mesurer son taux de satisfaction à partir de notes 
+proposées par les clientes elles-mêmes (annexe 1).  
+Ensuite, concernant la problématique Supply Chain, la DSI a fait le choix d’une nouvelle solution 
+Aleth Planning & Tracking en mode Software-As-A-Service (SaaS) qui est développée par l’éditeur 
+Aleth (annexe 2). Cette solution a pour objet d’optimiser le suivi de ses flux et d’améliorer la 
+collaboration entre ses équipes achats/approvisionnement et les fournisseurs (annexe 3). Notons 
+aussi, comme le précise M. de la Bourdonnais qui est le fondateur de l’éditeur Aleth, que « Dans 
+un contexte de forte concurrence et d’accélération des cycles de vente, il est essentiel d’adopter 
+une démarche d’intégration de sa Supply Chain, de la conception du produit à sa livraison en 
+entrepôt. L’intégration favorise une amélioration de la coordination des acteurs et des activités et 
+une augmentation de la fluidité des flux d’information et de matériels. Elle soutient 
+significativement la stratégie de croissance de l’entreprise ».  
+Aujourd’hui, fin 2019, les résultats obtenus par SOLIDOR l’encouragent clairement à poursuivre 
+dans cette voie. En effet, 10 mois seulement après l’introduction des systèmes marketing et supply 
+chain, le réseau a enregistré une forte croissance et constate que l’augmentation des volumes 
+compense allègrement la baisse sensible des marges.  
+Toutefois, M. D. Trouin le dirigeant de SOLIDOR et son équipe de direction ont bien conscience 
+que l’évolution du SI est susceptible d’affecter les routines organisationnelles ainsi que les 
+pratiques de travail des collaborateurs et donc d’entraîner de probables résistances au 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 4 / 7 
+changement (annexe 4 et annexe 5). M. D. Trouin estime donc qu’un pilotage opérationnel du 
+changement technologique, adapté aux spécificités du contexte, est tout à fait nécessaire et 
+opportun pour confirmer les premiers et encourageants résultats financiers.  
+Dans le même temps, ce même dirigeant a engagé un travail de réflexion et considère désormais 
+que, concernant le déploiement de ce projet de pilotage opérationnel du changement (PPOC) : 
+- 
+la phase A (collecte d’informations et réflexion sur les dispositifs envisageables) pourrait 
+durer 2 mois et commencer dès le 1er janvier 2020 ; 
+- 
+la phase B (décision) pourrait durer 1 mois et commencer après la phase A ; 
+- 
+la phase C (déploiement du dispositif retenu) pourrait durer 2 mois et commencer après la 
+phase B ; 
+- 
+la phase D (information des collaborateurs sur le dispositif retenu) pourrait durer 3 mois et 
+commencer également après la phase B ; 
+- 
+et, enfin, les phases E (ateliers liés au dispositif retenu) et F (évaluation des ateliers et 
+propositions de correction) pourraient durer respectivement 4 et 2 mois et commencer 
+respectivement après les phases D et E.  
+Face à ces problématiques et enjeux, en tant que stagiaire intégré au sein de la DSI de 
+SOLIDOR, M. D. Trouin le dirigeant de l’entreprise vous charge d’un travail de réflexion et 
+de proposition sur les trois dossiers majeurs que sont l’urbanisation, l’alignement 
+stratégique et le pilotage du changement.  
+ 
+DOSSIER 1 – URBANISATION DU SI 
+ 
+Travail à faire 
+1. 
+Pourquoi une démarche d’urbanisation du SI est-elle, dans ce cas, opportune et 
+pertinente ? 
+2. 
+Cartographier les processus des deux métiers (le marketing et les achats / 
+approvisionnement) ciblés par la démarche d’urbanisation du SI de SOLIDOR. 
+3. 
+Proposer une représentation graphique synthétique (par exemple un diagramme d’Ishikawa 
+ou un diagramme « en arrêtes de poisson ») du processus d’urbanisation du SI de 
+SOLIDOR ayant pour objectif l’augmentation des volumes des ventes ?  
+ 
+DOSSIER 2 – ALIGNEMENT STRATÉGIQUE DU SI 
+ 
+Travail à faire 
+1. 
+En vous basant sur le modèle d’alignement stratégique, que vous rappellerez simplement, il 
+vous est demandé d’analyser l’adéquation entre la stratégie de SOLIDOR et sa stratégie 
+SI. 
+2. 
+Après avoir rappelé ce que sont des outils de type ERP et CRM, vous montrerez en quoi le 
+déploiement d’un outil CRM associé à un NPS vous semble adapté aux objectifs 
+stratégiques.  
+3. 
+Après avoir expliqué ce qu’est le mode SaaS, sur lequel est basé la solution Planning & 
+Tracking développée par Aleth, vous en expliquerez simplement les forces et faiblesses.  
+4. 
+Quelles suggestions pourriez-vous faire à la DSI de SOLIDOR notamment en termes de 
+suivi de la qualité de ses activités ? 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 5 / 7 
+DOSSIER 3 – PILOTAGE DU CHANGEMENT 
+ 
+Travail à faire 
+1. 
+Dans quelle mesure, déployer une démarche de pilotage du changement chez SOLIDOR 
+vous semble-t-il pertinent et quelles évolutions en terme de pratiques de travail vous 
+semblent importantes à envisager à la suite du déploiement de la solution Aleth Planning & 
+Tracking ? 
+2. 
+Dans une perspective d’accompagnement des effets de résistance, quels types de 
+dispositifs de pilotage du changement pourraient être mis en œuvre au sein de SOLIDOR ? 
+3. 
+Représenter le diagramme de Gantt du projet en 6 phases (PPOC) ébauché par le 
+dirigeant de SOLIDOR et en déduire quelle serait sa durée minimum (en mois) et sa date 
+de fin (au plus tôt). 
+ 
+ANNEXE 1 – Information sur l’indicateur Net Promotor Score (NPS) 
+ 
+Le Net Promoter Score est un indicateur de fidélité client développé par Fred Reichheld en 2003. Il 
+a pour objectif de déterminer un score permettant d’évaluer la satisfaction client en mesurant la 
+propension des clients à recommander un produit et/ou une marque. Ainsi, grâce au NPS, il est 
+possible de calculer les pourcentages des clients dits « promoteurs » et « détracteurs » qui se 
+différencient des clients de type « neutres ». Les promoteurs sont ceux qui sont prêts à 
+recommander le produit ou la marque. Ils sont considérés comme très satisfaits et fidèles. A 
+l’inverse, les détracteurs sont moyennement ou pas satisfaits. Les efforts doivent porter sur les 
+clients satisfaits et moyennement satisfaits, pour parvenir à transformer ces derniers en 
+promoteurs. Le NPS est un outil qui peut servir également à évaluer le retour sur investissement 
+de la qualité de l’expérience vécue par les clients. 
+ 
+ANNEXE 2 – Information sur la solution Planning & Tracking éditée par Aleth 
+ 
+En termes de réseau d’approvisionnement et de fournisseurs, SOLIDOR devait mieux se soucier 
+de faire collaborer les responsables des fonctions achats, approvisionnement et les fournisseurs 
+car il fallait assurer un suivi des commandes plus performant. En termes technologiques et 
+applicatifs, SOLIDOR devait prendre en considération les trois objectifs principaux suivants :  
+1. 
+Centraliser les informations concernant le suivi des flux import c’est-à-dire de la conception 
+du produit à sa réception en entrepôt.  
+2. 
+Homogénéiser et intégrer les informations issues de partenaires différents – même s’il 
+s’agit principalement de fournisseurs – pour assurer un suivi de l’ensemble des flux en 
+temps réel. 
+3. 
+Améliorer ses capacités de reporting notamment en déployant une solution de planification 
+(planning) et de suivi (tracking) des commandes et des stocks. 
+La solution Aleth Planning & Tracking (ou plateforme collaborative) en mode SaaS développée par 
+l’éditeur français Aleth est interfacée à l’ERP (Entreprise Resource Planning) de SOLIDOR, plus 
+précisément à ses modules comptabilité/finance et gestion de production. Cette solution permet de 
+centraliser les données, de mettre en cohérence les processus et de mettre en relation l’ensemble 
+des partenaires de la chaîne d’achats/approvisionnement et les fournisseurs. Il est ainsi possible 
+que les fournisseurs informent les équipes de SOLIDOR de la fin de la production et de la remise 
+de la marchandise au transitaire. Tous les commentaires et documents d’import sont alors 
+transmis par les différents acteurs et centralisés sur Aleth Planning & Tracking. Les équipes 
+peuvent dès lors suivre l’avancement du planning en temps réel tout en bénéficiant de reporting 
+générés automatiquement par le système d’information. 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 6 / 7 
+ANNEXE 3 – Information sur les fonctions « achat » et « approvisionnement » 
+ 
+Il est généralement admis que les achats renvoient à l’ensemble des opérations permettant à 
+l’entreprise de disposer des biens et services nécessaires à son activité. Ils reposent sur l’analyse, 
+la négociation et l’optimisation du choix du ou des fournisseurs, des prix et de la qualité des biens 
+et services proposés, des coûts (achats, stockage) et des délais. Il est aussi admis que 
+l’approvisionnement recouvre l’émission des commandes, le contrôle de réception, la gestion des 
+flux et des stocks ainsi que le règlement des factures.  
+De plus, pour une mise en perspective opérationnelle de ces deux fonctions étroitement liées, 
+selon Caby-Guillet et al. (2007, p. 176), « les achats et les approvisionnements représentent les 
+deux fonctions majeures qui régissent les rapports entre un distributeur et ses fournisseurs. Le 
+système des achats permet de sélectionner et négocier avec les fournisseurs qui, in fine, seront 
+retenus par le distributeur. Le système des approvisionnements permet ensuite d’alimenter les 
+transferts de biens et services en fonction des besoins en réassortiment formulés par les 
+distributeurs, vus comme les clients des fournisseurs. Ces deux dispositifs sont indissociables l’un 
+de l’autre. Les achats permettent d’initialiser les flux de transactions qui seront ensuite alimentés 
+par les approvisionnements » (Caby-Guillet, L., Clergeau, C., de Corbière, F., Dominguez, C. et 
+Rowe, F., (2007), Entre achats et approvisionnements, Revue Française de Gestion, 173,4, pp. 
+171-181). 
+ 
+ANNEXE 4 – Intervention de Mme R. Surcouf (gestionnaire - approvisionnement)  
+ 
+Madame Surcouf est gestionnaire approvisionneur chez SOLIDOR et représentante syndicale 
+dans son secteur. Parmi ses principales attributions professionnelles, elle doit d’une part veiller à 
+la conformité de l’approvisionnement selon les conditions négociées par l’acheteur auprès des 
+fournisseurs, d’autre part réaliser les plannings de livraisons et les faire parvenir aux fournisseurs 
+et enfin, réaliser le reporting des états de l’approvisionnement et des capacités des fournisseurs.  
+Utilisatrice d’Aleth Planning & Tracking, elle exprime clairement son sentiment vis-à-vis du 
+système : « C’est compliqué. L’adaptation est difficile. C’est une nouvelle méthode de travail à 
+mettre en œuvre et on – fonction achats et fonction approvisionnement – doit tous la respecter. 
+Avant le P&T, on avait une gestion différente du travail ; on fonctionnait principalement à partir de 
+fichiers Excel avec les fonctions achat et logistique et on communiquait par mails et au téléphone 
+avec nos fournisseurs. C’est sûr, c’était peut-être moins « centralisé », moins « numérisé », mais 
+par rapport à ma logique personnelle, ça marchait bien ! Vous savez, ça fait 13 ans que je suis à 
+l’approvisionnement chez SOLIDOR et j’ai toujours été performante ! Ou du moins, personne n’est 
+jamais venu me dire que je ne l’étais pas ! Grâce à mon expérience, je connais parfaitement le 
+mode de fonctionnement de l’approvisionnement, donc peut-être que je ne suis pas comme 
+quelqu’un qui n’est là que depuis un an ou deux et qui a besoin de voir la totalité du processus. 
+Alors, confier toutes les données au système et partir du principe qu’il est fiable, que rien ne sera 
+jamais perdu… Moi, je suis un peu dubitative. Du coup, j’ai tendance à continuer à remplir mes 
+fichiers Excel pour être sûre que s’il y a un problème, je pourrais continuer à suivre les affaires en 
+cours ».  
+En tant que représentante syndicale, Madame Surcouf décrit également avec sincérité l’état 
+d’esprit des collègues qu’elle rencontre régulièrement : « J’observe un sentiment d’épuisement 
+général et de découragement. Les personnes avec lesquelles j’ai pu en discuter m’en ont rendu 
+compte, souvent de façon très émotive. Elles se sentent mises sous pression, elles ont le 
+sentiment qu’on leur demande de tout changer dans leur mode de fonctionnement et dans leurs 
+pratiques de travail, sans vraiment leur expliquer comment faire au quotidien, sur le terrain ».  
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2019  
+UE5 – Management des systèmes d'information 
+page 7 / 7 
+ 
+ANNEXE 5 – Intervention de M. J. Cartier (ingénieur - maintenance informatique) 
+ 
+M. Cartier est ingénieur, il est en charge de la maintenance informatique au sein de la DSI de 
+SOLIDOR. A ce titre, il a la responsabilité du diagnostic des équipements et de leur réparation / 
+correction. Dès lors, il est en contact direct et permanent avec les utilisateurs finaux (end users) du 
+nouveau système Planning & Tracking édité par Aleth et déployé au sein de SOLIDOR.  
+Il s’exprime ci-après sur ce qu’il observe sur le terrain face à ce nouveau système : 
+« Généralement, les personnes sont de bonne volonté ! Elles ont compris l’utilité du système mais 
+ne sont pas en confiance. Elles ont le sentiment que tout est compliqué dès lors qu’il s’agit de s’en 
+servir. Je pense que, pour certaines, elles craignent de ne pas avoir les compétences. C’est vrai 
+qu’on leur demande un savoir-faire supplémentaire : savoir interagir avec le système, comprendre 
+son « langage », les acronymes, les nomenclatures de saisie, tout ça n’est pas si simple au final ! 
+Et puis elles savent bien que si elles font une erreur dans la saisie, cela aura un impact sur 
+l’ensemble de la chaîne donc elles se mettent un peu la pression… Bref, l’apprentissage n’est pas 
+simple ». 
+ 
+ANNEXE 6 – Récapitulatif des acteurs de l’écosystème SOLIDOR  
+ 
+M. D. Trouin (Dirigeant SOLIDOR). 
+M. de la Bourdonnais (Fondateur de l’éditeur Aleth). 
+Mme R. Surcouf (Gestionnaire-Approvisionnement). 
+M. J. Cartier (Ingénieur – Maintenance informatique). 
+FICHEBEN 

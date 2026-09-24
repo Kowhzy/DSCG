@@ -1,0 +1,4 @@
+# Copies des sujets (droits des éditeurs/FicheBEN) et fichiers lourds
+DSCG_2026_ANALYSE/01_annales/**/*.pdf
+__pycache__/
+*.pyc

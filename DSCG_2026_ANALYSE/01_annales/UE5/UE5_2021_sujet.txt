@@ -1,0 +1,266 @@
+=== PAGE 1 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 1 / 6 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+ 
+SESSION 2021 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+FICHEBEN 
+
+=== PAGE 2 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 2 / 6 
+UE5 – Management des systèmes d’information 
+Durée : 3 heures – Coefficient : 1 
+____________________________________________________________________________ 
+ 
+Document autorisé : 
+Aucun document ni aucun matériel n’est autorisé. En conséquence, tout usage d’une 
+calculatrice est INTERDIT et constituerait une fraude. 
+ 
+Document remis au candidat : 
+Le sujet comporte 6 pages numérotées de 1 / 6 à 6 / 6. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+____________________________________________________________________________ 
+Le sujet se présente sous la forme de 3 dossiers indépendants. 
+ 
+DOSSIER 1 – SCHÉMA DIRECTEUR DU SYSTÈME D’INFORMATION                      (8 points) 
+DOSSIER 2 – CADRAGE DU PROJET                                                                          (5 points) 
+DOSSIER 3 – SYSTÈME D’INFORMATION ACHATS                                                  (7 points) 
+____________________________________________________________________________ 
+Le sujet comporte 3 annexes. 
+ 
+Annexe 1 – Informations relatives à HPG - Habitat du Pays de Grèzes. 
+Annexe 2 – Informations relatives à HLM - Haute Loire Métropole. 
+Annexe 3 – Informations relatives à BH - Brioude Habitat. 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. Toutes les réponses devront être justifiées. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie et à la 
+qualité rédactionnelle. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 3 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 3 / 6 
+SUJET : fusion de trois organismes de logement social 
+ 
+Le cas, l'énoncé et les données sont inspirés d’une situation réelle. Vous pourrez introduire des 
+éléments non précisés dans l'énoncé à condition de les présenter comme des hypothèses. 
+Le cas est lié au contexte de la loi ÉLAN (Évolution du logement, de l'aménagement et du numérique) de 
+2018 qui donnait jusqu'au 1er janvier 2021 aux bailleurs sociaux ayant moins de 12 000 logements dans 
+leur patrimoine, l’obligation de se regrouper. Ils pouvaient le faire en fusionnant ou en créant une société 
+anonyme de coordination (SAC) qui fonctionne comme une coopérative et où chaque bailleur est 
+représenté à part égale. Pour rappel, les bailleurs sociaux sont propriétaires des biens immobiliers qu'ils 
+louent à des ménages modestes contre un loyer modéré. Ces bailleurs sociaux contribuent à la fois à la 
+construction, l'acquisition, la rénovation de logements collectifs et à la mise en place des occupants et la 
+gestion locative (administration, travaux, entretien, recueil des doléances des locataires, etc…) 
+En concevant leurs programmes de logement social, les bailleurs sociaux répondent à plusieurs 
+problématiques. Tout d'abord, ils fournissent un toit aux personnes les moins fortunées, ensuite ils 
+dessinent la ville de demain en intégrant les infrastructures existantes et en créant de nouvelles 
+infrastructures répondant aux besoins de la population enfin, ils aménagent significativement l'espace 
+public et créent de la mixité sociale. Pour atteindre leur but, les bailleurs sociaux touchent des 
+subventions et des aides fiscales (TVA réduite en cas de travaux, pas d'impôt foncier, prêts à taux réduit 
+auprès de la Caisse des dépôts et consignations, etc…). 
+C’est dans ce contexte que trois bailleurs du département de la Haute Loire ont fusionné au 01/01/2021 
+conformément à la loi ÉLAN avec la création d’un nouvel organisme dénommé « Haute-Loire Habitat ». 
+Les choix relatifs à la gouvernance et à l’organisation du Système d’Information restent à définir. 
+Avant la fusion, chaque organisme était indépendant au niveau de sa gouvernance, de sa structure 
+juridique, de sa comptabilité et de son système d’information (SI). Les trois bailleurs étaient, avant leur 
+regroupement, de forme juridique ESH (Entreprise Social d’Habitat) possédant chacun un patrimoine 
+immobilier d’une zone géographique du département de la Haute-Loire. 
+Les annexes décrivent l’organisation de chaque bailleur tant au niveau organisationnel, juridique que du 
+Système d’Information et elles vous aideront dans votre réflexion. 
+Vous êtes embauché en tant que conseil de la Direction des Systèmes d’Information afin d’organiser et 
+de planifier au mieux cette transformation à la fois organisationnelle et numérique des trois organismes 
+sachant que vos propositions et éléments de réponses aux questions posées ci-après sont à destination 
+de la direction générale et/ou de la direction des systèmes d'information de l’organisme fusionné qui 
+sera confronté à ses différents partenaires, prestataires et fournisseurs. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 4 / 6 
+DOSSIER 1 – SCHÉMA DIRECTEUR DU SYSTÈME D’INFORMATION 
+Afin de réussir la transformation du système d’information du nouvel organisme « Haute-Loire Habitat » 
+vous êtes amené à répondre à trois questions.  
+Travail à faire 
+1. Décrire deux organisations possibles du Système d’Information (SI) de la future Direction 
+des systèmes d’information en tenant compte du contexte. (2 points) 
+2. Rappeler la définition d’un schéma directeur, puis établir le schéma directeur de cette 
+transformation dans un des cas présentés à la question 1. (4 points)  
+3. Définir et présenter les caractéristiques de deux indicateurs de coût du Système 
+d’Information. (2 points) 
+ 
+DOSSIER 2 – CADRAGE DU PROJET 
+Pour mener à bien le projet de transformation, l’organisation vous demande de conseiller le futur chef de 
+projet en charge de l’implantation et du déploiement du nouveau système d’information. 
+Travail à faire 
+4. Définir pour le projet de transformation un facteur clé de succès et un risque identifié 
+distinct. (2 points) 
+5. Présenter deux méthodes de conduite de projet de votre choix en expliquant dans quelles 
+mesures elles vous semblent adaptées à cette transformation. (2 points) 
+6. Tracer un diagramme de Gantt visualisant un projet en 5 tâches et 40 semaines. (1 point) 
+ 
+DOSSIER 3 – SYSTÈME D’INFORMATION ACHATS 
+Un point d’attention est apporté aux Systèmes d’Information des factures d’achat. Ainsi, la direction 
+financière vous demande de répondre aux 5 questions suivantes : 
+Travail à faire 
+7. Quelles sont les obligations légales de conservation des factures dans le SI Achat ? 
+(1 point)  
+8. Quels sont les processus informatiques de traitement d’une facture après la saisie de son 
+entête dans un système d’information comptable ? (1 point) 
+9. Peut-on détruire l’original papier après numérisation d’une facture réceptionnée papier et 
+son enregistrement en comptabilité ? Argumenter la réponse. (1 point) 
+10. Dans le cadre du RGPD y a-t-il une restriction particulière sur le traitement d’une facture 
+d’achat ? Argumenter la réponse. (2 points) 
+11. Quelles sont les améliorations recommandées sur le SI Achat pour conserver un service 
+opérationnel dans un contexte d’épidémie comme la Covid19 ? (2 points) 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 5 / 6 
+Annexe 1 – Informations relatives à HPG - Habitat du Pays de Grèzes. 
+L’organisme HPG est localisé sur un seul site (le siège) où toutes les ressources sont regroupées. Son 
+patrimoine immobilier s’élève à 8 000 logements (aucune nouvelle construction de prévue). Sa 
+comptabilité enregistre 6 000 factures annuelles. 
+L’organigramme comprend : 
+- 
+un directeur général et trois administrateurs ; 
+- 
+un directeur financier assisté par deux comptables ; 
+- 
+un directeur des systèmes d’information assisté par un technicien informatique ; 
+- 
+un responsable de la gestion du patrimoine assisté par 8 chargés de gestion du patrimoine ; 
+- 
+un responsable de la gestion locative assisté de 12 chargés de gestion locative ; 
+- 
+un responsable juridique prenant en charge la gestion du contentieux et des sinistres. 
+Sur le plan informatique, les salariés ont à leur disposition des postes de travail fixe et des portables 
+récents. Les serveurs sont hébergés en interne et composés : 
+- 
+1 serveur IBM iseries AS/400 en fin de vie ; 
+- 
+1 serveur contenant plusieurs machines virtuelles sous Windows 2008 (hors support Microsoft) ; 
+- 
+1 serveur de stockage type NAS pour les sauvegardes (récent et en bon état de 
+fonctionnement) ; 
+- 
+une connexion internet haut débit. 
+L’organisme dispose d’un ERP spécifique au secteur de l’immobilier « Sivara » installé sur l’AS400 et 
+une machine virtuelle Windows. Cette solution est très économique en acquisition et en coût de 
+maintenance. Elle reste limitée en termes d’évolution, mais répond aux besoins des différents services 
+et des utilisateurs. Le taux d’anomalie est faible. Cette solution a l’avantage de pouvoir se connecter 
+avec d’autres partenaires sur le même environnement AS400 comme un système de Gestion 
+Électronique Documentaire nommé « Xpert » de la société Ruza. 
+Annexe 2 – Informations relatives à HLM - Haute Loire Métropole. 
+L’organisme HLM est sur deux sites (le siège qui abrite la direction et une annexe). Le patrimoine 
+immobilier s’élève à 11 000 logements et deux nouvelles constructions en cours. Sa comptabilité 
+enregistre 18 000 factures annuelles. 
+L’organigramme comprend : 
+- 
+un directeur général et cinq administrateurs ; 
+- 
+un directeur financier assisté de quatre comptables ; 
+- 
+un directeur des systèmes d’information assisté de deux techniciens informatiques ; 
+- 
+deux responsables de la gestion du patrimoine assisté de 12 chargés de gestion ; 
+- 
+deux responsables de la gestion locative assisté de 21 chargés de gestion ; 
+- 
+un responsable de la construction assisté de 4 chargés mission ; 
+- 
+un responsable juridique prenant en charge la gestion du contentieux ; 
+- 
+un responsable chargé des sinistres et assurances. 
+Sur le plan informatique, les salariés ont à leur disposition des postes de travail fixes et des portables en 
+milieu de vie. Les serveurs sont hébergés en interne et composés : 
+- 
+1 serveur IBM iseries AS/400 en milieu de vie pouvant être réorganisée ; 
+- 
+1 mini-datacenter de serveurs contenant plusieurs machines virtuelles sous Windows 2008, 2012 
+et 2016 pouvant être réorganisé ; 
+- 
+de l’espace pour faire évoluer les infrastructures ; 
+- 
+une connexion internet très haut débit. 
+FICHEBEN 
+
+=== PAGE 6 ===
+21DSCG-UE5 
+Management des systèmes d’information 
+Page 6 / 6 
+L’organisme dispose d’un ERP spécifique au secteur de l’immobilier « Soki » installé sur l’AS400 et une 
+machine virtuelle Windows. Cette solution est très couteuse en acquisition et en coût de maintenance, 
+car elle est éditée par un fournisseur réputé leader de son secteur. Elle reste lente en termes 
+d’évolution, mais répond aux besoins des différents services et des utilisateurs. Le taux d’anomalie est 
+faible. Cette solution a l’avantage de pouvoir se connecter avec d’autres partenaires sur le même 
+environnement AS400 comme un système de Gestion Électronique Documentaire nommé « Xpert » de 
+la société Ruza. 
+ 
+Annexe 3 – Informations relatives à BH - Brioude Habitat. 
+L’organisme BH possède 3 sites (le siège et 2 agences). Les agences regroupent les chargés du 
+patrimoine et de la gestion locative. Le patrimoine immobilier s’élève à 3 000 logements et une 
+construction en cours. Sa comptabilité enregistre 3 000 factures annuelles. 
+L’organigramme comprend : 
+- 
+un directeur général et trois administrateurs ; 
+- 
+un directeur financier assisté d’un comptable ; 
+- 
+aucune personne à l’informatique (sous-traité) ; 
+- 
+trois chargés de gestion du patrimoine et de la construction ; 
+- 
+un responsable de la gestion locative assisté de quatre chargés de gestion locative ; 
+- 
+un responsable juridique en charge la gestion du contentieux et des sinistres. 
+Le système d’information est globalement externalisé auprès d’un prestataire. Les utilisateurs disposent 
+de client léger de type Citrix. Un prestataire externe assure l’administration et la fourniture des services 
+du système d’information avec un contrat de type SaaS. La connexion interne est de type haut débit 
+avec ce prestataire. 
+L’organisme dispose d’un ERP spécifique au secteur de l’immobilier « Habitat Gestion » sous 
+environnement Web. Cette solution est plutôt adaptée aux bailleurs de petite taille et reste économique 
+car elle intègre toutes les fonctionnalités requises dans le même outil. Elle s’intègre de plus dans un 
+environnement SaaS. Les évolutions de produit sont imposées et les personnalisations des processus 
+métiers ne sont pas permises. 
+FICHEBEN 

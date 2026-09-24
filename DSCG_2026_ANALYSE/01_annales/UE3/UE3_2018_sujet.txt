@@ -1,0 +1,597 @@
+=== PAGE 1 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+1/10 
+1820003 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2018 
+ 
+ 
+ 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+ 
+ 
+ 
+Durée de l'épreuve : 4 heures  
+Coefficient : 1,5 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+2/10 
+1820003 
+ 
+ 
+ 
+MANAGEMENT ET CONTRÔLE DE GESTION 
+Durée de l’épreuve : 4 heures     -     coefficient : 1,5 
+ 
+Matériel autorisé : 
+- L’usage de tout modèle de calculatrice, avec ou sans mode examen, est autorisé. 
+ 
+Document remis au candidat : 
+Le sujet comporte 10 pages numérotées de 1/10 à 10/10. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 2 dossiers indépendants 
+Page de garde .................................................................................................................................................... page 2 
+Présentation du sujet ........................................................................................................................................ page 3 
+DOSSIER 1 – Gouvernance, stratégie et diagnostic de la situation de changement (60 points) ..................... page 4 
+DOSSIER 2 – Conduite du changement et amélioration de la productivité (40 points) ................................. page 5 
+_____________________________________________________________________________________________ 
+ 
+Le sujet comporte les annexes suivantes 
+DOSSIER 1 
+Annexe 1 - Organisation d’ESO .......................................................................................................................... page 6 
+Annexe 2 - Données comptables et sociales d’ESO ............................................................................................. page 6 
+Annexe 3 - Résultats du diagnostic .............................................................................................................. pages 7 et 8 
+Annexe 4 - Conséquences économiques des dysfonctionnements clés.......................................................... pages 8 et 9 
+Annexe 5 - Indicateurs de calcul des pertes de productivité ................................................................................. page 9 
+ 
+DOSSIER 2  
+Annexe 6 - Solutions définies pour traiter l’un des dysfonctionnements clés ...................................................... page 10 
+Annexe 7 - Modèle de plan d’actions prioritaires ............................................................................................... page 10 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs hypothèses, 
+il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+3/10 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+ 
+ 
+Présentation du sujet 
+ 
+L’entreprise Électricité du Sud-Ouest (ESO) est une entreprise créée en 1946 dans l’Aveyron autour de deux activités 
+liées à l’électricité.  
+- 
+l’une qui s’apparente à une activité de type BTP (bâtiment et travaux publics) d’enfouissement de câbles 
+électriques pour un client unique en France ERDF ; 
+- 
+l’autre de réalisation d’ouvrages d’éclairage pour des ponts, des places publiques etc., essentiellement auprès 
+de collectivités locales et marginalement des entreprises.  
+L’entreprise est restée familiale jusqu’à son acquisition en 1998 par un grand groupe français du secteur de l’eau et de 
+l’électricité CIVIN, intégrant son pôle « électricité » en tant que business unit. A cette occasion, ESO a dû intégrer les 
+procédures et les normes techniques, de gestion et qualité de CIVIN. Elle a vu son périmètre d’affaire limité à 
+l’Aveyron et ses départements voisins pour ne pas concurrencer d’autres business units du même pôle « électricité », 
+et s’est vu fixer des objectifs annuels opérationnels et stratégiques par le groupe.  
+ESO réalise ses activités d’enfouissement de câbles électriques, de construction de réseaux électriques et d’éclairage 
+public à partir de deux sites en Aveyron, l’un au nord du département, l’autre au sud, chacun des sites disposant en 
+particulier de son propre magasin de matériels pour réaliser les activités (nacelles, équipements de protection, 
+pelleteuses, etc.). ESO dont le directeur général est Laurent Bec compte 37 employés. 
+ 
+Depuis la crise de 2008, le groupe CIVIN connaît une situation économique plus tendue sur son pôle électricité et cela 
+pour la première fois de son histoire plus que centenaire, avec certaines des business units de ce pôle au mieux tout 
+juste à l’équilibre, au pire en situation négative comme cela a été le cas pour ESO en 2016 et 2017. Cette dégradation 
+de la rentabilité obère les dividendes versés aux actionnaires et nuit à la capacité d’autofinancement du groupe sur des 
+activités qui demandent des investissements conséquents et réguliers.  
+ 
+En effet, le marché de l’enfouissement de câbles électriques et de construction de réseaux électriques est devenu 
+extrêmement concurrentiel avec une guerre des prix féroce. Celle-ci est alimentée, d’un côté, par un mouvement de 
+rachat des entreprises familiales, qui dominaient ce secteur jusque dans les années 1980, par des groupes 
+internationaux pratiquant des économies d’échelle draconiennes, de l’autre par les exigences de baisse des prix du 
+client national unique ERDF. De plus, sur le marché de l’éclairage, les collectivités locales, sujettes à des baisses de 
+dotations publiques, se sont mises également à négocier très durement les prix d’achat de leurs prestataires ce qui 
+n’était jusqu’alors peu, ou pas le cas.  
+ 
+Au plan social, ESO dispose d’une main d’œuvre essentiellement locale donc plutôt fidèle et loyale – c’est un 
+avantage – mais assez âgée, avec une ancienneté assez forte dans l’entreprise, un niveau de formation globalement 
+faible et, partant, une certaine difficulté à évoluer et à changer. En outre, pour régénérer ses compétences, ESO 
+éprouve des difficultés à recruter de nouveaux talents avec un niveau de formation plus élevé, ces derniers étant 
+souvent plus attirés par la dynamique de grandes métropoles que par la qualité de vie aveyronnaise.  
+ 
+Le DG (directeur général) de ESO, Laurent Bec, sur la base des résultats une nouvelle fois très médiocres de l’année 
+2017, s’est vu affecté par CIVIN, lors de la réunion de rentrée des business units du pôle électricité du groupe en 
+janvier 2018, des objectifs d’amélioration de la productivité pour retrouver des bénéfices solides, sans licenciement ni 
+baisse de la qualité des prestations mais par des efforts d’économies et de réorganisation, cela pour baisser les prix de 
+vente des prestations en maintenant un haut niveau de qualité.  
+ 
+CIVIN souhaite que ses business units restaurent leur rentabilité de façon socialement responsable et dans un souci de 
+développement durable, le groupe étant très attaché à ses normes environnementales et de responsabilité sociale sur un 
+marché où elles sont stratégiques. Laurent Bec fait appel à vous pour le conseiller et l’accompagner dans les méthodes 
+de contrôle de gestion et de management à déployer pour atteindre les objectifs du groupe en 2018. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+4/10 
+DOSSIER 1  
+GOUVERNANCE, STRATÉGIE ET DIAGNOSTIC DE LA SITUATION DE CHANGEMENT  
+(60 points) 
+ 
+Laurent Bec vous fait part de sa volonté de mettre en œuvre au sein d’ESO un plan d’amélioration de la productivité, 
+sans licenciement, sans créer a fortiori de conflits sociaux, et sans dégradation de la qualité des prestations et des 
+performances environnementales, voire en améliorant en même temps les performances économiques, sociales et 
+environnementales qui composent la performance durable. Pour cela il souhaite que vous établissiez dans un premier 
+temps un diagnostic interne de la situation de changement d’ESO pour identifier les dysfonctionnements vecteurs de 
+pertes de productivité au sein d’ESO et dont le traitement, dans un deuxième temps, permettra de gagner en 
+productivité de façon socialement responsable et durable. 
+À l’aide des annexes 1 à 5, traitez les deux parties A et B. Les deux parties sont indépendantes. 
+ 
+A – Analyse stratégique et gouvernance (25 points) 
+Travail à faire : 
+ 
+1. En référence aux travaux de Mickael Porter, définissez la stratégie de restauration de la rentabilité 
+demandée à ESO par CIVIN. Quelles sont les autres stratégies génériques définies par cet auteur ?  
+2. Pour restaurer la rentabilité d’ESO de façon socialement responsable, expliquez si ESO aurait dû 
+suivre une autre de ces stratégies plutôt que celle demandée par la société mère CIVIN. Justifiez vos 
+réponses. 
+3. Donnez la définition de la gouvernance et des parties prenantes. Exposez la cartographie de la 
+gouvernance de ESO et les attentes les plus probables de chacune de ses parties prenantes en les 
+justifiant. Mettez en évidence les objectifs contradictoires et les jeux de pouvoir entre ces différentes 
+parties prenantes. 
+4. Donnez la définition de la responsabilité sociale de l’entreprise, du développement durable et de 
+l’éthique des affaires. Sous quelles conditions est-il possible d’améliorer dans le même temps les 
+performances économiques, sociales et environnementales, particulièrement dans une structure de 
+petite taille ? Justifiez votre réponse.   
+B – Chiffrage des dysfonctionnements (35 points) 
+ 
+5. Comment réaliser un diagnostic interne de la situation de changement d’ESO pour identifier ses 
+dysfonctionnements vecteurs de pertes de productivité, tout en impliquant les personnels ?  
+6. Quels sont les 6 grands leviers de l’amélioration de la performance durable d’ESO telle qu’une 
+première lecture des résultats du diagnostic présenté en annexe 3 les fait apparaître ?  
+7. Calculez en euros les coûts engendrés par les 14 dysfonctionnements clés présentés en annexe 4. 
+Justifiez vos calculs et présentez-les en utilisant les indicateurs de classement exposés en annexe 5. 
+8. Sur le total de pertes de productivité que vous avez calculées, quelle est la partie qui vous semble 
+incompressible et celle qui vous semble compressible au travers d’actions de changement ? Justifiez vos 
+réponses.  
+9. Pensez-vous que les 14 dysfonctionnements clés (annexe 4) soient les plus représentatifs au plan des 
+pertes de productivité ? D’autres dysfonctionnements identifiés (annexe 3) auraient-ils pu être aussi 
+considérés comme clé et faire l’objet d’un traitement ? Justifiez vos réponses. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+5/10 
+DOSSIER 2  
+ CONDUITE DU CHANGEMENT ET AMÉLIORATION DE LA PRODUCTIVITÉ  
+(40 points) 
+ 
+À l’aide des annexes 6 à 7, traitez les deux parties A et B. Les deux parties sont indépendantes. 
+ 
+A – Conduite de changement (20 points) 
+Travail à faire : 
+1. Définissez ce qu’est la conduite du changement en mode projet et expliquez comment cette méthode 
+devrait être mise en œuvre chez ESO en particulier :  
+a) quelles personnes sont à mobiliser ?  
+b) sur quel planning ?  
+c) comment se déroule une séance de groupe de projet (rôle de chacun) ?  
+2. Définissez les différents styles de conduite du changement? Expliquez le style qui serait le plus 
+approprié dans le cas d’ESO pour améliorer sa productivité de façon socialement responsable et 
+durable ?  
+3. Définissez ce qu’est une démarche de progrès continu et expliquez en quoi une démarche en mode 
+projet est différente de celle de progrès continu ? 
+4. Après avoir défini les notions « d’apprentissage organisationnel » et « de connaissances », expliquez 
+pourquoi la conduite d’un projet de changement chez ESO permettrait de créer de l’apprentissage 
+organisationnel et des connaissances ? Donnez une illustration concrète d’apprentissage organisationnel 
+et une illustration concrète de connaissances possiblement visibles chez ESO à l’issue du projet de 
+changement ?  
+B – Démarche d’amélioration (20 points) 
+Les séances de groupe de projet ont débouché sur des actions de changement pour traiter chacun des 14 
+dysfonctionnements clés vecteurs de pertes de productivité. A partir de l’annexe 6 qui présente le panier d’actions 
+définies pour traiter l’un de ces quatorze dysfonctionnements clés,  
+5. Calculez le coût complet de mise en œuvre de ce panier d’actions, son gain attendu et sa rentabilité 
+attendue.  
+6. Ce panier d’actions vous semble-t-il socialement et économiquement pertinent ? Justifiez vos réponses. 
+7. Expliquez ce qu’est un plan d’actions et son intérêt pour réussir des actions de changement. En vous 
+servant de l’annexe 7, formalisez le plan d’actions prioritaires de traitement du dysfonctionnement clé 
+étudié en annexe 6. 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+6/10 
+ANNEXE 1 : ORGANISATION DE ESO 
+ 
+ESO a un site au nord du département (site N) de l’Aveyron et un second au sud du département (site S), 
+chaque site ayant son propre magasin de matériels d’intervention.  
+Les interventions sont affectées aux équipes de l’un des deux sites en fonction de la position géographique des 
+interventions à mener et de la charge de travail de chaque site.  
+En sus du directeur général, ESO s’appuie sur 8 cadres dont 4 responsables d’affaires (RA) et 4 responsables 
+de chantiers (RC), et sur 28 employés et ouvriers.  
+Le rôle des RA est de vendre les missions, qu’elles soient de câblage électrique ou d’éclairage, puis d’en 
+organiser la gestion économique et la planification. Les RA sont donc des cadres commerciaux et de gestion. Chaque 
+RA s’appuie sur un RC dédié pour réaliser les missions. Les RC sont de fait des cadres techniques dirigeant les 
+équipes d’intervention.  
+Chaque RC gère une équipe de 5 ouvriers d’intervention, spécialisés dans le BTP et l’électricité.  
+Quatre assistants de gestion auprès des 4 RA, deux responsables magasin, un assistant comptable et un assistant 
+qualité constituent le reste du personnel.  
+Pour toutes les activités supports autres que celles décrites, ESO s’appuie sur des cadres du pôle électricité de 
+CIVIN qui ne sont pas physiquement dans ses locaux : finance, marketing, informatique, RH etc.  
+Le DG a un bureau dans chacun des deux sites ainsi que les 2 assistants comptable et qualité. Les autres 
+salariés d’ESO sont équitablement répartis sur ses deux sites, chaque site comptant donc : 2 RA, 2 RC, 2 assistants de 
+gestion, 10 ouvriers, 1 responsable magasin soit 17 personnels résidents par site. 
+ 
+ANNEXE 2 : DONNÉES COMPTABLES ET SOCIALES D’ESO 
+ 
+Chiffre d'affaires 
+4 250 K€ 
+Marge sur coûts variables 
+2 770 K€ 
+Valeur ajoutée 
+1 000 K€ 
+Excédent brut d'exploitation (EBE) 
+100 K€ 
+- Dotations aux amortissements, provisions et dépréciations 
+110 K€ 
+Résultat d'exploitation 
+(10) K€ 
+Résultat net comptable 
+(50) K€ 
+ 
+Nombre de salariés en équivalent temps plein (ETP) 
+37 pers 
+Nombre d’heures attendues de travail par an par ETP 
+1 607 h 
+Nombre de semaines travaillées par an par ETP 
+46 semaines 
+Nombre de mois travaillés par an par ETP 
+10,4 mois 
+Nombre de jours travaillés par an par ETP 
+217 j 
+Taux horaire salarial chargé employés et ouvriers 
+25 € 
+Taux horaire salarial chargé agents de maîtrise et 
+techniciens 
+28 € 
+Taux horaire salarial chargé direction et cadres 
+39 € 
+Moyenne d’âge des salariés 
+48 ans 
+Taux moyen d’absentéisme des entreprises du secteur 
+5 % 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+7/10 
+ANNEXE 3 : RÉSULTATS DU DIAGNOSTIC DYSFONCTIONNEL DE ESO 
+ 
+Le diagnostic a porté sur les dysfonctionnements générateurs de pertes de productivité. Ses résultats ont été classés 
+dans les 6 thèmes qui permettent de modéliser le fonctionnement d’une organisation : les conditions de travail, 
+l’organisation du travail, la communication-coordination-concertation, la gestion du temps, la formation intégrée et la 
+mise en œuvre stratégique (source : Savall, H. et Zardet, V. (2014). Maîtriser les coûts et les performances cachés. 
+Economica. 1ère édition 1987).  
+ 
+CONDITIONS DE TRAVAIL  
+Difficultés d’accès informatiques intersites (ex : plannings) 
+Pannes récurrentes d’internet 
+Couverture réseau mobile insuffisante 
+PC fixes non adaptés aux sites multiples 
+Déplacements importants sur certains chantiers 
+Véhicules inadaptés (ex : fourgons) 
+Absence de télécommandes sur grues 
+Défauts de sécurité (ex : matériels inadaptés pour les 20 000 volts, intempéries, coupures non faites) 
+Pénibilités excessives du travail (ex : en hiver, en cas d’intempéries) 
+ 
+ORGANISATION DU TRAVAIL 
+Difficultés de préparation des dossiers d’intervention (ex : autorisations difficiles à obtenir) 
+Manque de clarté des fonctions (ex : rôle du siège) 
+Difficultés des RA à assurer certaines tâches administratives (ex : contrats de sous-traitance) 
+Matériels non prêts pour les interventions 
+Le magasin est en « libre-service » (ex : prélèvements de matériels déjà affectés, constitution de « tas »)  
+Réinterventions sur chantiers en raison de défauts qualité 
+Défauts d’études techniques (ex : manque de vision terrain, anciens réseaux télécom) 
+Dossiers de branchement EDF erronés 
+Pas de mutualisation des matériels entre RA 
+Matériels manquants ou inadaptés sur chantier (ex : scotch, feuillards, bouteilles de gaz) 
+Changements intempestifs d’équipes sur un chantier pour en démarrer un autre 
+ 
+COMMUNICATION-COORDINATION-CONCERTATION (3C) 
+Défauts de communication et de concertation entre RA et RC (ex : problèmes sur un chantier à régler à 
+distance, informations utiles aux clients etc.) 
+Manque d’anticipation des RC auprès des RA (ex : alerte tardive sur un chantier non terminé) 
+Défauts de communication entre RA, RC et magasin 
+Outils de planning des missions différents entre RA 
+Sentiments d’un excès de contrôle des RA sur les RC (ex : informations sur avancement) 
+Manque de retour des RA vers les RC sur la qualité des chantiers 
+Défauts de communication entre RA (ex : plannings, gestion du matériels) 
+Défauts dans les relations clients (ex : riverains non informés du démarrage d’un chantier) 
+ 
+GESTION DU TEMPS  
+Non-respect des horaires de chantiers (démarrage à 8h et arrêt à 17h sur chantier) 
+Manque de vigilance sur le respect des horaires de la part des RC 
+Temps passés sur chantiers trop importants par rapport au prévisionnel 
+Sentiment d’iniquité dans les efforts de productivité de la part des ouvriers 
+Défauts de planification des chantiers 
+Manque de planification des véhicules (ex : les 3 nacelles) 
+Délais d’approvisionnement excessif en petits matériels (ex : les pelles sont souvent en rupture de stock) 
+Cadences des chantiers non adaptées (ex : non prise en compte des aléas et de la complexité) 
+Interruptions fréquentes dans la réalisation de chantiers 
+Temps de trajets non intégrés au planning 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+8/10 
+ 
+FORMATION INTÉGRÉE  
+Manques de compétences sur certaines activités de gestion (ex : la gestion des contrats de sous-traitance) 
+Lacunes dans certaines compétences de base en intervention dîtes règles de l’art (ex : fourreaux, 
+branchement…) 
+Manque de formation en maintenance (ex : caméras de vidéosurveillance) 
+Manque d’outils disponibles pour choisir les formations (ex : plus de fiches de choix de formation) 
+ 
+MISE EN ŒUVRE STRATÉGIQUE 
+Manque de mutualisation des moyens (ex : pas d’investissement sur une trancheuse) 
+Manque d’implication des salariés dans la survie de l’entreprise 
+Absence de rémunérations incitatives sur les performances 
+Système de promotion insuffisant 
+Difficultés pour recruter (ex : techniciens, ingénieurs) 
+Faiblesse du nombre de clients en câblage électrique (ex : un seul client ERDF) 
+Manque de développements sur nouveaux métiers (ex : éolien, photovoltaïque, fibre optique) 
+Manque de reconnaissance des équipes d’intervention (ex : plus de repas lors des fins de chantiers 
+performants) 
+Des anciens clients ont été perdus (ex : SNCF, stations autoroutes) 
+Manque de confiance réciproque entre les RA et les RC 
+ 
+ANNEXE 4 : CONSÉQUENCES ÉCONOMIQUES DES DYSFONCTIONNEMENTS CLÉS 
+ 
+L’analyse hiérarchisée du diagnostic a conduit ESO à retenir 14 dysfonctionnements clés jugés particulièrement 
+vecteurs de pertes de productivité ou de risques de pertes de productivité 
+ 
+ABSENTEISME ET MALADIES 
+PROFESSIONNELLES  
+ CONSEQUENCES ECONOMIQUES EN 2017 
+1. Absence pour maladie non remplacée 
+Au total 1000 h d’absence non pas été remplacées 
+2. Absence pour maladie remplacée  
+Au total 1972 h d’absence ont été remplacées par des 
+personnes de statut employé et ouvrier en CDD  
+ROTATION DU PERSONNEL 
+  
+3. Quatre nouveaux recrutés en 2017 n’ont pas 
+atteint l’efficacité que l’on attendait d’eux eu 
+égard à leur formation et expérience 
+- 2 nouveaux entrants ont été évalués à 75% d’efficacité sur 
+une base 100 attendue 
+- 1 nouvel entrant a été évalué à 50% d’efficacité 
+- 1 nouvel entrant a été évalué à 30% d’efficacité sur 9 mois 
+de l’année (100% sur les 3 autres) 
+DEFAUTS DE QUALITE 
+  
+4. Difficultés d'accès informatiques intersites 
+- Sur le site N, 3 personnes perdent 1/4h par jour à régler les 
+difficultés d’accès informatiques  
+- Sur le site S, 1 personne perd au total 1/2h par semaine à 
+régler les difficultés d’accès informatique 
+- En sus, sur les 2 sites, 12 personnes perdent au total 1/4h 
+par mois à réguler les difficultés d’accès informatiques 
+5. Réinterventions sur des gros chantiers après 
+leur achèvement en raison de défauts de 
+réalisation 
+- 3 personnes ont passé chacune 5 jours de travail en 
+réintervention sur des gros chantiers  
+- Les consommations de matériels supplémentaires des 
+réinterventions sur les gros chantiers ont été évaluées à  
+3 500 € au total  
+6. Réinterventions sur des petits chantiers après 
+leur achèvement en raison de défauts de 
+réalisation  
+- 6 personnes passent chacune ½ journée de travail par mois 
+en réintervention sur des petits chantiers 
+- Les consommations de matériels supplémentaires des 
+réinterventions sur les petits chantiers ont été évaluées à 
+3 800 € au total 
+FICHEBEN 
+
+=== PAGE 9 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+9/10 
+7. Défauts de préparation des chantiers : blocages 
+sur dossier (par exemple la position des armoires 
+électriques est fausse sur les plans d’intervention) 
+- 17 personnes sur les chantiers perdent chacune 1/4h par 
+semaine en raison de défauts dans les dossiers d’intervention 
+8. Défauts de préparation des chantiers : défauts 
+de matériel (par exemple nombre insuffisant de 
+pelles réservées en magasin) 
+- 17 personnes sur les chantiers perdent chacune 1/2h par 
+mois en raison de manque de matériels  
+9. Casses et pannes de matériels 
+- le coût des casses de matériel lors des interventions sur les 
+chantiers est évalué à 30 000 € par an 
+SOUS EFFICACITÉ 
+  
+10. Non-respect des horaires de chantiers (8h-
+17h) pour les interventions : elles démarrent 
+parfois après 8h et finissent avant 17h. 
+- la géolocalisation des équipes d’intervention a permis 
+d’évaluer à 1/4h de travail perdu par jour (lié au non-respect 
+des horaires de chantier) pour chacun des 20 ouvriers et 2 RC  
+11. Dysfonctionnements des magasins pour 
+ranger rigoureusement les consommables 
+- 17 personnes perdent 1/2h par mois à chercher des 
+consommables mal rangés dans les magasins  
+12. Déplacements importants entre les chantiers 
+liés à leur mauvaise planification géographique 
+- 4 personnes perdent 2h par semaine en déplacement entre 
+les chantiers qui auraient pu être évités 
+-12 personnes perdent 1h par semaine en déplacements 
+évitables 
+13. Pertes d'opportunités d'affaires : éclairage 
+- le renouvellement d’un marché d’éclairage de 150 000 € 
+par an a été perdu en raison de prestations non satisfaisantes. 
+14. Pertes d'opportunités d'affaires : réseau 
+électrique 
+- le renouvellement d’un marché de câblage électrique de 
+500 000 € par an a été perdu en raison de prestations non 
+satisfaisantes 
+ 
+ANNEXE 5 : INDICATEURS DE CALCUL DES PERTES DE PRODUCTIVITÉ 
+ 
+Source : Cappelletti, L., Voyant, V., Savall, H. (2018). « 40 ans après leur invention : la méthode des coûts cachés ». 
+Revue Audit, Comptabilité, Contrôle : Recherches Appliquée (ACCRA), 1(2). 
+Une fois l’impact des dysfonctionnements repérés dans un des cinq indicateurs, les coûts cachés sont évalués en 
+chiffrant leurs conséquences économiques sur l’exercice, ou l’année de référence (12 mois), pris en considération. 
+Pour cela, les conséquences des dysfonctionnements, appelées « actes de régulation » ou « régulations », sont 
+identifiées lors des entretiens puis chiffrés en euros au moyen des six composants :  
+- 
+les surconsommations correspondent à des régulations qui se traduisent par des consommations 
+supplémentaires de biens ou de services ; 
+- 
+les sursalaires sont utilisés lorsqu’une régulation se traduit par des actions réalisées par une personne titulaire 
+d’une fonction mieux rémunérée que celle qui devrait l’assumer (glissement de fonction), ou lorsque des 
+salaires sont versés à des personnes absentes compte tenu des conventions collectives en vigueur ; 
+- 
+les surtemps correspondent à des activités de régulation qui prennent du temps supplémentaire ; 
+- 
+les non productions surviennent en cas d’absence d’activité, d’un arrêt de travail, ou bien de pertes 
+d’opportunités commerciales ; 
+- 
+les non créations de potentiel et les risques correspondent à des régulations futures (non création de potentiel) 
+ou probables (risques) qui n’ont pas eu lieu sur l’année de référence des calculs.  
+ 
+Dans la méthode des coûts-performances cachés,  
+- 
+les consommations de biens ou services supplémentaires sont évaluées à partir des coûts effectifs des biens et 
+des services concernés (prix d’achat sur facture, taux horaire salarial chargé…) ;  
+- 
+les temps humains sont valorisés à la contribution horaire à la valeur ajoutée sur coût variable (CHVACV, ou 
+contribution horaire à la marge sur coûts variables CHMCV). La CHVACV est égale au rapport de la marge 
+sur coûts variables sur le nombre d’heures de travail attendues pendant l’année considérée.  
+ 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 10 ===
+DSCG 2018 UE3 – Management et contrôle de gestion   
+10/10 
+ANNEXE 6 : SOLUTIONS DÉFINIES POUR TRAITER UN DES DYSFONCTIONNEMENTS CLÉS 
+ 
+Les dysfonctionnements clés 5, 6, 13 et 14 identifiés en annexe 4 ont été jugés par ESO, en séance de groupe de 
+projet, comme résultant d’une même cause racine : la qualité insuffisante du travail sur les missions, principalement 
+liée à un manque de maîtrise des compétences de base sur les métiers d’éclairage public et de réseau électrique 
+(appelées « règles de l’art »). Il a donc été décidé de faire de l’amélioration de la qualité via la maîtrise des règles de 
+l’art un objectif prioritaire du changement et de définir un panier de 4 actions pour l’atteindre : 
+ 
+Améliorer la qualité du travail sur les chantiers (maîtrise des règles de l’art) 
+1. Les RA (responsable d’affaires) font une synthèse des zones à risque qualité sur un chantier de non-respect de 
+points clés de normes. Cette synthèse peut servir de check-list d’autocontrôle des normes pour les RC 
+(responsable de chantiers) – (évaluation des temps de fonctionnement de l’action : 1h par semaine par RA). 
+ 
+2. Les RA diffusent cette synthèse aux RC et leurs équipes et en pilotent le respect en s’appuyant sur les RC 
+(évaluation des temps de fonctionnement de l’action : ½ h par semaine par RA et par RC). 
+ 
+3. Formation des équipes d’intervention aux règles de l’art au travers un stage/séminaire annuel d’une semaine, 
+facturé par le groupe CIVIN. 
+Evaluation des temps de fonctionnement de l’action : 35 h par stagiaire ;  
+Evaluation du coût d’investissement de l’action : 2 000 € par équipe d’intervention formée. 
+ 
+4. Systématiser la remontée des fiches d’anomalies en qualité de la part des équipes chantiers lorsqu’elles ont 
+rencontré des dysfonctionnements (temps de fonctionnement de l’action jugé négligeable). 
+ 
+ANNEXE 7 : MODÈLE DE PLAN D’ACTIONS PRIORITAIRES 
+ 
+Dysfonctionnement 
+visé - 
+ Objectif 
+prioritaire 
+Solution 
+(Quoi) 
+Personne 
+mobilisée 
+(Qui) 
+Entité 
+concernée 
+(Où) 
+Planning 
+(Quand) 
+Budget annuel 
+(balance économique) 
+Formalisation du 
+dysfonctionnement 
+ Formalisation de 
+la solution 
+Détail des 
+actions 
+correctives 
+et/ou 
+préventives 
+Formalisation 
+des 
+personnes 
+concernées 
+par la mise 
+en œuvre des 
+actions 
+Formalisation 
+des entités et 
+ou des 
+espaces 
+concernés par 
+la mise en 
+œuvre des 
+actions 
+Formalisation 
+du planning 
+annuel des 
+actions  
+ 
+Coût complet des actions 
+(fonctionnement + 
+investissement) : X € 
+ 
+Gain attendu (réduction des 
+coûts engendrés par les 
+actions) : Y € 
+ 
+Gain net attendu : (Y – X) € 
+ 
+Rentabilité attendue en % : 
+(Y-X)/X 
+ 
+Source : Cappelletti, L. (2012). Le contrôle de gestion de l’immatériel. Dunod. 
+FICHEBEN 

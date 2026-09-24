@@ -1,0 +1,618 @@
+=== PAGE 1 ===
+21DSCG-UE2  
+Finance 
+Page 1 / 10 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+SESSION 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+FICHEBEN 
+
+=== PAGE 2 ===
+21DSCG-UE2  
+Finance 
+Page 2 / 10 
+UE 2 – FINANCE 
+Durée de l’épreuve : 3 heures - coefficient : 1 
+ 
+ 
+Document autorisé : 
+Aucun. 
+ 
+Matériel autorisé : 
+- 
+L’usage de la calculatrice avec mode examen actif est autorisé. 
+- 
+L’usage de la calculatrice sans mémoire, type « collège », est autorisé. 
+ 
+Tout autre document ou matériel est interdit. 
+ 
+Document remis au candidat : 
+Le sujet comporte 10 pages numérotées de 1/10 à 10/10. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+Le sujet se présente sous la forme de trois dossiers indépendants. 
+ 
+ 
+DOSSIER 1 – Projet d’investissement immobilier                                     (50 points, soit 10/20). 
+DOSSIER 2 – Opération de restructuration                                                (25 points, soit 5/20). 
+DOSSIER 3 – Couverture du risque de change                                          (25 points, soit 5/20). 
+ 
+ 
+Le sujet comporte les annexes suivantes : 
+ 
+ 
+Annexe 1  
+Éléments de calcul du taux de rentabilité probable des capitaux propres.  
+Annexe 2 
+Données financières relatives à deux projets d’investissements (en k€).  
+Annexe 3 
+Éléments d’information concernant une opération de fusion. 
+Annexe 4 
+« Euro numérique : cinq questions pour comprendre le projet de monnaie 
+électronique européenne ». 
+Annexe 5 
+Informations sur les opérations à l’international et couverture de change. 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. 
+ 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+FICHEBEN 
+
+=== PAGE 3 ===
+21DSCG-UE2  
+Finance 
+Page 3 / 10 
+SUJET 
+ 
+Cotée sur Euronext Growth depuis 2003, le groupe Laruche Immobilier International a été fondé à 
+Bordeaux par monsieur LE QUERNEC, dans les années 1980, afin de développer des projets 
+immobiliers pour les particuliers sur trois continents (Afrique, Asie, Europe). Afin d’accélérer son 
+développement, le groupe a créé plusieurs filiales avec chacune leurs spécialités. 
+ 
+- La première, « Easy Sell Immo » est une start-up qui propose à ses clients français et 
+étrangers de visiter des biens immobiliers grâce à des lunettes 3D personnalisables. Cette 
+société alsacienne créée en 2020, révolutionne le monde de l’immobilier de luxe en évitant 
+des déplacements à des personnes fortunées (hommes d’affaires, ministres, acteurs, 
+princes…) pris par leur activité. Cette start-up est très récente puisqu’elle a été créée à la 
+suite de la pandémie de la Covid 19. Elle s’est spécialisée dans l’immobilier de luxe en 
+Afrique du Nord, notamment dans trois villes du Maghreb : Timimoun (Algérie), Tétouan 
+(Maroc) et Sidi Bousaid (Tunisie). 
+ 
+- La société « Vite Chez Moi » propose aux étudiants étrangers (de 17 à 28 ans), un accès 
+facilité, via une plateforme interactive, à des appartements meublés. Le concept est le 
+suivant : la société loue un millier d’appartements en France situés en proximité des 
+universités françaises et/ou dans les centres-villes des grandes villes (Lyon, Paris, Lille, 
+Toulouse, Marseille), puis les louent aux étudiants. Depuis peu, la société loue des 
+chambres en Angleterre et en Espagne. Les appartements mis à disposition auprès des 
+étudiants étrangers sont rénovés, meublés et équipés directement par les salariés de la 
+société. La société souhaite rapidement étendre son concept au niveau mondial en 
+multipliant les filiales dans de nombreux pays. 
+ 
+- « Invest Immo » est une société qui a développé une plateforme d’investissement immobilier 
+en ligne. Cela permet aux internautes d’investir librement dans différents projets immobiliers, 
+directement en ligne à partir d’une mise de fonds de départ de 1 000 €. Ce service spécifique 
+permet à des personnes d’accéder au marché immobilier sans posséder un budget important 
+et sans forcément recourir au crédit immobilier. 
+ 
+- « Invest Immo » détient une participation de 10 % (il s’agit de son unique participation) dans 
+une société à l’avenir prometteur : « Achète-Moi ». Il s’agit d’une agence immobilière 
+totalement en ligne et aux commissions très réduites. Toutes les visites d’appartements sont 
+totalement virtuelles. La signature du compromis de vente et de l’acte de propriété sont 
+également totalement dématérialisées grâce à la signature électronique. 
+ 
+Organigramme du groupe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Laruche Immobilier 
+International 
+Easy Sell Immo 
+Vite Chez Moi 
+Invest Immo 
+Achète-Moi 
+10 % 
+70 % 
+80 % 
+60 % 
+FICHEBEN 
+
+=== PAGE 4 ===
+21DSCG-UE2  
+Finance 
+Page 4 / 10 
+L’ensemble des sociétés du groupe sont gérées administrativement et comptablement par le 
+cabinet EXPERT SUP, localisé à Paris, spécialisé dans l’immobilier depuis de nombreuses années 
+et dont la compétence a été reconnue par le conseil régional de l’Ordre des experts-comptables 
+d’île de France.  
+ 
+Vous intégrez ce cabinet comme expert-comptable stagiaire avec un DSCG incomplet. Votre 
+employeur vous promet un salaire attractif et des conditions de travail défiant toute concurrence, si 
+vous parvenez à traiter les trois dossiers totalement indépendants qui vous sont soumis. 
+ 
+ 
+ 
+DOSSIER 1 – PROJET D’INVESTISSEMENT IMMOBILIER 
+ 
+ 
+ 
+Madame Adélaïde Müller, fondatrice de l’entreprise « Easy Sell Immo », souhaite investir dans 
+l’achat massif de lunettes 3D afin de pénétrer prochainement le continent Américain dans l’optique 
+de poursuivre son implantation à l’international. Elle s’interroge sur les potentialités de rentabilité 
+de son projet ainsi que sur les modes de financement envisageables.  
+ 
+Travail à faire 
+ 
+1. 
+La valeur et le risque (annexe 1). 
+Avant de lancer son projet d’investissement, madame Müller s’interroge sur la prétention des 
+actionnaires de la start-up, en termes de rentabilité attendue, importante (12 %) en raison du 
+risque élevé du projet. Consciente des difficultés liées à la mesure du risque de l’action ainsi qu’à 
+sa rentabilité dans un environnement « start up », madame Müller a recensé des données par 
+comparaison à des entités présentant des caractéristiques similaires à sa société, tout en 
+recourant aux probabilités. Tous vos calculs doivent être justifiés et présentés sous forme de 
+tableau lorsque cela est possible. 
+ 
+1.1 Déterminer le taux de rendement espéré du marché et de l’action. 
+ 
+1.2 Calculer la covariance entre la rentabilité du marché et celle de l’action. 
+ 
+1.3 Calculer le béta de l’action. L’action est-elle plus risquée ou moins risquée que le 
+marché ? 
+ 
+1.4 En recourant au modèle du MEDAF, déterminer le taux de rentabilité minimum des 
+capitaux propres. La rentabilité exigée par les actionnaires est-elle atteinte ? 
+ 
+2. 
+Les modalités de financement d’un projet d’investissement. 
+Madame Müller s’interroge également sur des modes de financement innovants des lunettes 3D 
+dont elle a entendu parler auprès d’autres collègues, patrons de start-up, qui ont pu y recourir avec 
+succès. Monsieur Yvan Latteur, ami d’enfance de madame Müller, lui-même dirigeant, lui indique 
+qu’il a eu recours au capital investissement pour lancer son activité. Ce dernier lui précise qu’un 
+autre collègue a préféré recourir à un financement proposé par la BPI. 
+ 
+2.1 Définir le capital investissement. 
+ 
+2.2 Quelles sont les différentes formes sous lesquelles peuvent se décliner le capital 
+investissement ?  
+ 
+2.3 Définir et préciser le rôle de la BPI. 
+FICHEBEN 
+
+=== PAGE 5 ===
+21DSCG-UE2  
+Finance 
+Page 5 / 10 
+3. 
+L’investissement (annexe 2). 
+Le secteur de l’immobilier est très spécifique car il est marqué par des cycles d’expansion et de 
+dépression. L’investissement envisagé par madame Müller nécessite une mise de fonds 
+importante avec un degré de risque élevé, étant lui-même dépendant des caractéristiques des 
+biens immobiliers proposés à la vente par le groupe Laruche Immobilier International. 
+ 
+3.1 Définir les principales caractéristiques du marché immobilier. 
+ 
+3.2 Préciser les principaux risques d’un investissement immobilier. 
+ 
+3.3 Calculer la VAN des deux projets. Peut-on conclure sur l’opportunité de lancer un 
+projet plutôt qu’un autre ? Pourquoi ? 
+ 
+3.4 Définir la méthode de l’annuité équivalente, ainsi que de la méthode de l’horizon 
+ 
+commun (ou du plus petit commun multiple). 
+ 
+3.5 Calculer la rentabilité des deux projets en utilisant la méthode de l’horizon commun, 
+ 
+puis de l’annuité équivalente. 
+ 
+3.6 Conclure sur l’opportunité de lancer les projets d’investissement en recourant aux 
+ 
+deux techniques précédentes. 
+ 
+ 
+ 
+ 
+DOSSIER 2 – OPÉRATION DE RESTRUCTURATION 
+ 
+ 
+ 
+La société « Invest Immo » souhaite se rapprocher plus fortement de la société « Achète-Moi ». En 
+effet, en plus de faciliter les acquisitions immobilières en ligne à moindre prix, la société souhaite 
+étendre ses compétences en gérant la partie administrative des acquisitions immobilières. C’est 
+pourquoi les dirigeants des deux sociétés se sont entendus pour réaliser une fusion absorption, 
+« Invest Immo » absorbant « Achète-Moi », avec effet au 01/01/2021.  
+ 
+Travail à faire 
+ 
+1. 
+Gestion d’une opération de fusion (annexe 3). 
+1.1 Indiquer les principales motivations qui conduisent à réaliser une opération de 
+ 
+fusion. 
+ 
+1.2 Calculer la parité d’échange des actions des deux sociétés « Invest Immo » et 
+ 
+« Achète-Moi ». 
+ 
+1.3 Déterminer le cours théorique du groupe fusionné après l’acquisition, ainsi que la 
+ 
+prime de contrôle.  
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+21DSCG-UE2  
+Finance 
+Page 6 / 10 
+ 
+DOSSIER 3 – COUVERTURE DU RISQUE DE CHANGE 
+ 
+ 
+Dans le cadre de son développement à l’international, la société « Vite Chez Moi » a augmenté 
+considérablement son parc immobilier en Angleterre et en Espagne. Elle doit recevoir des dépôts 
+de garantie pour un montant de 300 000 £ (Livre Sterling) dans 3 mois. L’objectif de la 
+perception différée des dépôts de garantie, provenant des locations qui sont étalées dans le 
+temps, est d’éviter les lourdeurs administratives et de réduire les frais liés à la conversion de la 
+monnaie. La société souhaite se couvrir contre une évolution défavorable du cours de change. Elle 
+décide de contacter sa banque qui lui propose deux instruments de couverture : les contrats à 
+terme et les options de change. 
+ 
+Concernant ce pays au sein duquel les crypto-actifs sont très présents et les distributeurs 
+importants, la société « Vite Chez Moi » souhaite dans quelques années permettre aux étudiants 
+de régler leurs loyers en utilisant ce procédé. 
+ 
+ 
+Travail à faire 
+ 
+1. 
+Choix d’un mode de paiement (annexe 4). 
+1.1 Pouvez-vous indiquer au dirigeant quel est le crypto-actif le plus connu et le définir ? 
+ 
+1.2 Quels sont les avantages et les inconvénients de ce crypto-actif ? 
+ 
+2. 
+Achat en devises et couverture de change (annexe 5). 
+2.1 À quel type de risque de change doit faire face l’entreprise ? 
+ 
+2.2 Calculer les gains et/ou les pertes de change suivant les deux situations ci-après :  
+- recourir à un contrat à terme, 
+- recourir à une option de change. 
+ 
+2.3 Quel est le choix le plus judicieux à opérer pour l’entreprise ? 
+FICHEBEN 
+
+=== PAGE 7 ===
+21DSCG-UE2  
+Finance 
+Page 7 / 10 
+Annexe 1 – Éléments de calcul du taux de rentabilité probable des capitaux propres. 
+ 
+Taux d’intérêt sans risque : 6 %. 
+Rm : rentabilité du marché (par comparaison avec des sociétés similaires). 
+Ra : rentabilité de l’action « Easy Sell Immo ». 
+V(Rm) : 3,2496 %. 
+V(Ra) : 4,2900 %. 
+ 
+Probabilité de 
+réalisation 
+Ra 
+Rm 
+0,1 
+14 % 
+12 % 
+0,2 
+22 % 
+20 % 
+0,4 
+28 % 
+26 % 
+0,3 
+- 20 % 
+- 16 % 
+ 
+ 
+ 
+Annexe 2 – Données financières relatives à deux projets d’investissements (en k€). 
+ 
+Madame Müller hésite entre deux catégories de lunettes 3D proposées par un fournisseur chinois 
+de renom : les lunettes VR et les lunettes 360. Une première catégorie de lunettes dégage des flux 
+de trésorerie réguliers mais sur une période 6 ans, tandis qu’une seconde catégorie dégage plus 
+de trésorerie mais sur une période plus courte. La mise de fonds de départ serait identique pour 
+les deux projets : 18 000 K€. 
+ 
+Les actionnaires de la société sont prêts à se lancer dans ce nouveau projet mais compte tenu du 
+risque élevé, ils demandent une rentabilité minimale de 12 %. 
+ 
+ 
+Projet 1 – Lunettes VR 
+ 
+Durées 
+1 
+2 
+3 
+4 
+5 
+6 
+Résultat d’exploitation après impôts 
+12 000 
+13 000 
+12 000 
+11 000 
+12 000 
+14 000 
+Dotations aux amortissements 
+2 000 
+2 000 
+2 000 
+2 000 
+2 000 
+2 000 
+Augmentations annuelles du BFRE 
+8 000 
+9 000 
+8 000 
+7 000 
+8 000 
+8 000 
+ 
+ 
+Projet 2 – Lunettes 360 
+ 
+Durées 
+1 
+2 
+3 
+Flux potentiel de trésorerie d’exploitation après IS 
+13 000 
+14 000 
+15 000 
+Augmentations annuelles du BFRE 
+3 000 
+4 000 
+5 000 
+ 
+Les augmentations de BFRE sont supposées être décaissées en fin d’exercice. 
+FICHEBEN 
+
+=== PAGE 8 ===
+21DSCG-UE2  
+Finance 
+Page 8 / 10 
+Annexe 3 – Éléments d’information concernant une opération de fusion. 
+ 
+La parité d’échange est déterminée en réalisant la moyenne de la somme de la valeur 
+mathématique intrinsèque (VMI) et de la valeur financière (dividendes/taux) des actions « Invest 
+Immo » et « Achète-Moi ». 
+ 
+Montant des dividendes unitaires (en €) distribués par « Invest Immo » et « Achète-Moi ». 
+ 
+Type de société 
+N-2 
+N-1 
+« Invest Immo » 
+7 
+5 
+« Achète-Moi » 
+28 
+20 
+ 
+La valeur financière est calculée à partir de la moyenne des dividendes de N-2 et de N-1, 
+actualisée à l’infini au taux de 6 %. Dans un souci de simplification, il sera fait abstraction de la 
+fiscalité différée dans le cadre du calcul de l’ANCC (Actif Net Comptable Corrigé). 
+ 
+Bilan d’Invest Immo 31/12/2020 (en euros) 
+ 
+Actif 
+Montant 
+Passif 
+Montant 
+Constructions 
+190 000 Capital (valeur nominale : 30 €) 
+150 000 
+Titres de participation (100 actions) 
+5 000 Réserves légales et statutaires 
+50 000 
+Stocks de marchandises 
+65 000 Provisions pour risques 
+25 000 
+Créances clients et comptes 
+rattachés 
+48 000 Emprunts auprès des Ets de crédit 
+65 000 
+Valeurs mobilières de placement 
+17 000 Dettes fournisseurs et comptes 
+rattachés 
+35 000 
+Disponibilités 
+25 000 Dettes fiscales et sociales 
+15 000 
+ 
+ Produits constatés d’avance 
+10 000 
+Total 
+350 000 
+Total 
+350 000 
+ 
+Les constructions sont évaluées à un montant de 466 500 €. Les stocks de marchandises sont 
+évalués à 73 500 €. 
+ 
+Bilan d’Achète Moi 31/12/2020 (en euros) 
+ 
+Actif 
+Montant 
+Passif 
+Montant 
+Constructions 
+100 000 Capital (valeur nominale : 50 €) 
+50 000 
+Titres de participation 
+0 Réserves 
+15 000 
+Stocks de marchandises 
+18 000 Provisions pour risques 
+15 000 
+Créances clients et comptes rattachés 
+32 000 Dettes financières 
+32 500 
+Valeurs mobilières de placement 
+3 500 Dettes fournisseurs et comptes 
+rattachés 
+15 000 
+Disponibilités 
+6 500 Dettes fiscales et sociales 
+6 500 
+ 
+ Produits constatés d’avance 
+26 000 
+Total 
+160 000 
+Total 
+160 000 
+ 
+Les constructions sont évaluées à un montant de 200 000 €. Les valeurs mobilières de placement 
+sont évaluées à 38 500 €. 
+ 
+Pour les deux bilans, les provisions pour risque sont justifiées. Elles n’ont pas un caractère de 
+réserves. 
+ 
+Valorisation boursière des deux sociétés avant l’opération. 
+Cours unitaire Investimmo : 100 €. 
+Cours unitaire Achète Moi : 200 €. 
+Le gain attendu par l’opération de fusion est estimé à 100 000 €. 
+ 
+FICHEBEN 
+
+=== PAGE 9 ===
+21DSCG-UE2  
+Finance 
+Page 9 / 10 
+Annexe 4 – « Euro numérique : cinq questions pour comprendre le projet de  
+monnaie électronique européenne ». 
+ 
+Extrait de l’article de Julien Lausson, 02 novembre 2020, Tech.  
+ 
+(…) La décision pour créer cette nouvelle forme de devise est attendue l'année prochaine. Mais 
+que sait-on sur ce projet ? 
+ 
+Qu’est-ce qu’un euro numérique ? 
+ 
+Depuis février 2002, l’euro est la seule monnaie ayant cours légal dans l’ensemble des pays de la 
+zone euro – dont la France fait partie. Cette devise existe sous deux formes : la monnaie 
+fiduciaire (les pièces et les billets de banque) et la monnaie scripturale (l’argent est inscrit par un 
+jeu d’écriture sur les comptes en banque, permettant les virements, les paiements par carte 
+bancaire ou les chèques). 
+L’euro numérique appartiendrait à une troisième catégorie, la monnaie électronique, une 
+catégorie dans laquelle on retrouve les cryptomonnaies (comme Bitcoin) et des initiatives 
+semblables à Libra, le projet porté par Facebook. Sa définition par la Banque centrale européenne 
+(BCE) est qu’il s’agit d’une valeur monétaire représentant une créance sur l’émetteur qui est : 
+• 
+stockée sur un support électronique (comme un smartphone) ; 
+• 
+émise contre la remise de fonds (par exemple des billets) d’un montant dont la valeur n’est 
+pas inférieure à la valeur monétaire émise ; 
+• 
+acceptée comme moyen de paiement par des entreprises autres que l’émetteur. (…) 
+  
+Pourquoi concevoir un euro numérique ? 
+ 
+Il existe non pas un, mais plusieurs scénarios en faveur d’un euro numérique – et qui sont en outre 
+cumulables. 
+• 
+Le premier, le plus évident, est la « forte diminution du recours aux espèces dans la zone 
+euro ». Cette hypothèse serait vraisemblablement combinée à une « hausse de la 
+demande de paiements électroniques dans la zone euro ». Le second prend la place du 
+premier, en somme. 
+• 
+Mais il y a aussi le souci de contester certaines initiatives privées, comme le Libra de 
+Facebook. Le « lancement, à l’échelle internationale, de moyens de paiement privés qui 
+soulèveraient des questions prudentielles et menaceraient la stabilité financière et la 
+protection des consommateurs », relève la BCE. Et, on l’a vu avec le ministre français de 
+l’Économie et des Finances, il est hors de question de laisser faire. 
+L’euro numérique est aussi envisagé comme une riposte à des initiatives privées, comme le Libra. 
+Autre scénario à prendre en compte : la perspective que la monnaie numérique émise par d’autres 
+banques centrales extérieures à la zone euro soit largement utilisée dans le monde, entraînant un 
+décalage ou un retard du Vieux Continent avec des pratiques se généralisant un peu partout – ce 
+qui pourrait éventuellement avoir des répercussions en matière touristique si les facilités de 
+paiement ne sont pas là. 
+• 
+Dernière grande hypothèse : la survenue d’un évènement extrême, qui mettrait à mal les 
+moyens de paiement déjà en place. Il pourrait s’agir d’une cyberattaque d’ampleur, d’une 
+catastrophe naturelle ou… d’une pandémie. Pour la BCE, l’euro numérique pourrait 
+« atténuer les répercussions » de ce genre de désastre, qui sont de nature à affecter les 
+services de paiement, voire à les mettre à terre. (…) 
+ 
+L’euro numérique verra-t-il vraiment le jour ? 
+ 
+(…) Selon toute vraisemblance, il faudra attendre quelques années avant que l’euro numérique ne 
+soit plus simplement un concept mais devienne un véritable outil de paiement. La BCE l’admet 
+volontiers : accoucher d’un tel projet tout en satisfaisant la totalité des exigences du cahier des 
+charges « prendra du temps ». Et convaincre la population peut-être encore plus. 
+ 
+Source : Julien Lausson, 02 novembre 2020, Tech.  
+FICHEBEN 
+
+=== PAGE 10 ===
+21DSCG-UE2  
+Finance 
+Page 10 / 10 
+Annexe 5 – Informations sur les opérations à l’international et couverture de change. 
+ 
+Cours au moment de la passation du contrat avec la banque, au 15/03/2020 : 1£ = 1,11 €. 
+ 
+Ce cours servira de référence pour calculer les gains et/ou les pertes de change. 
+ 
+Hypothèse 1 : 3 mois plus tard, soit le 15/06/2020 : la livre sterling est cotée 1 £ = 1,35 €. 
+ 
+Hypothèse 2 : 3 mois plus tard, soit le 15/06/2020 : la livre sterling est cotée 1 £ = 1,02 €. 
+ 
+Achat d’euros à terme contre livre sterling. 
+Cours garanti : 1 £ = 1,12 €. 
+Date d’échéance : 3 mois. 
+ 
+Achat d’une option d’achat d’euros contre livre sterling. 
+Dans un souci de simplification, la prime liée à l’achat de l’option ne sera pas capitalisée. 
+Cours garanti : 1 £ = 1,05 €. 
+Prime à payer à l’achat de l’option : 1000 €. 
+Date d’échéance : 3 mois. 
+ 
+FICHEBEN 

@@ -1,0 +1,397 @@
+=== PAGE 1 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 1/8 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+ 
+SESSION 2023 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+ 
+FICHEBEN
+
+=== PAGE 2 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 2/8 
+UE5 – Management des systèmes d’information 
+Durée : 3 heures – Coefficient : 1 
+_______________________________________________________________________ 
+Document autorisé : 
+Aucun document ni aucun matériel n’est autorisé. En conséquence, tout usage d’une 
+calculatrice est INTERDIT et constituerait une fraude. 
+ 
+Document remis au candidat : 
+Le sujet comporte 8 pages numérotées de 1/8 à 8/8. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants. 
+ 
+DOSSIER 1 – CONCEPTION DE LA GED (6 points) 
+DOSSIER 2 – DIRECTION DE PROJET (8 points) 
+DOSSIER 3 – IMPACT DE LA NOUVELLE LOI DE FINANCE 2024-2026 (6 points) 
+ 
+ 
+Le sujet comporte 4 annexes. 
+ 
+Annexe 1 -  Description et structure de la solution de GED 
+Annexe 2 - Méthodologie fournie par l’éditeur pour basculer vers la nouvelle version de la 
+GED 
+Annexe 3 -  Organisation et ressource de votre équipe où vous êtes le directeur de projet 
+Annexe 4 -  La facturation électronique 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une 
+ou plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement 
+dans votre copie. Toutes les réponses devront être justifiées. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie 
+et à la qualité rédactionnelle. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 3 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 3/8 
+SUJET   
+Plan de bascule d’une solution de G.E.D.  
+Le cas, l'énoncé et les données sont inspirés d’une situation réelle. Vous pourrez introduire 
+des éléments non précisés dans l'énoncé à condition de les présenter comme des 
+hypothèses. 
+Vous avez été nommé directeur de projet au sein de votre Entreprise de services du 
+numérique (ESN) à la suite de votre expérience réussie dans le domaine de la gestion des 
+documents comptables et financiers. Votre ESN réalise essentiellement une activité 
+d’intégration d’une solution de Gestion électronique documentaire (GED) fournie par un 
+éditeur de logiciels de nationalité américaine. Le parc client équipé par votre société est 
+d’environ 120 références réparties sur le territoire français et DROM (Départements ou 
+Régions français d’Outre-Mer) et COM (Collectivités d’Outre-Mer) avec comme 
+interlocuteur la Direction administrative et financière (DAF).  
+L’éditeur du logiciel vous a informé que, d’ici 36 mois, il mettrait fin au support de la 
+précédente version de la GED que vous intégrez chez vos clients. Sur les 120 références 
+actives, 100 clients doivent en conséquence entamer un processus de bascule vers la 
+nouvelle version. Le service commercial de votre ESN a déjà signé l’ensemble des accords 
+et des projets permettant la bascule vers la nouvelle solution de GED sur votre parc client. 
+Ce changement de version doit aussi tenir compte de la mise en œuvre de la nouvelle loi 
+de finances à partir de 2024, vous devrez donc prendre en compte les exigences 
+réglementaires relatives à cette dernière et répondre aux questions de vos clients.  
+Votre ESN est aussi concernée par cette bascule de version applicative de GED car vous 
+utilisez en interne cette ancienne version. Vous avez réalisé cette bascule comme un 
+entraînement et vous avez, à cette occasion, validé l’équipe pour organiser votre 
+programme. L’objectif est de réaliser les différents projets pour amener votre parc client sur 
+la dernière version de l’éditeur. 
+Afin de pouvoir vous organiser et maîtriser le sujet, vous disposez en annexe des 
+documents suivants :  
+- 
+« Annexe 1 -  Description et structure de la solution de GED » 
+- 
+« Annexe 2 - Méthodologie fournie par l’éditeur pour basculer vers la nouvelle 
+version de la GED » 
+- 
+« Annexe 3 - Organisation et ressource de votre équipe au sein de laquelle vous 
+êtes le directeur de projet » 
+- 
+« Annexe 4 - La facturation électronique » 
+ 
+Votre ESN est très attentive aux bonnes pratiques et aux compétences organisationnelles 
+en matière de Management des Systèmes et des Technologies de l’Information telles que 
+celles préconisées par ITIL (En). Elle apporte également des éléments de conseil en 
+sécurité du système d’information (SSI). L’ensemble de vos réponses devra prendre en 
+compte ces dimensions ainsi que la réglementation portée par le RGPD (Règlement 
+Général sur la Protection des Données) pour que leurs applications restent valables.  
+ 
+ 
+FICHEBEN
+
+=== PAGE 4 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 4/8 
+DOSSIER 1 – CONCEPTION DE LA GED 
+ 
+Afin de maîtriser la nouvelle solution de GED pour la fonction Achat chez vos clients, vous 
+devez étudier les impacts avant bascule de la nouvelle version. L’annexe 1 vous présente 
+la nouvelle solution de GED : 
+ 
+1. Sur la typologie de document « Facture » présent en annexe 1, un certain 
+nombre de mots clés permettent de qualifier le document afin de le retrouver 
+efficacement. Proposer deux mots clés supplémentaires pertinents pour 
+qualifier la facture en GED afin d’améliorer la recherche de ce type de 
+document. Ces mots clés complémentaires doivent être conformes du point 
+de vue du RGPD.  
+2. Le plan de classement indique que la facture d’achat a un numéro de pièce 
+unique en GED. En conséquence, comment traiter une facture erronée d’un 
+fournisseur dans le cas où celui-ci décide de renvoyer une version corrigée ? 
+La réponse doit respecter la législation comptable.  
+3. Dans la nouvelle version de la GED, vous disposez d’un calendrier de 
+conservation qui effectue une « purge » des documents au-delà d’une période 
+programmée vis-à-vis d’une date de référence. Quels sont les paramètres qui 
+doivent être programmés pour la facture d’achat afin de ne plus conserver les 
+documents au-delà du temps de conservation légal ?  
+4. Pour valider le Bon à payer d’une facture, les utilisateurs acteurs du Workflow 
+Facture auront accès à la GED. Quels sont les documents qui leurs permettront 
+de valider le Workflow ?  
+5. D’un point de vue du RGPD, quelles sont les limitations ou les règles à 
+respecter sur les documents du Plan de classement Achat ?  
+ 
+ 
+DOSSIER 2 – DIRECTION DE PROJET  
+En tant que directeur de projet, vous devez organiser le programme de projet permettant la 
+bascule de votre parc client. À partir des annexes 2 et 3 et de vos connaissances, répondre 
+le plus clairement possible aux questions suivantes : 
+ 
+6. Pour piloter l’ensemble de vos projets au sein du programme de bascule des 
+clients de l’ESN, vous décidez d’organiser un Comité de pilotage mensuel. 
+Quels sont les participants à convier à ce comité ?  
+7. Décrire la méthodologie de projet employée pour basculer un client de GED à 
+partir des informations présentées en annexe 2 et 3. Justifier ce choix de 
+méthodologie en décrivant les avantages et les inconvénients.  
+ 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 5/8 
+8. Donner deux critères d’organisation du programme de projet à l’aide des 
+éléments présentés au sein des annexes 2 et 3 afin de réaliser les 100 bascules 
+clients en un minimum de temps. Vous présenterez ensuite un Gantt du 
+programme pour les 5 premières bascules.  
+9. Après avoir défini la notion d’urbanisation du Système d’information, 
+présenter un minimum de trois éléments de révision des documents 
+d’urbanisation dans le cadre des bascules de GED chez vos clients. 
+ 
+ 
+DOSSIER 3 – IMPACT DE LA NOUVELLE LOI DE FINANCES 2024-2026 
+Votre programme de projet a lieu en même temps que la mise en œuvre de la nouvelle loi 
+de finances 2024-2026 présentée en annexe 4. Il est demandé d’identifier ses impacts 
+potentiels. 
+ 
+10. Définir le rôle des PDP (Plateforme de Dématérialisation Partenaire) dans la 
+cadre de la mise en place de la nouvelle loi de finances 2024-2026. 
+11. Citer deux arguments qui ont motivé le législateur à rédiger la nouvelle loi de 
+finances 2024-2026. Pourquoi cette loi précise les années 2024 à 2026 ?  
+12. Dans quelles mesures le plan de classement achat évoqué en annexe 1 doit ou 
+ne doit pas être mis à jour dans le cadre de la nouvelle loi de finances 2024-
+2026 ?  
+13. Concernant la sécurité du système d’information, décrire au moins trois points 
+d’attention que la DSI (Direction des systèmes d’information) doit intégrer 
+dans la cadre de la mise en œuvre de la nouvelle loi de finances 2024-2026. 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 6 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 6/8 
+Annexe 1 - Description et structure de la solution de GED 
+Une solution de Gestion Électronique Documentaire est une application de type « Client-Serveur ». 
+Chaque client est un « utilisateur » se connectant à l’aide de son ordinateur au serveur à l’aide de 
+son navigateur internet et de son profil. Chaque profil utilisateur donne accès à un ensemble de 
+documents et de fonctions, ce sont les habilitations. Le serveur, quant à lui, est une machine 
+accessible via le réseau et qui détient plusieurs services interconnectés permettant d’assurer la 
+fonction, il s’agit :  
+- 
+d’un service de stockage pouvant accueillir tous les documents (fichiers) ; 
+- 
+d’une base de données permettant de retrouver toutes les informations sur les 
+documents et d’effectuer des recherches ; 
+- 
+d’une application assurant l’accès des utilisateurs via un serveur web, des paramètres 
+pour organiser les documents et déterminer les droits et permissions des utilisateurs, et 
+d’un moteur de recherche. 
+Pour organiser les documents sans une GED, il est nécessaire de paramétrer un « Plan de 
+classement ». Ce Plan de classement est l’organisation de tous les paramètres permettant de 
+répertorier, qualifier et retrouver les documents stockés. Un « Dossier » peut accueillir plusieurs 
+natures de document et chaque nature de document peut être qualifiée d’un ou plusieurs mots clés. 
+Les mots clés ont des attributs (unique, multiple, format texte / numérique / date, longueur…). 
+Exemple ci-dessous dans le Plan de classement des factures d’achat de la GED.  
+Le dossier « Facture » est qualifié par : 
+- 
+le numéro de facture unique provenant de l’ERP ;  
+- 
+le numéro de facture du fournisseur ;  
+- 
+le numéro du fournisseur (du tiers) ; 
+- 
+la raison sociale du fournisseur.  
+La GED crée donc un dossier par facture car le numéro de facture (ERP) a une obligation d’être 
+unique dans toute la GED.  
+ 
+Le dossier facture contient les natures de documents suivantes :  
+- 
+facture ; 
+- 
+bon à payer ; 
+- 
+frais de mission ; 
+- 
+nantissement ; 
+- 
+ordre de paiement ; 
+- 
+correspondance Facture ; 
+- 
+autre document Facture ; 
+- 
+lettre de paiement. 
+ 
+La nature de document « Facture » contient les mots-clés suivants pour la qualifier :  
+- 
+le numéro de facture de l’ERP (identique à celui de son dossier) ; 
+- 
+le numéro de facture fournisseur (identique à celui de son dossier) ; 
+- 
+le Numéro du fournisseur (du tiers) (identique à celui de son dossier) ; 
+- 
+la raison sociale du fournisseur (identique à celui de son dossier) ; 
+- 
+la date d’établissement ; 
+- 
+la date d’enregistrement ; 
+- 
+l’origine dans le Système d’Information. 
+ 
+D’autres plans de classement existent dans la fonction achat comme les engagements (commandes, 
+devis, marchés, contrats…). 
+ 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 7/8 
+Annexe 2 - Méthodologie fournie par l’éditeur pour basculer vers la nouvelle version de la 
+GED 
+L’éditeur américain de la solution de GED vous décrit les différentes étapes de bascule vers sa nouvelle 
+version. 
+1. Réaliser un audit de la qualité des données sur la précédente version de la GED à l’aide du 
+programme fourni comprenant 30 indicateurs.  
+2. Réaliser la correction des données de la précédente GED qui causeraient des anomalies lors de 
+la bascule à l’aide des documentations communiquées. 
+3. Installer la nouvelle version de la GED vierge sur un nouveau serveur. 
+4. Paramétrer la GED à l’identique de la précédente version, les Plans de classement et les profils 
+utilisateurs sont transférables avec l’outil de bascule mis à disposition. 
+5. Réaliser un premier transfert des données : les documents + les tables précisées de la base de 
+données. Cette phase est appelée Run 1. 
+6. Faire la recette technique et fonctionnelle de la nouvelle GED. 
+7. Former les utilisateurs à la nouvelle GED. 
+8. Réaliser la mise en production avec le Run 2 : transfert du delta de données depuis votre Run 1. 
+9. Reconnecter la nouvelle GED au Système d’information. 
+ 
+Annexe 3 - Organisation et ressource de votre équipe où vous êtes le directeur de projet 
+Vous disposez d’une équipe projet qui devra assurer l’ensemble des bascules. Elle est composée de 3 
+personnes :  
+- 
+Evelyne, auditrice en solution de GED, cheffe de projet et formatrice sur le nouvel outil ; 
+- 
+Patrice, expert infrastructure en charge des installations et des Runs ; 
+- 
+Jean, consultant en charge du paramétrage de la GED, de la correction de données et des 
+recettes applicatives. 
+La reconnexion de la GED au Système d’information (étape 9) se réalise avec Jean, Evelyne et Patrice 
+sur la même tâche. 
+Les étapes 2 et 3 peuvent être réalisées en même temps, il est même possible de réaliser l’installation 
+avant la correction. 
+La gestion de projet n’est pas affectée à un projet en particulier mais peut être transverse à plusieurs 
+bascules. 
+Vous êtes libre de donner les durées de cohérence de chaque tâche ou d’ignorer ce paramètre comme 
+dans l’exemple ci-dessous d’enchaînement des tâches pour la bascule de la GED de votre ESN :  
+ 
+ 
+ 
+ 
+Personnes : 
+Evelyne : 
+1 - Audit
+7 - Formation
+Patrice : 
+3 - Installation
+5 - Run 1
+8 - Run 2
+Jean : 
+2 - Correction
+4 -Paramétrage
+6 -Recette
+Tâches
+Gestion de projet
+9 - Reconnexion 
+au SI
+FICHEBEN
+
+=== PAGE 8 ===
+ 
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 8/8 
+Annexe 4 - La facturation électronique  
+À partir du 1er juillet 2024, les entreprises établies en France devront accepter les factures électroniques. 
+L'émission obligatoire de factures électroniques sera progressivement mise en place entre 2024 et 2026. 
+L'article 62 de la loi de finances pour 2023 intègre à l'article 289 du code général des impôts le recours à 
+la procédure de cachet électronique qualifié pour l'émission ou la réception des factures électroniques. 
+C’est déjà le cas depuis 2020, où toutes les entreprises qui adressent leurs demandes de paiement, via 
+Chorus pro, pour tous les contrats conclus par l'État, les collectivités territoriales et les établissements 
+publics, doivent éditer des factures exclusivement numériques. L'ordonnance n° 2021-1190 du 
+15 septembre 2021 prévoit également la généralisation de la facturation électronique entre entreprises 
+assujetties à la TVA.  
+Le périmètre de la facturation électronique entre entreprises 
+La facturation électronique, dite e-invoicing, concerne l’ensemble des opérations d’achats et de ventes de 
+biens et/ou de prestations de services réalisées entre des entreprises établies en France qui sont 
+assujetties à la TVA dès lors qu’il s’agit d’opérations dites domestiques, c’est-à-dire qu’elles concernent 
+le territoire national. 
+Par ailleurs, les entreprises doivent transmettre à l’administration fiscale certaines informations (opération 
+appelée e-reporting) relatives à des opérations commerciales qui ne sont pas concernées par la 
+facturation électronique. Sont notamment concernées des entreprises soumises à la TVA en France et 
+qui commercent avec des particuliers et plus largement des non assujettis ou avec des entreprises non 
+établies sur le territoire national.  
+Ces données sont par exemple le montant de l’opération ou le montant de la TVA facturée. 
+Le site des impôts propose de nombreuses ressources documentaires sur ce passage à la facturation 
+électronique.  
+Les obligations d'e-reporting suivent le même calendrier 
+Au sein du communiqué de presse du 17 août 2022, le ministère de l’Économie, des finances et de la 
+souveraineté industrielle et numérique a confirmé le calendrier de la mise en place de la facturation 
+électronique entre entreprises. L’article 26 de la loi de finances rectificative pour 2022 prévoit que les 
+assujettis à la TVA en France devront, à terme, émettre, transmettre et recevoir les factures sous forme 
+électronique dans leurs transactions avec d’autres assujettis et transmettre à l’administration fiscale les 
+données de facturation, ainsi que les données relatives aux opérations non domestiques ou avec une 
+personne non assujettie. 
+Les données des transactions d'e-reporting devront, elles aussi, être transmises par l’entreprise qui réalise 
+l’opération, à l'administration fiscale, par l’intermédiaire d’une plateforme de dématérialisation partenaire 
+de l’administration ou via le portail public de facturation. 
+Le décret n° 2022-1299 du 7 octobre 2022 fixe les modalités d'application des obligations d'émission, de 
+transmission et de réception des factures électroniques et de transmission des données de facturation et 
+de paiement à la direction générale des finances publiques. L'arrêté du 7 octobre 2022 précise les 
+spécifications techniques et les procédures. 
+Source  https://www.economie.gouv.fr/cedef/facturation-electronique-entreprises   
+FICHEBEN

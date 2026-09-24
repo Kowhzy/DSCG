@@ -1,0 +1,599 @@
+=== PAGE 1 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 1/8 
+ 
+ 
+1900002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SESSION 2019 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 2/8 
+  
+ 
+1900002 
+ 
+ 
+ 
+ 
+SESSION 2019 
+ 
+ 
+UE 2 – FINANCE 
+Durée de l’épreuve : 3 heures - coefficient : 1 
+Document autorisé :  
+Aucun  
+ 
+Matériel autorisé : l’usage de tout modèle de calculatrice, avec ou sans mode examen, est 
+autorisé. 
+ 
+Document remis au candidat : 
+Le sujet comporte 8 pages numérotées de 1/8 à 8/8. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 2 dossiers indépendants 
+Page de garde .......................................................................................................................... page 1 
+DOSSIER 1 : Étude de cas : le cas Éditlivres (75 points, soit 15/20) .................................... page 3 
+DOSSIER 2 : Réflexion sur les montages financiers et l’endettement (25 points soit 5/20) page 4 
+________________________________________________________________________________________ 
+ 
+Le sujet comporte les annexes suivantes 
+ 
+DOSSIER 1 
+Annexe 1 : Comptes consolidés ................................................................................................. page 5 
+Annexe 2 : Présentation du montage financier  .......................................................................... page 6 
+Annexe 3 : Notation Standard and Poor’s – Ratios clés  ............................................................ page 7 
+Annexe 4 : Taux d’actualisation  ................................................................................................ page 7 
+Annexe 5 : Prévisions financières  ............................................................................................. page 7 
+Annexe 6 : Portefeuille d’obligations  ......................................................................................... page 7 
+ 
+DOSSIER 2 
+Annexe 7 : Articles de presse..................................................................................................... page 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre 
+copie. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 3/8 
+ 
+DOSSIER 1 : ÉTUDE DE CAS 
+ 
+Le groupe Éditlivres est une maison d’édition française spécialisée dans l’exploitation d’auteurs à succès 
+qui recouvre toutes les activités liées : de l’édition à la publication et de la distribution à la 
+commercialisation des ouvrages. Le marché de l’édition est un marché important en France, premier des 
+industries culturelles et créatives. Le groupe étudié Éditlivres représente le premier réseau d’édition en 
+France et partage 60% des parts de marché avec un second géant de l’édition Flamalivres.  
+ 
+Les maisons d’édition exercent de nombreux métiers comme celui d’éditeur, d’agent, ou encore de 
+commercial. Malgré un dynamisme apparent et la parution de plus de 60 000 titres par an, le nombre de 
+ventes d'ouvrages stagne et diminue depuis 2005. 
+En raison de ce contexte difficile, Éditlivres et Flamalivres ont décidé de mettre en commun leur réseau 
+de distribution et de créer Galilivres, une entité détenue conjointement (Éditlivres 66 % et Flamalivres  
+34 %) (cf. annexe 2).  
+ 
+À la demande d’un client envisageant un investissement dans Éditlivres, le directeur du cabinet de 
+conseil FinancePlus souhaite étudier de manière précise l’effet du montage financier sur la situation 
+financière d’Éditlivres. Il vous charge donc de réaliser un diagnostic après montage financier          
+(sous-dossier 1) et de proposer une notation du groupe telle que le ferait un organisme de notation 
+comme Standard and Poor’s ainsi qu’une valorisation du groupe (sous-dossier 2). Compte tenu de la 
+remontée probable des taux d’intérêt, le directeur vous charge aussi d’étudier l’effet d’une variation des 
+taux d’intérêt sur le portefeuille obligataire de la société (sous-dossier 3).  
+ 
+Sous-dossier 1 
+ 
+À l’aide de vos connaissances et des annexes 1 et 2, vous préparez un rapport sur la situation financière 
+de la société Editlivres après le montage financier. 
+ 
+Travail à faire 
+ 
+1. Analyser l’évolution de la performance de la société avant et après le montage financier. 
+Calculer le taux de marge opérationnelle brute (EBITDA / CA), le ROCE (Résultat 
+opérationnel courant / (Capitaux propres + dette nette)) et le ROE.  
+2. Analyser la structure financière de la société avant et après le montage financier. Calculer 
+le ratio d’endettement (gearing) et la capacité de remboursement.  
+3. Analyser le tableau de flux de trésorerie du groupe 
+4. Commenter l’évolution de la situation financière de la société après le montage financier 
+et indiquer l’intérêt de ce type d’opération. 
+ 
+Sous-dossier 2 
+ 
+À partir des informations fournies en annexe 3 par les analystes de Standard and Poor’s, le directeur du 
+cabinet FinancePlus vous demande de proposer une notation (rating) pour la société Éditlivres et de 
+procéder à une valorisation du groupe.  
+ 
+Travail à faire 
+  
+5. Après avoir expliqué les objectifs du processus de notation et à l’aide de l’annexe 3, 
+proposer une notation pour le groupe après le montage financier en justifiant votre 
+réponse.  
+6. A partir des états financiers et de l’annexe 4, calculer le coût de la dette, le coût des 
+capitaux propres, ainsi que le coût moyen pondéré du capital du groupe en 2016. 
+7. Calculer la valeur des fonds propres par la méthode des flux de trésorerie disponibles 
+actualisés fin 2016 (ou début 2017) en se fondant sur les hypothèses présentées en 
+annexe 5. 
+8. Indiquer les intérêts et les limites de cette méthode d’évaluation. 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 4/8 
+Sous-dossier 3 
+ 
+Le groupe détient des équivalents de trésorerie qui correspondent à un portefeuille obligataire constitué 
+d’obligation à taux fixe. Jusqu’à présent, la gestion de trésorerie n’était pas un sujet de préoccupation du 
+dirigeant mais la remontée des taux d’intérêt sur le marché américain lui fait craindre une remontée des 
+taux sur le marché européen. À ce titre, il vous est demandé de proposer des solutions pour limiter 
+l’exposition au risque de son portefeuille à l’aide de l’annexe 6. 
+ 
+Travail à faire 
+  
+9. Identifier le risque du portefeuille obligataire. 
+10. La duration moyenne des obligations du portefeuille est de 6,54. Le taux actuariel brut 
+s’établit à 4 %. Calculer et définir la sensibilité de l’obligation.  
+11. Le directeur souhaite prendre une couverture sur le contrat Euro Bund négocié à l’EUREX. 
+Présenter les principales caractéristiques d’un marché organisé. 
+12. Le cours de compensation s’établit, le 10 mars 2016, à 158. Identifier la position que le 
+groupe doit prendre sur le marché et calculer le nombre de contrats nécessaires pour la 
+couverture en vous aidant de l’annexe 6. Le 10 décembre 2016 le contrat Euro Bund cote 
+154, déterminer le résultat obtenu sur l’EUREX. Conclure sur l’efficacité de la couverture.  
+ 
+ 
+DOSSIER 2 : RÉFLEXION  
+ 
+À l’aide de vos connaissances et de l’annexe 7, et en vous référant aux théories et aux pratiques 
+financières, il vous appartient de traiter le sujet suivant :  
+ 
+Sujet : la gestion de la dette et le LBO 
+ 
+ 
+Après avoir rappelé les avantages et les faiblesses des montages LBO, vous mettrez en évidence 
+ses incidences sur la gestion de la dette. 
+ 
+NB : il vous est demandé de répondre de manière précise et structurée à la question posée, en 
+limitant sa réponse à 4 pages au maximum sur votre copie d’examen. 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 5/8 
+Annexe 1 : Comptes consolidés  
+ 
+Bilan (chiffres exprimés en K€) 
+ 
+2016 
+2015 pro forma 
+2015 
+Goodwill 
+78825 
+83898 
+67873 
+Autres immobilisations incorporelles 
+470 
+815 
+31377 
+Immobilisations corporelles 
+14755 
+17365 
+242152 
+Titres mis en équivalence (entités associées) 
+113720 
+117095 
+3732 
+Autres actifs financiers non courants 
+2082 
+2464 
+4518 
+Actifs non courants 
+209852 
+221637 
+349652 
+Actifs courants d'exploitation 
+47408 
+56150 
+88282 
+Équivalents de trésorerie 
+4434 
+25705 
+30893 
+Actifs courants 
+51842 
+81855 
+119175 
+Total actifs 
+261694 
+303492 
+468827 
+Capital social 
+32952 
+31368 
+31368 
+Réserves consolidées 
+64232 
+142250 
+142250 
+Résultat net part du groupe 
+59150 
+-15111 
+-66677 
+Capitaux propres part du groupe 
+156334 
+158507 
+106941 
+Intérêts ne donnant pas le contrôle 
+2302 
+2210 
+3060 
+Capitaux propres consolidés  
+158636 
+160717 
+110001 
+Dettes financières non courantes 
+60574 
+54749 
+139937 
+Dettes financières courantes 
+7090 
+48943 
+140140 
+Autres dettes courantes 
+35394 
+39083 
+78749 
+Total passif 
+261694 
+303492 
+468827 
+ 
+Compte de résultat (chiffres exprimés en K€) 
+ 
+  
+2016 
+2015 pro forma 
+2015 
+Chiffre d'affaires 
+85668 
+100077 
+237601 
+Achats et charges externes 
+944 
+3245 
+62681 
+Personnel 
+13024 
+12968 
+42095 
+Autres charges nettes 
+13728 
+6306 
+40132 
+Amortissements et provisions (dotations nettes des reprises) 
+48462 
+151601 
+169153 
+Résultat opérationnel courant 
+9510 
+-74043 
+-76460 
+Autres produits et charges opérationnels 
+65973 
+37719 
+-1017 
+Résultat opérationnel  
+75483 
+-36324 
+-77477 
+Coût endettement brut (charge d’intérêt) 
+1890 
+3110 
+7541 
+Autres produits et charges financiers nettes 
+2005 
+4319 
+-1404 
+Impôt 
+16022 
+-16803 
+-16351 
+Résultat sociétés mise en équivalence 
+722 
+3845 
+3845 
+Dépréciation du goodwill 
+1055 
+497 
+539 
+Résultat net consolidé 
+59243 
+-14964 
+-66765 
+Dont minoritaires 
+93 
+147 
+-88 
+Résultat net part du groupe 
+59150 
+-15111 
+-66677 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 6/8 
+Tableau des flux de trésorerie consolidés (chiffres exprimés en K€) 2016 et 2015 (pas de pro 
+forma) 
+ 
+2016 
+2015 
+Marge brute d'autofinancement 
+62839 
+94579 
+Variation BFR 
+14961 
+17694 
+Flux de trésorerie d'activité 
+77800 
+112273 
+Cessions 
+1884 
+9714 
+Acquisition d'immobilisations 
+-52183 
+-120180 
+Variation du périmètre 
+-7143 
+25475 
+Flux de trésorerie d'investissement 
+-57442 
+-84991 
+Dividendes versés 
+0 
+-4519 
+Apport capital 
+83 
+2833 
+Variation dettes financières 
+-37782 
+-8119 
+Flux de trésorerie de financement 
+-37699 
+-9805 
+Incidence de la variation du cours des devises 
+144 
+168 
+Variation de trésorerie nette 
+-17197 
+17645 
+ 
+Formule des Flux de trésorerie disponibles (Free Cash Flows): 
+Flux de trésorerie disponibles (FTD) = Flux de Trésorerie de l’activité - Investissements de croissance interne (acquisition 
+d’immobilisations). 
+ 
+Remarque  
+Les profits et charges financiers provenant des autres actifs financiers non courants ainsi que le 
+résultat des titres de sociétés mises en équivalence ne sont pas inclus dans le résultat 
+opérationnel courant. Il convient d’exclure ces deux éléments des capitaux investis par souci de 
+cohérence. 
+ 
+ 
+Annexe 2 : Présentation du montage financier 
+ 
+ 
+Le groupe Éditlivres a procédé à un apport partiel d’actifs à la société Galilivres, société créée à 
+cet effet avec le groupe Flamalivres. Dans le cadre de cet apport partiel d’actifs, le groupe 
+Éditlivres a transféré la totalité de ses points de vente (sociétés filiales détenues à 100 %, avec 
+patrimoine immobilier mais aussi endettement).  
+ 
+Après cette opération d’apport partiel d’actifs, Éditlivres est actionnaire de Galilivres à hauteur de 
+66 % alors que Flamalivres l’est à hauteur de 34 %.  
+ 
+Cette opération a permis à Éditlivres de réaliser une plus-value sur les titres de participation cédés 
+et d’évaluer désormais les titres de participation de la filiale Galilivres par la méthode de la mise en 
+équivalence alors qu’ils étaient jusqu’à présent consolidés avec la méthode de l’intégration 
+globale. 
+ 
+Il faut noter que les dirigeants des deux groupes co-actionnaires de Galilivres, sont aussi frères et 
+que si Éditlivres est coté, ce n’est pas le cas de Flamalivres. 
+ 
+NB : les comptes pro forma donnés en annexe 1 permettent de comprendre les impacts du 
+montage déconsolidant à année constante (2015) en comparant les comptes réels 2015 et les 
+comptes pro-forma 2015. Ceux-ci sont établis avec les données 2015 comme si le montage avait 
+été fait en 2015 et non en 2016. 
+ 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 7/8 
+Annexe 3 : Notation standard and Poor’s – ratios clés 
+ 
+Ratios clés pour évaluer la dette long terme ( Standard and Poor's) 
+  
+  
+  
+  
+Notation 
+AAA 
+AA 
+A 
+BBB 
+BB 
+B CCC 
+Couverture des frais financiers par l'EBITDA(x) 
+25,5 24,6 10,2 
+6,5 
+3,5 
+1,9 
+0,9 
+Free Cash Flows/Dettes totales (%) 
+127,6 44,5 
+25 
+17,3 
+8,3 
+2,8 
+-2,1 
+Dettes totales / EBITDA (%) 
+0,4 
+0,9 
+1,6 
+2,2 
+3,5 
+5,3 
+7,9 
+ROE% 
+27,6 
+27 17,5 
+13,4 
+11,3 
+8,7 
+3,2 
+ 
+Annexe 4 : Taux d’actualisation 
+ 
+Pour vérifier le taux d’actualisation, les hypothèses suivantes seront retenues :  
+Le taux de rendement sans risque est de 1,6 %.  
+La marge bancaire (spread de la société) est de 1,2 %. 
+Le coefficient de risque ou beta est calculé à partir des éléments suivants : Covariance (Rendement du 
+groupe, Rendement du marché) = 19,6. 
+L’espérance et la variance du rendement du marché des actions sur lequel le groupe Edilivres est coté 
+est respectivement de 11,80 % (E(Rm)) et 13 (Var (Rm)). 
+Le taux d’impôt sur les sociétés est supposé constant et égal à 33,1/3 % sur la période. 
+ 
+Annexe 5 : Prévisions financières  
+ 
+Formule des Flux de trésorerie disponibles (Free Cash Flows): 
+Flux de trésorerie disponibles (FTD) = Flux de Trésorerie de l’activité - Investissements de croissance 
+interne (acquisition d’immobilisations). 
+ 
+Les prévisions sont établies à partir du FTD réel de 2016 (voir annexe 1 avec une hypothèse de 
+croissance de 3 % par an sur une période de 6 ans (2017 - 2022). 
+Au-delà de l’horizon de prévisions, la valeur finale retenue à la fin de l’année 2022 est assimilable à une 
+rente perpétuelle correspondant au dernier flux de trésorerie. La croissance de cette rente se fera à 
+l’infini au taux de 1 %. Le taux d’actualisation est égal à 12,67 %. 
+Annexe 6 : Portefeuille d’obligation 
+Le groupe détient un portefeuille d’obligation à taux fixe d’une valeur de 4 000 K euros. 
+Formule de la sensibilité :  
+D = -S /(1+TAB). 
+D : Duration. 
+S : Sensibilité. 
+TAB : taux de rendement actuariel brut. 
+ 
+Formule pour le calcul du nombre de contrats  
+ 
+Nombre de contrats pour couvrir un portefeuille obligataire = valeur du portefeuille x Sensibilité 
+des obligations en portefeuille/ (valeur nominale du contrat x sensibilité de l’obligation du 
+contrat). 
+Sensibilité de l’obligation : 6,25. 
+Sensibilité de l’euro Bund : 5,05. 
+ 
+Principales caractéristique du contrat Euro Bund négocié à l’EUREX 
+ 
+Type 
+Contrat de type Futures 
+Support 
+Emprunt d’Etat Allemand, taux nominal 6 %, maturité 
+résiduelle comprise entre 8,5 ans et 10,5 ans 
+Nominal du contrat  
+100 000 euros 
+Cotation  
+En pourcentage du pair et au pied du coupon avec deux 
+décimales 
+Tick (variation minimale du cours) 1 point de base (10 euros) 
+échéance 
+Trimestrielle : mars juin, septembre et décembre 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2019  
+UE2 – FINANCE 
+Page 8/8 
+Annexe 7 : VIVARTE, un groupe en difficulté 
+Extraits : 
+• 
+de l’article : André, La Halle, Naf Naf : Vivarte, un groupe centenaire pris dans la spirale de la 
+crise ; LE MONDE | 05.01.2017 • Par Anne-Aël Durand 
+• 
+de l’article : Vivarte vend André et Naf Naf et ferme 147 magasins La Halle aux chaussures, LE 
+MONDE ECONOMIE | 24.01.2017 • Par Caroline Rousseau  
+ 
+Ce n’est pas Alstom et la disparition d’un fleuron industriel historique, mais l’avenir de Vivarte pourrait 
+bien devenir un dossier chaud lors de la présidentielle. Le géant français de l’habillement et de la 
+chaussure, qui a déjà annoncé 1 850 suppressions d’emplois en 2015, multiplie depuis deux ans les 
+cessions d’enseignes et plans sociaux. 
+Les syndicats craignent désormais le démantèlement d’un groupe à l’histoire plus que centenaire, 
+victime à la fois de la crise du textile et de logiques de rachat plus financières qu’industrielles. 
+Premier groupe d’habillement français, Vivarte n’échappe pas à la crise du secteur. Ses enseignes sont 
+confrontées à une double concurrence : des groupes internationaux, comme le suédois H&M ou 
+l’espagnol Zara, qui multiplient les collections et ont une image plus moderne, et des enseignes à bas 
+prix comme Kiabi, aux tarifs plus compétitifs que La Halle, qui s’était lancée dans une stratégie 
+hasardeuse de montée en gamme. Le groupe a aussi manqué le virage de l’économie numérique et des 
+ventes en ligne. 
+Le chiffre d’affaires de Vivarte s’est effondré en quatre ans, passant de 3,1 milliards d’euros en 2011-
+2012 à 2,2 milliards en 2015-2016.  
+Vivarte a été à plusieurs reprises la victime de fonds d’investissement poursuivant des objectifs de court 
+terme : le fond Atticus a pris le contrôle du groupe en 2000, pour le céder à PAI Partners en 2004. Ce 
+dernier a piloté un premier « redressement » du groupe (fermetures de magasins, réduction de coûts, 
+etc.) avant de se désengager deux ans plus tard au profit du fonds britannique Charterhouse. 
+Ces acquisitions ont été financées par Leverage Buy Out (LBO) ou achat à effet levier, un montage 
+financier. Résultat, en 2014, Vivarte se retrouvait avec un endettement colossal de 2,8 milliards d’euros, 
+presque autant que son chiffre d’affaires annuel. 
+En octobre 2014, le PDG, Marc Lelandais, est parvenu à restructurer cette dette, en « effaçant » 
+2 milliards d’euros pour donner une bouffée d’oxygène à l’entreprise… mais ce répit a été de courte 
+durée. En effet, les quatre fonds spécialisés britanniques (Alcentra, Babson, GoldenTree et Oaktree) ont 
+repris les 800 millions d’euros de dette en accordant un prêt de 500 millions supplémentaires, que 
+l’entreprise doit rembourser avec des intérêts exorbitants de 11 %. Deux ans après, l’endettement total 
+dépasse 1,5 milliard d’euros. Une nouvelle procédure a été lancée en juillet pour restructurer à nouveau 
+la dette. 
+En 2014, Oaktree, Alcentra, Babson et GLG ont accepté de faire une croix sur 2 milliards d’euros de 
+créances en échange de leur montée au capital du groupe français. Ces actionnaires, qui occupent six 
+des neuf sièges au conseil d’administration, ont plutôt intérêt à se rembourser rapidement, ce qui n’est 
+pas exactement le cas des fonds Hayfin ou Anchorage, qui ont apporté 500 millions d’euros de nouvelle 
+dette à Vivarte. Les deux camps ne sont pas sur la même longueur d’onde, et toute tentative de 
+renégocier une nouvelle fois la dette semble, pour le moment, extrêmement compliquée pour la direction 
+du groupe. 
+FICHEBEN 

@@ -1,0 +1,993 @@
+=== PAGE 1 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 1 / 17 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE GESTION 
+ 
+ 
+ 
+ 
+ 
+ 
+UE3 – MANAGEMENT ET CONTRÔLE DE GESTION 
+ 
+ 
+ 
+SESSION 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+Durée de l'épreuve : 4 heures 
+ 
+Coefficient : 1,5 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 2 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 2 / 17 
+UE3 – Management et contrôle de gestion 
+Durée : 4 heures – Coefficient : 1,5 
+_____________________________________________________________________________________ 
+Document autorisé : aucun. 
+ 
+Matériel autorisé :  
+- l’usage de la calculatrice avec mode examen actif est autorisé ; 
+- l’usage de la calculatrice sans mémoire, « type collège », est autorisé. 
+ 
+Tout autre matériel est interdit. 
+ 
+Document remis au candidat : 
+Le sujet comporte 17 pages numérotées de 1 à 17 et l’annexe A à rendre avec la copie page 17/17. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+Le sujet se présente sous la forme de 4 dossiers indépendants. 
+ 
+Présentation du sujet. 
+page 3/17 
+ 
+DOSSIER 1 – DIAGNOSTIC STRATÉGIQUE                                                            24 points page 4/17 
+DOSSIER 2 – PRÉSENTATION ET ANALYSE DU BUSINESS MODEL                  24 points page 4/17 
+DOSSIER 3 – RESSOURCES HUMAINES ET MODÉLISATION DES ÉQUIPES     26 points page 4/17 
+DOSSIER 4 – ÉTUDE DE L’OPPORTUNITÉ D’INTÉGRER BACK MARKET           26 points page 5/17 
+ 
+Le sujet comporte 14 annexes et l’annexe A à remettre avec la copie. 
+ 
+Annexe 1  
+Back Market : nouvelle levée de fonds. 
+page 6/17 
+Annexe 2 
+L’engouement pour les produits conditionnés. 
+page 7/17 
+Annexe 3 
+Les offres du marché. 
+page 8/17 
+Annexe 4 
+Économie circulaire. 
+page 9/17 
+Annexe 5 
+Le modèle Océan. 
+page 9/17 
+Annexe 6 
+Exemple de Business Model Canvas. 
+page 10/17 
+Annexe 7  
+L’intégration des nouveaux à l’ère numérique.  
+page 11/17 
+Annexe 8 
+Le guide du télétravail chez Back Market (extrait du blog interne). 
+page 12/17 
+Annexe 9 
+La cohésion pour la productivité. 
+page 13/17 
+Annexe 10  Happyness manager et turnover. 
+page 14/17 
+Annexe 11 Back Market choisit les BSPCE pour motiver ses recrues. 
+page 15/17 
+Annexe 12  Extrait de l’augmentation de capital du 9 février 2021. 
+page 15/17 
+Annexe 13  Start-up : focus sur le label Next40.  
+page 16/17 
+Annexe 14  Données de gestion collectées par monsieur Vincent X… 
+ 
+page 16/17 
+Annexe A  Tracé vierge du Business Model Canvas, à remettre avec la copie.  
+page 17/17 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses documents, vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) formuler explicitement dans votre copie. 
+ 
+Il est vous est demandé d’apporter un soin particulier à la présentation de votre copie.  
+Toute information calculée devra être justifiée. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 3 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 3 / 17 
+SUJET 
+ 
+ 
+Back Market est une « Market Place », plateforme française spécialisée dans la vente en ligne d’appareils 
+d’occasion remis à neuf, créée en 2014 par Thibaud Hug de Larauze, CEO (Chief Executive Officer, 
+directeur général), Quentin Le Brouster, CTO (Chief Technical Officer, directeur technique) et Vianney 
+Vaute, CCO (Chief Creative Officer, directeur de la création). 
+ 
+Le site Back Market précise l’ADN de l’entreprise comme « Rebels with a cause : l’industrie de la tech 
+produit chaque année des milliards de produits électriques et électroniques, avec des conséquences 
+désastreuses sur l’environnement. Notre objectif : allonger la durée de vie des appareils déjà en circulation 
+pour lutter contre cette surproduction et ses effets néfastes ».  
+ 
+Back Market se positionne sur le marché très porteur du reconditionnement des produits (20 000 
+références) s’inscrivant dans le courant en plein boom de l’économie circulaire. Le credo de la marque ni 
+neuf ni d’occasion vise à se positionner et se démarquer d’un site de produits d’occasion à succès « le 
+boncoin.fr » et des canaux traditionnels de produits neufs. Le slogan emblématique de Back Market illustre 
+bien ce positionnement : « Nos produits ont tout du neuf, sauf le prix ». 
+ 
+« Contrairement à nos principaux concurrents, nous avons fait le choix de ne pas procéder au 
+reconditionnement nous-mêmes. Notre métier est de sélectionner les meilleurs professionnels », explique 
+le PDG et cofondateur, Thibaud Hug de Larauze. Back Market travaille ainsi avec 1 200 ateliers 
+indépendants répartis dans toute l'Europe, en s'assurant que leurs prestations correspondent à ses critères 
+de qualité ; une stratégie moins coûteuse en capital que s'il lui fallait gérer ses propres stocks. 
+ 
+En 2015, Back Market a permis à ses partenaires de réaliser 3 millions d'euros de ventes. En 2016, ce 
+chiffre s'est élevé à 30 millions. Il a de nouveau triplé en 2017 pour atteindre 95,5 millions d'euros et un 
+effectif de 90 personnes. Pour 2019, la société affiche 230 millions d’euros de volume d’affaires sur sa 
+plateforme. Sachant que l'entreprise prélève au passage une commission de 10 % constitutive de son 
+chiffre d’affaires (CA), ce dernier suit la même courbe ascendante que les volumes d’affaires. En 2020, la 
+croissance attendue du volume d’affaires est de 220 % du fait de l’implantation aux États-Unis et le taux 
+moyen de commission passerait à 12 %. 
+ 
+Les 7 millions d'euros levés en 2017 ont permis d'embaucher à tour de bras. La start-up compte 
+480 salariés en 2019 et continue à recruter des développeurs ou des experts en marketing avec un objectif 
+de 520 personnes en 2020 et 600 personnes en 2021.  
+ 
+Déjà rentable dans l'hexagone, Back Market est aussi présente en Espagne, en Allemagne, en Italie et en 
+Belgique mais c'est le marché américain qui attire la pépite. Outre-Atlantique, où les opérateurs ont cessé 
+de subventionner les smartphones en 2017, les consommateurs sont de plus en plus nombreux à chercher 
+des alternatives à l'achat neuf. Pour s'imposer sur ce marché gigantesque dont elle espère une croissance 
+de 300 % de son volume d’affaires et d’un taux moyen de commission de 14 % en 2021, Back Market vient 
+d'ouvrir un bureau à New York et travaille déjà avec 200 ateliers de reconditionnement. 
+ 
+Labélisée « Next 40 » dès 2019, la presse spécialisée considère qu’à l’horizon 2022/2023, Back Market 
+pourrait rejoindre le club très fermé des « licornes », ces jeunes sociétés non cotées en Bourse, tournées 
+vers les nouvelles technologies et réussissant à dépasser le milliard de valorisation.  
+ 
+En juin 2020, vous êtes amené(e) à travailler sur 4 dossiers indépendants. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 4 / 17 
+DOSSIER 1 – DIAGNOSTIC STRATÉGIQUE 
+ 
+Back Market repose sur l’expérience professionnelle de son fondateur Thibaud Hug de Larauze au sein 
+notamment de Neteven (société spécialisée dans la fourniture de solutions de market place pour les 
+entreprises en quête de digitalisation). C’est lors de cette période, qu’il prend conscience de la valorisation 
+possible de produits de seconde main et de l’existence d’un marché potentiel.  
+ 
+Travail à faire 
+À l’aide des annexes 1 à 5, 
+ 
+1. 
+Après avoir rappelé l’intérêt de la matrice SWOT, vous établirez celle-ci pour Back Market et 
+rédigerez une note synthétique sur le diagnostic stratégique mettant en évidence les 
+facteurs clés de sa réussite.  
+ 
+2. 
+Appliquez le modèle Océan pour qualifier l’offre de Back Market et justifiez vos arguments. 
+Vous fournirez au moins deux exemples probants d’entreprise ayant opté pour la même 
+stratégie. 
+ 
+3. 
+Dans la qualification retenue (par vos soins en question 2) de Back Market, le modèle 
+Océan est-il tenable dans le temps ? Vous présenterez, dans ce contexte, les risques 
+concurrentiels auxquels s’expose Back Market.  
+ 
+DOSSIER 2 – PRÉSENTATION ET ANALYSE DU BUSINESS MODEL 
+ 
+Travail à faire 
+À l’aide des annexes 1 à 6, 
+ 
+1. La direction souhaite conceptualiser à partir de son écosystème son modèle économique ou 
+business model. Vous présenterez la vocation et les objectifs de cet outil qui définit les 
+partenaires clés, les activités et les ressources clés, l’offre, les clients-relation client-canaux, 
+la structure de coûts et de revenus de l’entreprise. 
+ 
+2. À partir de l’exemple portant sur le site de vente en ligne d’escarpins (annexe 6), vous 
+compléterez le Business Model Canvas fourni (annexe A) et le remettrez avec votre copie. 
+ 
+3. Sur la base du Business Model Canvas établi par vos soins, précisez la pierre angulaire sur 
+laquelle repose l’écosystème de Back Market coté back office, les facteurs clés de succès 
+(FCS) sur lesquels repose Back Market et les risques que Back Market doit gérer. 
+ 
+DOSSIER 3 – RESSOURCES HUMAINES ET MODÉLISATION DES ÉQUIPES 
+ 
+ 
+Le service de RH de Back Market est très actif car il est confronté à une croissance forte des effectifs à 
+gérer. La direction des ressources humaines doit composer avec une population salariée jeune répondant 
+à des stimuli autres que les générations présentes dans les entreprises appartenant à l’ancienne économie 
+ou économie traditionnelle. 
+La crise sanitaire a pour beaucoup d’entreprises des effets dévastateurs sur leur activité allant pour 
+certains secteurs jusqu’à l’interdiction d’ouverture classique (restaurants, discothèques, remontées 
+mécaniques de sports d’hiver…) et pour d’autres comme Back Market des effets d’accroissement d’activité 
+d’une ampleur inattendue. 
+ 
+Travail à faire 
+À l’aide des annexes 7 à 10, 
+ 
+1. Produisez une réflexion organisée sur les fondements concrets de l’intégration de nouvelles 
+recrues qui permettent de mieux les fidéliser. Vous insisterez en particulier sur les pratiques 
+retenues dans le cas d’impossibilité d’accueil physique et donc d’intégration en distanciel 
+(une vingtaine de lignes maximum). 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 5 / 17 
+ 
+2. Back Market fait partie des entreprises de type start-up au management supposé moderne et 
+rajeuni voire revendiqué « management libéré ». Vous analyserez en particulier les 
+fondements concrets de la forme et du contenu de la communication interne retenus par 
+Back Market concernant le télétravail. 
+ 
+3. L’organigramme de Back Market fait apparaitre un poste dont la dénomination et la présence 
+au sein des organigrammes est récente : Happyness manager. Vous indiquerez les objectifs 
+de cette fonction au regard notamment des attentes et compétences des générations Y, que 
+vous définirez, en poste dans les start-ups tech. 
+ 
+4. Compte-tenu des documents joints, précisez les conditions chiffrées de création et de 
+maintien du poste d’Happyness manager. Donnez un avis argumenté sur cette option. Après 
+avoir rappelé les raisons du turnover dans les entreprises, vous analyserez les spécificités 
+du turnover chez Back Market et la façon dont l’Happyness manager devrait travailler pour le 
+réduire et renforcer une fidélisation engagée des salariés. 
+ 
+ 
+DOSSIER 4 – ÉTUDE DE L’OPPORTUNITÉ D’INTÉGRER BACK MARKET 
+ 
+Monsieur Vincent X... , suite à une candidature spontanée, a été approché par les services de recrutement 
+de Back Market. Compte tenu de ses compétences en contrôle de gestion et en système d’information, les 
+premiers entretiens ont été très positifs et l’entreprise lui a vanté également les avantages en nature 
+proposés aux futurs salariés. En outre, la responsable a évoqué le dispositif de bons de souscription de 
+parts de créateur d'entreprise (BSPCE) à l'égard de ses salariés comme un choix fort de la direction pour 
+fidéliser ses salariés. En recherchant des informations financières sur la société, et en questionnant sur le 
+système d’information de gestion mis en place, Vincent X... a découvert que la société ne déposait plus ses 
+comptes auprès du greffe du tribunal depuis 2017, date de sa première levée de fonds importante, et 
+qu’elle ne disposait pas de réels outils de mesure de la performance. Il s’interroge sur l’intérêt en termes 
+financiers d’intégrer Back Market et en termes personnels d’accompagner une future licorne. Conscient 
+que la valorisation d’une start-up dépend de son introduction en bourse, mais aussi de l’adaptation des 
+dispositifs de contrôle de gestion aux besoins de ce type d’entreprise, monsieur Vincent X..., souhaite 
+proposer sa vision du contrôle de gestion à mettre en place. 
+ 
+Travail à faire 
+À l’aide des annexes 11 à 14, 
+ 
+1. Expliquez en quoi ces bons de souscription constituent un moyen de fidélisation des 
+salariés. 
+ 
+2. À partir des informations de la page de présentation du sujet et de l’annexe 14, calculez une 
+évaluation de l’évolution du chiffre d’affaires et de la rentabilité de l’entreprise pour les 
+années de 2016 à 2021.  
+ 
+3. Commentez ces résultats et expliquez-en quoi ils sont « normaux » pour une start-up. 
+ 
+4. Parmi les 7 outils de contrôle de gestion suivants, utilisés dans des start-ups locales 
+(d’après une étude réalisée en 2015 par François Meyssonnier), sélectionnez-en au moins 
+trois pour lesquels vous décrirez la nature, la périodicité logique, et les raisons pour 
+lesquelles vous les sélectionnez : 
+Tableau de trésorerie – Compte de résultat de la comptabilité générale – Tableau de bord de 
+production – Tableau de bord commercial – Comptabilité de gestion – Prévision et contrôle 
+budgétaire global – Tableaux de bord de pilotage stratégique. 
+FICHEBEN 
+
+=== PAGE 6 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 6 / 17 
+Annexe 1 – Back Market : nouvelle levée de fonds. 
+ 
+Back Market lève 110 millions d'euros.  
+ 
+La 
+plateforme 
+de 
+vente 
+de 
+produits 
+électroniques 
+reconditionnés a vu son activité dopée depuis le début du 
+confinement notamment aux États-Unis, où elle veut profiter 
+de son nouvel investissement pour s'imposer comme un 
+leader mondial. 
+ 
+Back Market va s'appuyer sur les 110 millions d'euros 
+qu'elle vient de lever pour doubler ses effectifs dans les 
+deux ans, et passer à 600 salariés. 
+Il y a des start-ups dont la crise liée au coronavirus aura renforcé le positionnement. C'est le cas de Back 
+Market, dont la plateforme de vente d'articles électroniques reconditionnés a rencontré un très fort 
+engouement rapidement après l'entrée dans le confinement. La mise en place du télétravail, le 
+développement soudain de la téléconsultation, le chômage partiel ou l'explosion du divertissement en ligne 
+ont tous contribué à attirer les consommateurs vers ce type de boutique en ligne qui permet d'acheter du 
+matériel de seconde main (smartphones, tablettes, consoles…) tout en bénéficiant d'une garantie. 
+Ce coup d'accélérateur soudain et imprévisible tombe au moment où la jeune pousse parisienne réunit un 
+nouveau tour de table de 110 millions d'euros avec Goldman Sachs Growth, Aglaé Ventures et Eurazeo 
+Growth, révèlent Les Échos. Seulement cinq ans après sa création, cette nouvelle opération financière 
+permet à cette pépite dont la valorisation resterait inférieure au milliard de se positionner comme l'un des 
+aiguillons de la French Tech, notamment grâce à son activité aux États-Unis, lancée il y a deux ans. « Le 
+phénomène y est étonnant. Le jour où la prime de 1.200 dollars a été versée aux Américains pour doper 
+leur pouvoir d'achat en pleine crise, notre chiffre d'affaires y a été multiplié par deux par exemple. » avoue 
+Thibaud Hug de Larauze, cofondateur et PDG de Back Market. 
+ 
+Les chiffres clefs. 
+ 
+70 % DE SMARTPHONES. 
+C'est l'activité historique de la place de marché, et qui pèse toujours le plus de poids dans ses revenus. 
+À chaque fois, la mécanique est la même. La start-up s'assure de la conformité et la mise en garantie du 
+produit reconditionné, puis sélectionne le revendeur le mieux positionné en fonction des critères retenus 
+par le consommateur. « Ce système d'émulation entre les vendeurs est l'ingrédient secret de la réussite de 
+Back Market, assure Yann du Rusquec, directeur général d'Eurazeo Growth. Ils sont capables de prendre 
+en compte une grande quantité de critères, au-delà du prix et du mode de livraison, ce qui les distingue des 
+autres acteurs. » 
+Des marques de plus en plus présentes. 
+Cette sélectivité pousse de plus en plus de marques premium à proposer leur catalogue d'invendus et de 
+retours via la plateforme. C'est le cas de Dyson, Bosch, Marshall ou Apple via Brightstar … 
+Pour concrétiser cet objectif, le startuppeur va doubler son équipe (300 salariés aujourd'hui) d'ici les deux 
+prochaines années, et tenter d'imposer sa place de marché comme un leader mondial, au même titre que 
+Booking et Airbnb en misant sur la lame de fond de l'économie circulaire qui devrait encore s'accélérer 
+avec la crise économique mondiale. 
+10 % DE COMMISSION. 
+La start-up prend un pourcentage unique, quel que soit le type de produit électronique revendu sur sa 
+plateforme. 
+1200 REVENDEURS actifs. 
+dont 200 aux États-Unis. Back Market estime ne travailler qu'avec 10 % de son vivier potentiel. 
+  
+Source : <https://www.lesechos.fr/industrie-services/conso-distribution/back-market-leve-110-millions-deuros-
+1200396>. 
+FICHEBEN 
+
+=== PAGE 7 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 7 / 17 
+Annexe 2 – L’engouement pour les produits reconditionnés. 
+ 
+Un Français sur dix achète désormais son smartphone d’occasion. Une aubaine, à condition de 
+bien choisir son vendeur. 
+Blouses blanches, néons et silence… Nous ne sommes pas aux urgences chirurgicales, mais dans les 
+ateliers d’Itancia. Ici, en pleine campagne angevine, une trentaine de salariés opèrent chaque jour 
+700 vieux smartphones à cœur ouvert. Les tâches effectuées réclament de la concentration, surtout quand 
+une batterie doit être remplacée – une manœuvre qui prend sept minutes.  
+Une série de tests sont effectués sur 30 à 50 points de contrôle, pour s’assurer que tout fonctionne, avant 
+le départ pour une seconde vie. 
+De même que cette entreprise, qui va bientôt agrandir ses locaux, les acteurs du reconditionnement ne 
+risquent pas de voir l’activité faiblir. Alors que le marché du smartphone neuf a baissé de 6,5 % en France 
+en 2018, selon l’institut d’études GfK, les ventes de téléphones d’occasion ont bondi de 7 % la même 
+année, soit 2,1 millions d’unités vendues. Cela signifie qu’un Français sur dix opte désormais pour un 
+appareil de seconde main… Les raisons de cet engouement sont multiples, listées par Thibaud Hug de 
+Larauze, cofondateur du site Back Market : « Les téléphones best-sellers datent de deux ans, et ils sont 
+désormais accessibles à presque moitié prix, avec une garantie… Cette approche séduit, au-delà des férus 
+d’écologie. » Les discounts sont en effet impressionnants, pour des produits dans l’ensemble satisfaisants. 
+Des pionniers voient là leur intuition récompensée : Back Market, Recommerce et Remade, en tête, sont 
+en plein boom.  
+La première inconnue, c’est la provenance de ces smartphones : impossible de la connaître à l’achat. Le 
+petit secret du secteur, c’est que, pour obtenir de très gros volumes d'occasion, il faut se fournir aux     
+États-Unis – où s’approvisionnent en priorité Yoann Valensi et Laure Cohen, cofondateurs du site 
+Certideal. « Nous avons des contrats avec des opérateurs américains. Là-bas, les gens paient des forfaits 
+très cher, avec le téléphone compris, remplacé régulièrement.» 
+Les appareils délaissés, peu usés, font le bonheur des reconditionneurs. D’autres modèles viennent de la 
+grande distribution physique : Boulanger leur envoie par exemple des smartphones retournés par les 
+clients, les cas de rétractation, les modèles d’exposition. C’est encore plus varié pour Back Market, site 
+lancé en France en 2014 et déjà présent aux États-Unis, en Allemagne, en Espagne ou en Italie 
+(230 millions d’euros de volume d’affaires l’an dernier). 
+En tant que place de marché, il agrège les offres de marchands très variés. On y trouve de petits 
+fournisseurs, comme l’angevin Itancia, tous notés en fonction de leur fiabilité. Itancia est parvenu à un bon 
+score, notamment en se fournissant en « flottes d’entreprises » : les smartphones professionnels sont 
+régulièrement changés, et généralement en bon état. Enfin, une surprise : certains des meilleurs 
+fournisseurs de Back Market sont de petites boutiques d’occasion, des Cash Converters ou Easy Cash. 
+Experts et réactifs, ils sont souvent très bien notés. 
+Les acheteurs ignorent aussi largement quel sera l’état de marche réel de leur nouveau téléphone. Tous 
+les vendeurs expliquent réaliser, dans leurs ateliers, de nombreux tests sur les smartphones récupérés. Ils 
+vérifient le fonctionnement des micros et des haut-parleurs, de l’appareil photo ou de l’écran.  
+Chez Back Market, un algorithme met en avant les meilleurs vendeurs, secondé par 50 employés bordelais 
+chargés du suivi de la fiabilité de ces marchands indépendants. Cet effort a permis au site de diviser le 
+taux de pannes, dans les six mois suivant l’achat, par deux : 10 % des produits il y a un an, contre 5 % 
+aujourd’hui. Remade, dans son usine high-tech basée à Avranches (Manche), a opté pour une approche 
+haut de gamme. Tous les smartphones reçus y sont démontés, nettoyés, polis et retraités dans des bains 
+chimiques par ses 500 ouvriers. Les coques arrière sont même recolorées et réanodisées pour rigidifier 
+l’aluminium, et tous les modèles rééquipés d’une batterie neuve… 
+Car le gros point noir, sur ce marché, reste la question de la batterie, parfois très défaillante et incapable de 
+tenir la journée. C’est le problème le plus souvent cité par les mécontents sur les forums en ligne. Chez 
+Back Market, « elle doit être au moins à 80 % égale à celle du produit neuf, sinon c’est trop décevant pour 
+le consommateur ». Même politique chez Itancia : « Philosophiquement, si on fait de l’écorecyclage, il 
+serait absurde de changer toutes les batteries quand elles sont bonnes à 80 % », souligne Lionel Troteseil, 
+directeur marketing.  
+  
+Source : <https://www.capital.fr/entreprises-marches/backmarket-remade-le-juteux-et-opaque-business-des-
+smartphones-reconditionnes-1352589>. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 8 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 8 / 17 
+Annexe 3 – Les offres du marché. 
+ 
+Les grades Back Market, c’est comme les Spice Girls : 
+chacune sa personnalité, et pourtant, il y en a qui 
+chantent mieux que d’autres. Pour nos appareils 
+(smartphone ou autre) c’est un peu la même chose, 
+même si chacun est testé, vérifié, nettoyé et garanti 
+100 % fonctionnel. 
+Alors, tu es plutôt Posh ou Sporty ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Comme neuf : c’est le grade graal. Votre appareil est comme neuf, l’écran comme la coque 
+(Indéniablement Posh Spice). 
+• 
+Très bon état : au maximum, des micro-rayures invisibles à 20 cm côté coque mais l’écran est 
+parfait. 
+• 
+Bon état : il présente des micro-rayures visibles à 20 cm sur la coque mais conserve un écran neuf. 
+• 
+État correct : rayures légères sur la coque, micro-rayures potentielles sur l’écran, rien de gênant 
+pour un usage quotidien. 
+• 
+Stallone : vous observerez des rayures et des impacts côté coque et des micro-rayures côté écran, 
+mais rien qui puisse gêner quand il est allumé.  
+ 
+ 
+ 
+Orange a sélectionné, pour sa gamme de produits 
+reconditionnés, des experts de la seconde vie 
+mobile : again et recommerce. Les appareils 
+reconditionnés sont réinitialisés et repackagés 
+dans une nouvelle boîte. 
+FICHEBEN 
+
+=== PAGE 9 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 9 / 17 
+ 
+ 
+ 
+Annexe 4 – Économie circulaire. 
+ 
+ 
+L’économie 
+circulaire 
+vise 
+à 
+changer 
+de 
+paradigme par rapport à l’économie dite linéaire, 
+en limitant le gaspillage des ressources et l’impact 
+environnemental, et en augmentant l’efficacité à 
+tous les stades de l’économie des produits. 
+L'économie circulaire cible la gestion sobre et 
+efficace des ressources.  
+ 
+ 
+ 
+Source : <https://www.ademe.fr/expertises/economie-circulaire>. 
+ 
+Annexe 5 – Le modèle océan. 
+ 
+En 2005, W. Chan Kim et Renée Mauborgne, chercheurs à l’INSEAD mettent au point une alternative au 
+modèle dominant des trois stratégies génériques de Porter en proposant une approche novatrice. Le 
+modèle océan bleu suppose pour l’entreprise de sortir de son marché habituel en réalisant une offre 
+disruptive où le client est au cœur de la stratégie. 
+ 
+Océan rouge 
+Océan bleu 
+Agir au sein de l’espace existant. 
+Battre les concurrents. 
+Exploiter la demande existante. 
+Accepter l’arbitrage entre valeur et domination 
+par les coûts. 
+Poursuivre une stratégie de différenciation ou 
+de domination par les coûts. 
+Créer un nouvel espace stratégique. 
+Mettre les concurrents hors-jeu. 
+Créer et conquérir une demande nouvelle. 
+Sortir de l’arbitrage entre valeur et domination 
+par les coûts. 
+Engager une stratégie de réduction de certains 
+coûts au profit de l’augmentation de valeur 
+pour l’acheteur. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 10 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 10 / 17 
+Annexe 6 – Exemple de Business Model Canvas. 
+FICHEBEN 
+
+=== PAGE 11 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 11 / 17 
+Annexe 7 – L’intégration des nouveaux à l’ère numérique. 
+ 
+Un nouveau travail en plein Covid-19 : récit d’une embauche particulière. 
+ 
+À l’heure du confinement, certains font leurs premiers pas dans des entreprises en télétravail. C’est le cas 
+de Lucien qui a démarré le 16 mars dans une société de la tech, un secteur où les recrutements 
+continuent. 
+Pendant le confinement, les embauches continuent !...dans les secteurs sous tension ou désertés par leurs 
+salariés habituels, mais aussi dans les entreprises passées au télétravail. Lucien Fregosi a démarré sa 
+nouvelle carrière chez Back Market, le vendeur de téléphones, ordinateurs et autres objets électroniques 
+remis à neuf… le lundi 16 mars, le jour même où la société avait décidé de fermer ses bureaux, la veille de 
+l’entrée en vigueur du confinement. Une drôle d’expérience à vivre pour ce développeur informatique qui 
+avait décidé de changer de carrière il y a quelques mois. 
+« Pendant deux ans après ma sortie de l’École Centrale de Lille, raconte-t-il, j’ai été consultant, travaillant 
+sur des missions en entreprises diverses. Puis, l’été dernier, j’ai voulu m’impliquer plus, trouver du sens à 
+ce que je faisais, travailler pour une entreprise dont j’appréciais les produits, dont je pouvais améliorer le 
+service. » 
+ 
+« J’ai démarré par une visio commune. » 
+Le jeune homme commence à chercher en septembre. Il a plusieurs propositions. En octobre et novembre, 
+il avance ses entretiens d’embauche chez Back Market. Il passe toutes les étapes et rencontres du 
+processus de recrutement, et, fin novembre, tout est prêt pour la signature. Il fixe son entrée dans la 
+société à début mars, le temps de finir ses missions en cours : 
+« Tout s’est calé pour le 16 mars. Le vendredi 13, comme prévu, je reçois le programme d’intégration pour 
+la semaine et le mail d’accueil dans la société. Puis, un coup de fil m’annonce que, dès le lundi, tout le 
+monde passera en télétravail. Je dois aller tout de suite prendre mon « kit de travail » au siège : 
+l’ordinateur, le téléphone, les chargeurs et les « goodies »  sympa, comme le tee-shirt maison. » 
+ 
+Son intégration s’est donc passée à distance, depuis son domicile. « Mon premier lundi, à 9 h 30, j’ai 
+démarré par une visio commune avec le président, qui fait le tour de la semaine, des performances et des 
+résultats. Ensuite, on a fait une réunion entre tous les nouveaux embauchés et les responsables de 
+l’informatique pour conformer le matériel, les programmes, les calendriers… Puis, chaque équipe de la 
+société s’est présentée aux nouveaux, à distance bien sûr. Et, l’après-midi, j’ai fait connaissance de mon 
+équipe de six personnes, puis j’ai terminé la journée avec mon manager. » 
+ 
+Les journées vont continuer ainsi, à toute vitesse, travail à fond, avec quelques petits trucs pour créer des 
+liens à distance : 
+« La société a créé sur la messagerie Slack un « random coffee », un café qu’on prend à distance, au 
+hasard, avec deux personnes de l’entreprise qu’on ne connaît pas. Il y a aussi des cours de gym ou de 
+yoga virtuels en groupe. » 
+Résultat ? « Au bout de quatre semaines, j’ai l’impression de bien connaître mon équipe. » Et le résultat est 
+plus que satisfaisant niveau boulot : « Je suis rentré dans les choses plus vite, de façon plus efficace, plus 
+concentré. J’ai lu beaucoup, j’ai beaucoup écrit et formalisé aussi. C’est peut-être mieux que l’intégration 
+habituelle… » Il en a d’ailleurs profité pour rédiger un document d’onboarding pour intégrer à distance tous 
+les petits nouveaux qui vont arriver dans l’entreprise au fil des jours. 
+ 
+« 50 nouveaux postes ce mois-ci, dont 30 en CDI. » 
+Dans la tech, en effet, les embauches continuent. Chez Back Market, d’abord : avec des ventes 
+d’ordinateurs reconditionnés qui ont progressé de 50 % depuis le début du confinement, des ventes de 
+congélateurs (!) qui se sont envolées de 100 % et celles de consoles de jeux de 500 %, les affaires sont 
+bonnes dans les huit pays où officie l’entreprise – notamment la France, l’Allemagne, l’Italie, l’Espagne, le 
+Royaume-Uni et les États-Unis. « Nous avons 280 salariés, et ce mois-ci nous ouvrons 50 nouveaux 
+postes, dont 30 en CDI. Il y aura 150 autres postes à pourvoir d’ici la fin de l’année : nous allons doubler 
+les effectifs », indique Marine Libaud, la porte-parole de Back Market. 
+Les recrutements vont se faire d’abord par téléphone avec les ressources humaines, pour la première 
+sélection, puis par téléphone, Skype ou Zoom avec les managers des équipes concernées, comme 
+d’habitude, confinement ou pas. « Une seule chose aura changé dans nos procédures : le dernier 
+entretien, avec un fondateur ou le directeur général, qui était auparavant en personne, se fera lui aussi 
+virtuellement », note Marine Libaud. 
+ 
+FICHEBEN 
+
+=== PAGE 12 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 12 / 17 
+200 start-ups françaises chassent toujours les talents. 
+Au-delà de Back Market, ce sont 200 start-ups françaises qui continuent d’embaucher, juste parmi les 
+membres de France Digitale, association qui en compte 1 500, dont des noms très connus (Dailymotion, 
+Doctolib, Meetic) et d’autres plus pointus. Nicolas Brien, le directeur de France Digitale, explique : 
+« Nos métiers sont en chômage négatif : nous manquons de talents dans l’informatique. Un développeur 
+reste en recherche de travail pendant 48 heures seulement et 92 % des embauches se font en CDI. On a 
+voulu vérifier si la crise avait changé cela : en fait, parmi nos membres, les trois quarts ont utilisé le 
+chômage partiel, au moins sur une partie des équipes. Mais les embauches se poursuivent, en ligne ! » 
+  
+Source : <http://mushroom.jobs/blog/un-nouveau-travail-en-plein-covid-19-recit-dune-embauche-particuliere/>. 
+ 
+ 
+Annexe 8 – Le guide du télétravail chez Back Market (extrait du blog interne). 
+  
+Télétravail : conseils et astuces pour rester efficace et motivé. 
+Pour rester efficace et productif, il est nécessaire de pratiquer 
+l’auto discipline et de se fixer quelques habitudes simples à 
+respecter pour se montrer efficace.  
+Voici donc les 5 premières règles à observer. 
+ 
+ 
+1. Ne pas changer les habitudes matinales. 
+Si votre employeur vous rémunère exceptionnellement en télétravail, il vous faut garder en tête que 
+chaque journée passée chez vous n’est ni plus ni moins qu’une journée de travail. Ainsi, malgré ce 
+bouleversement routinier, il vous faudra vous lever à la même heure qu’à l’accoutumée (autorisez-vous tout 
+de même quelques minutes supplémentaires puisque vous n’avez pas de trajet à effectuer) et vous 
+habiller !  
+Vous n’iriez pas au bureau en pyjama, en nuisette ou encore nu (chacun ses petites habitudes nocturnes, 
+cela ne nous regarde pas). Voyez donc cela de cet œil avant d’entamer votre journée pour vous mettre en 
+bonnes conditions et gardez les habitudes que vous avez mis en place au travail. 
+2. Trouvez un coin tranquille pour pouvoir travailler. 
+Si vous êtes seul dans votre logement, trouver un endroit calme pour travailler efficacement se révélera 
+assez simple. En revanche, si vous vous retrouvez (comme beaucoup) avec vos enfants au sein du 
+logement, il sera primordial de vous aménager un espace dédié à votre activité professionnelle, avec une 
+connexion internet. 
+Si vous n’avez pas de bureau, ce lieu de travail peut être une pièce à part de celles dans lesquelles 
+circulent vos petits monstres, comme une mezzanine par exemple. Si l’espace est un peu réduit, privilégiez 
+une chambre dans laquelle vous pouvez loger un bureau et vos affaires de travail. Dans tous les cas, il 
+vous sera indispensable de pouvoir dissocier votre vie de famille du cadre professionnel. 
+3. Informer les membres du foyer. 
+Il n’y a rien de plus désagréable que d’être interrompu lorsque l’on est concentré sur une tâche 
+professionnelle ou dérangé en pleine conversation téléphonique avec un supérieur ou un collègue. Si votre 
+famille n’est pas habituée à vous voir travailler à la maison, la transition peut être compliquée, surtout avec 
+les plus jeunes. 
+Il est donc crucial d’expliquer correctement le contexte à chaque membre de la famille, enfants comme 
+conjoint (vous n’êtes pas à l’abri que l’on vous demande où se trouvent les chaussettes du petit dernier ou 
+de construire une cabane dans le jardin). 
+Il vous faudra dès lors informer que vous devez rester à la maison comme beaucoup de personnes pour 
+travailler et qu’il vous faudra impérativement du calme et du silence durant vos heures de télétravail et 
+qu’à moins d’une situation urgentissime, personne ne doit venir vous déranger. 
+4. Aménager son emploi du temps. 
+Il y a ceux qui prônent l’anarchie totale des horaires de travail et ceux qui, complètement déstabilisés par 
+les événements, vont passer 15 heures derrière le bureau sans faire de pause. Il est très important de 
+déterminer votre temps de travail et de vous aménager des plages horaires en fonction des jours de la 
+semaine en accord avec vos supérieurs selon que votre contrat de travail est à temps complet ou à temps 
+partiel. N’oubliez pas de prendre une pause déjeuner, pour couper un peu ; et quand c’est la fin de la 
+journée, éteignez tout et arrêtez de travailler ! 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 13 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 13 / 17 
+Gérer efficacement votre emploi du temps vous permettra de maintenir l’équilibre entre vie privée et vie 
+professionnelle mais également d’appréhender de manière optimale chaque journée de travail sans que 
+cela ne parte dans tous les sens et finisse par devenir contre-productif. Personnellement, j’aime bien me 
+fixer des objectifs quotidiens, particulièrement en télétravail. Comme ça, j’ai une légère pression qui me 
+pousse à rester motivé et un sentiment d’avoir eu une journée productive quand j’ai fait ce que j’avais à 
+faire.  
+5. Adopter les bonnes habitudes pour garder les liens avec l’entreprise. 
+Évidemment, vos supérieurs voudront vérifier qu’ils peuvent compter sur vous et souhaiteront un maximum 
+de transparence tant sur votre travail que sur l’organisation de vos journées. 
+En mettant en place le télétravail au sein de l’entreprise, que vous soyez dans la fonction publique, 
+responsable des ressources humaines, dans la téléprospection, informaticien ou autre salarié devant 
+passer au travail à domicile, dans la mesure du possible, gardez les réseaux sociaux  ou messageries 
+instantanées telles que WhatsApp ou encore Slack à portée de main pour pouvoir vous saluer dès le 
+matin et échanger les derniers potins à l’heure de la pause comme si vous vous retrouviez devant la 
+machine à café dans les locaux de votre entreprise. 
+Cette habitude permet de ne pas se sentir isolé. Enfin, que vous soyez manager ou salarié, prenez le 
+temps d’informer vos collègues si vous devez vous absenter de votre espace de travail. Vous ne partiriez 
+pas en rendez-vous chez le médecin ou faire vos courses sans en informer au préalable votre hiérarchie 
+en temps normal.  
+En télétravail, c’est pareil ! Car bien que cette pratique salariale soit prévue dans le code du travail, si 
+vous deviez avoir un accident sur le trajet, c’est la responsabilité de votre entreprise qui serait engagée et 
+elle s’en passerait volontiers. 
+Et si travailler seul vous déprime, vous pouvez envisager de vous rendre dans un espace de coworking ou 
+dans un café. En respectant ces quelques règles simples, votre période de télétravail devrait se réaliser 
+assez facilement. Et qui sait, vous allez peut-être même y prendre goût ! 
+Besoin de matériel pour un télétravail le plus confortable possible ? C'est par ici !  
+ 
+March 19, 2020 by Armand.  
+Armand 
+Créateur de contenu chez Back Market, il tapote au clavier pour décortiquer l'impact environnemental du numérique. 
+Dans son temps libre, il joue à l’apprenti écrivain de fiction, fait du Kung Fu et mange cinq fruits et légumes par jour. 
+ 
+Source : <https://story.backmarket.fr/teletravail-conseils-et-astuces-pour-rester-efficace-et-motive/9112/>. 
+ 
+Annexe 9 – La cohésion pour la productivité. 
+ 
+[INTERVIEW] Backmarket - La cohésion pour la productivité ! 
+Back Market est la première marketplace permettant aux consommateurs d’accéder à des produits techs 
+remis à neuf par des professionnels certifiés. L’entreprise a décidé de déployer la solution proposée par 
+Windoo sur ses deux sites, à Bordeaux et à Paris. Avec des activités spécialement sélectionnées, Back 
+Market a soutenu la montée en compétences de ses collaborateurs avant, pendant et après une phase 
+d’hypercroissance. Pierre Mottais, Culture Manager chez Back Market, vous livre son ressenti sur 
+l’expérience Windoo. 
+Quel est votre rôle dans l’entreprise ?  
+Je suis culture manager. C’est un rôle multi-casquette qui englobe la communication interne et les 
+partenariats culturels. Je suis responsable de la culture de l’entreprise en veillant également au bien-être 
+des collaborateurs en faisant en sorte qu’ils soient engagés dans la société et j’associe Back Market à des 
+événements qui ont un lien direct avec elle.  
+Une partie de votre travail correspond au rôle de Chief Happiness Officer, que pensez-vous de ce 
+terme ?  
+Malheureusement il est assez mal connoté, cela ne fait pas sérieux. Pourtant c’est une activité 
+chronophage qui demande beaucoup d’énergie si on veut avoir un réel impact sur le bien-être des 
+collaborateurs ! 
+Pourquoi avez-vous fait appel à Windoo ? 
+Nous cherchions des prestataires pour des formations et du sport en entreprise. Nous voulions des 
+activités de qualité et une gestion simple ; Windoo semblait être l’entreprise la plus à-même de répondre à 
+nos attentes. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 14 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 14 / 17 
+Back Market est récente (2014), avez-vous conservé l’esprit startup ? 
+Oui, nous voulons garder la culture de départ de l’entreprise. Cela fait d’ailleurs partie de mon rôle : faire en 
+sorte que l’entreprise reste aussi familiale avec 150 employés qu’elle pouvait l’être lorsque nous étions 20. 
+Que pensez-vous du télétravail ?  
+On appelle ça du remote chez Back Market. L’idée est de laisser une autonomie totale aux collaborateurs. 
+Tant que le travail est fait, et bien fait, les horaires sont libres et il n’y a aucune raison d’interdire le 
+télétravail ! 
+Que pensez-vous de la musique en entreprise ?  
+Nous sommes à 100 % pour ! La musique doit être choisie bien évidemment ; si on écoute du ABBA toute 
+la journée c’est difficile de rester concentré (rires). En arrivant chez Back Market j’ai trouvé que l’ambiance 
+ne changeait pas réellement entre espace de vie et espace de travail. J’ai donc proposé que l’on ait un 
+fond sonore de musique dans les espaces de détente et l’idée a vite été adoptée. Bien sûr, la musique ne 
+doit pas être agressive. Une guitare est aussi laissée à disposition dans le salon, ça participe à l’ambiance 
+détendue qui règne dans nos locaux.  
+La Responsabilité Sociétale des Entreprises est-elle essentielle chez Back Market ? 
+En effet. C’est sans doute le point commun majeur entre les salariés de Back Market : nous partageons un 
+socle de valeurs que l’on retrouve dans la RSE. Nous avons des poubelles de tri, nous achetons du café 
+en grains plutôt que des capsules, nous ne commandons que des produits bios, nous travaillons avec des 
+ESAT (établissement et service d'aide par le travail)…  
+Quels programmes pratiquez-vous avec Windoo ?  
+Nous avons choisi de faire des formations et du sport. Du coup nous avons des cours de yoga, de l’urban 
+football, du circuit training et du cardio-boxing. Nous avons également suivi une formation sur la 
+communication non-violente et bientôt une autre sur l’intelligence émotionnelle. 
+Pratiquez-vous des team buildings ?  
+Oui, ça fait également partie de la culture d’entreprise. La cohésion est essentielle pour avoir une 
+atmosphère de travail saine et propice à la productivité. Chaque mois, on organise un team building qui a 
+lieu simultanément sur tous nos sites : à Paris, Bordeaux et à New-York. Cela permet de créer des liens et 
+de partager de bons moments. 
+Comment faites-vous pour assurer la cohésion au sein de vos équipes ? 
+Au-delà des team buildings de l’entreprise, chaque équipe a un budget pour organiser ses propres activités 
+de cohésion intra-équipe. Les équipes peuvent donc partager des moments entre elles.  
+Et puis, bien évidemment, il y a aussi de nombreuses rencontres informelles qui s’organisent en parallèle 
+comme des verres après le travail, des parties de ping-pong, des concerts ensemble, des footings, etc… 
+Est-ce que vous arrivez à garder une atmosphère de travail avec les activités ? 
+Oui, bien sûr ! C’est très simple à partir du moment où il y a des règles. Bien entendu, les gens ne peuvent 
+pas jouer au ping-pong toute la journée ! Pour une bonne raison : la cafétéria et le salon sont occupés 
+toute la journée pour des points/réunions informels. La qualité de vie au travail est essentielle pour nous 
+mais il faut rester dans une ambiance de travail sinon ça ne fonctionne plus ! 
+Que pensez-vous des spécialistes Windoo ?  
+Ils sont très professionnels. Ce que j’aime chez eux : c’est la diversité de leurs expériences.  
+Êtes-vous satisfait de l’expérience Windoo et du service proposé ?  
+Nous sommes très heureux de travailler avec Windoo et agréablement surpris par la qualité du service 
+client qui est proposé ! Cela permet énormément de créativité.  
+ 
+ 
+Annexe 10 – Happyness manager et turnover. 
+ 
+D’après de nombreuses études économiques, le taux moyen de turnover tous secteurs confondus s’établit 
+à 15 % environ.  
+L’effectif salarié de Back Market observé à cette date s’élève à 300. 
+Le salaire annuel moyen chez Back Market est estimé à 38 K€. 
+Le poids des cotisations salariales est d’environ 22 % tandis que celui des cotisations patronales est de 
+l’ordre de 40 %. Le coût de recrutement est estimé à 10 % de la rémunération annuelle du poste à pourvoir 
+de même que le coût d’intégration et de formation. 
+La rémunération annuelle brute de l’Happyness Manager en poste s’élève à 50K€ et le coût du poste de 
+travail est estimé à 15 K€. 
+ 
+FICHEBEN 
+
+=== PAGE 15 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 15 / 17 
+Annexe 11 – Back Market choisit les BSPCE pour motiver ses recrues. 
+ 
+Pour engager ses salariés, Back Market a choisi les BSPCE. 
+Fondée en 2014, l'entreprise de vente en ligne de produits reconditionnés Back Market a mis en place un 
+dispositif de bons de souscription de parts de créateur d'entreprise (BSPCE) à l'égard de ses salariés, un 
+choix fort pour fidéliser ses salariés.  
+ 
+« Les BSPCE nous ont permis d'associer les salariés à la création de valeur de notre entreprise », 
+explique Thibaud Hug de Larauze, cofondateur de Back Market, entreprise de vente en ligne dédiée aux 
+produits reconditionnés. Les bons de souscription de parts de créateur d'entreprise (BSPCE) représentent 
+en effet pour leurs détenteurs le droit d'acheter des actions de la société, à un prix déterminé lors de 
+l'attribution du bon. Ces options d'achat d'actions sont destinées aux salariés de l'entreprise. Ils peuvent 
+ensuite les émettre et les revendre en temps voulu, à un prix plus élevé afin de réaliser une plus-value. 
+C'est ce que Back Market a mis en place en octobre 2018. 
+ 
+Quatre mois de travail. 
+La mise en place des BSPCE a duré quatre mois. Les fondateurs ont d'abord dû convaincre leur board : 
+« Nous avons réussi à les convaincre qu'il valait mieux accorder une partie du capital aux salariés pour 
+qu'ils s'engagent plus et permettent un développement plus important de l'entreprise », se souvient 
+l'entrepreneur. Back Market a ainsi affilié les BSPCE à une condition de présence du salarié dans 
+l'entreprise : le salarié peut émettre seulement 25 % de ses BSPCE au bout d'un an, 50 % au bout de deux 
+ans, 75 % au bout de trois ans et 100 % à quatre ans, dans une optique de fidélisation des salariés sur le 
+long terme. 
+Avec 160 salariés, accorder un nombre de bons de souscription différent à chacun n'a pas été une mince 
+affaire. « C'était une partie très compliquée, confie Thibaud Hug de Larauze. Nous avons effectué un calcul 
+de répartition en fonction de trois critères : l'ancienneté, le niveau hiérarchique et sa proximité avec la 
+création de valeur. Cette première attribution est amenée à évoluer en fonction de l'évolution du salarié 
+dans l'entreprise. » 
+Une plus grande implication qui aurait déjà été remarquée par les fondateurs de Back Market, qui qualifient 
+eux-mêmes à présent leurs salariés d'entrepreneurs et non plus d'employés. « Notre degré d'exigence a 
+augmenté. À présent, nous considérons tout le monde comme des associés. Et ça fonctionne puisqu'ils 
+débordent de leur scope d'intervention naturel en proposant de nouvelles idées, se réjouit-il. En termes de 
+recrutement, cette initiative nous permet aussi d'attirer des profils plus senior. » 
+ 
+Annexe 12 – Extrait de l’augmentation de capital du 9 février 2021. 
+ 
+Dans le contexte de leur Départ du Groupe (tels que ces termes sont définis dans le Plan BSPCE 2018 et 
+le Plan BSPCE 2018-2) trois salariés font valoir leurs droits à souscriptions, l’extrait de PV précise : 
+« prend acte de la réalisation par les bénéficiaires concernés de virements d’un montant total de            
+67 976,50 € sur le compte bancaire de la Société correspondant au prix de souscription des 1 058 actions 
+ordinaires nouvelles de la Société résultant de l’exercice des 645 BSPCE2018 et des 413 BSPCE2018-2 
+précités, » 
+« constate, agissant sur délégation de pouvoirs consentie aux termes des décisions de l’assemblée 
+générale extraordinaire de la Société en date du 25 mai 2018 et en conséquence de ce qui précède, ce qui 
+suit : 
+- 
+les 1 058 actions ordinaires nouvelles résultant de l'exercice des 645 BSPCE2018 et des 
+413 BSPCE2018-2 précités ont été entièrement souscrites et leur prix de souscription intégralement 
+libéré ; 
+- 
+ces 1 058 actions ordinaires nouvelles ont été émises par la Société en date de ce jour avec jouissance 
+à compter du premier jour de l'exercice social au cours duquel les BSPCE2018 et les BSPCE2018-2 
+auront été exercés ; 
+- 
+l’augmentation de capital d'un montant de 10,58 euros par l'émission de 1 058 actions ordinaires 
+nouvelles de 0,01 euro de valeur nominale chacune, se trouve ainsi régulièrement et définitivement 
+réalisée en date de ce jour conformément aux dispositions de l’article L. 225-149 du Code de 
+commerce ; 
+- 
+que le capital social de la Société est ainsi porté de 37 063,84 euros à 37 074,42 euros divisé en      
+3 707 442 actions ordinaires de 0,01 euro de valeur nominale chacun, intégralement souscrites et 
+entièrement libérées. » 
+FICHEBEN 
+
+=== PAGE 16 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 16 / 17 
+Annexe 13 – Start-up : focus sur le label Next 40. 
+ 
+L’indice Next 40 est une marque de distinction qui permet aux 40 sociétés sélectionnées de présenter un 
+gage de qualité à leurs partenaires et de promouvoir leur attractivité envers les talents en recherche d’un 
+employeur prestigieux. Ils bénéficient par ailleurs d’un accompagnement privilégié par les gouvernements 
+qui les aiguille vers un développement accéléré en échange d’un engagement pour l’emploi en France. 
+Comme le souligne le site Next 40, le secrétaire d’État chargé du Numérique, Cédric O, a révélé les 
+40 start-ups et sociétés qui sont retenues en 2021 pour intégrer l’indice Next40. Une nouvelle fois, cette 
+sélection s’érige sur la taille des entreprises, les levées de fonds et la vitesse de croissance. 
+ 
+Critères de sélection dans le Next40. 
+Les startups et sociétés du Next40 sont sélectionnées selon un ensemble de critères qui récompensent la 
+taille, la croissance et les levées de fonds des pépites de la tech françaises. Il regroupe : 
+- 
+Les licornes, société non-cotées valorisées au-dessus de 1 milliard d’euros. 
+- 
+Les startups ayant réalisé une levée de fonds supérieure à 100 millions d’euros sur les trois 
+dernières années. 
+- 
+Les sociétés ayant réalisé un chiffre d’affaires supérieur à cinq millions d’euros pour le dernier 
+exercice, et ayant une croissance annuelle moyenne supérieure à 30% sur les trois derniers 
+exercices. 
+ 
+ 
+Annexe 14 – Données de gestion collectées par monsieur Vincent X... 
+ 
+Fort de sa connaissance du secteur et en s’aidant de relations proches de Back Market, monsieur Vincent 
+X... a récupéré les informations suivantes.  
+Dans une première approche, il souhaite calculer la marge dégagée par Back Market sur moyens humains, 
+immobiliers et informatiques sachant que les frais généraux de ce type de structure sont relativement peu 
+significatifs. 
+ 
+ 
+Année 
+2016 
+2017 
+2019 
+2020 
+2021 
+Moyens humains 
+ 
+ 
+ 
+ 
+ 
+Effectif salarié 
+50 
+90 
+480 
+520 
+600 
+Salaires bruts moyens mensuels 
+3 000 € 
+3 800 € 
+3 800 € 
+4 100 € 
+4 200 € 
+Taux de charges patronales 
+40,00 % 
+40,00 % 
+50,00 % 
+50,00 % 
+50,00 % 
+Moyens immobiliers en K€ (1) 
+400  
+1 000  
+2 000  
+4 000  
+6 500  
+Moyens informatiques 
+ 
+ 
+ 
+ 
+ 
+Redevance % du volume d’affaires 
+dégagé 
+3 % 
+6 % 
+7 % 
+9 % 
+11 % 
+Redevance fixe en K€ 
+800  
+2 800  
+4 000  
+6 000  
+8 000 
+(1) La politique de BACK MARKET est de louer systématiquement ses locaux. 2019 représente l’implantation sur 
+Bordeaux, 2020 et 2021 l’implantation aux États-Unis. 
+ 
+NB : aucune information concernant l’année 2018 n’a pu être collationnée. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 17 ===
+21DSCG–UE3 
+Management et contrôle de gestion 
+Page 17 / 17 
+Annexe A – « Business model canvas » à remplir (à rendre avec la copie) 
+ 
+Partenaires clés 
+ 
+Activités clés 
+ 
+Offre (proposition de 
+valeur) 
+ 
+Relation client 
+ 
+Segments de clientèle 
+ 
+Ressources clés 
+ 
+Canaux de distribution 
+ 
+Structure des coûts 
+ 
+ 
+ 
+FICHEBEN 

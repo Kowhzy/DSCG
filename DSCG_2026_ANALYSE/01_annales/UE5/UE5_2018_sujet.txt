@@ -1,0 +1,458 @@
+=== PAGE 1 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+1/10 
+               1820005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2018 
+ 
+ 
+ 
+UE.5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+2/10 
+ 1820005 
+ 
+ 
+ 
+ 
+1820005 
+ 
+ 
+ 
+ 
+SESSION 2018 
+ 
+ 
+ 
+UE5 - MANAGEMENT DES SYSTÈMES D’INFORMATION 
+Durée de l’épreuve : 3 heures     -     coefficient : 1 
+ 
+Matériel autorisé : 
+Aucun 
+ 
+Document remis au candidat : 
+Le sujet comporte 98 pages numérotée de 1/98 à 98/98. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+Le sujet se présente sous la forme de trois dossiers indépendants 
+ 
+Page de garde ................................................................................................................................ page 1 
+Sujet ............................................................................................................................................... page 32 
+DOSSIER 1 : Remplacement du PGI ................................ (21 points, soit 7/20) .......................... page 43 
+DOSSIER 2 : Ordonnancement du projet PGI ................. (21 points, soit 7/20) .......................... page 54 
+DOSSIER 3 : Sécurisation des échanges............................ (18 points, soit 6/20) .......................... page 54 
+ 
+ 
+Le sujet comporte les annexes suivantes 
+ 
+Dossier 1 : Remplacement du PGI 
+Annexe 1 : Organigramme du groupe Mirlac ................................................................................... page 65 
+Annexe 2 : Environnement des affaires en Suède ............................................................................. page 76 
+Annexe 3 : Diagramme de flux simplifié ......................................................................................... page 87 
+ 
+Dossier 2 : Ordonnancement du projet PGI 
+Annexe 4 : Tableau des tâches et contraintes d’antériorité ................................................................ page 98 
+ 
+Dossier 3 : Sécurisation des échanges 
+Pas d’annexe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DSCG 
+a mis en forme : Français (France)
+a mis en forme : Police :Gras
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+3/10 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs 
+hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+4/10 
+SUJET 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute réponse devra être argumentée 
+ 
+Cas « Mirlac » 
+ 
+Le groupe Mirlac est issu d’une entreprise née en 1925 d’une scierie située près d’Angoulême, qui a 
+développé un savoir-faire dans la transformation de ses produits. Il est spécialisé dans la fabrication 
+et la commercialisation de produits dérivés du bois comme les granulés de bois ou les panneaux de 
+particules, panneaux de fibres, panneaux plaqués ou sur support aggloméré... Le groupe est 
+aujourd’hui un des leaders sur le marché hexagonal de ces produits. Il emploie environ 900 
+personnes. 
+ 
+L’entreprise achète du bois sous différentes formes à des scieries, ainsi que des colles, vernis, 
+peintures et solvants à des entreprises chimiques. Elle fabrique une grande variété de produits 
+qu’elle commercialise auprès de distributeurs : grandes surfaces de bricolage et fabricants de 
+meubles, principalement fournisseurs de la grande distribution (généraliste ou spécialisée dans le 
+mobilier). Le chiffre d’affaires 2017 s’est élevé à 350 millions d’euros, dont 20 % à l’exportation. 
+La production en volume approche le million de mètres cubes. 
+ 
+Le groupe possède aujourd’hui 5 usines dans plusieurs régions de France. Les usines (Angoulême, 
+Challans, Moulins, Saint- Brieuc et Sélestat) sont filiales à 100 % de la société holding tête de 
+groupe contrôlée par les familles fondatrices qui détiennent 70 % du capital (annexe 1). En 2017, 
+une augmentation de capital a été l’occasion de faire entrer un fonds de placement à hauteur de  
+30 %. 
+ 
+Le siège de la société holding, où travaillent une trentaine de personnes, est situé à Angoulême, près 
+de la première usine, construite en 1925, qui emploie aujourd’hui 225 personnes. Les autres usines 
+ont été acquises par croissance externe dans les années 1990-2000, avec l’arrivée aux commandes 
+de la 3ème génération de dirigeants. ÀA ce stade, le groupe envisage de poursuivre son 
+développement et de renforcer sa dimension internationale. Un projet qui consisterait à prendre 
+51 % du capital d’une entreprise suédoise de taille comparable au groupe Mirlac est en cours de 
+négociation. Cette acquisition permettrait de pénétrer de nouveaux marchés et complèterait l’offre 
+commerciale de Mirlac. 
+ 
+Pour renforcer sa position sur le marché, le groupe développe des relations de partenariat tant avec 
+ses fournisseurs qu’avec ses clients. Afin d’aller plus avant dans cette logique de filière, le groupe a 
+mis en place un extranet pour faciliter ses échanges commerciaux et techniques. Les partenaires de 
+Mirlac peuvent ainsi consulter et télécharger des documents de tout type (nomenclatures, tarifs, 
+documentations) et remplir des formulaires de demande d’informations diverses. 
+Les procédés industriels en perpétuelle avancée technologique sont les points clés qui permettent 
+aux entreprises de cette filière de rester compétitives. Aussi, font-elles régulièrement l’objet de 
+cyberattaques informatiques. Le groupe Mirlac non exempt de ces menaces a décidé de mettre en 
+œoeuvre des solutions de sécurisation des échanges au sein du groupe. 
+ 
+Les services « comptable », « commercial » et « achats » sont centralisés au siège. Le service 
+commercial comprend 18 personnes, dont 14 vendeurs qui ont chacun un portefeuille de clients et 
+une zone géographique à prospecter. Le service achats a un effectif de 3 personnes. Le service 
+comptable, d’une dizaine de personnes, est placé sous la responsabilité d’un chef comptable, lui-
+même dépendant du Directeur Administratif et Financier (DAF), Mme Barrois.  
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+5/10 
+Celle-ci supervise également le contrôle de gestion, avec un contrôleur de gestion groupe et un 
+contrôleur dans chaque usine. Mme Barrois est l’une des cinq membres du comité de direction du 
+groupe. 
+ 
+L’informatique du groupe (50 postes de bureautique, 200 postes pour les bureaux d’études et la 
+gestion de production) est basée sur un intranet avec des serveurs situés à Angoulême et des 
+serveurs de sauvegarde et de secours situés à Challans. 
+ 
+Le service informatique se trouve sous l’autorité de Mme Barrois, DAF. Il est dirigé par M. Clavier, 
+titulaire du DSCG (2012) et autodidacte en informatique qui encadre une équipe de 3 personnes (un 
+technicien réseaux et télécommunications, un administrateur de la base de données et un technicien 
+chargé des aspects applicatifs). M. Clavier possède de réelles compétences en gestion et en 
+management qu’il met à profit dans ses relations avec les correspondants informatiques se situant 
+dans chacune des usines du groupe. Ces derniers sont les relais locaux du service informatique. ÀA 
+côté des activités liées à leurs postes, ils assurent la maintenance matérielle et l’assistance aux 
+utilisateurs sur chacun des sites. 
+ 
+Le groupe dispose d’un PGI installé au début des années 2000, aujourd’hui vieillissant. L’éditeur 
+s’est spécialisé sur le commerce de détail et n’a plus de produit susceptible de répondre aux besoins 
+de Mirlac. La direction a pris la décision d’implanter un nouveau PGI full web. Le choix de 
+l’éditeur sera assuré en interne, mais, pour mener à bien le projet qui est considéré comme 
+stratégique par le groupe, il est prévu ensuite d’avoir recours à un intégrateur. 
+ 
+Vous êtes chargé(e) de préparer la migration vers le nouveau PGI. Dans un premier temps, il vous 
+est demandé de rappeler différentes notions relatives aux PGI. Dans un deuxième temps, vous devez 
+travailler sur l’ordonnancement du projet. Enfin, vous aurez à traiter de questions relatives à la 
+sécurité des échanges au sein du groupe Mirlac. 
+ 
+ 
+DOSSIER 1 : REMPLACEMENT DU PGI 
+ 
+Le changement de PGI revêt un caractère stratégique pour le groupe Mirlac. La direction a 
+décidé d’accorder une grande attention à la conduite de ce projet. Cet investissement nécessite 
+également une réflexion préalable sur la solution et sa mise en œuvreon implémentation.  
+ 
+Travail à faire 
+ 
+ÀA l’aide des annexes 1 à 3 et en vous appuyant sur vos connaissances, vous répondrez aux 
+questions suivantes : 
+ 
+Question 1 : Quels sont les organes à mettre en place pour la gestion de ce projet ? Préciser leur 
+composition et leur rôle respectif. 
+Question 2 : Quelles sont les principales conditions de réussite du projet ? (Quatre conditions sont 
+attendues.) 
+Question 3 : Lors du choix d’un PGI, quels sont les points auxquels l’entreprise doit être attentive ? 
+Citer et expliciter quatre points clés. 
+Question 4 : Quelles sont les principales difficultés rencontrées lors de la mise en place d’un PGI ? 
+(Quatre difficultés sont attendues.) 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+6/10 
+ 
+DOSSIER 2 : ORDONNANCEMENT DU PROJET PGI 
+ 
+Afin de maîtriser le suivi de la réalisation du projet, les étapes clés et les tâches du projet ont 
+été définies. 
+ 
+Travail à faire 
+ 
+ÀA l’aide de l’annexe 4 et en vous appuyant sur vos connaissances, vous répondrez aux 
+questions suivantes : 
+ 
+Question 1 : En fonction des tâches et contraintes d’antériorité, proposer un graphe 
+d’ordonnancement. Indiquer quel est le chemin critique et préciser la durée du projet (ne pas tenir 
+compte des jours fériés). 
+Question 2 : Les développements complémentaires liés aux spécificités de l’activité s’avèrent plus 
+complexes que prévu et vont finalement durer 40 jours. Quelles sont les conséquences de ce 
+changement sur le graphe ? Justifier votre réponse. 
+Question 3 : Proposer une solution pour compenser cet allongement et maintenir la durée initiale du 
+projet. Justifier votre proposition. 
+ 
+ 
+DOSSIER 3 : SÉECURISATION DES ÉECHANGES 
+ 
+Le site Web implanté au siège de Mirlac à Angoulême a récemment fait l’objet de 
+cyberattaques (tentatives d’intrusion, d’interception de courriel et déni de service). Le groupe 
+souhaite revoir certains points de sa politique de sécurité informatique. 
+ 
+Travail à faire 
+ 
+En vous appuyant sur vos connaissances, vous répondrez aux questions suivantes : 
+ 
+Question 1 : Expliquer les conséquences des cyberattaques subies pour Mirlac. (Trois 
+conséquences majeures sont attendues.) 
+ 
+Le groupe souhaite mettre en œuvre une solution d’interconnexion sécurisée de l’ensemble de 
+ses usines françaises et, à terme, de sa filiale suédoise. La solution envisagée prévoit 
+l’exploitation du réseau public Internet avec une mise en œuvre de Réseaux Privés Virtuels 
+(RPV, ou Virtual Private Network, ou VPN) ainsi que la mise en place d’une infrastructure à 
+gestion de clés. 
+ 
+Question 2 : Après avoir défini ce qu’est un VPN, indiquer les clés de cryptage nécessaires en 
+précisant de manière détaillée leur rôle lors d’un échange sécurisé par VPN depuis le siège à 
+Angoulême vers l’usine de Challans. 
+Question 3 : Présenter quatre dispositifs, autres que le VPN, permettant à Mirlac de se prémunir 
+des cyberattaques ou d’en limiter les conséquences. 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+7/10 
+Annexe 1. Organigramme du groupe Mirlac 
+ 
+ 
+ 
+ 
+ 
+ 
+Holding Mirlac
+(Capital :
+70 % familles fondatrices et 
+30 % Fonds de pension)
+Usine Mirlac
+Angoulême
+(Production de références spécifiques pour 
+l’ameublement)
+(Capital : 100 % Holding Mirlac)
+Usine Mirlac
+Challans
+(Capital : 100 % Holding Mirlac)
+Usine Mirlac
+Moulins
+(Capital : 100 % Holding Mirlac)
+Usine Mirlac
+Saint- Brieux
+(Capital : 100 % Holding Mirlac)
+Usine Mirlac
+Sélestat
+(Production des autres références 
+spécifiques)
+(Capital : 100 % Holding Mirlac)
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+8/10 
+Annexe 2. Environnement des affaires en Suède 
+1. Les règles comptables 
+L'année fiscale 
+L'année fiscale commence le 1er janvier et se termine le 31 décembre de la même année. Toutefois, 
+1er mai / 30 avril, 1er juillet / 30 juin et 1er 1er septembre / 31 août sont également possibles. 
+Les normes comptables 
+Les standards de comptabilité suédois sont conformes aux normes IFRAS. 
+La structure des comptes 
+Le rapport annuel doit contenir un compte de résultat, un bilan, une annexe et un rapport de gestion. 
+Les grandes entreprises et les sociétés cotées doivent fournir en plus un tableau de financement. 
+La comptabilité suédoise présente quelques particularités : 
+• la présentation de certains postes (Capital souscrit non versé, Comptes de régularisation, 
+Frais d'établissement, Immobilisations incorporelles, Notes de bas de page) répond aux 
+spécificités du pays, 
+• de même que la distinction entre les capitaux propres distribuables et non distribuables et la 
+séparation en trois parties des opérations d'exploitation entre production, distribution et 
+administration. 
+Les obligations de publication 
+Toutes les sociétés de capitaux sont tenues d'adresser un exemplaire de leur rapport annuel aux 
+autorités légales du pays. 
+2. Les taux d'imposition 
+Les taxes à la consommation 
+La nature de la taxe 
+MOMS (mervardesskart) - Taxe sur la Valeur Ajoutée (TVA) 
+Le taux standard : 25 % 
+[…] 
+Les taxes sur les sociétés 
+Impôt sur les sociétés : 22 % 
+[…] 
+ 
+Source : 
+http://www.expert-comptable-international.info/fr/fiches-pays/suede/environnement-des-affaires 
+ 
+Monnaie en Suède : Couronne suédoise 
+ 
+a mis en forme : Exposant
+FICHEBEN 
+
+=== PAGE 9 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+9/10 
+Annexe 3. Diagramme de flux simplifié 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 10 ===
+DSCG 2018 UE5 Management des systèmes d’information  
+10/10 
+Annexe 4. Tableau des tâches et contraintes d’antériorité 
+ 
+Tâches 
+Résultat 
+Durée * 
+Tâches 
+antérieures 
+A 
+Organisation du projet 
+Mise en place équipe projet 
+5 
+ 
+B 
+Établissement et validation du 
+budget 
+Budget validé 
+5 
+A 
+C 
+Planification 
+Planning validé 
+10 
+A 
+D 
+Spécifications 
+fonctionnelles 
+générales et détaillées  
+Cahier des charges 
+30 
+A 
+E 
+Diffusion du cahier des charges 
+et réception des propositions 
+Liste des offres 
+40 
+B, C, D 
+F 
+Sélection de 3 éditeurs pour 
+étude approfondie  
+Liste restreinte 
+5 
+E 
+G 
+Rencontres avec les éditeurs 
+sélectionnés 
+Choix de l’éditeur 
+5 
+F 
+H 
+Négociation avec l’intégrateur 
+Signature du contrat avec 
+l’éditeur et l’intégrateur 
+5 
+G 
+I 
+Analyse des processus 
+Règles de gestion 
+15 
+H 
+J 
+Paramétrages 
+Cahier de paramétrage 
+35 
+I 
+K 
+Développements 
+complémentaires 
+Compléments opérationnels 
+25 
+I 
+L 
+Création des interfaces  
+Interfaces opérationnelles 
+30 
+I 
+M Préparation et réalisation des 
+tests 
+Validation des tests 
+15 
+J, K, L 
+N 
+Documentation utilisateurs 
+Modes opératoires et livrets de 
+formation 
+20 
+J, K, L 
+O 
+Formation des utilisateurs 
+Préparation des utilisateurs à 
+la mise en production 
+20 
+N 
+P 
+Recettage 
+Livraison du projet à la 
+maîtrise d’ouvrage 
+3 
+M 
+Q 
+Mise en production 
+Fin du projet ; début de la 
+phase d’exploitation 
+1 
+O, P 
+ 
+* Les durées sont exprimées en jours ouvrés (5 par semaine) 
+ 
+ 
+ 
+a mis en forme le tableau
+FICHEBEN 

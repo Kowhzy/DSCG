@@ -1,0 +1,587 @@
+=== PAGE 1 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 1 / 10 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+ 
+ 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+ 
+ 
+SESSION 2025 
+ 
+ 
+ 
+ 
+Durée de l'épreuve : 4 heures 
+ 
+Coefficient : 1,5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Il est strictement interdit de poser des questions relatives au contenu du sujet durant 
+l’épreuve. 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. Toutes les réponses devront être justifiées. 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 2 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 2 / 10 
+UE3 – Management et contrôle de gestion 
+Durée : 4 heures – Coefficient : 1,5 
+______________________________________________________________________________ 
+Document autorisé : aucun. 
+ 
+Matériel autorisé 
+L’usage de la calculatrice avec mode examen actif est autorisé. 
+L’usage de la calculatrice sans mémoire, « type collège », est autorisé. 
+ 
+Tout autre matériel est interdit. 
+ 
+Document remis au candidat 
+Le sujet comporte 10 pages numérotées de 1/10 à 10/10. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de trois dossiers indépendants. 
+ 
+DOSSIER 1 - INCIDENCE DE LA RSE ET COÛT DE LA POLLUTION ........................ 8 points 
+DOSSIER 2 - GESTION DES COMPÉTENCES ET DES RESSOURCES HUMAINES . 6 points 
+DOSSIER 3 - GESTION DES PRIX DE TRANSFERT .................................................... 6 points 
+ 
+ 
+Le sujet comporte 8 annexes. 
+ 
+Annexe 1 – Le processus de production 
+Annexe 2 – Le fonctionnement de la station d’épuration de l’entreprise 
+Annexe 3 – Le calcul de la redevance d’assainissement 
+Annexe 4 – Les résultats des analyses réalisées en 2023 et 2024 
+Annexe 5 – Les écarts sur redevance versée par mois entre 2023 et 2024 
+Annexe 6 – Les données concernant la masse salariale et les négociations 
+Annexe 7 – Les informations concernant les prix de transfert (prix de cession interne) 
+Annexe 8 – La méthode du coût majoré 
+ 
+ 
+ 
+ 
+ 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie et à la 
+qualité rédactionnelle. 
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 3 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 3 / 10 
+SUJET 
+ 
+LES TANNERIES MONTESQUIEU 
+ 
+Créées en 1807, les Tanneries Montesquieu fabriquaient initialement des cuirs à semelles. Alliant 
+respect des traditions et modernité, cette entreprise a peaufiné son savoir-faire. Elle est 
+aujourd’hui un acteur essentiel, reconnu par les plus grandes maisons de mode et de 
+maroquinerie en France et à l’international. Elle doit répondre à des exigences toujours plus fortes 
+de la part de grands groupes de luxe en innovant, sans cesse, tout en maîtrisant ses coûts et en 
+assurant une qualité irréprochable de ses cuirs. Elle a orienté ses productions plus spécifiquement 
+vers l’univers de la maroquinerie, du bracelet montre et de la chaussure. Son laboratoire de 
+recherche et de développement, toujours à l’écoute de nouveaux process et technologies, 
+propose une offre innovante et créative. 
+L’entreprise Les Tanneries Montesquieu a été rachetée, il y a une quinzaine d’années, par un 
+géant du luxe : le groupe Voltaire International, anciennement l’un de ses principaux clients. Ce 
+dernier est conscient du caractère stratégique des approvisionnements de cuir de très haute 
+qualité. D’ailleurs, d’autres groupes concurrents ont adopté la même stratégie comme Prada qui a 
+racheté la tannerie française Hervy ou plus récemment le Groupe Hermès qui a acquis les 
+Tanneries du Puy et LVMH la tannerie italienne Nuti Ivo. L’entreprise Les Tanneries Montesquieu 
+est une société par actions simplifiée (SAS) détenue à 100 % par un actionnaire unique, Voltaire 
+International. Les actionnaires de cette société sont pour partie des membres de la famille du 
+fondateur. Les actions restantes sont détenues par les salariés et des actionnaires institutionnels 
+tels que des fonds d’investissement. 
+Depuis le début des années 2020, la direction des Tanneries Montesquieu a engagé l’entreprise 
+dans une stratégie RSE1 qu’elle qualifie de « luxe responsable ». Le dirigeant, monsieur Charles, 
+a des qualités reconnues en matière de choix stratégiques pertinents dans la mesure où, depuis 
+plus de vingt ans, il a toujours su prendre les bonnes décisions stratégiques afin de répondre à 
+l’incertitude de l’environnement. Il a, par exemple, toujours souhaité se différencier de ses 
+concurrents en termes de qualité et d’innovation. Monsieur Charles explique à ses salariés, en 
+séminaire, les objectifs stratégiques dès que des changements surviennent. Il sait également 
+mobiliser les femmes et les hommes de son entreprise afin de leur inculquer l’amour de 
+l’entreprise avec ses valeurs pour qu’ils/elles s’impliquent dans son succès. 
+Cette entreprise, qui a traversé les siècles, prend de plus en plus en considération les conditions 
+de travail de ses salariés. En effet, les tanneries sont, depuis de très nombreuses décennies, 
+critiquées car les opérations, permettant de transformer les peaux en cuir, exigent d’importantes 
+manutentions et s'effectuent dans des lieux de travail humides, propices aux chutes par glissade. 
+Par ailleurs, il est fréquent que les ouvriers se blessent :  coupures à cause des crochets, chocs 
+avec des barres de suspension, blessures causées par les machines à cylindres, projections 
+oculaires, etc. Enfin, les risques biologiques liés à la présence de bactéries sur les peaux des 
+animaux ne sont pas négligeables. 
+Le service contrôle de gestion est ainsi amené à s’intéresser à la stratégie de « luxe 
+responsable » à travers les questions liées à l’incidence de la RSE et au coût de la pollution 
+(dossier 1), la gestion des compétences et des ressources humaines (dossier 2) ainsi qu’à la 
+fixation de prix de cession interne (prix de transfert) (dossier 3). 
+Pour chaque question, il est nécessaire de présenter les concepts et outils avant de les 
+mobiliser puis de conclure. 
+ 
+ 
+1 Responsabilité sociale / sociétale de l’entreprise 
+F  I  C  H  E  B  E  N
+
+=== PAGE 4 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 4 / 10 
+DOSSIER 1 – INCIDENCE DE LA RSE ET COÛT DE LA POLLUTION 
+ 
+ 
+L’activité de tannerie engendre de multiples externalités. Engagée dans une démarche RSE, 
+l’entreprise Les Tanneries Montesquieu cherche à réduire son impact environnemental. Elle est 
+membre de l’association Leather Working Group (LWG), association internationale dont l’objectif 
+est de promouvoir les bonnes pratiques en matière d’impact environnemental des entreprises du 
+cuir tout en améliorant les conditions de travail de leurs salariés. 
+L’activité de tannage nécessite une importante consommation d’eau. C’est pour cette raison que 
+les tanneries ont toujours été implantées à côté de rivières. Les Tanneries Montesquieu ne 
+dérogent pas à cette règle. Il existe deux méthodes de tannage : le tannage au chrome et le 
+tannage végétal. Actuellement, plus de 80 % du cuir mondial est tanné au chrome et tous les 
+déchets contenant du chrome sont dangereux. Les eaux usées contenant ces produits chimiques 
+sont souvent rejetées dans les rivières ou dans les champs voisins, contaminant ainsi les récoltes 
+des agriculteurs. Des riverains, inquiets de cette pollution et des émanations souvent 
+nauséabondes d’un gaz (odeur de soufre) dans les canalisations occasionnant des maux de têtes 
+récurrents, créent des associations (par exemple l’association France Nature Environnement) afin 
+de contraindre les tanneries à modifier leur façon de produire. De plus, le chrome est un facteur 
+de développement d’allergies pour les consommateurs finaux. 
+L’entreprise Les Tanneries Montesquieu réalise un tannage au chrome. Son processus comprend 
+plusieurs étapes de transformation des peaux en cuir. De lourds investissements ont été réalisés, 
+il y a quelques années, afin de réduire la consommation d’eau et les rejets dans l’environnement. 
+À l’issue du processus de production, l’eau utilisée passe par la station d’épuration de l’entreprise, 
+avant d’être rejetée dans le réseau extérieur. Cette eau est ensuite analysée par la station 
+d’épuration de la ville, gérée par Véolia, qui procède alors aux opérations de dépollution 
+nécessaires en fonction du taux de pollution constaté. Ces opérations sont facturées à l’entreprise 
+par le biais d’une redevance d’assainissement dont le montant dépend à la fois du volume d’eau 
+rejeté et de la pollution constatée. L’enjeu environnemental de réduction de la pollution se double 
+donc d’un enjeu financier. 
+Afin de réduire ces externalités négatives, une étude quantitative des résultats passés est menée. 
+Des décisions seront prises à la suite de cette analyse. 
+Travail à faire 
+À l’aide des éléments de contexte présentés précédemment et des annexes 1 à 5, il vous 
+est demandé de : 
+1. Identifier les enjeux liés à la RSE auxquels est confrontée l’entreprise Les Tanneries 
+Montesquieu. 
+2. Calculer le montant de la redevance d’assainissement versée en 2023 et en 2024 
+ainsi que l’écart total sur redevance annuelle versée. 
+3. Analyser l’évolution du coût de la pollution entre 2023 et 2024. Pour cela : 
+a. concevoir un schéma d’analyse de cet écart (identifier les différents sous-
+écarts et proposer une formule de calcul pour chacun d’entre eux) ; 
+b. à partir de ce schéma, décomposer l’écart total sur redevance versée ; 
+c. à partir de l’annexe 5, calculer et analyser les écarts appropriés sur trois mois 
+significatifs. 
+4. Distinguer trois parties prenantes concernées par la réduction de l’impact 
+environnemental de l’entreprise et analyser leurs attentes respectives. 
+5. À partir des résultats précédents, rédiger une note de synthèse sur l’évolution du 
+coût de la pollution entre 2023 et 2024 et son incidence sur les parties prenantes 
+concernées (maximum 20 lignes). 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 5 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 5 / 10 
+DOSSIER 2 – GESTION DES COMPÉTENCES ET DES RESSOURCES HUMAINES 
+ 
+ 
+Au-delà de l’aspect environnemental, la stratégie de « luxe responsable » développée par Les 
+Tanneries Montesquieu concerne également l’axe social de la RSE, au travers plus 
+particulièrement des questions relatives aux compétences, au dialogue social et aux 
+rémunérations. 
+L’acquisition, l’enrichissement et la transmission des savoir-faire de ses collaborateurs constituent 
+un élément de patrimoine clé pour Les Tanneries Montesquieu. L’entreprise contribue à la 
+préservation et à la pérennité de nombreux savoir-faire artisanaux, propices à un développement 
+économique plus responsable et durable. Elle recrute puis forme ses collaborateurs dans une 
+logique interne de transmission des savoir-faire, gage de la durabilité de son modèle d’affaires. 
+Des actions de formation sont régulièrement organisées afin de permettre aux collaborateurs 
+d’acquérir de nouvelles compétences. 
+La direction veille à mettre en œuvre et à garantir un dialogue social de qualité. Il repose à la fois 
+sur la négociation collective et sur l’implication quotidienne des représentants du personnel dans 
+différents projets. L’évolution annuelle des rémunérations tient compte de l’inflation et des 
+tendances observées sur les marchés locaux des rémunérations. 
+Travail à faire 
+À l’aide des éléments de contexte présentés précédemment et des annexes 1 et 6 : 
+1. Présenter un diagnostic stratégique interne des compétences de l’entreprise Les 
+Tanneries Montesquieu. 
+2. Examiner les compétences qui peuvent être qualifiées de distinctives. 
+3. Évaluer les conséquences sur la masse salariale de la décision prise par la direction 
+suite aux négociations à partir du calcul des différents effets. 
+4. Expliquer les raisons qui amènent la direction et les représentants du personnel à 
+proposer un calendrier d’application des augmentations salariales différent. Vous 
+vous appuierez pour cela sur des calculs. 
+5. Analyser les résultats obtenus au regard des compétences des salariés. 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 6 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 6 / 10 
+DOSSIER 3 – GESTION DES PRIX DE TRANSFERT 
+ 
+ 
+Il y a déjà quelques années, le groupe Voltaire International a racheté Les Tanneries Montesquieu 
+afin notamment de sécuriser ses propres approvisionnements. Actuellement, l’entreprise vend la 
+majorité de sa production à une entreprise du groupe Voltaire International : l’entreprise Athéna, 
+une entreprise de maroquinerie de luxe, réputée dans le monde entier, implantée en Irlande. 
+Athéna produit essentiellement des sacs à main. 
+Jusqu’à présent, les prix de transfert (prix de cession interne) fixés par le groupe Voltaire 
+International ont toujours été à l’avantage de l’entreprise irlandaise. Mais, le dirigeant de la filiale 
+Les Tanneries Montesquieu, monsieur Charles, souhaite modifier cette méthode de calcul afin de 
+mieux correspondre à la réalité de l’activité de chacune des entreprises et de respecter les 
+engagements RSE pris par le groupe. 
+De plus, les cuirs finis sont de plus en plus demandés sur le marché, notamment par les groupes 
+de luxe tels que LVMH ou Hermès. Dans le même temps, le nombre de tanneries diminue. En 
+2023, en France, la filière ne compte plus qu’une cinquantaine d’entreprises. Les Tanneries 
+Montesquieu vendent une part importante de leur production sur le marché. De ce fait, monsieur 
+Charles estime qu’il a désormais un poids plus important dans les négociations avec le groupe 
+afin de fixer le prix de transfert. 
+Travail à faire 
+À l’aide des éléments de contexte présentés précédemment et des annexes 7 et 8 : 
+1. Identifier la politique de gestion du périmètre adoptée par le groupe Voltaire 
+international lors du rachat de l’entreprise Les Tanneries Montesquieu puis 
+déterminer les principaux objectifs poursuivis. 
+ 
+2. Analyser la situation actuelle. Pour cela : 
+a. calculer les résultats avant et après impôt respectifs des entreprises Les 
+Tanneries Montesquieu et Athéna ; 
+b. évaluer l’impact financier de cette situation sur le résultat du groupe Voltaire 
+International ; 
+c. interpréter les résultats obtenus. 
+ 
+3. Expliquer quelles seraient les conséquences du changement de méthode de calcul 
+du prix de transfert sur les résultats respectifs des Tanneries Montesquieu, d’Athéna 
+et de Voltaire International (le calcul de ces résultats n’est pas nécessaire). 
+ 
+4. Proposer trois arguments en faveur d’une hausse du prix de transfert que pourrait 
+mobiliser monsieur Charles. 
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 7 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 7 / 10 
+ANNEXES 
+Annexe 1 – Le processus de production 
+Le processus comprend dix étapes dont de nombreuses sont le fruit d’un savoir-faire artisanal 
+transmis de génération en génération, depuis 1807. Il dure plus de quatre semaines afin de 
+transformer une peau brute en cuir fini : 
+1. Le stockage : dès qu’elles sont livrées, les peaux brutes sont salées pour être préservées, 
+puis stockées dans un réfrigérateur en attendant d’être traitées. Les peaux brutes sont 
+achetées à des fournisseurs sélectionnés, de manière drastique, par des acheteurs 
+spécialisés et formés des Tanneries Montesquieu qui reconnaissent les plus belles peaux. 
+2. La rivière : les peaux sont ensuite nettoyées, dépilées, affinées pour être ensuite tannées 
+au chrome dans un foulon, afin de stopper la putréfaction. À leur sortie des foulons, les 
+peaux ont pris une couleur bleu ciel. Pour cette raison, elles sont appelées Wet Blue. 
+3. Le tri : l’état des peaux peut à présent être observé. Elles sont examinées une par une à 
+l’œil nu et sont ensuite triées par choix de qualité. Cette étape est confiée à des salariés 
+très expérimentés qui connaissent la matière et sont capables d’identifier les qualités et les 
+défauts de chaque peau grâce à un savoir-faire développé au cours de leur carrière. 
+4. La teinture et le retannage : cette étape débute lorsqu’une commande client arrive. Les 
+opérations de refente et de dérayage affinent les peaux. Le retannage donne ensuite ses 
+caractéristiques sensorielles au cuir, puis intervient la teinture qui colore le cuir. 
+5. Le séchage : les peaux sont ensuite essorées, puis suspendues à une grande balancelle 
+pour sécher à l’air libre. 
+6. Le cadrage et le palissonnage : à la suite des traitements précédents, les peaux sèches 
+sont rigides comme du carton. Les étapes de cadrage et palissonnage vont étirer et 
+assouplir les peaux. Lors du palissonnage, le salarié, grâce à des gestes maintes fois 
+répétés, exerce une pression plus ou moins forte sur la peau placée contre les lames 
+arrondies d’une roue tressautante. Un crust (terme anglais pour désigner un cuir non fini) 
+est ainsi obtenu. 
+7. La cuisine couleur : les mélanges de couleur sont élaborés dans la « cuisine », en 
+préparation de la finition. Le défi consiste à traiter le cuir pour que la teinte soit homogène. 
+Pour y parvenir, il est nécessaire que les salariés connaissent le dosage parfait avec un 
+vrai coup d’œil qui s’acquiert après des mois voire des années de pratique. 
+8. Le pistolet : des pistolets, qui tournent en cadence, vaporisent les finitions pigmentées. 
+Cette étape permet d’obtenir la couleur exacte attendue par le client. 
+9. Les tests laboratoire : tous les lots de peaux sont testés très rigoureusement dans le 
+laboratoire afin que la qualité soit irréprochable. Chaque peau est observée, touchée et 
+contrôlée par des hommes et des femmes qui ont les compétences transmises depuis des 
+générations. D’ailleurs, il faut des années d’expérience pour parvenir à maîtriser ce 
+toucher. 
+10. Le contrôle qualité : après être passé par plus de cent étapes mécaniques et chimiques 
+successives, le cuir subit un dernier contrôle qualité. Les peaux sont à présent prêtes à être 
+expédiées dans le monde entier. Lors de ce tri final, un contrôle qualité spécifique est 
+appliqué afin de vérifier la conformité de l’article pour répondre aux cahiers des charges de 
+chaque client. Des salariés sont spécifiquement formés afin de répondre à ces exigences. 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 8 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 8 / 10 
+Annexe 2 – Le fonctionnement de la station d’épuration de l’entreprise 
+L’eau polluée, du fait du processus de production, constitue un risque considérable pour 
+l’environnement. C’est pour cette raison que l’entreprise Les Tanneries Montesquieu a sa propre 
+station d’épuration afin de dépolluer l’eau rejetée par l’usine. 
+Les eaux industrielles de la tannerie sont des eaux chromées et le but de la station d’épuration est 
+notamment d’enlever le chrome de l’eau. C’est une station physico-chimique, c’est-à-dire qu’elle 
+fonctionne avec des produits chimiques et non avec des bactéries. 
+Le processus comprend deux étapes : 
+1. l’eau passe dans des dégrilleurs afin d’enlever les éléments solides et volumineux qui y 
+sont présents ; 
+2. l’eau est envoyée vers des filtres rotatifs pour ôter les particules plus petites. 
+Annexe 3 – Le calcul de la redevance d’assainissement 
+Un arrêté du conseil communautaire permet de calculer le montant de la redevance 
+d’assainissement facturée par Véolia. Il est obtenu grâce à la formule suivante :  
+Montant de la redevance = Ru x V x Cp 
+Ru 
+Montant de la redevance unitaire par mètre cube 
+V 
+Volume d’effluent (eau) déversé au réseau de collecte en mètres cubes 
+Cp 
+Coefficient de pollution moyen 
+Le coefficient de pollution moyen (Cp) correspond à la moyenne des coefficients de pollution de 
+toutes les analyses de la période considérée, pondérés par les volumes. Il détermine la spécificité 
+de la pollution rejetée par l’établissement par rapport à un usager domestique standard (ou 
+équivalent habitant) sur les principaux paramètres entrant dans le calcul du dimensionnement des 
+ouvrages de dépollution. Sa valeur est obtenue grâce à une formule basée sur les concentrations 
+(en mg/l) des eaux usées de l’établissement pour les paramètres (polluants) issus des résultats 
+d’autosurveillance éventuellement complétés des résultats de bilans inopinés. Il s’agit d’une 
+mesure de concentration des polluants dans l’eau. 
+Le montant de la redevance unitaire par mètre cube s’élève à : 
+En 2024 ................. 2,10 € 
+En 2023 ................. 1,97 € 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 9 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 9 / 10 
+Annexe 4 – Les résultats des analyses réalisées en 2023 et 2024 
+ 
+Coefficients de 
+pollution moyen (Cp) 
+Volume d'eau consommée et 
+rejetée en mètres cubes (V) 
+ 
+2024 
+2023 
+2024 
+2023 
+Janvier 
+3,30 
+3,46 
+5 410 
+6 947 
+Février 
+2,75 
+3,81 
+4 905 
+6 682 
+Mars 
+3,72 
+3,49 
+5 824 
+2 820 
+Avril 
+3,45 
+3,06 
+4 803 
+2 238 
+Mai 
+2,54 
+2,90 
+3 871 
+3 280 
+Juin 
+2,75 
+3,31 
+4 445 
+5 131 
+Juillet 
+1,85 
+2,81 
+5 370 
+6 024 
+Août 
+1,65 
+1,87 
+1 362 
+1 974 
+Septembre 
+4,23 
+3,64 
+5 406 
+5 816 
+Octobre 
+3,61 
+3,04 
+6 233 
+5 290 
+Novembre 
+3,89 
+1,83 
+5 269 
+4 639 
+Décembre 
+2,11 
+2,88 
+372 
+4 668 
+Total 
+ 
+ 
+53 270 
+55 509 
+ 
+Annexe 5 – Les écarts sur redevance versée par mois entre 2023 et 2024 
+Les écarts sur redevance versée ont été calculés par le service contrôle de gestion afin de réaliser 
+des comparaisons, mois par mois, entre 2023 et 2024. 
+Mois 
+Écart total sur 
+redevance versée 
+Mois 
+Écart total sur 
+redevance versée 
+Janvier 
+- 9 860,84 € 
+Juillet 
+- 12 484,61 € 
+Février 
+- 21 826,71 € 
+Août 
+- 2 552,69 € 
+Mars 
+26 108,74 € 
+Septembre 
+6 316,13 € 
+Avril 
+21 306,63 € 
+Octobre 
+15 571,62 € 
+Mai 
+1 909,27 € 
+Novembre 
+26 318,40 € 
+Juin 
+- 7 787,83 € 
+Décembre 
+- 24 836,03 € 
+Annexe 6 – Les données concernant la masse salariale et les négociations 
+Voici les données concernant l’exercice 2024 : 
+ 
+Effectif 
+moyen 
+année 
+2024 
+Salaires 
+bruts moyens 
+versés en 
+décembre 
+2024 
+Total des 
+salaires bruts 
+versés pendant 
+l'année 2024 
+Cadres et professions intellectuelles supérieures 
+10 
+5 400 € 
+637 000 € 
+Professions intermédiaires 
+22 
+3 200 € 
+839 500 € 
+Employés 
+5 
+2 500 € 
+148 000 € 
+Ouvriers 
+65 
+1 900 € 
+1 412 000 € 
+TOTAL 
+102 
+ 
+3 036 500 € 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 10 ===
+25DSCG-UE3  
+Management et contrôle de gestion 
+Page 10 / 10 
+À la suite des négociations salariales pour l’exercice 2025, la direction va accorder une 
+augmentation de salaire de 2 % à l’ensemble du personnel selon le calendrier suivant : 0,5 % au 
+1er mars, puis 1,5 % au 1er septembre. 
+Les représentants du personnel ont finalement signé cet accord alors qu’ils avaient 
+précédemment proposé que l’ordre soit inversé : 1,5 % au 1er mars, puis 0,5 % au 1er septembre. 
+Annexe 7 – Les informations concernant les prix de transfert (prix de cession interne) 
+Les Tanneries Montesquieu ont une capacité de traitement de 115 000 peaux brutes par an. Les 
+charges variables de production (transformation d’une peau brute en cuir fini) sont, en moyenne, 
+de 1 597 € par peau traitée. Les charges fixes sont de 6 000 000 € par an, dont 500 000 € de frais 
+de distribution. Le prix de transfert (prix de cession interne) d’une peau est jusqu’à présent de 
+1 599 € (PCI fixé par le groupe) et le prix de vente sur le marché est de 2 010 €. Pour les ventes 
+réalisées sur le marché, les charges variables sont augmentées de 10 % dans la mesure où elles 
+intègrent des dépenses marketing. Les ventes réalisées à l’intérieur du groupe (ventes à Athéna) 
+représentent 80 % des ventes totales (en volume). 
+La filiale Athéna produit des articles de maroquinerie. Il s’agit essentiellement de sacs à main. Le 
+prix de vente moyen d’un sac à main est de 990 € HT. L’approvisionnement en cuir est 
+intégralement effectué auprès des Tanneries Montesquieu. Une peau permet de réaliser trois sacs 
+à main. Pour transformer le cuir en produit fini, des opérations supplémentaires sont nécessaires. 
+Elles engendrent des charges variables de 40 € par sac. De plus, Athéna produit à pleine capacité 
+et, compte-tenu de ce niveau d’activité, les charges fixes allouées par sac à main s’élèvent à 30 €. 
+Pour être cohérent avec ses engagements en matière de RSE, monsieur Charles souhaite 
+modifier sa politique de fixation de prix de transfert (prix de cession interne). De ce fait, il propose 
+d’utiliser la méthode du coût majoré. Le coût qui servirait de base au calcul du prix correspondrait 
+au coût de production d’une peau traitée (on considère que toutes les charges hors distribution 
+sont liées à la production). Le taux de marge appliqué correspondrait à 10 % de ce coût. 
+En France, le taux de l'impôt sur les sociétés s’élève à 25 %. Il est de 15 % en Irlande (après 
+d’âpres négociations, l’Irlande a accepté d’appliquer le taux minimum de 15 % proposé par 
+l’OCDE à partir du 1er janvier 2024). 
+Annexe 8 – La méthode du coût majoré 
+Cette méthode consiste tout d’abord à déterminer, pour les biens (ou services) transférés à un 
+acheteur associé, les coûts supportés par le fournisseur dans le cadre d’une transaction entre 
+entreprises associées. 
+On ajoute ensuite une marge appropriée à ces coûts, de façon à obtenir un bénéfice approprié 
+compte tenu des fonctions exercées et des conditions du marché. On obtient ainsi un prix pouvant 
+être considéré comme le prix de pleine concurrence pour la transaction initiale entre entreprises 
+associées. 
+Cette méthode convient sans doute le mieux lorsque des produits semi-finis sont vendus entre 
+des entreprises associées, lorsque des entreprises associées ont conclu des accords de mise en 
+commun d’équipements ou d’approvisionnement à long terme ou lorsque la transaction contrôlée 
+concerne des prestations de services. 
+Source : OCDE (2022), Principes de l'OCDE applicables en matière de prix de transfert à l'intention des 
+entreprises 
+multinationales 
+et 
+des 
+administrations 
+fiscales 
+2022, 
+Éditions 
+OCDE, 
+Paris, 
+https://doi.org/10.1787/5357f003-fr. 
+F  I  C  H  E  B  E  N

@@ -1,0 +1,569 @@
+=== PAGE 1 ===
+23DSCG-UE2 
+Finance 
+Page 1/9 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE2 – FINANCE 
+SESSION 2023 
+Durée de l'épreuve : 3 heures 
+Coefficient : 1 
+FICHEBEN
+
+=== PAGE 2 ===
+23DSCG-UE2 
+Finance 
+Page 2/9 
+UE2 – FINANCE 
+Durée : 3 heures – Coefficient : 1 
+ 
+Document autorisé : aucun. 
+ 
+Matériel autorisé :  
+- l’usage de la calculatrice avec mode examen actif est autorisé ; 
+- l’usage de la calculatrice sans mémoire, « type collège », est autorisé. 
+ 
+Tout autre matériel est interdit. 
+ 
+ 
+Document remis au candidat : 
+Le sujet comporte 9 pages numérotées de 1/9 à 9/9. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants 
+ 
+DOSSIER 1 - Projet d’investissement avec options réelles (4 points) 
+DOSSIER 2 - Gouvernance d’entreprise et évaluation (10 points) 
+DOSSIER 3 - RSE et gestion du risque de taux (6 points) 
+__________________________________________________________________________________________ 
+ 
+Le sujet comporte 8 annexes.  
+ 
+DOSSIER  1 
+ 
+Annexe 1 - Modèle de Black et Scholes et table de la loi Normale 
+Annexe 2 - Éléments d’information concernant deux projets d’investissement 
+ 
+DOSSIER  2 
+ 
+Annexe 3 - Données relatives à l’actionnariat concernant SONELGAZ France SA  
+Annexe 4 - Données relatives à la gouvernance actuelle de SONELGAZ France SA 
+Annexe 5 - Données financières antérieures en millions d’euros relatives groupe SONELGAZ France SA  
+Annexe 6 - Données financières en millions d’euros pour l’année N du groupe GRDF 
+ 
+DOSSIER  3 
+ 
+Annexe 7 - Données financières et sociales de GAZMEGA 
+Annexe 8 - Données relatives au SWAP de taux 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. Toutes les réponses devront être justifiées. 
+ 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie et à la qualité 
+rédactionnelle.  
+FICHEBEN
+
+=== PAGE 3 ===
+23DSCG-UE2 
+Finance 
+Page 3/9 
+ 
+SUJET 
+ 
+Monsieur DUMONT, dirigeant de l’entreprise française GAZMEGA, cotée sur Euronextgrowth, spécialisée 
+dans la construction de gazoducs depuis plus de 40 ans, va sans doute décrocher un énorme contrat suite 
+au réchauffement des relations diplomatiques entre la Krakozie et l’Absurdistan. En effet, les échanges 
+économiques et politiques se sont développés grandement ces dernières années, au point de laisser 
+penser à un règlement définitif du conflit autour des îles Patchounes, disputées depuis près de quatre-vingt 
+ans entre les deux pays. C’est dans ce contexte que Monsieur DUMONT, qui a de nombreux contacts à 
+l’international et en particulier dans les deux pays, souhaite profiter du réchauffement diplomatique pour 
+participer à la construction du futur gazoduc Krako-Absurde reliant la Krakozie à l’Absurdistan via l’île de 
+Boutche (Krakozie). 
+ 
+La perspective de décrocher le contrat pour monsieur DUMONT est une quasi-certitude, son entreprise 
+étant une filiale française détenue à parts égales par l’entreprise Krakoze Gazekrak et les entreprises 
+Absurdes Gazstan et Absurde Stan. 
+Organigramme du groupe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C’est pourquoi Monsieur DUMONT sollicite l’avis de l’expert-comptable de la société, Monsieur TROFORT 
+et lui remet trois dossiers à traiter. Monsieur TROFORT, submergé par les dossiers du fait de ses 
+compétences avérées et ayant une totale confiance en vous grâce à vos grandes connaissances en 
+finance, vous demande d’analyser et de traiter les trois dossiers suivants : 
+  
+1. 
+Monsieur DUMONT s’interroge sur la rentabilité de deux projets d’investissement (forages, puis 
+construction d’un gazoduc) qu’il va réaliser dans les eaux territoriales krako-absurdes, notamment en 
+matière de forages offshore dans le cadre de l’extraction du gaz puis de la construction du gazoduc. 
+En effet, tous les forages réalisés ne vont pas forcément conduire à la découverte de gaz, et donc à 
+la construction de futures plateformes d’extraction. Et c’est bien ce qui inquiète monsieur DUMONT. 
+ 
+2. 
+Monsieur DUMONT souhaite augmenter ses parts de marché en France et conquérir de nouveaux 
+contrats à l’international en rachetant un concurrent. Il s’agit d’une filiale française du groupe Boldave 
+SONELGAZ, « SONELGAZ France SA », deuxième entreprise en France en matière de parts de 
+marché après GAZMEGA. Il sollicite votre aide pour analyser la gouvernance de la filiale et valoriser 
+le rachat de la société cotée en Bourse.  
+ 
+3. 
+Monsieur DUMONT a entendu parler d’obligations à respecter au niveau environnemental en matière 
+d’extraction du gaz. D’ailleurs, il a été fortement encouragé par la Krakozie et l’Absurdistan à proposer 
+des technologies propres pour les forages et la construction du gazoduc, les îles de Boutche étant 
+appelées à devenir une immense zone naturelle protégée. Il vous interroge à ce sujet car il craint 
+également des tensions avec les associations écologiques. Enfin, le financement des projets 
+d’investissements nécessite de recourir à des taux d’intérêt compétitifs pour ne pas alourdir la dette de 
+la société GAZMEGA. Monsieur DUMONT a emprunté à taux variable et se demande si 
+une couverture est possible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GAZMEGA 
+France  
+Absurde Stan 
+Absurdistan 
+Krakoze Gazekrak 
+Krakozie 
+Absurdes Gazstan 
+Absurdistan 
+25 % 
+50 % 
+25 % 
+FICHEBEN
+
+=== PAGE 4 ===
+23DSCG-UE2 
+Finance 
+Page 4/9 
+DOSSIER 1 - PROJET D’INVESTISSEMENT AVEC OPTIONS RÉELLES  
+ 
+La réalisation du gazoduc reliant la Krakozie à l’Absurdistan est intimement liée au succès des forages qui 
+bordent sa construction dans une optique de rentabilité de long terme pour les deux pays. 
+Monsieur DUMONT a entendu dire que pour évaluer la rentabilité de ce projet d’investissement 
+d’envergure, il n’est pas possible de retenir des méthodes « classiques » en raison du caractère 
+conditionnel de ce projet. Vous êtes amenés en conséquence à répondre à différentes questions pour 
+ensuite conclure sur la réalisation (ou non) du futur gazoduc Krako-Absurde. 
+ 
+À partir des annexes 1 et 2 : 
+ 
+Travail à faire 
+ 
+1.1. Définir les hypothèses sous-jacentes au modèle proposé en annexe 1 et en expliquer l’utilité 
+pour les projets d’investissements. 
+1.2. Définir les termes suivants : option réelle et option d’expansion. 
+1.3. En vous basant sur le modèle de Black et Scholes, déterminer le montant de l’option. 
+1.4. Conclure sur l’opportunité d’investir dans ces deux projets associés. 
+ 
+DOSSIER 2 - GOUVERNANCE D’ENTREPRISE ET ÉVALUATION  
+ 
+À partir des annexes 3 et 4 : 
+Travail à faire 
+ 
+Partie 1 - Gouvernance 
+ 
+1. Avant le rachat de la société SONELGAZ France SA, Monsieur DUMONT souhaite en analyser 
+la gouvernance. 
+1.1. Définir la gouvernance d’entreprise et ses mécanismes internes et externes en donnant des 
+exemples pour chacun d’eux. 
+1.2. Définir la géographie du capital de SONELGAZ France SA. Quelle analyse peut-on en faire 
+quant au mode de gouvernance de cette société ? 
+1.3. Que penser des éléments de gouvernance relatifs à cette entreprise en vous basant 
+uniquement sur les données de l’annexe 4 ? 
+1.4. Le conseil d’administration comprend des administrateurs indépendants. Quelles sont les 
+qualités d’un administrateur indépendant ? (en citer au moins 4) 
+ 
+À partir des annexes 5 et 6 : 
+ 
+Partie 2 - Évaluation d’entreprise 
+ 
+2. Procéder à l'évaluation des capitaux propres du Groupe SONELGAZ (en N) et de l’action 
+correspondante. 
+2.1. Calculer le coût moyen pondéré du capital (arrondir à deux chiffres après la virgule). 
+2.2. Retrouver le montant de la covariance (Ra, Rm) par le calcul (faire obligatoirement 
+un tableau). 
+2.3. Calculer le prix de l’action par la méthode des flux de trésorerie disponibles futurs 
+actualisés.  
+2.4. Calculer le prix de l’action par la méthode des multiples au titre de l’année N+1 par 
+comparaison avec la société GRDF à appliquer aux indicateurs N de SONELGAZ France SA 
+(CA, EBIT, PER). 
+2.5. Ces méthodes sont-elles utilisables pour évaluer un fonds de commerce ? Pourquoi ? 
+Quelle(s) méthode(s) est-il possible de proposer dans ce cas de figure ? 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+23DSCG-UE2 
+Finance 
+Page 5/9 
+DOSSIER 3 - RSE ET GESTION DU RISQUE DE TAUX 
+ 
+Monsieur DUMONT est conscient qu’une entreprise comme la sienne, cotée sur Euronextgrowth et 
+réalisant ce type d’activité peut s’attirer les foudres des mouvements écologiques à travers le monde, en 
+particulier dans la zone où se situera le gazoduc. Il s’interroge sur les obligations environnementales de 
+son entreprise. 
+Travail à faire 
+ 
+Partie 1 - Stratégie RSE 
+À partir de l’annexe 7 : 
+ 
+1.1. Monsieur DUMONT a entendu parler de DPEF. De quoi s’agit-il ? Ce document est-il 
+obligatoire pour son entreprise ? 
+1.2. Monsieur DUMONT s’interroge également sur la possibilité de faire l’objet d’une notation 
+extra-financière. Expliquer l’utilité de cette démarche et citer au moins trois agences de 
+notation extra-financières généralistes à portée internationale susceptibles de pouvoir noter 
+GAZMEGA. 
+ 
+Partie 2 - Gestion du risque de taux 
+ 
+Pour financer son développement dans la construction des gazoducs, la société GAZMEGA avait 
+emprunté 20 000 000 € en N-3. Les conditions étaient alors favorables, l’emprunt avait été contracté au 
+taux variable Euribor 6 mois + 0,5%. Le remboursement doit avoir lieu in fine fin N+2 et les intérêts 
+sont payables chaque fin de semestre. Une évolution défavorable des taux d’intérêt étant à craindre, 
+Monsieur DUMONT a contacté sa banque qui lui propose un swap de taux (annexe 8).  
+ 
+1.1. À quel risque de taux est soumise la société GAZMEGA ?  
+1.2. Calculer le montant des intérêts à payer lors de chaque échéance si la société a recours 
+au swap et si elle ne réalise aucune couverture. Envisager successivement un taux 
+Euribor 6 mois égal à 2,90% puis à 3,75%. Présenter les résultats dans un tableau. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 6 ===
+23DSCG-UE2 
+Finance 
+Page 6/9 
+Annexe 1 - Modèle de Black et Scholes et table de la loi Normale 
+ 
+La formule du modèle est la suivante : 
+valeur de l’option d’achat : Call = S. N(d1) – E. e–rT. N(d2) 
+valeur de l’option de vente : Put = – S. N(– d1) + E. e–rTN(– d2) 
+avec : 
+• S, le cours de l’actif sous-jacent (valeur actuelle du projet début N+5) ; 
+• E, le prix d’exercice (dépenses d’investissement début N+5) ; 
+• T, la durée de l’option (exprimée en années) ; 
+• σ, la volatilité de l’actif sous-jacent ; 
+• r, le taux d’intérêt (il faut transformer au préalable le taux d’intérêt discret en taux d’intérêt continu) ; 
+• e, la valeur exponentielle de 2,71828 ; 
+ 
+ 
+Les valeurs de d1 et d2 sont à arrondir à deux chiffres après la virgule. 
+N(d1) et N(d2) sont les valeurs de la distribution normale obtenues dans la table statistique ci-dessous.  
+ 
+Table de la loi Normale 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+23DSCG-UE2 
+Finance 
+Page 7/9 
+Annexe 2 - Éléments d’information concernant deux projets d’investissement 
+ 
+Projet initial  
+VAN du projet initial de forages : - 30 068,887 K€ (durée 5 ans, de N+1 à N+5).  
+Investissement décaissé début N+1. 
+ 
+Second projet 
+Valeur actuelle des flux du second projet liés au gazoduc fin N+5 actualisés au 01/01/N+5 : 
+1 178 996,24 K€. Le taux d’actualisation à utiliser pour ramener le projet à N+1 est : 4,25 %. 
+Dépenses d’investissement du second projet liés au gazoduc au 01/01/N+5 : 1 000 000 K€ 
+Temps écoulé jusqu’à l’échéance : à déterminer. 
+L’entreprise souhaite lancer le second projet de gazoduc Krako-Absurde au 01/01/N+5. 
+L’écart type annuel est de 30%.  
+Le taux d’intérêt annuel discret et sans risque dans la formule de B&S est de 4,25 %. Il faut le 
+transformer en taux continu. 
+Il est précisé que pour prendre une décision, il semble judicieux de retenir l’impact du second projet 
+lié à la construction du gazoduc sur la création de valeur. En effet, la décision de lancer le second 
+projet ne sera prise qu’en fonction de la situation au 01/01/N+5. 
+ 
+Annexe 3 - Données relatives à l’actionnariat concernant SONELGAZ France SA 
+ 
+Principaux actionnaires 
+Pourcentage des 
+parts 
+Monsieur Albert PRAT (Dirigeant) 
+7.60 % 
+État français 
+8.76 % 
+Actionnaires financiers 
+20 % 
+État Boldave 
+63.64 % 
+Total 
+100 % 
+ 
+Annexe 4 - Données relatives à la gouvernance actuelle de SONELGAZ France SA 
+ 
+Nom et prénom 
+Fonction 
+Âge 
+Albert PRAT 
+Président 
+67 ans 
+Gérard MENTOR 
+Représentant de l’Etat Boldave 
+60 ans 
+Marcel PATULLATCHI 
+Administrateur indépendant 
+71 ans 
+Julie ANSELME 
+Représentante de l’Etat 
+Français 
+55 ans 
+Jay PADEBOL 
+Administrateur indépendant 
+80 ans 
+Bernard TROFORT 
+Administrateur indépendant 
+77 ans 
+Jay PAMAL 
+Administrateur indépendant 
+75 ans 
+ 
+Rémunération prévisionnelle de Monsieur Albert PRAT 
+(en M€) 
+Années 
+Partie fixe de la rémunération 
+Partie variable 
+     N+1 
+2 
+0.3 
+     N+2 
+3 
+0.65 
+     N+3 
+3.5 
+0.9 
+     N+4 
+4.5 
+1 
+     N+5 
+6 
+1.1 
+ 
+Données en millions d’euros SONELGAZ France SA 
+Années 
+N+1 
+N+2 
+N+3 
+N+4 
+N+5 
+Rendement(dividende/cours) 
+3 % 
+1.5 % 
+0 % 
+0 % 
+0 % 
+Résultat 
+    990 
+2 500 
+-1 000 
+-1 500 
+-3 000 
+ 
+FICHEBEN
+
+=== PAGE 8 ===
+23DSCG-UE2 
+Finance 
+Page 8/9 
+Annexe 5 - Données financières antérieures en millions d’euros relatives au groupe 
+SONELGAZ France SA 
+ 
+Le groupe SONELGAZ France semble générer des flux de trésorerie très prometteurs, en comparaison 
+avec la filiale du groupe, SONELGAZ France SA. Le taux de croissance des flux de trésorerie au-delà de 
+N+5 est de 2 %. Le BFRE en N correspond à 10 % du CA HT. Le taux d’impôt sur les sociétés à retenir est 
+de 25 %. Variance Rm = 0,00093384 ; Cov (Ra,Rm) = 0,001214 
+ 
+La société s’est endettée au taux de 3,8 % et peut désormais s’endetter au taux d’intérêt de 4,6 %. La 
+prime de risque de marché est de 5 %. Le taux des OAT (obligations assimilables du Trésor) à 10 ans est 
+de 5,5 %. La valeur de marché des dettes financières nettes est de 1400 millions d’euros. Le montant des 
+provisions pour engagements de retraites est de 5 000 millions d’euros. Le nombre d’actions du groupe 
+SONELGAZ France SA est de 640 000 000. Le cours de l’action est de 32 €. Les capitaux propres sont 
+évalués en valeur de marché. 
+ 
+Évolution du rendement sur le marché en N : 
+ 
+Mois 
+Ra : Rentabilité de l’action 
+Sonelgaz France SA 
+Rm : Rentabilité du marché 
+Selon Indice CAC 40 
+Janvier 
+5,40 % 
+6 % 
+Février 
+2,40 % 
+2,50 % 
+Mars 
+-0,60 % 
+-1,58 % 
+Avril 
+4 % 
+4,20 % 
+Mai 
+-3 % 
+-4,40 % 
+Juin 
+4,60 % 
+5,40 % 
+Juillet 
+1,40 % 
+1,80 % 
+Août 
+-3 % 
+-3,50 % 
+Septembre 
+3,80 % 
+4,20 % 
+Octobre 
+4 % 
+4,50 % 
+Novembre 
+-3,40 % 
+-4 % 
+Décembre 
+1,80 % 
+2 % 
+ 
+Prévisions financières pour SONELGAZ France SA en millions d’euros 
+ 
+Années 
+N+1 
+N+2 
+N+3 
+N+4 
+N+5 
+CA HT 
+35 800,00 
+36 814,00 
+37 858,00 
+38 934,00 
+40 042,00 
+Taux de marge opérationnelle 
+10% 
+11% 
+12% 
+13% 
+14% 
+Taux du BFRE en % du CA HT 
+12 % 
+14 % 
+11 % 
+11 % 
+12 % 
+Taux d’investissement en % du CA HT 
+6 % 
+5 % 
+4 % 
+4 % 
+3 % 
+Amortissement en % du CA HT 
+4 % 
+5 % 
+6 % 
+6 % 
+6 % 
+ 
+Années (en M€) 
+N 
+CA HT 
+33 000 
+Résultat d’exploitation - EBIT 
+3 500 
+Résultats nets part du groupe 
+1 300 
+Dettes financières 
+1 400 
+Provisions pour retraites 
+5 000 
+ 
+FICHEBEN
+
+=== PAGE 9 ===
+23DSCG-UE2 
+Finance 
+Page 9/9 
+Annexe 6 - Données financières en millions d’euros pour l’année N du groupe GRDF 
+ 
+Données financières GRDF 
+Montant 
+Chiffre d’affaires HT 
+45 000 
+EBIT 
+2 000 
+Résultat net  
+1 000 
+Capitalisation boursière 
+8 400 
+Dettes financières nettes 
+300 
+ 
+Annexe 7 - Données financières et sociales de GAZMEGA 
+ 
+Années 
+Nombre de salariés 
+Chiffre d’affaires HT 
+Total bilan 
+N-1 
+510 
+41 000 000 € 
+10 000 000 € 
+N 
+530 
+42 200 000 € 
+11 000 000 € 
+ 
+Annexe 8 - Données relatives au swap de taux 
+ 
+Montant emprunté : 20 000 000 € 
+Durée : 2 ans 
+Mise en place : premier semestre N+1 
+Périodicité : chaque semestre 
+Taux fixe : 3,5 % versé par l’entreprise 
+Taux variable : Euribor 6 mois + 0,1 % versé par la banque 
+FICHEBEN

@@ -1,0 +1,435 @@
+=== PAGE 1 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+1/8 
+ 
+ 
+               1720005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2017 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+2/8 
+ 1720005 
+ 
+ 
+ 
+ 
+SESSION 2017 
+ 
+MANAGEMENT DES SYSTÈMES D’INFORMATION 
+Durée de l’épreuve : 3 heures     -     coefficient : 1 
+ 
+Document autorisé : Aucune documentation 
+ 
+Matériel autorisé : Aucun 
+ 
+Document remis au candidat : 
+Le sujet comporte 8 pages numérotées de 1/8 à 8/8. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+ 
+ 
+Le sujet se présente sous la forme de trois dossiers 
+ 
+Page de garde  ......................................................................................................... page 1 
+Sujet  ....................................................................................................................... page 3 
+DOSSIER 1 – Gouvernance du système d’information (6 points) ........................ page 4 
+DOSSIER 2 – Projet de déploiement de l'application métier (8 points) ............... page 4 
+DOSSIER 3 – Étude du projet FOAD (6 points) ................................................... page 4 
+Liste des annexes 
+Annexe 1. Les programmes d’actions d'AIDADOM et les conventions 
+CNSA/AIDADOM ................................................................................................... page 5 
+Annexe 2. Le Système d'information d'AIDADOM .................................................. page 6 
+Annexe 3. La Société de Services Informatiques (AIDINFO-AIDADOM)................ page 6 
+Annexe 4. L’architecture applicative d'AIDADOM (extrait) ..................................... page 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou plusieurs 
+hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+3/8 
+SUJET 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+ 
+AIDADOM 
+Le cas et les données présentées sont issus d’une situation réelle. Le questionnement est propre au sujet. 
+ 
+AIDADOM est un réseau français d’associations de services à domicile fondée en 1945 et couvrant la quasi-
+totalité du territoire national. 
+Il intervient de la naissance à la fin de vie, dans quatre domaines : autonomie, services de confort à domicile, 
+famille et santé. 
+Il est organisé en associations locales autonomes qui interviennent sur un territoire déterminé. L’ensemble 
+des associations adhère aux fédérations départementales qui jouent un rôle de soutien logistique et de 
+représentativité auprès des collectivités locales et des organismes sociaux. Les fédérations elles-mêmes sont 
+regroupées au sein d’une union nationale qui joue le même rôle auprès des pouvoirs publics.  
+AIDADOM représente : 
+- 
+2 900 associations dont 94 fédérations départementales ; 
+- 
+1 Union nationale ; 
+- 
+près de 100 000 bénévoles ; 
+- 
+près de 100 000 salariés ; 
+- 
+716 000 clients ; 
+- 
+près de 100 millions d’heures de prestations par an. 
+AIDADOM travaille avec de nombreux partenaires : l'Agence Nationale des Services à la Personne (ANSP), 
+l’Institut national d'études démographiques (INED), l'Institut national de la statistique et des études 
+économiques (INSEE), l’Office statistique de l'Union européenne (Eurostat). 
+Pour construire ses orientations stratégiques nationales, AIDADOM s’appuie sur son projet politique et ses 
+quatre piliers : 
+- 
+la proximité et le lien social, qui ancrent ses actions dans les territoires, au plus près des personnes 
+accompagnées ; 
+- 
+la relation triangulaire ("Triangle d’Or") : bénévoles et salariés des associations locales développent 
+une action de qualité, porteuse pour les clients de fraternité et de réciprocité ; 
+- 
+la force d’un réseau intégré, présent sur tout le territoire ; 
+- 
+l’innovation d’opérateur global de services, capable d’accompagner les personnes de la naissance à 
+la fin de vie. 
+Afin de poursuivre la modernisation et la professionnalisation des services d’aide et de soins à domicile et 
+d’assurer un accompagnement de qualité aux personnes âgées et handicapées, le réseau AIDADOM a défini 
+plusieurs programmes d’actions depuis 2008 (annexe 1). Le dernier a été arrêté en 2016 et sera mis en œuvre 
+jusqu’en 2020. Il fera évoluer le système d’information actuel d'AIDADOM décrit dans l’annexe 2. Ce 
+dernier est géré par une direction des systèmes d’information qui travaille en étroite collaboration avec la 
+Société de Services Informatiques AIDINFO (annexe 3) pour assurer l’exploitation des applications diverses 
+dont s’est doté progressivement le réseau AIDADOM (annexe 4).  
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+4/8 
+DOSSIER 1. GOUVERNANCE DU SYSTÈME D’INFORMATION 
+Compte tenu de l’activité du réseau AIDADOM, le système d’information constitue un vecteur de 
+performance ce qui explique la place accordée à son évolution dans la réflexion stratégique. Aujourd’hui, les 
+priorités de développement pour les fédérations sont d’avancer sur la connaissance de leur activité, des 
+éléments statistiques et des normes. Elles souhaitent également être capables d'exploiter toute l’information 
+disponible au niveau national. 
+À l’aide de vos connaissances et des annexes 1 à 4, 
+1. Après avoir défini le concept de stratégie informatique, justifier les choix effectués par AIDADOM dans 
+son programme d’actions 2016-2020. 
+2. Préciser les apports de la Société de Services Informatiques AIDINFO à AIDADOM. Deux apports sont 
+attendus. 
+3. Après avoir défini ce qu'est l'informatique décisionnelle, préciser les services rendus par ce type 
+d'informatique et identifier les apports essentiels de l'outil AidCentre au réseau AIDADOM. Deux apports 
+sont attendus. 
+DOSSIER 2. PROJET DE DÉPLOIEMENT DE L'APPLICATION MÉTIER 
+L'application métier AidSys fait l'objet d'un projet de déploiement national et devra, à terme, assurer la 
+montée en charge du support aux fédérations. AIDADOM s’oriente vers un portage en mode Web de 
+plusieurs applications et vers un hébergement central au sein d’un Datacenter. 
+À l’aide de vos connaissances et des annexes 2 et 4, 
+4. Apprécier le choix d'AIDADOM de recourir à un site central d’hébergement. 
+5. Décrire le mode "full-Web" et expliquer comment il peut être vecteur de performance. 
+6. En quoi la virtualisation et la haute disponibilité des serveurs AidSys peuvent-ils avoir un impact sur le 
+coût total de possession ? 
+7. Préciser ce que recouvre le concept d’"Accords de niveaux de service" (SLA) et indiquer les avantages 
+procurés par une gestion de SLA et le référentiel qui le préconise. Deux avantages sont attendus. 
+DOSSIER 3. ÉTUDE DU PROJET FOAD 
+La réforme de la formation professionnelle de mars 2014 a eu un impact conséquent sur les financements 
+dédiés à la formation professionnelle continue. En effet, cette réforme a entraîné des modifications 
+profondes, changements qui se traduisent, pour le réseau AIDADOM, par une diminution des fonds 
+disponibles. Cependant, pour s’adapter et développer les compétences des acteurs contribuant à 
+l’intervention auprès des personnes âgées, le réseau AIDADOM a lancé le projet de déploiement de la 
+FOAD (Formation Ouverte A Distance). 
+À l’aide de vos connaissances et des annexes 1 et 4, 
+8. Quels sont les enjeux du projet FOAD pour AIDADOM ? Préciser les avantages et les contraintes 
+(humaines, organisationnelles, matérielles, etc.) d'un tel outil. 
+9. Proposer six indicateurs, relevant de deux catégories différentes, afin d’évaluer l’accès à la plate-forme 
+FOAD. 
+Afin d’éclairer les responsables d'AIDADOM, les éléments que vous proposerez devront être 
+argumentés de manière détaillée et structurée. 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+5/8 
+Annexe 1. Les programmes d’actions d'AIDADOM et les conventions CNSA/AIDADOM 
+ 
+1. Programmes d’actions 
+Programme d’actions 2008-2012 
+Le Ministère du Travail, des relations sociales, de la famille et de la solidarité, la Caisse nationale de 
+solidarité pour l’autonomie (CNSA) et AIDADOM ont signé en 2008 une convention de partenariat afin de 
+soutenir la démarche qualité et la gestion prévisionnelle des emplois et compétences (GPEC) d'AIDADOM. 
+Programme d’actions 2013-2015 
+Afin de poursuivre les actions engagées grâce à la première convention de 2008, un nouvel accord-cadre 
+relatif au programme de mutualisation et de modernisation, valable pour la période 2013-2015, a été signé 
+par AIDADOM et la CNSA en 2013. La convention prévoyait 4 axes majeurs de travail : 
+1. L’amélioration de la gestion des ressources humaines ; 
+2. L’amélioration de la qualité des services rendus par les associations et par AIDADOM ; 
+3. La mise en place du centre de gestion ; 
+4. Le développement et le déploiement du système d’information national. 
+L’inspection générale des affaires sociales (IGAS) dans deux de ses rapports (publiés en 2001 et 2008) 
+appuyait cette démarche d’uniformisation des outils techniques et soulignait que les choix d’installation de 
+solutions différentes par les adhérents constituaient des erreurs politiques majeures. Dans un rapport publié 
+en janvier 2011, l’IGAS et l’inspection générale des finances (IGF) recommandaient aux entreprises et 
+associations d’aide à domicile, plusieurs améliorations dont : 
+- 
+une gestion optimisée des plannings visant à réduire le trop grand fractionnement des interventions 
+auprès des personnes âgées ou handicapées, et les frais de déplacement qui s’ensuivent ; 
+- 
+la mutualisation des fonctions administratives pour limiter les charges de structure, et la mise en 
+commun des personnels intervenant auprès des personnes dépendantes, afin de favoriser une 
+meilleure réactivité ; 
+- 
+le développement des nouvelles technologies (télégestion, logiciel de gestion des plannings, etc.). 
+Programme d’actions 2016-2020 
+Soucieuse de poursuivre la modernisation et la professionnalisation des services d’aide et de soins à 
+domicile de son réseau, et d’assurer ainsi un accompagnement de qualité aux personnes âgées et 
+handicapées, l’union nationale AIDADOM a défini un nouveau programme d’actions qui s’élèvera à          
+41 millions d’euros. Il sera mis en œuvre jusqu’en 2020. La CNSA (Caisse nationale de solidarité pour 
+l’autonomie) le financera à hauteur de plus de 21 millions d’euros. Le programme se décline autour de cinq 
+grands projets : les ressources humaines, la démarche qualité, la création de SPASAD (Services Polyvalents 
+d’Aide et de Soins à Domicile) intégrés, le centre de gestion et le système d’information. 
+Accompagnement des ressources humaines et poursuite de la démarche qualité 
+AIDADOM conduit une démarche d’amélioration de la qualité de ses services depuis 2006. Les deux 
+premiers axes du programme concernent l’accompagnement des ressources humaines et la mise en œuvre 
+d’une démarche qualité. L’Union nationale AIDADOM prévoit d’expérimenter auprès de 300 professionnels 
+des modules de formation à distance. Elle entend également former l’ensemble de son personnel à l’usage 
+des applications informatiques, y compris les aides à domicile utilisant une application métier sur 
+smartphone. 
+ 
+Encourager la création de SPASAD intégrés 
+À l’issue de ce programme d’action, AIDADOM espère que 70 fédérations départementales seront engagées 
+dans la démarche SPASAD (services polyvalents d’aide et de soins à domicile). Pour cela, elle organisera 
+des séminaires nationaux afin de les sensibiliser, elle créera des outils méthodologiques, accompagnera les 
+fédérations dans la réalisation de leur diagnostic individuel et adaptera le système d’information du réseau 
+afin d’assurer la coordination entre les services d’aide et d’accompagnement à domicile et les services de 
+soins infirmiers d’aide à domicile. 
+ 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+6/8 
+La consolidation du centre de gestion 
+Le projet de centre de gestion engagé lors du précédent programme d’actions (2013-2015) sera poursuivi. Il 
+consiste à mutualiser certaines tâches administratives (traitement des paies, de la facturation des prestations) 
+au niveau national. Une quinzaine d’associations devront avoir intégré le centre de gestion à la fin du 
+programme. 
+Enrichir le système d’information 
+Axe important des précédentes conventions, le système d’information fera l’objet d’évolutions. Les 
+différents applicatifs à déployer permettront notamment de dématérialiser la collecte d’informations réalisée 
+au domicile des personnes âgées ou handicapées, d’assurer la gestion administrative des formations des 
+professionnels, de mettre en place une gestion électronique des documents, de développer un "espace client" 
+accessible sur Internet pour faciliter le suivi des dossiers, etc. 
+2. Suivi de l’application des conventions 
+Un comité de pilotage, composé notamment de représentants de la Direction de la CNSA et de la Présidence 
+d'AIDADOM, assure le suivi et l’évaluation de la mise en œuvre des programmes et en communique les 
+résultats sur la base d’indicateurs définis par les membres dudit comité de pilotage. 
+Annexe 2. Le Système d'Information d'AIDADOM 
+Dès le premier accord-cadre de 2008, un schéma directeur des SI a été mis en place. Ce dernier a permis 
+d'élaborer un plan d’orientations qui poursuit les 5 objectifs suivants : 
+- 
+un Système d'Information (SI) cohérent pour la saisie, la consolidation ; 
+- 
+la gestion et la diffusion sécurisée des données ; 
+- 
+une meilleure prise en charge des clients via l’assistance téléphonique ; 
+- 
+un programme d’acculturation et de formation au SI ; 
+- 
+la rationalisation des achats et investissements. 
+Suite à l’accord-cadre de 2013-2015, la Direction des Systèmes d’Information (DSI) d'AIDADOM a eu pour 
+ambition de créer un système informatique unique, partagé par les 2 950 associations et les 90 000 
+intervenants actifs qui sont chaque jour sur le terrain.  
+La DSI compte 37 personnes réparties de la façon suivante : 
+Nîmes 
+Hotline : 6 personnes, Architecture : 1 personne, RH-AidGest 1 personne  
+Angers 
+AidCentre et GED : 4 personnes  
+Paris 
+Architecture : 3 personnes 
+Toulouse 
+AidGest et AidSys (études, support niveaux 2 et 3, développement) : 12 personnes 
+Différents 
+départements 
+10 personnes 
+Annexe 3. La Société de Services Informatiques (AIDINFO-AIDADOM) 
+À la demande du Ministère des Affaires sociales et de la santé et de l'IGAS, AIDADOM a créé une Société 
+par Actions Simplifiée (SAS) pour développer et administrer son système d’information : la Société de 
+Services Informatiques AIDINFO. Cette société emploie une cinquantaine de personnes et travaille en 
+étroite collaboration avec la DSI dans une relation client-prestataire au quotidien. Elle regroupe l’ensemble 
+des activités informatiques du réseau comme le déploiement du système d’information national, la 
+conception de l’architecture technique, le développement des logiciels informatiques, l’assistance, la 
+maintenance et la formation des utilisateurs 
+Elle présente différentes instances : 
+- 
+un conseil de surveillance qui se réunit 3 fois par an et comprend 15 à 30 fédérations, en respectant 
+un équilibre salariés/bénévoles (en général ce sont les Directeurs et Présidents des fédérations) ; 
+- 
+des groupes-projets ou groupes de travail, qui se réunissent 2 à 3 fois par an pour déterminer 
+l'évolution des produits, la priorisation des projets ; 
+- 
+des clubs-utilisateurs, qui se réunissent 2 fois par an pour faire un point de situation des projets, de la 
+prospective. Cela constitue des journées d'échanges. 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+7/8 
+Annexe 4. L’architecture applicative d'AIDADOM (extrait) 
+ 
+AIDADOM dispose de diverses applications indépendantes pour couvrir les différents besoins des 
+associations. 
+ 
+1. Présentation des applications 
+a - AidGest 
+Cette application  back-office du réseau AIDADOM a été mise en place en 2004 et gère 4 modules : 
+- 
+la vie associative et l'organisation interne (qui sont les Présidents, etc.) ; 
+- 
+la RH-paye ; 
+- 
+la gestion de dossiers (facturation) ; 
+- 
+le module comptable.  
+Un bus de données a été développé en interne pour interfacer AidGest avec le système d’information des 
+financeurs pour l’échange des flux de prises en charge, des flux de facturation, de paiement des financeurs, 
+etc. 
+L'ambition est de faire évoluer AidGest (notamment en termes de base de données) pour améliorer 
+l'accessibilité et l'ergonomie du produit. Le portage en mode Web est envisagé afin de permettre une 
+meilleure intégration avec le logiciel AidSys. Ceci facilitera le partage des informations avec les personnes 
+en charge de la relation client, de la planification et du suivi de la réalisation des services.  Ce logiciel est 
+actuellement en technologie N-tiers avec client riche et la base de données est décentralisée. Cette évolution 
+d’ordre technologique consiste à porter l’interface homme-machine (IHM) en mode "full-Web".  
+b – AidSys 
+ 
+Il s'agit d'une application de front office composée de 3 modules, tous accessibles en full-Web : 
+- 
+AidSys-Dom : le produit historique, outil de gestion de la relation client contenant un outil de 
+proposition automatique de  planning. Cet outil est complexe et les personnes ont du mal à se 
+l'approprier ; 
+- 
+AidSys-Prim : annoncé comme un tremplin pour faciliter le passage à AidSys-Dom (les 
+automatismes sont moins forts) ; 
+- 
+AidSys-Tel : outil de télégestion qui permet aux associations de contrôler, de basculer vers la paye et 
+le back office et de valider les interventions. 
+Un bus de données a été développé en interne avec une interface entre : 
+- 
+AidSys et AidGest ; 
+- 
+les systèmes de gestion externes (Edenred, Domiserve, Hippocad) et AidSys. 
+Ambitieuse, l'application répond aux besoins des fédérations, mais nécessite un important effort d'adaptation 
+de leur part. Ceci génère, outre un effort de maintenance et de mise à niveau permanente de l'application, un 
+fort besoin d'assistance, à travers une hotline qui a été renforcée, une formation en FOAD1 et une expérience 
+novatrice de RISP2 entre 2 ou plusieurs fédérations (au nombre de 5 actuellement pour 13 fédérations).  
+Afin de mesurer le niveau de service rendu par AIDINFO, des accords de niveaux de service ont été 
+souscrits entre la DSI et AIDINFO. Trois niveaux de service ont été définis pour cette application métier 
+indispensable au quotidien. 
+Niveaux de Service (SLA) 
+Niveau requis 
+SLA1 : Disponibilité applicative 
+99,90 % 
+SLA2 : Disponibilité réseau 
+99,90 % 
+SLA3 : Réponse utilisateur final 
+85,00 % 
+L’objectif est un déploiement complet de AidSys dans les fédérations présentes sur le réseau commun en 
+assurant la montée en régime du support aux fédérations, via le développement des RISP et de la FOAD. 
+ 
+1 FOAD : Formation Ouverte À Distance 
+2 RISP : Responsable de Système d'Information Partagée 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2017 UE5 – Management des systèmes d’information 
+8/8 
+c – AidCentre 
+ 
+Pour l’union nationale AIDADOM, la création d’une base de données indépendante des systèmes de 
+production et qui consolide l’ensemble des informations des associations AIDADOM est indispensable pour 
+assurer ses missions et responsabilités de "tête de réseau". 
+Cette base de données, appelée Infocentre NEVIS, permet des analyses statistiques sur l’ensemble des 
+niveaux (associations locales, fédérations départementales, régions et consolidation nationale). Elle permet 
+également de répondre plus facilement et plus exhaustivement aux grandes enquêtes nationales ou aux 
+demandes des pouvoirs publics. 
+La base de données infocentre est en place depuis 2012 et accessible, sur le BVPN (Broadband Virtual 
+Private Network), via un navigateur full-Web. 
+Le déploiement devait viser 25 fédérations par an pendant 3 ans, soit 75 fédérations à l'issue du déploiement 
+(80 % des fédérations). Une priorité avait été donnée à la constitution d'un échantillon significatif de 
+fédérations pour élaborer des statistiques nationales. 
+Actuellement, la base est alimentée par plus de 60 départements et 37 fédérations sont utilisatrices des 
+indicateurs. 
+d - Gestion électronique des documents GED 
+ 
+La gestion électronique des documents à des fins d’archivage est indispensable pour assurer une meilleure 
+gestion des documents et leur conservation. A la fin de l’année 2015, 13 fédérations ont été formées à 
+l’utilisation de l’outil. L’objectif sera d’assurer le déploiement de la solution GED à l’ensemble du réseau 
+AIDADOM en formant les utilisateurs. 
+Une solution en mode Saas a été retenue. 
+Il est prévu de renforcer l’intégration avec le SI-AIDADOM en permettant d’encapsuler les fonctionnalités 
+de consultation de la GED au sein des outils AidSys et AidGest. 
+Un portail à terme pourra permettre aux financeurs et aux aidants de venir consulter des informations (par 
+exemple le planning des aidants). 
+e - Formation ouverte à distance (FOAD) 
+ 
+Le réseau AIDADOM attend de la FOAD : 
+- 
+un déploiement progressif du nombre de salariés formés via la FOAD ; 
+- 
+une économie des coûts de formation pour les structures du réseau souhaitant accompagner les salariés 
+nouvellement embauchés ; 
+- 
+une prise en main individualisée des formations par les structures du réseau souhaitant accompagner les 
+salariés nouvellement embauchés. 
+ 
+2. Hébergement central 
+L’AIDADOM a fait le choix d’un site central pour accueillir les services AidSys, Infocentre, etc. 
+L’hébergement du site central est réalisé dans un Datacenter. 
+Les serveurs abritant les applications ont été virtualisés et des dispositifs de haute disponibilité ont été mis 
+en œuvre pour garantir la continuité de service. 
+Les centres de gestion AIDADOM qui souhaitent externaliser leurs serveurs actuels (AidGest, bureautique, 
+etc.) sur le site central peuvent le faire. A la fin 2015, 26 centres de gestion AidGest sont hébergés sur le site 
+central et 15 fédérations ont fait part de leur intérêt pour cette solution en 2016. 
+ 
+FICHEBEN 

@@ -1,0 +1,14 @@
+annee;page;observation;rubriques;probleme_candidats;consequence_revision
+2020;p. 9;"Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».";5.2|5.3|3.1|3.2;non;RGPD/sécurité et ERP en contexte cabinet.
+2020;p. 9;"Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ».";5.3|4.2|2.1;non;Prestataires, cloud, continuité.
+2021;p. 9;"D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.";1.2|4.3|2.1|2.4|2.2|5.2|5.3;non;Schéma directeur, indicateurs de coût, méthodes et Gantt.
+2021;p. 10;« Cette UE5 continue sa transformation vers de moins en moins de questions liées aux techniques et à l'informatique ».;;non;Posture de manager/conseil plutôt que technicien.
+2024;p. 29;"D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte.";3.2|2.2|1.3;oui;Argumenter en situation.
+2024;p. 29;"D2 : alignement stratégique ; références explicites au modèle valorisées ; « de nombreuses copies manquent de fondements théoriques solides » ; indicateurs de performance et de qualité.";1.2|4.1;oui;Connaître et citer le modèle d'alignement.
+2024;p. 30;"D3 : SI fantômes et BYOD (note de synthèse), erreurs de gestion de projet ; « L'ensemble du programme doit être maîtrisé ».";5.3|2.2;non;Notes de synthèse courtes et structurées.
+2025;p. 35;"Nouvelle orientation « niveau master » ; D1 audit et convergence = « socle structurant » : alignement, COBIT vs ISO 27001, méthodologie d'audit.";6.1|6.2|1.2;non;Méthodologie de mission d'audit SI + référentiels.
+2025;p. 36;"D1 : « un nombre significatif de copies a présenté des développements génériques, peu contextualisés » ; alignement stratégique « parfois réduit à un choix technique basique ou à une simple standardisation logicielle ».";1.2|6.1;oui;Analyser les dimensions organisationnelles/managériales.
+2025;p. 36;"D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.";5.3|5.2;oui;Fiche sécurité moderne (manquante dans le cours selon tes notes Drive).
+2025;p. 36;"D3 BI : chaîne de valeur (collecte, ETL, entrepôt, restitution), compétences, rôle de la DSI ; BI réduite à un outil dans les copies faibles.";1.4|6.4|1.1;oui;Chaîne décisionnelle et gouvernance des données.
+2025;p. 36-37;"Trois difficultés persistantes : corpus théorique peu mobilisé, argumentation descriptive, rédaction ; « La simple restitution de connaissances techniques ne saurait suffire ».";1.2|6.2;oui;Citer explicitement modèles et référentiels.
+2025;p. 18-19;Taux de réussite UE5 : 57,85 % (2024) → 38,87 % (2025).;;oui;Épreuve en durcissement.

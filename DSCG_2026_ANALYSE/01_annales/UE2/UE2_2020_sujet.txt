@@ -1,0 +1,502 @@
+=== PAGE 1 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 1/8 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ 
+ET DE GESTION 
+ 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+SESSION 2020 
+ 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 2/8 
+UE 2 – FINANCE 
+Durée de l’épreuve : 3 heures - coefficient : 1 
+ 
+Document autorisé : 
+Aucun. 
+ 
+Matériel autorisé : 
+- L’usage de la calculatrice avec mode examen actif est autorisé. 
+- 
+L’usage de la calculatrice sans mémoire, type « collège », est autorisé. 
+ 
+Document remis au candidat : 
+Le sujet comporte 8 pages numérotées de 1/8 à 8/8. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de deux dossiers indépendants 
+ 
+ 
+ 
+DOSSIER 1 – Création de valeur et financement obligataire (50 points)  ............................... page 4 
+DOSSIER 2 – Gestion du risque de taux et de la trésorerie (25 points) .................................  page 5 
+DOSSIER 3 – Evaluation d’une start-up (25 points)  .............................................................. page 5 
+ 
+Le sujet comporte les annexes suivantes 
+DOSSIER 1 
+Annexe 1 – Éléments de calcul de l’EVA ............................................................................... page 6  
+Annexe 2 – Éléments d’information concernant le marché obligataire .................................... page 6  
+ 
+DOSSIER 2  
+Annexe 3 – Mise en place d’un collar .................................................................................... page 6  
+Annexe 4 – Mise en place d’un netting .................................................................................. page 7  
+ 
+DOSSIER 3  
+Annexe 5 – La Venture Capital Method ........................................................................ …pages 7- 8 
+Annexe 6 – Mode de valorisation d’une start up .................................................................... page 8  
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre 
+copie. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 3/8 
+SUJET 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute information calculée devra être justifiée. 
+ 
+ 
+Cotée sur Euronext Growth depuis 2005, la société BTP PLUS a été fondée à Tours en 1990 
+afin de développer des projets de construction de cliniques privées « connectées » en Indre 
+et Loire. Cette société s’est considérablement développée ces dernières années et a pu 
+obtenir des chantiers de construction dans toute la France. 
+ 
+Afin de conquérir le marché international de la construction des cliniques privées, la société 
+BTP PLUS acquiert depuis 2010 des sociétés en Europe et au Maghreb (Algérie, Maroc, 
+Tunisie) afin de constituer un groupe aujourd’hui leader dans son secteur. 
+ 
+Le développement de l’activité de la société à l’international a eu des conséquences sur le 
+fonctionnement de la société. Le dirigeant historique du groupe, Monsieur Monnier, sollicite 
+l’avis de son directeur financier et lui remet pour étude, cinq dossiers à traiter : 
+  
+ 
+1. 
+Les actionnaires du groupe réclament une hausse des dividendes suite à des baisses 
+successives ces dernières années. Ils prétendent que la société est créatrice de valeur 
+et qu’à ce titre ils doivent être justement rémunérés en tant qu’apporteurs de fonds. Ils 
+se basent sur le calcul d’un outil de création de valeur « l’EVATM » pour appuyer leurs 
+propos. 
+ 
+2. 
+La société va dans un futur proche et suite à une négociation qui devrait aboutir, 
+s’implanter au Qatar. Le gouvernement de ce pays souhaite faire construire une clinique 
+privée gigantesque et ultra moderne à l’approche de la Coupe du monde. En raison de 
+l’importance des sommes en jeu, la société BTP PLUS envisage un financement via un 
+emprunt obligataire. 
+ 
+3. 
+Le dirigeant de la société BTP PLUS souhaite acquérir une filiale en Tunisie et interroge 
+le directeur financier sur l’opportunité d’emprunter, tout en réduisant les risques liés à la 
+variation des taux d’intérêt sur le marché. 
+ 
+4. 
+Afin d’optimiser la trésorerie au sein du groupe, le dirigeant de la société BTP PLUS 
+souhaite mettre en place un netting avec les sociétés hors zone euro, notamment celle 
+du Maghreb (Algérie, Maroc, Tunisie). 
+ 
+5. 
+Afin de réduire sa dépendance face au sous-traitant chargé de transformer les cliniques 
+construites pour qu’elles soient totalement « connectées », Monsieur Monnier envisage 
+de racheter une start-up parisienne spécialisée dans ce domaine. Cette société est en 
+phase de croissance et réalise des transactions importantes et régulières. Avant le 
+rachat, il souhaite procéder à une évaluation la plus juste possible pour mieux négocier 
+auprès du vendeur. 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 4/8 
+ 
+ 
+DOSSIER 1 – CRÉATION DE VALEUR ET FINANCEMENT OBLIGATAIRE 
+ 
+ 
+Travail à faire 
+ 
+1. 
+Les outils de la création de valeur (annexe 1) 
+ 
+1.1 
+Définir l’EVA et expliquer son utilité pour l’entreprise. 
+1.2 
+À partir des informations communiquées dans l’annexe 1, calculer l’EVATM pour les 
+quatre prochaines années après avoir déterminé le coût du capital de la société 
+BTP PLUS.  
+1.3 
+Dans l’esprit de l’EVATM, les actionnaires ont-ils eu raison de demander une 
+augmentation des dividendes ? 
+ 
+2. 
+Le marché obligataire (annexe 2) 
+ 
+La société décide de recourir à l’emprunt obligataire ADAK sur les conseils du directeur 
+financier du groupe. 
+ 
+2.1 
+Définir les notions de duration et de sensibilité. 
+2.2 
+Comment évolue le cours d’une obligation en fonction du taux (toutes choses 
+égales par ailleurs) ? 
+2.3 
+Retrouver le prix d’émission de l’emprunt obligataire ADAK. 
+2.4 
+Pourquoi le taux de rendement actuariel brut est-il supérieur au taux nominal ? 
+2.5 
+Calculer le montant du coupon couru au 25/09/2022, date de vente de l’obligation 
+en Bourse. 
+2.6 
+Déterminer la valeur de revente de l’obligation au 25/09/2022 sachant qu’à cette 
+date le cours est de 98,75 %. 
+ 
+En raison des sommes en jeu pour faire face à cet investissement (développement d’une 
+clinique « connectée »), il est probable que l’emprunt obligataire ne soit pas suffisant pour 
+concrétiser le projet. Par ailleurs, dans le cas d’une demande auprès des établissements de 
+crédit, ces derniers risquent de refuser le prêt bancaire demandé, notamment en raison des 
+risques potentiels du projet. En conséquence, Monsieur Monnier envisage de faire appel à 
+de nouveaux investisseurs privés qui deviendraient actionnaires du projet au moyen d’une 
+plateforme en ligne. 
+ 
+2.7 
+Ce mode de financement est-il possible ? De quoi s’agit-il ? 
+2.8 
+Quels sont, pour la société, les avantages et les inconvénients de ce type de 
+financement ? Citer trois avantages et trois limites. 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 5/8 
+ 
+ 
+DOSSIER 2 – GESTION DU RISQUE DE TAUX ET DE LA TRÉSORERIE 
+ 
+ 
+Travail à faire 
+ 
+1. 
+Gestion du risque de taux (annexe 3) 
+ 
+Monsieur Monnier souhaite emprunter 10 000 000 € pour l’acquisition d’une filiale en Tunisie. 
+Face à l’évolution des taux d’intérêt, le directeur financier lui conseille d’acheter un Collar.  
+ 
+1.1 
+Définir la notion de Collar, expliquer en quoi un Collar permet de se couvrir 
+efficacement contre la variation des taux d’intérêt ? 
+1.2 
+Calculer les différentiels d’intérêt et de prime en fonction des trois hypothèses 
+présentées en annexe 3. 
+ 
+2. 
+Gestion de trésorerie (annexe 4) 
+ 
+2.1 
+Présenter l’intérêt de la mise en place d’un netting. 
+2.2 
+Présenter le schéma correspondant au montage. 
+2.3 
+Calculer les soldes de trésorerie correspondants en euros. 
+ 
+Monsieur Monnier est alerté par les problèmes de trésorerie réguliers de sa filiale implantée 
+à Oran (Algérie). Le dirigeant de la filiale algérienne peine à négocier des prêts auprès de sa 
+banque alors qu’il dispose de créances très importantes. Il souhaite sécuriser ses 
+transactions et faciliter la facturation. Après un long échange téléphonique entre le directeur 
+financier du groupe et le dirigeant algérien, il a été décidé de mettre en place une 
+technologie Blockchain. 
+ 
+2.4 
+Définir la notion de Blockchain et préciser son intérêt pour résoudre les problèmes 
+de trésorerie de la filiale algérienne. 
+ 
+ 
+DOSSIER 3 – ÉVALUATION D’UNE START-UP 
+ 
+ 
+Travail à faire 
+ 
+1. 
+Évaluation d’une start-up (annexes 5 et 6) 
+ 
+1.1 
+Expliquer succinctement pourquoi les méthodes traditionnelles d’évaluation d’une 
+entreprise ne sont pas efficaces pour valoriser une start-up. Quelles sont leurs 
+faiblesses ? 
+1.2 
+Quels sont les facteurs à prendre en compte dans l’évaluation d’une start-up ? 
+1.3 
+Procéder à l’évaluation de la start-up par la méthode du « Venture Capital 
+Method » en indiquant les points de vigilance dans l’application de la méthode. 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 6/8 
+ANNEXES 
+ 
+ANNEXE 1 – Éléments de calcul de l’EVA et de la MVA 
+ 
+Taux d’intérêt sans risque : 3 %. 
+Prime de risque de marché : 6 %. 
+ 
+Années 
+2020 
+2021 
+2022 
+2023 
+Rentabilité de l’action Ra (en %).  
+12 
+8 
+4 
+13 
+Rentabilité du marché Rm (en %). 
+7 
+5 
+2 
+8 
+ 
+Cov (Ra ;Rm) : 2,625 %. 
+Var (Rm) : 5,25 %. 
+Taux d’IS : 33,1/3 %. 
+La société peut s’endetter au taux de 3 %. 
+Elle se finance à 60 % par l’emprunt obligataire et le reste par fonds propres. 
+NB : il conviendra de conserver deux chiffres après la virgule. 
+ 
+Chiffres en k€  
+ 
+Années 
+2020 
+2021 
+2022 
+2023 
+Résultat opérationnel avant impôt. 
+500 
+600 
+700 
+800 
+Immobilisations brutes. 
+3 000 
+3 600 
+3 800 
+4 000 
+BFRE. 
+400  
+600 
+800 
+1 000 
+ 
+ 
+ANNEXE 2 – Éléments d’information concernant le marché obligataire 
+ 
+La société a émis un emprunt obligataire dont les caractéristiques sont les suivantes : 
+Nombre d’obligations vivantes : 300 000. 
+Valeur nominale : 500 €. 
+Durée de vie de l’emprunt : 10 ans. 
+Date d’émission : 11/03/2019. 
+Modalités de remboursement : in fine. 
+Prix de remboursement : au pair. 
+Prix d’émission : à déterminer. 
+Taux de rendement actuariel brut : 4,3 %. 
+Taux d’intérêt : 4,20 %. 
+Date de détachement du coupon : tous les 11 mars au titre de chaque année. 
+Nombre de jours en février 2019 : 28. 
+ 
+ANNEXE 3 – Mise en place d’un Collar 
+ 
+Données relatives à l’achat du Collar : 
+Emprunt : 10 000 0000 €. 
+Achat du Cap : taux de 6 % et prime à payer de 0,80 %. 
+Vente du Floor : taux de 4,5 % et prime à percevoir de 0,60 %. 
+ 
+Hypothèse 
+Hypothèse 1 
+Hypothèse 2 
+Hypothèse 3 
+Taux d’intérêt 
+7 % 
+3 % 
+5 % 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 7/8 
+ANNEXE 4 – Mise en place d’un Netting 
+ 
+Le groupe BTP PLUS possède une filiale dans chaque pays du Maghreb (Algérie, Maroc et 
+Tunisie). La société réalise des opérations en devises avec ses trois filiales qui sont 
+présentées ci-après et qui fonctionnent chacune avec leurs propres monnaies : 
+• 
+Nom de la filiale algérienne : DZ Construction, Monnaie : dinar algérien (DA). 
+• 
+Nom de la filiale marocaine : MA Habitat, Monnaie : dirham (DH). 
+• 
+Nom de la filiale tunisienne : TUNIS Project, Monnaie : dinar tunisien (DT). 
+ 
+Les opérations en devises sont les suivantes : 
+1. BTP Plus facture 2 000 000 € à DZ construction et 600 000 € à MA Habitat ; 
+2. DZ Construction facture 200 000 000 de dinars à BTP Plus et 150 000 000 de dinars 
+à MA Habitat ; 
+3. MA Habitat facture 20 000 000 de dirham à TUNIS Project et 15 000 000 de dirham à 
+BTP Plus ; 
+4. TUNIS Project facture 800 000 dinars à BTP Plus et 400 000 dinars à MA Habitat. 
+ 
+Évolution du cours de change des devises. 
+ 
+1 € = 135 dinars algériens. 
+1 € = 3,5 dinars tunisiens. 
+1 € = 11 dirham marocains. 
+ 
+ANNEXE 5 – La Venture Capital Method 
+ 
+Cette méthode s’interroge sur la valeur de sortie de la start-up. La valeur de sortie est la 
+valeur que sera susceptible d’atteindre la start-up au terme du business plan, en tenant 
+compte du risque et de la croissance future. C’est la valeur probable à laquelle les 
+investisseurs envisagent de « sortir », en vendant leurs actions. 
+ 
+Il est ensuite possible de déterminer la valeur d’entrée en calculant la valeur actuelle de la 
+valeur de sortie. Le schéma ci-après présente les trois grandes étapes à respecter pour 
+effectuer l’évaluation de la start-up. 
+ 
+ 
+Figure 1 : la démarche applicable1 
+ 
+ 
+1 Source : Ternisien M., (2017), valoriser une start-up par la « Venture Capital Method », Revue 
+fiduciaire comptable, n°449. 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2020  
+UE2 - FINANCE 
+Page 8/8 
+Étape 1 : réaliser le business plan prévisionnel. 
+ 
+Étape 2 : déterminer la valeur de sortie. 
+Il faut déterminer un multiple de résultat net médian à partir d’un échantillon de sociétés 
+sélectionnées. Le multiple doit faire l’objet d’une décote comprise entre 30 % et 50 % au 
+maximum. 
+ 
+Valeur de sortie = Multiple du résultat net médian * (1 – décote) * résultat avant impôt 
+N + 5 * (1 – taux de l’impôt) 
+ 
+Étape 3 : déterminer la valeur d’entrée. 
+Pour déterminer la valeur d’entrée il y a lieu de calculer le taux interne de rentabilité de la 
+société. 
+ 
+Valeur d’entrée post money (inclut la mise de fonds des investisseurs)  
+= Valeur de sortie / (1+ TIR)n 
+ 
+n : durée de la période d’investissement. 
+ 
+ 
+ANNEXE 6 – Mode de valorisation de la start-up 
+ 
+La start-up va faire l’objet d’une évaluation selon la méthode du VCM (Venture Capital 
+Method). 
+ 
+Étape 1 : business plan de la start-up. 
+ 
+Business plan prévisionnel de la start-up sur 5 ans (en millions d’euros) 
+ 
+Démarrage 
+N+1 
+N+2 
+N+3 
+N+4 
+N+5 
+Résultat d’exploitation après IS. 
+- 0,20 
+- 0,30 
+- 1,20 
+- 1,5 
+- 0,50 
+5 
+Dotations aux amortissements. 
+0,02 
+0,10 
+0,15 
+0,40 
+0,50 
+1 
+Investissements. 
+- 0,10 
+- 0,2 
+- 0,4 
+- 0,8 
+- 1,2 
+- 1,8 
+Augmentation du BFR. 
+- 0,15 
+- 0,3 
+- 0,5 
+- 0,6 
+- 1,2 
+- 0,80 
+Cash-flows pour les actionnaires. 
+- 0,63 
+- 1 
+- 3,15 
+- 4 
+- 2,9 
+8,4 
+Cash-flows cumulé. 
+- 0,63 
+- 1,63 
+- 4,78 
+- 8,78 
+- 11,68 
+- 3,28 
+ 
+Le résultat avant impôt de N + 5 est identique au résultat net après IS en raison d’un déficit 
+fiscal reportable. Par mesure de simplification, le taux d’IS est de 40 %. 
+ 
+Étape 2 : déterminer la valeur de sortie. 
+ 
+Le multiple du résultat net médian est ajusté avec prise en compte d’une décote de 30 %. 
+Nous retiendrons la moyenne de l’échantillon comme valeur. 
+ 
+Échantillon de sociétés 
+Multiple du résultat net 
+Start-up santé numérique. 
+12 
+Start-up innovation clinique. 
+16 
+Start-up Betterise Health. 
+14 
+ 
+Étape 3 : déterminer la valeur d’entrée. 
+ 
+Le taux interne de rentabilité souhaité par les investisseurs est de 32 %.  
+FICHEBEN 

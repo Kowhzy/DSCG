@@ -1,0 +1,688 @@
+=== PAGE 1 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 1/18 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+SESSION 2023 
+Durée de l'épreuve : 4 heures
+Coefficient : 1,5 
+FICHEBEN
+
+=== PAGE 2 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 2/18 
+UE3 – Management et contrôle de gestion 
+Durée : 4 heures – Coefficient : 1,5 
+______________________________________________________________________________ 
+Document autorisé : aucun. 
+ 
+Matériel autorisé :  
+- l’usage de la calculatrice avec mode examen actif est autorisé ; 
+- l’usage de la calculatrice sans mémoire, « type collège », est autorisé. 
+ 
+Tout autre matériel est interdit. 
+ 
+Document remis au candidat :  
+Le sujet comporte 18 pages numérotées de 1/18 à 18/18. 
+ 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants. 
+ 
+DOSSIER 1 – ANALYSE DE LA STRATÉGIE COMMERCIALE (30 points) 
+DOSSIER 2 – ANALYSE STRATÉGIQUE (35 points) 
+DOSSIER 3 – ORGANISATION ET MANAGEMENT DES RESSOURCES HUMAINES (35 points) 
+__________________________________________________________________________________________ 
+ 
+Le sujet comporte 10 annexes. 
+ 
+Annexe 1 – Tech’Innov organigramme 
+Annexe 2 – Résultat d’exploitation de Tech’Innov en normes comptables françaises 
+Annexe 3 - Compte de résultat analytique 
+Annexe 4 - Analyse des marges sur coûts variables 
+Annexe 5 - Analyse de la concurrence 
+Annexe 6 - Analyse de la performance fournisseurs 
+Annexe 7 - Analyse de la gamme Brise 
+Annexe 8 - Données techniques sur la production de la gamme Ciel’Ouvert en interne 
+Annexe 9 - Article de presse sur la relocalisation en France 
+Annexe 10 - Article de presse sur l’éolien 
+ 
+__________________________________________________________________________________________ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une ou 
+plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans 
+votre copie. Toutes les réponses devront être justifiées. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie et à la qualité 
+rédactionnelle.  
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 3 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 3/18 
+SUJET 
+ 
+ 
+ 
+Entreprise TECH’INNOV’ 
+ 
+ 
+HISTORIQUE ET CONTEXTE 
+ 
+Tech’Innov est une PME de 175 salariés permanents située en Bourgogne. Fondée en 1925 par deux 
+ingénieurs, pionniers de l’aviation et vétérans de la Première Guerre mondiale, elle a acquis sa notoriété en 
+proposant des pièces pour l’aéronautique dans un premier temps. Spécialisée dans les éléments de rotation 
+d’un moteur, elle a d’abord fabriqué ses produits à partir de divers alliages métalliques. 
+ 
+Depuis le milieu des années 1980, elle réalise ses pièces techniques en plastique, par injection/surmoulage 
+de plusieurs matières plastiques combinées, ceci afin de répondre aux impératifs de réduction de poids sans 
+perte de caractéristiques techniques. Ce passage à l’utilisation de matières plastiques lui a permis de baisser 
+ses coûts de production et d’étendre sa gamme de produits à d’autres domaines que l’aéronautique : ses 
+clients sont également des donneurs d’ordres de l’automobile, des fabricants de matériel de précision pour 
+la chirurgie, ou des fabricants de systèmes d’air conditionné. 
+ 
+En plus des mécanismes de rotation, l’entreprise a développé au fil des ans un savoir-faire unique dans le 
+domaine de l’injection plastique de pièces spécifiques, fruit de nombreuses années de recherche. Son 
+département R&D compte actuellement 9 personnes et continue à innover pour répondre aux besoins de 
+ses clients. 
+En 2022, la société a réalisé un chiffre d’affaires d’environ 45 m€ par an que l’on peut décomposer en : 
+- 
+41,5 m€ de ventes produits finis produits par Tech’Innov ; 
+- 
+2,1 m€ de ventes de moules de production que Tech’Innov développe, met au point, et revend à son 
+client au démarrage de la production en série ; 
+- 
+1,4 m€ de services de développement et conception. 
+ 
+Le sujet porte exclusivement sur les ventes de produits finis et vous pourrez négliger les éléments 
+relatifs aux ventes de moules de production et de services. 
+ 
+La gamme de produits peut être décomposée en 6 sous-gammes : 
+- 
+la gamme Ciel’Ouvert, avec laquelle l’aventure de l’entreprise a commencé, est destinée à 
+l’aéronautique ; 
+- 
+la gamme Full’Speed destinée à l’automobile ; 
+- 
+la gamme Brise destinée aux parc éoliens ; 
+- 
+la gamme White destinée aux matériels de chirurgie ; 
+- 
+la gamme Control destinée à des matériels informatiques spécifiques ; 
+- 
+la gamme Routard destinée à des systèmes de pilotage d’air conditionné. 
+ 
+ 
+La gamme Ciel’Ouvert reste le fleuron de l’entreprise et celle pour laquelle les liens commerciaux avec les 
+clients restent privilégiés. La réputation acquise dans l’aviation tout au long des décennies grâce à des 
+produits d’une grande fiabilité reste entière, et bénéficie aux autres gammes de produits, notamment auprès 
+des professionnels de l’automobile.  
+ 
+Au début des années 2000, l’entreprise a identifié de forts potentiels sur les produits destinés aux parcs 
+éoliens et a créé sa gamme Brise, souhaitant se fonder sur sa connaissance des éléments de rotation d’un 
+FICHEBEN
+
+=== PAGE 4 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 4/18 
+moteur. Compte tenu des marchés qu’elle souhaite atteindre, Tech’Innov doit attacher autant d’importance 
+aux caractéristiques techniques qu’aux aspects cosmétiques (l’apparence) de ses produits. 
+ 
+Au niveau de la région, Tech’Innov est une entreprise reconnue grâce à son savoir-faire. Les élus locaux 
+aiment citer l’entreprise, implantée depuis toujours dans la même commune, comme un exemple de société 
+familiale qui participe au dynamisme économique du territoire. L’innovation contribue à l’image positive que 
+projette la société, cet aspect ayant été renforcé par l’introduction de la gamme pour parcs éoliens et par la 
+prise en compte des enjeux sociaux (diversités, inclusion, formation du personnel, dialogue social, etc.) et 
+environnementaux (obtention de la certification ISO 14 001 en 2018). La société fait cependant produire les 
+composants de sa gamme principale par un sous-traitant localisé en Turquie. Le projet de relocalisation de 
+cette gamme reste en attente d’une réflexion poussée. Les avantages techniques et économiques se 
+verraient renforcés par un impact positif sur l’image de Tech’Innov. 
+ 
+ORGANISATION 
+ 
+La société est organisée autour de trois pôles : 
+- 
+une direction générale ;  
+- 
+une direction opérationnelle ; 
+- 
+une direction commerciale, marketing et développement. 
+La direction opérationnelle et la direction commerciale sont rattachées hiérarchiquement à la direction 
+générale et trois directeurs se réunissent de manière hebdomadaire avec les membres du COPIL (Comité 
+de Pilotage) afin de faire le point sur l’activité de la société (Annexe 1). 
+ 
+Sur l’année 2022, pour la production, la société a employé 100 salariés en équivalents temps plein (ETP) 
+permanents et 27 intérimaires. Ceux-ci servent principalement à remplacer les salariés permanents pendant 
+les congés d’été et d’hiver.  
+Au quotidien, une réunion opérationnelle de 30 minutes de 8h30 à 9h00 permet de faire le point sur les 
+indicateurs de la veille (pannes machines, livraisons, retards de production…) et les éventuels points de 
+blocage afin d’organiser la journée.  
+ 
+Les années 2021 et 2022 ont été bénéficiaires et le chiffre d’affaires de la gamme Ciel’Ouvert reste stable à 
+environ 41 m€ (Annexe 2).  
+ 
+Le COPIL décide de revoir la rentabilité de chacune des gammes et s’intéresse à une analyse de la marge 
+sur coûts variables. En effet, l’année 2022 a été riche en signaux d’alerte pour Tech’Innov : la guerre en 
+Ukraine a perturbé sa chaîne d’approvisionnement, en particulier au niveau de la disponibilité des matières 
+plastiques. Elle a vu le prix de ses matières premières augmenter et les délais de livraison se sont allongés. 
+Le COPIL souhaite également réfléchir à sa situation de dépendance vis-à-vis de son fournisseur de 
+composants de la gamme principale (Ciel’Ouvert).  
+ 
+Enfin, il s’inquiète de la chute des volumes sur la gamme Brise.  
+L’ensemble de ces inquiétudes amène le COPIL à s’interroger sur les changements et les orientations qu’il 
+doit mettre en œuvre. Il vous consulte pour l’aider à analyser cette situation et à dégager les orientations 
+stratégiques susceptibles de répondre à cette interrogation. 
+ 
+Vous allez donc travailler sur les éléments qui vous ont été fournis en annexes. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 5/18 
+DOSSIER 1 – ANALYSE DE LA STRATÉGIE COMMERCIALE 
+ 
+Le COPIL décide de concentrer son analyse la gamme Brise. 
+ 
+L’annexe 7 montre une comparaison entre les réalisations sur la gamme Brise en 2021 et 2022 et les 
+budgets initialement prévus pour 2022 et 2021. La société considère qu’elle devrait débourser sur 2023 les 
+montants suivants afin de se replacer sur l’objectif 2022 indiqué : 
+- 
+450 k€ de frais de R&D afin de procéder à des modifications techniques de la pièce qui lui permettront 
+de réduire la part matière du produit de 5,82 €/pc constatée en 2022 à 5,10 €/pc ;  
+- 
+100 k€ de changements d’outillages existants ; 
+- 
+200 k€ de mise au point du produit modifié ; 
+- 
+125 k€ de frais de promotion du nouveau produit, principalement via la promotion directe auprès des 
+fabricants de turbines. 
+ 
+Pour des raisons liées aux crises internationales, aux coûts de l’énergie et de transports, et pour ces raisons 
+de conformité, le COPIL décide de réaliser une étude visant à internaliser la production de cette pièce, et à 
+relocaliser la production en France. Pour cela, le responsable financier recueille les informations relatives à 
+ce produit : estimations techniques, évaluations du prix d’achat des matières premières, projections de 
+volumes. Ces hypothèses sont recueillies en annexe 8. Au-delà, il convient de s’intéresser à la pertinence 
+stratégique d’une éventuelle décision de relocalisation. 
+ 
+ 
+1. 
+À partir de l’annexe 10, identifier les opportunités et les menaces associées à la gamme 
+BRISE, à l’aide d’un modèle PESTEL. Quels éléments peuvent le plus peser dans l’avenir 
+du secteur, et quels sont les scénarios possibles ?  
+2. 
+À partir de l’analyse de la concurrence en annexe 5, établir le modèle des « 5 forces » de 
+Michael Porter.  
+3. 
+À partir de vos réponses aux questions 1 et 2, formuler une analyse de l’environnement 
+général et concurrentiel de l’entreprise, pour sa gamme BRISE en une demi-page 
+maximum.  
+ 
+DOSSIER 2 – ANALYSE STRATÉGIQUE 
+ 
+La production des pièces de la dernière gamme Ciel’Ouvert est, jusqu’à présent, réalisée à 100% en Turquie, 
+chez un sous-traitant spécialiste des matières plastiques utilisées : Austin Koaceli. Celui-ci réalise l’injection 
+des pièces et leur emballage. Celles-ci sont ensuite acheminées chez Tech’Innov par camion. La société 
+réalise à réception un certain nombre de tests de conformité par échantillonnage et les expédie ensuite chez 
+ses clients. La mise au point de la gamme a été difficile et plusieurs coûts inattendus sont apparus pendant 
+cette phase. Dans le cadre de ses processus qualité, Tech’Innov suit la performance des principaux 
+fournisseurs de composants et matières premières dont vous trouverez un résumé en annexe 6. 
+ 
+Pour des raisons liées aux crises internationales, aux coûts de l’énergie et de transports, et pour des raisons 
+de conformité, le COPIL, après avoir analysé les marges sur coûts variables de chaque gamme, décide de 
+réaliser une étude visant à internaliser la production de cette pièce, et à relocaliser la production en France. 
+Pour cela, le responsable financier recueille les informations relatives à ce produit : estimations techniques, 
+évaluations du prix d’achat des matières premières, projections de volumes. Ces hypothèses sont recueillies 
+en annexe 8. Au-delà, il convient de s’intéresser à la pertinence stratégique d’une éventuelle décision de 
+relocalisation. 
+ 
+1. À partir de l’analyse des marges sur coûts variables de chaque gamme en annexe 4, rédiger 
+une note de synthèse d’une demi-page environ à destination du COPIL. En particulier, faire 
+ressortir les écarts volume et prix/coût entre 2021 et 2022. Quelles sont les évolutions 
+favorables et défavorables par gamme ?  
+2. Proposer une cartographie commentée des différentes parties prenantes impliquées par une 
+éventuelle décision de relocalisation.  
+FICHEBEN
+
+=== PAGE 6 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 6/18 
+3. Calculer le gain économique potentiel d’une relocalisation et le mettre en regard des coûts de 
+lancement de la première année. Qu’en conclure quant à la pertinence économique d’une telle 
+décision ?  
+4. À partir de la question précédente, et des annexes 6, 8 et 9, identifier les raisons 
+(économiques, humaines, opérationnelles, politiques ou institutionnelles) qui peuvent inciter 
+Tech’ Innov à internaliser la production de la gamme Ciel’Ouvert sur son site historique, en 
+France.  
+ 
+DOSSIER 3 – ORGANISATION ET MANAGEMENT DES RESSOURCES HUMAINES 
+ 
+1. Au regard du virage stratégique engagé par l’entreprise, définir le terme de « compétence ». 
+Proposer une méthodologie d’évaluation des compétences des salariés de Tech’Innov pour 
+repérer ses forces et ses vulnérabilités en la matière.  
+2. Montrer l’importance de la formation pour combler les vulnérabilités en compétences 
+actuelles et pour préparer les compétences de demain puis expliquer comment bâtir un plan 
+de formation en conséquence.  
+3. L’un des facteurs clés de succès d’une stratégie de relocalisation/internalisation repose sur 
+l’attractivité de l’entreprise pour attirer, motiver et fidéliser les talents nécessaires. Décrire 
+six grands domaines qui forgent la qualité de vie au travail et d’attractivité de l’entreprise pour 
+ses talents.  
+4. Les défauts de qualité de vie au travail engendrent de l’insatisfaction sociale source de 
+dysfonctionnements aux coûts cachés conséquents. Définir le concept de « coûts cachés » et 
+proposer trois indicateurs clés permettant de les piloter. 
+5. Construire un Tableau de Bord Social (TBS) qui permettrait de piloter des actions 
+d’amélioration de la qualité de vie au travail et d’attractivité sources de performance sociale 
+pour l’entreprise Tech’Innov.  
+ 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 7/18 
+Annexe 1 – Tech’Innov organigramme 
+ 
+Les chiffres entre parenthèses correspondent au nombre de personnes 
+ 
+Les chiffres entre parenthèses correspondent au nombre de personnes : premier chiffre membre du COPIL, deuxième 
+chiffre nombre de salariés dans le service non membres du COPIL 
+ 
+ 
+FICHEBEN
+
+=== PAGE 8 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 8/18 
+ 
+Annexe 2 – Résultat d’exploitation de Tech’Innov en normes comptables françaises 
+ 
+ 
+FICHEBEN
+
+=== PAGE 9 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 9/18 
+ 
+k€ 
+k€ 
+Code 
+Dénomination 
+31/12/2022 
+31/12/2021 
+  
+  
+  
+  
+FC 
+Ventes de marchandises (Total) 
+2 087 
+3 072 
+FS 
+Achats de marchandises (y compris droits de douane) 
+-1 569 
+-1 664 
+FT 
+Variation de stock (marchandises) 
+-187 
+-863 
+ 
+Marge Commerciale 
+330 
+545 
+FI 
+Production vendue de services (Total) 
+1 405 
+1 313 
+FF 
+Production vendue de biens (Total) 
+41 447 
+41 015 
+FU 
+Achats de matières premières et autres approvisionnements (y compris droits de douane) 
+-24 048 
+-23 332 
+FV 
+Variation de stock (matières premières et approvisionnements) 
+301 
+201 
+FY 
+Salaires et traitements, Charges Sociales 
+-3 787 
+-3 713 
+FW 
+Autres achats et charges externes Frais d'Intérimaires de Production 
+-1 295 
+-1 270 
+FW 
+Autres achats et charges externes - transports sur achats et ventes 
+-650 
+-558 
+ 
+Marge sur Coûts Variables 
+11 967 
+12 343 
+FU 
+Achats de matières premières et autres approvisionnements (y compris droits de douane) 
+-1 568 
+-1 434 
+FW 
+Autres achats et charges externes (3) (6 bis) 
+-4 304 
+-4 699 
+FX 
+Impôts, taxes et versements assimilés 
+-529 
+-566 
+FY 
+Salaires et traitements, Charges Sociales 
+-3 940 
+-3 973 
+GA 
+Dotations d'exploitation sur immobilisations (dotations aux amortissements) 
+-1 022 
+-940 
+GB 
+Dotations d'exploitation sur immobilisations (dotations aux provisions) 
+0 
+0 
+GC 
+Dotations d'exploitation sur actif circulant (dotations aux provisions) 
+-34 
+-160 
+GD 
+Dotations d'exploitation pour risques et charges (dotations aux provisions) 
+0 
+-132 
+FP 
+Reprises sur amortissements et provisions, transferts de charges (9) 
+133 
+128 
+GE 
+Autres charges (12) 
+-1 032 
+-948 
+ 
+Charges fixes 
+-12 296 
+-12 724 
+ 
+Résultat d'exploitation 
+1 406 
+1 477 
+Annexe 3 – Compte de résultat analytique 
+FICHEBEN
+
+=== PAGE 10 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 10/18 
+Annexe 4 – Analyse des marges sur coûts variables 
+ 
+ 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 11 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 11/18 
+Annexe 5- Analyse de la concurrence 
+ 
+Données sur le marché et la concurrence 
+ 
+Activité historique de Tech’Innov 
+Tech’Innov est une des entreprises historiques sur le marché de l’aéronautique, et possède donc une 
+sérieuse notoriété sur ce secteur, patiemment construite depuis 1925. 
+Les clients sont des industriels attentifs aux coûts de production et à leurs marges. Mais ils restent aussi des 
+passionnés qui se montrent encore souvent sensibles et fidèles à l’histoire de l’entreprise et de ses 
+fondateurs. Et ce, d’autant plus que les produits de l’entreprise se sont toujours montrés à la hauteur de leur 
+réputation sur les plans vitaux de la fiabilité et de la qualité. Et ce, grâce à un savoir-faire très spécifique de 
+Tech’Innov dans l’élaboration des pièces, fruit de l’expérience accumulée pendant des dizaines d’années, et 
+jalousement conservée.  
+Au départ exclusivement français, puis ouest-européens (Allemagne, Espagne, Grande-Bretagne), la dizaine 
+de concurrents en présence se partageaient à peu près équitablement les parts de marché, et Tech’Innov, 
+malgré sa taille, pouvait facilement compter sur les constructeurs d’avions français pour assurer son chiffre 
+d’affaires. Ces deux dernières décennies ont vu l’ouverture des marchés, et l’arrivée de nombreux 
+concurrents, notamment de pays d’Europe de l’Est et d’Asie, disposant de marchés intérieurs importants, de 
+faibles coûts de main d’oeuvre, et de capacités de production très significatives. On peut considérer que cinq 
+de ses concurrents disposent d’une taille critique et de la puissance économique leur permettant de peser 
+significativement sur le marché, loin de la position d’entreprise industrielle familiale de Tech’Innov : Aeroteck 
+(Chine), EastWind (Pologne), AIR Business (Turquie), Dynasky (République Tchèque), Terraplane (Brésil).  
+Sur ce marché globalisé, Tech’Innov a dû revoir sa stratégie et a beaucoup axé son développement à 
+l’international, essentiellement en Europe, pour capter de nouveaux clients qui sont pour l’essentiel des petits 
+et moyens constructeurs d’avions civils. En raison de sa taille et de la nature de ses produits, Tech’Innov n’a 
+pas accès aux grands constructeurs : Airbus ou Boeing commandent des quantités considérables de 
+produits, très spécifiques, pour obtenir des coûts unitaires réduits. Tech’Innov ne dispose pas de la capacité 
+industrielle pour répondre à ces exigences. Hormis ces fleurons de l’industrie, c’est à une centaine de 
+constructeurs d’avions à hélice dans le monde que Tech’Innov peut s’adresser pour vendre ses produits. 
+Si les premières hélices et les premiers avions sont une création initialement européenne (on prête à Léonard 
+de Vinci le premier dessin d’une hélice, et à Clément Ader, un ingénieur français, l’invention du premier 
+avion), nourrissant le développement d’une industrie spécialisée au XXe siècle, la donne a changé 
+inexorablement. Les principaux clients de Tech’Innov se trouvent dorénavant du côté de l’Asie, voire de 
+l’Amérique du Sud, et, de ce fait, les concurrents bénéficient alors d’un avantage territorial. Mais il faut noter 
+que ces clients eux-mêmes traversent actuellement une période particulièrement difficile pour deux  raisons 
+principales : 
+- la conjoncture : déjà lourdement impactés par le Covid, les producteurs d’avions civils ont vu leurs coûts et 
+les délais de fabrication et de livraison augmenter avec la guerre en Ukraine et la hausse du coût de l’énergie. 
+L’accroissement considérable du coût des chaînes logistiques mondialisées interroge. Est-ce que la décision, 
+prise à une époque où le contexte était très différent, de faire appel à un sous-traitant basé en Turquie, est 
+encore pertinente aujourd’hui ? Les crises actuelles, ainsi que les politiques favorables à la relocalisation des 
+industries en France peuvent faire réfléchir. D’autant que la région Bourgogne Franche-Comté et la commune 
+où est implantée historiquement Tech’Innov semblent prêtes à fournir des terrains disponibles et à apporter 
+un accompagnement individualisé à l’entreprise (ingénierie fiscale et technique, conseil, aides ou prêts 
+bonifiés, etc.). Ainsi, une stratégie de réimplantation pourrait également présenter des atouts non 
+négligeables : attrait pour les clients d’une marque « Made In France » et réputation de l’entreprise auprès 
+des acteurs locaux publics et privés, renforcement des liens avec le territoire, réduction significative de 
+l’impact « carbone » de la chaîne de production, partenariats facilités avec des écoles et universités, 
+attractivité accrue pour une main d’oeuvre qualifiée, etc. ; 
+FICHEBEN
+
+=== PAGE 12 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 12/18 
+- une inquiétude forte sur l’avenir : l’aviation est un secteur souvent pointé du doigt sur les questions 
+d’émissions de gaz à effet de serre (celles-ci devant être fortement diminuées dans les prochaines années). 
+Les capacités d’innovation pourraient être un facteur clé de succès dans les années à venir, notamment pour 
+décarboner les trajets en avion, et, dans ce contexte, les plus gros concurrents, qui disposent de la capacité 
+à investir lourdement en R&D, sont avantagés. Mais, à ce jour, quelles peuvent être les alternatives à l’avion 
+pour les longs trajets intercontinentaux ? Qu’en est-il de l’aviation de loisir, et pour les courtes distances ? Il 
+est probable que le marché connaisse un mouvement de concentration (fusions, acquisitions, alliances, voire 
+disparition des moins performants). Pour Tech’Innov, tout pourrait se jouer dans la capacité de l’entreprise 
+de s’appuyer sur ses ressources, ses compétences, son positionnement stratégique. Il convient donc de bien 
+les identifier et les renforcer. C’est particulièrement essentiel, puisque la gamme Ciel’Ouvert représente près 
+de la moitié du chiffre d’affaires (48% à fin 2022) de Tech’Innov.  
+ 
+Stratégie de diversification 
+Pour autant, l’entreprise a opéré une stratégie de diversification ces trente dernières années, essentiellement 
+parce que des opportunités de marché se sont présentées. 
+Tout d’abord, c’est assez naturellement que deux sous-traitants d’importants constructeurs automobiles se 
+sont rapprochés de Tech’Innov. Si la technologie et le savoir-faire de l’entreprise pour l’élaboration de pièces 
+d’hélices sont plutôt invisibles aux yeux des clients finaux de l’automobile (bien peu étant intéressés par les 
+considérations mécaniques), ils se révèlent en réalité essentiels pour la fiabilité, la longévité et 
+l’insonorisation des véhicules. 
+La gamme Full’Speed a donc constitué rapidement un relais de croissance et une source de chiffre 
+d’affaires pour Tech’Innov à partir des années 1990. Si les marchés de l’automobile et de l’aéronautique sont 
+bien distincts, ils présentent néanmoins quelques caractéristiques communes qui doivent alerter l’entreprise : 
+activité émettrice de gaz à effets de serre à l’heure d’une volonté mondiale de décarboner considérablement 
+les économies ; présence croissante d’un nombre  significatif de concurrents (probablement plus d’une 
+centaine) situés dans des zones économiques et démographiques considérablement plus dynamiques que 
+l’Europe ; crises géopolitiques et énergétiques. Ces marchés sont donc dans le meilleur des cas arrivés à 
+maturité au plan mondial, quand ils ne sont pas en décroissance, ce qui est d’autant plus inquiétant pour 
+Tech’Innov que l’entreprise est dans le « ventre mou » du marché, loin des 3 ou 4 leaders du marché qui 
+captent les 2/3 des parts de marché.  
+Consciente de ces enjeux, notamment climatiques, Tech’Innov a identifié le potentiel du marché éolien  au  
+début des années 2000 et a souhaité se positionner sur des produits fondés sur une technologie à hélices 
+similaire à celle de l’aéronautique. Sur ce marché, Tech’Innov n’a pour le moment  pas réussi à percer pour 
+imposer son offre auprès du fabricant numéro 1, le Danois Vestas. De la même manière, les contacts avec 
+Siemens Gamesa ne semblent pas porter leurs fruits pour le moment, et Tech’Innov doit se contenter 
+d’accords ponctuels avec Nordex et Enercon principalement, et de commandes de la part de clients coréens 
+comme Doosan et Hyundai. Le marché chinois est considéré comme trop concurrentiel pour que Tech’Innov 
+puisse proposer ses produits et gagner des marchés face à des concurrents locaux. Un partenariat de type 
+« Joint Venture » pourrait être envisagé, mais Tech’Innov n’a pas pour l’instant identifié de partenaire chinois 
+intéressé, et ne dispose pas de réseaux suffisants dans le pays.  
+Les pièces, fournies par Tech’Innov dans le domaine éolien, doivent se faire une place face à des produits 
+généralement  fabriqués en métal, dont la solidité ne semble pas pouvoir être remise en cause. Mais pour 
+des raisons de coûts, et parce que son sous-traitant turc dispose des ressources et compétences 
+nécessaires, Tech’Innov a basculé sur une production à base de plastique au tournant du nouveau millénaire. 
+Si cela ne pose pas de problème technique, Tech’Innov doit néanmoins faire face à la réticence des clients 
+potentiels dans ce domaine, qui continuent de privilégier le métal, plus onéreux et actuellement assez difficile 
+à obtenir en raison des tensions sur l’approvisionnement, mais d’apparence plus qualitative. Ses concurrents 
+sur ce marché ne sont pas les mêmes que pour le marché de l’aérien. Ils sont assez nombreux, de taille 
+petite à moyenne. Ce sont des fabricants de pièces métalliques usinées, assez peu spécifiques. Ils sont 
+situés aux États-Unis, en Italie, en Inde et en Asie (Chine principalement), souvent  géographiquement 
+proches de leurs clients et/ou basés dans des zones de production où la main d’oeuvre est peu coûteuse. Il 
+FICHEBEN
+
+=== PAGE 13 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 13/18 
+faut dire que le prix des pièces est la variable majeure pour leurs clients, qui font eux-mêmes l’objet de 
+pressions fortes sur leurs marges. Néanmoins, un développement fort du marché dans les années à venir 
+pourrait avoir des répercussions sur la demande adressée à Tech’Innov et ses concurrents, avec 
+l’augmentation forte des besoins de leurs clients. Mais parallèlement, cela pourrait conduire à la volonté de 
+certains clients de racheter et intégrer certains de ces concurrents, pour faire face aux risques de hausse de 
+prix ou de difficultés d’approvisionnement. 
+Les autres gammes de Tech’Innov sont venues en renfort du volume d’activité, en particulier la gamme 
+White destinée au matériel chirugical, sur laquelle la pression sur les prix est inférieure. Tech’Innov suit de 
+près la rentabilité de cette gamme destinée à être la « vache à lait » en matière de marge. La concurrence 
+dans ce domaine reste faiblement présente, les pièces de Tech’Innov étant jugées comme peu complexes 
+par les fournisseurs de cette branche alors que les fabricants de pièces plastiques ne disposent pas de 
+l’expérience de Tech’Innov pour se positionner sur ce marché. Par ailleurs, la notoriété de Tech’Innov’ en 
+matière d’aéronautique fournit un gage de qualité et de sécurité essentiel sur ce marché de la chirurgie. Mais 
+cela reste un marché de niche sur lequel il est exclu que Tech’Innov base son développement. La gamme 
+Control a fait l’objet d’une revue « design to cost » (conception à coût objectif) sur 2021, et Tech’Innov 
+commence à récolter les fruits de ses efforts en matière d’amélioration continue. Elle bénéficie encore une 
+fois de ses avantages concurrentiels acquis sur les marchés  de l’aéronautique, et peut continuer sa conquête 
+de marchés. Cependant, la pression sur les prix reste forte du fait de la capacité des clients à négocier des 
+volumes importants. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 14 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 14/18 
+Annexe 6 – Analyse de la performance fournisseurs 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 15 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 15/18 
+Annexe 7 – Analyse de la gamme Brise 
+ 
+Annexe 8- Données techniques de la production de la gamme Ciel’Ouvert en interne 
+ 
+De: florian.gobert@techinnov.com 
+Envoyé: 16/01/2023 10:53 
+Salut Frédéric, 
+Suite à ta question sur la reprise de production de Ciel'Ouvert dont nous avons parlé au précédent 
+COPIL, j'ai interrogé les Méthodes et pour l'instant ils me font remonter la difficulté à évaluer des 
+temps de production puisque nous n'avons jamais utilisé la matière PA6.6 qu'utilise Austin à Koaceli. 
+C'est d'ailleurs un point qui avait été indiqué lors de l'audit fournisseur au lancement car nous n'avons 
+pas de vrai référentiel. 
+J'ai un peu insisté auprès de Thomas qui a finalement estimé un temps de cycle de 380 s. Il juge que 
+la pièce est équivalente à celle de la gamme Brise même si la matière est différente donc on pourrait 
+partir sur cette même base. On utiliserait 2 kg de matière première, rebuts compris, une fois le process 
+de production stabilisé, donc ça ferait un taux de rebut de 3,5% comme sur Brise. 
+Il faut que l'on fasse attention à la mise au point sur cette pièce. En récupérant le moule qu'utilise 
+Austin, les défauts de conception ont déjà été corrigés, mais nous allons encore passer par une phase 
+avec beaucoup de rebuts et de non-conformités. Je pense qu'on peut estimer un taux de rebut 
+supplémentaire de 25% pendant 6 mois sur les coûts de matière et de personnel. 
+Charline te fera passer les infos Achats, reviens vers moi si tu as besoin de renseignements 
+supplémentaires. 
+Bonne journée, 
+Florian Gobert 
+Directeur Opérationnel 
+ 
+FICHEBEN
+
+=== PAGE 16 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 16/18 
+ 
+ 
+ 
+De: charline.ibanez@techinnov.com 
+Envoyé: 16/01/2023 13:29 
+Hello Frédéric, 
+Oui le week-end s'est bien passé, et toi? 
+LE PA6.6 qu'utilise Austin vient d'Allemagne et je pense qu'avec les volumes qu'on manipule il sera 
+difficile de l'acheter à moins de 5,50 €/kg. Pour les emballages produits finis, on a calculé une estimation 
+à 140 k€/an pour 1 million de pièces. Je pars demain chez notre fournisseur suédois mais tu peux 
+m'appeler si nécessaire 
+A+ 
+Charline Ibanez 
+Responsable Achats 
+ 
+De: laurent.gassot@techinnov.com 
+Envoyé: 17/01/2023 8:10 
+Frédéric, 
+le fichier est disponible, il ne reste plus qu'à mettre les données Achats et Méthodes.  
+Pour le reste, j'ai repris les données du Budget: 
+- 
+Volumes de vente Ciel'ouvert 2023 = 1 million de pièces 
+- 
+Prix de vente = 21,30 €/pc avec le nouveau contrat  
+- 
+Taux horaire main d'œuvre directe : 36,23 € avec les augmentations  
+- 
+Avec les données logistiques, on peut considérer 0,02 €/pc de transports sur achats et 0,12 €/pc 
+de transports sur vente 
+- 
+Je pense que les achats sont très pessimistes sur les coûts d'emballages perdus à 140 k€/an 
+mais pour l'instant on peut laisser ces chiffres 
+On en reparle cet après-midi si tu veux. 
+Laurent 
+ 
+ 
+FICHEBEN
+
+=== PAGE 17 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 17/18 
+ 
+Annexe 9 – Article de presse sur la relocalisation en France 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 18 ===
+23DSCG-UE3               
+Management et contrôle de gestion 
+Page 18/18 
+Annexe 10 – Article de presse sur l’éolien 
+ 
+ 
+FICHEBEN

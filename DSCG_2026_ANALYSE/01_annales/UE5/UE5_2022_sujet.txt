@@ -1,0 +1,426 @@
+=== PAGE 1 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 1 / 7 
+ 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+ 
+SESSION 2022 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures 
+ 
+Coefficient : 1 
+ 
+ 
+FICHEBEN
+
+=== PAGE 2 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 2 / 7 
+UE5 – Management des systèmes d’information 
+Durée : 3 heures – Coefficient : 1 
+_______________________________________________________________________ 
+Document autorisé : 
+Aucun document ni aucun matériel n’est autorisé. En conséquence, tout usage d’une 
+calculatrice est INTERDIT et constituerait une fraude. 
+Document remis au candidat : 
+Le sujet comporte 7 pages numérotées de 1/7 à 7/7. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+_______________________________________________________________________ 
+Le sujet se présente sous la forme de 3 dossiers indépendants. 
+ 
+DOSSIER 1 – CONSTRUCTION DU SYSTÈME D’INFORMATION  ................ (6 POINTS) 
+DOSSIER 2 – MISE EN ŒUVRE D’UN WORKFLOW FACTURE DURANT L’ANNÉE DE 
+TRANSITION EN 2022  ..................................................................................... (7 POINTS) 
+DOSSIER 3 – ÉQUIPEMENT DE NOUVEAUX SYSTÈMES D’INFORMATION (7 POINTS) 
+_______________________________________________________________________ 
+ 
+Le sujet comporte 5 annexes. 
+ 
+Annexe 1 Schéma d’architecture du Système d’Information de SD3i au 31/12/2021. 
+Annexe 2 Organisation de traitement des factures d’achat. 
+Annexe 3 Variétés des factures réceptionnées par les sociétés du groupe SD3i. 
+Annexe 4 Règle de validation des factures. 
+Annexe 5 Exemple de Workflow pour les engagements. 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes vous conduit à formuler une 
+ou plusieurs hypothèses, il vous est demandé de la (ou les) mentionner explicitement 
+dans votre copie. Toutes les réponses devront être justifiées. 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie 
+et à la qualité rédactionnelle. 
+FICHEBEN
+
+=== PAGE 3 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 3 / 7 
+SUJET 
+Cession d’une Entreprise de Services du Numérique 
+ 
+Le cas, l'énoncé et les données sont inspirés d’une situation réelle. Vous pourrez introduire des 
+éléments non précisés dans l'énoncé à condition de les présenter comme des hypothèses. 
+ 
+Le Groupe SD3i, composé de 3 sociétés, est implanté depuis plus de 10 ans en France, en Espagne 
+et au Luxembourg. Son siège basé au Luxembourg pilote l’ensemble des activités du groupe :  
+1. Conception de logiciel pour le transport de marchandises. Cette activité est portée par la société 
+SOFTWARE INTELLIGENCE basée au Luxembourg. 
+2. Mise en œuvre de logiciels chez les clients finaux. Cette activité est portée par la société 
+DIGITAL INTEGRATION dont les bureaux sont en France. Depuis la constitution de SD3i toute 
+l’activité est concentrée sur le déploiement des solutions éditées par SOFTWARE 
+INTELLIGENCE. 
+3. Vente de solution de géolocalisation pour le transport de marchandises pour la troisième société 
+ITRACE dont les locaux sont en Espagne. 
+Dans un contexte économique tendu, le groupe a enregistré depuis 2020 une baisse de son chiffre 
+d’affaires sur la vente de logiciels et une chute de la marge sur l’activité d’intégration. Cette situation 
+a poussé les dirigeants à mettre fin à l’exclusivité de DIGITAL INTEGRATION envers les solutions 
+éditées par SOFTWARE INTELLIGENCE. Cette décision avec prise d’effet au 01/01/2022 permet 
+donc à la société DIGITAL INTEGRATION de mettre en œuvre toute solution logicielle du marché 
+pour ses clients. Les autres sociétés du groupe au Luxembourg et en Espagne conservent leur 
+organisation existante. Cette transition inclut une période d’une année pour permettre la 
+réorganisation des activités de SD3i. Cette période assurera aussi à la société DIGITAL 
+INTEGRATION de trouver d’autres éditeurs pour proposer du déploiement de logiciels et aux 
+sociétés restantes du groupe SD3i de commercialiser les solutions via un réseau de distributeurs 
+indépendants. Afin de ne pas entrer en concurrence avec DIGITAL INTEGRATION, l’activité des 
+distributeurs ne pourra pas s’exercer en France. 
+Le groupe a mis en place durant 10 ans des synergies communes sur l’ensemble des activités 
+support et des services informatiques transverses entre ses différentes entités qui l’ont composé. 
+Le système d’information et la direction financière étaient uniques dans le groupe avec simplement 
+des relais locaux pour les spécificités de chaque pays et bureau. La première démarche est de 
+permettre l’indépendance des services informatiques et financiers pour l’autonomie de la société 
+DIGITAL INTEGRATION.  
+Vous êtes consulté par la direction générale de DIGITAL INTEGRATION pour accompagner cette 
+transformation au niveau de la Direction des Systèmes d’Information et de la Direction Financière. 
+Les deux principaux chantiers sont la gestion des Workflows de validation des factures et la gestion 
+des applications du nouveau système d’information. Les 5 annexes décrivent l’organisation de ces 
+deux services. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 4 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 4 / 7 
+DOSSIER 1 – CONSTRUCTION DU SYSTÈME D’INFORMATION 
+Afin de réussir la réorganisation des DSI du groupe SD3i, vous intervenez en premier lieu sur la 
+gouvernance et l’architecture du système d’information : 
+ 
+1. 
+Définir la notion de gouvernance des systèmes d’information et préciser pourquoi il est 
+important de la redéfinir dans ce contexte. 
+ 
+À partir du schéma d’architecture en annexe 1 du groupe SD3i en 2021 et sachant que l’objectif est 
+de proposer un schéma qui doit répondre à l’indépendance totale du système d’information de la 
+société DIGITAL INTEGRATION :  
+ 
+2. 
+Modéliser le nouveau schéma d’architecture que les trois sociétés doivent atteindre fin 
+2022. 
+3. 
+Définir pour ce projet deux facteurs clés de succès pour réussir cette transformation. 
+ 
+ 
+DOSSIER 2 – MISE EN ŒUVRE D’UN WORKFLOW FACTURE DURANT L’ANNÉE DE 
+TRANSITION EN 2022 
+L’année 2022 est une période de transition entre l’organisation centralisée au siège du groupe et 
+l’organisation cible où DIGITAL INTEGRATION est totalement indépendante. Durant l’année de 
+transition, il est demandé de refondre les processus de validation des factures d’achat. 
+ 
+À l’aide de l’annexe 2,  
+1. 
+Énoncer au minimum 4 typologies différentes de factures d’achat fournisseur qui doivent 
+être classifiées dans l’outil de Workflow. 
+À l’aide des annexes 2 à 5, 
+2. 
+Définir de manière optimisée le tableau des circuits de validation des factures pour l’outil 
+de Workflow. 
+3. 
+Décrire les étapes de mise en œuvre d’un Workflow Facture en précisant la méthodologie 
+de projet employée. 
+4. 
+Donner la définition de la Factur-X et exposer un avantage de sa mise en œuvre pour les 
+organisations. 
+ 
+DOSSIER 3 – ÉQUIPEMENT DE NOUVEAUX SYSTÈMES D’INFORMATION 
+La direction vous demande de conseiller certains choix qui lui sont soumis aux niveaux des 
+applications pour les collaborateurs de la société DIGITAL INTEGRATION : 
+La société DIGITAL INTEGRATION souhaite s’équiper de trois nouvelles applications pour couvrir 
+les besoins en CRM, ERP et GED. Les prestataires proposent des solutions en distribution SaaS 
+ou en On Premise. 
+1. 
+Définir les deux modes de distribution (SaaS et On Premise) et proposer des arguments 
+permettant de choisir un type de distribution pour chaque application. 
+Un prestataire propose une solution « tout en un » qui assure les fonctionnalités de CRM, ERP et 
+GED,  
+2. 
+Citer un avantage et un inconvénient distinct d’une solution « tout en un ». 
+3. 
+Dans le cadre du RGPD, est-ce que le DPO actuel du groupe SD3i peut devenir le DPO de 
+la société DIGITAL INTEGRATION après le 1er janvier 2022, tout en conservant sa position 
+de DPO pour les 2 autres sociétés ? Expliquer votre réponse. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 5 / 7 
+Annexe 1 – Schéma d’architecture du Système d’Information de SD3i au 31/12/2021. 
+ 
+ 
+Siège SD3i - Software Intelligence - 
+Luxembourg 
+Digital Integration - France 
+Cloud - SaaS 
+CRM + 
+Messagerie 
+Annuaire
+Active 
+Directory 
+Groupe 
+SD3i 
+Modem / 
+Routeur 
+Serveurs de 
+Conception 
+produits  
+Software 
+Intelligence 
+Serveurs de 
+Sauvegarde 
+Groupe SD3i 
+Bases de 
+données 
+SD3i Lux + 
+France + 
+Espagne 
+ERP         
+Groupe 
+SD3i 
+GED         
+Digital 
+Integration 
+GED         
+Software 
+Intelligence 
+iTrace - Espagne 
+Modem / 
+Routeur 
+Modem / 
+Routeur 
+FICHEBEN
+
+=== PAGE 6 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 6 / 7 
+Annexe 2 – Organisation de traitement des factures d’achat. 
+Le traitement des factures d’achat au sein d’une organisation est composé d’une succession de 
+processus ordonnés. On commence par la récupération centralisée des factures qui sont transmises 
+par les fournisseurs (Courriers, Mails, EDI…). Chaque facture est ensuite préenregistrée en 
+comptabilité avec les informations « en tête / pied de page ». Avant de payer et de ventiler la facture 
+en comptabilité, une application de Workflow au sein de l’ERP va permettre d’obtenir l’ordre de « bon 
+à payer ». À la suite de cet ordre, la facture est réglée au fournisseur et les enregistrements en 
+comptabilité générale et analytique sont réalisés. Les factures provenant des fournisseurs sont très 
+variées, et l’application de Workflow a besoin de les classer dans différentes typologies. L’annexe 3 
+présente un échantillon de la variété de factures que réceptionnent les sociétés du groupe. 
+L’accord de « bon à payer » se formule dans le Workflow par une validation dit « Service Fait » 
+donnée par une succession de collaborateur. Ceux-ci ont alors la possibilité de valider le service fait 
+à son étape, ce qui signifie que la facture est conforme à ce qu’il attend. Ils peuvent sinon la refuser 
+ou la bloquer le temps de résoudre un litige. La validation de l’ensemble des acteurs dit « circuit de 
+validation » valide le « Bon à payer » de cette facture. L’application optimise son traitement grâce à 
+son tableau de conception des circuits qui permet d’envoyer la facture aux bons valideurs. Ce 
+tableau est présenté ci-dessous : 
+Organisation 
+Types de facture 
+Valideur niveau 1 
+Valideur niveau 2 
+Valideur niveau 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+la colonne « organisation » permet pour les groupes ayant plusieurs sociétés de spécifier 
+pour chacune un circuit de valideur différent d’une autre société ; 
+- 
+la colonne « types de factures » permet de différencier les différentes catégories de facture 
+d’achat fournisseur afin de spécifier un circuit différent pour chacune d’elle ; 
+- 
+les colonnes « valideurs » (niveau 1, 2 et 3) sont les 3 niveaux successifs qui déterminent le 
+circuit des personnes auquel la facture sera présentée pour obtenir un Bon à Payer. Un 
+circuit peut comprendre un à trois valideurs. 
+Afin de simplifier le paramétrage, une valeur « vide » sur « Organisation » ou « Types de facture » 
+signifie « pour toutes les organisations » et « pour tous les types de factures » le circuit de valideur 
+1, 2 et 3 correspondants sera présenté. 
+Quand une facture peut prendre plusieurs circuits possibles, le logiciel affectera prioritairement la 
+facture dans le circuit le plus haut du tableau. 
+Annexe 3 – Variétés des factures réceptionnées par les sociétés du groupe SD3i. 
+Voici un échantillon des factures réceptionnées : 
+- 
+quittance de loyer des locaux loués au Luxembourg et en Espagne ; 
+- 
+factures du comité d’entreprise pour la France après validation du budget ; 
+- 
+factures de réparation d’un véhicule pour la France après devis ; 
+- 
+factures de service SaaS pour le CRM du groupe adressé au Luxembourg ; 
+- 
+factures des charges communes des locaux achetés en France ; 
+- 
+facture du fournisseur d’accès à internet et de la téléphonie pour le Luxembourg ; 
+- 
+factures d’achat de matériel informatique par le Luxembourg ; 
+- 
+factures d’achat des véhicules de directions au Luxembourg ; 
+- 
+factures d’abonnement et de consommation d’électricité en France ; 
+- 
+factures des trois sapins de Noël adressé à chaque société de SD3I ; 
+- 
+factures de la révision des véhicules du Luxembourg ; 
+- 
+notes de frais des collaborateurs centralisés sur l’entité du Luxembourg ; 
+- 
+facture des sous-traitants luxembourgeois, les sous-traitants sont sous contrat-cadre ; 
+- 
+factures de réparation de la porte d’accès des bureaux en Espagne ; 
+- 
+factures du cabinet comptable France ; 
+- 
+factures de consommation d’eau France ; 
+- 
+factures d’achat du nouveau mobilier pour l’Espagne ; 
+- 
+factures du service de ménage des locaux adressé à chaque société de SD3I. 
+FICHEBEN
+
+=== PAGE 7 ===
+22DSCG-UE5 
+Management des systèmes d’information 
+Page 7 / 7 
+ 
+Annexe 4 – Règle de validation des factures. 
+Voici les règles à respecter sur la validation des factures : 
+- 
+Éric, le directeur du Luxembourg, valide toutes les factures en dernier valideur si elles ne 
+sont pas engagées et qu’elles ne concernent pas l’activité directe de l’entreprise.  
+- 
+Christophe, le comptable France valide toute facture adressée à la France en premier niveau 
+pour s’assurer de la conformité. 
+- 
+Arnaud, le comptable luxembourgeois valide toute facture adressée au Luxembourg en 
+premier niveau pour s’assurer de la conformité. 
+- 
+Inès, la directrice de l’Espagne, valide toutes les factures qui concernent l’Espagne sans 
+avoir besoin de les faire valider par Éric. 
+- 
+Nicolas, le directeur des opérations, valide en 2ème niveau toute facture concernant un 
+investissement ou un engagement pour la France et le Luxembourg. 
+- 
+Les factures qui concernent le personnel des 3 entreprises ont une règle exceptionnelle qui 
+prime sur toutes les autres dans le Workflow, Pour conserver leur confidentialité, elles sont 
+uniquement validées par Mylène, la directrice des ressources humaines. 
+- 
+Michelle, la directrice financière du groupe valide en 2ème niveau toutes les factures de 
+fonctionnement de la France et du Luxembourg. 
+- 
+Les factures avec engagements ne doivent pas dépasser 2 étapes de validations. 
+ 
+Annexe 5 – Exemple de Workflow pour les engagements. 
+ 
+Un engagement est un document contractuel qui engage la société envers ses fournisseurs. Dans 
+notre contexte, l’engagement peut prendre la forme d’un bon de commande, un devis signé, un acte 
+de marché… 
+Vous trouverez ci-dessous un exemple de définition des circuits pour un Workflow d’engagement 
+permettant de faire valider un devis ou une commande par un ensemble de participants :  
+Organisation Types d’engagement 
+Valideur 
+niveau 1 
+Valideur 
+niveau 2 
+Valideur 
+niveau 3 
+Espagne 
+ 
+Michelle 
+ 
+ 
+France 
+Demande d’achat divers 
+Christophe 
+ 
+ 
+France 
+Engagement pour l’exploitation 
+Nicolas 
+Michelle 
+ 
+France 
+Engagement pour investissement  Nicolas 
+Éric 
+ 
+Luxembourg 
+Engagement pour l’exploitation 
+Nicolas 
+Michelle 
+ 
+Luxembourg 
+Demande d’achat divers 
+Arnaud 
+ 
+ 
+Luxembourg 
+Engagement pour investissement 
+Michelle 
+Éric 
+ 
+ 
+Les règles de ce Workflow de gestion des engagements sont les suivantes :  
+- 
+Christophe valide les demandes d’achat divers pour la France et Arnaud valide les demandes 
+d’achat divers pour le Luxembourg. 
+- 
+Michelle valide les engagements de l’Espagne et valide aussi en 2ème niveau les 
+engagements liés à l’exploitation. 
+- 
+Nicolas valide tous les engagements d’exploitation et d’investissement pour la France en 
+1er niveau. 
+- 
+Les engagements d’exploitation du Luxembourg sont validés par Nicolas en 1er niveau. 
+- 
+Christophe valide les demandes d’achat divers françaises. 
+- 
+Arnaud valide les demandes d’achat divers luxembourgeoises. 
+- 
+Éric valide les engagements d’investissement en 2ème niveau pour la France et le 
+Luxembourg. 
+FICHEBEN

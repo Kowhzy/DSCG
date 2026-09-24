@@ -1,0 +1,949 @@
+Microsoft Word - Rapport du jury national du Diplôme Supérieur de Comptabilité et de Gestion 2024.docx 
+
+Rapport du jury national du Diplôme Supérieur de Comptabilité et de Gestion – DSCG
+
+Un diplôme d’Etat d’excellence, conférant le grade de master
+
+Session 2024
+
+1
+
+2
+
+Le jury du diplôme d’Etat d’excellence qu’est le DSCG, conférant le grade de master, a été renouvelé par arrêté du 22 février 2024, publié au Bulletin Officiel n° 12 du 21 mars 2024. Il s’est réuni le 9 décembre 2024 ; les résultats ont été publiés le 11 décembre 2024.
+
+3
+
+Table des matières
+
+1\. Evolution du nombre d’inscrits et des présents ............................................................................ 5
+
+2\. Evolution des résultats aux épreuves ponctuelles et du taux de réussite ................................... 8
+
+3\. Présentation des résultats par UE à la session 2024 (avant délibération du jury) ..................... 11
+
+4\. Nombre d’admis au DSCG à la session 2024 ................................................................................ 15
+
+5\. Présentation comparée des résultats par UE 2022-2023-2024, après délibération .................. 18
+
+6\. Analyse des épreuves ponctuelles du DSCG 2024 ....................................................................... 20
+
+UE 1 : Gestion juridique, fiscale et sociale ....................................................................................... 20
+
+UE 2 : Finance .................................................................................................................................... 22
+
+UE 3 : Management et contrôle de gestion ..................................................................................... 24
+
+UE 4 : Comptabilité et audit ............................................................................................................. 26
+
+UE 5 : Management des systèmes d’information (MSI) .................................................................. 29
+
+UE 6 : Anglais des affaires ................................................................................................................. 30
+
+UE 7 : Mémoire ................................................................................................................................. 35
+
+7\. Retour sur la session VAE du DSCG 2024 ..................................................................................... 36
+
+Conclusion : ........................................................................................................................................... 39
+
+Annexe 1 : Résultats par académie pour les épreuves ponctuelles de la session DSCG 2023 ....... 40
+
+Annexe 2 : Résultats par académie pour les épreuves ponctuelles de la session DSCG 2024 ....... 42
+
+4
+
+1\. Evolution du nombre d’inscrits et des présents
+
+Le nombre d’inscrits et de présents aux épreuves du DSCG a progressé de sa mise en place en 2008 jusqu’en 2015. Depuis lors, on observait un tassement perceptible, surtout aux niveaux des UE 1 et 4 qui comptent, malgré tout, un nombre d’inscrits nettement supérieur aux autres UE. En 2022, le nombre d’inscrits progresse légèrement par rapport à 2021. La session 2024 voit 16 057 candidats inscrits à au moins une des épreuves ponctuelles, en augmentation de 6,98% par rapport à 2023 (15 010). Le seuil des 16 000 candidats est dépassé pour la première fois, il l’est d’autant plus avec les 99 candidats souhaitant obtenir le diplôme par la voie de la VAE.
+
+2024 Inscrits Présents Taux de
+
+présence
+
+UE1 7569 5985 79,07%
+
+UE2 4385 3572 81,46%
+
+UE3 4240 3538 83,44%
+
+UE4 9266 7341 79,23%
+
+UE5 4414 3639 82,44%
+
+UE6 4597 3776 82,14%
+
+UE7 2492 2418 97,03%
+
+UE8 1071 815 76,10%
+
+Total 38034 31084 81,73%
+
+Ainsi, pour la session 2024, l’UE 1 Gestion juridique, fiscale et sociale comptabilise 7 569 inscrits (contre 7 512 en 2023 et 7 426 en 2022) et l’UE4 Comptabilité et audit 9 266 inscrits (contre 8 542 en 2023 et 8 749 en 2022). Pour les autres UE, l’évolution des effectifs est également à la hausse par rapport aux sessions 2023 et 2022 avec un nombre moyen d’inscrits, pour la session 2024, compris entre 4 240 et 4 597 aux épreuves écrites et à l’UE6 d’anglais des affaires. Seule l’UE 7 Mémoire reste en retrait avec 2 492 inscrits (et plus logiquement l’UE 8 optionnelle).
+
+5
+
+Evolution du nombre d'inscrits aux UE du DSCG
+
+10000
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+UE1 UE2 UE3 UE4 UE5 UE6 UE7
+
+Le taux de présence aux épreuves écrites retrouve, depuis 2023, un niveau semblable à celui de la session de 2020 pour atteindre 80,6% en 2024 (80,3% des inscrits en 2023, 78,6% en 2022, 80,8% en 2020). Au niveau des épreuves orales, le taux de présence à l’UE6 continue d’augmenter à 82,14% (81,53% en 2023, 81,25% en 2022, 77,7% en 2020) et augmente légèrement pour l’UE7 à 97,03% pour retrouver le niveau de 2022 (96,25% en 2023 et 97,09% en 2022).
+
+Evolution du taux de présence aux UE écrites et orales
+
+90,0%
+
+85,0%
+
+80,0%
+
+75,0%
+
+70,0%
+
+65,0%
+
+60,0%
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Epreuves écrites Epreuves orales
+
+A la session 2024, les UE1 et 4 se distinguent de nouveau, et logiquement, des autres UE par le nombre de candidats présents avec, pour l’UE1, 5 985 candidats présents (contre 5 968 en 2023, 5 715 en 2022
+
+6
+
+et 5 447 en 2021) et, pour l’UE4, 7 341 candidats présents (contre 6 683 en 2023, 6 737 en 2022 et 6 360 en 2021), les autres UE écrites comptant autour de 3 538 à 3 639 présents (2 956 à 3 380 en 2023).
+
+Evolution du nombre de présents aux UE du DSCG
+
+8000
+
+7000
+
+6000
+
+5000
+
+4000
+
+3000
+
+2000
+
+1000
+
+0
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+UE1 UE2 UE3 UE4 UE5 UE6 UE7
+
+Le nombre d’admis dépend logiquement des deux paramètres : le nombre d’inscrits présents aux épreuves et le taux de réussite par UE.
+
+7
+
+2\. Evolution des résultats aux épreuves ponctuelles et du taux de réussite
+
+Alors que le taux de réussite aux épreuves pour les UE orales demeure très bon, celui relative aux épreuves écrites remonte par rapport à 2021 mais il cache toujours de fortes disparités selon les UE.
+
+Evolution du taux de réussite aux UE du DSCG
+
+75%
+
+65%
+
+55%
+
+45%
+
+35%
+
+25%
+
+15%
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Moyenne des UE écrites Moyenne des UE orales
+
+Ainsi, avant délibération du jury pour la session 2024, les taux de réussite restent particulièrement bons pour l’UE5 Management des systèmes d’information (57,82%) et l’UE3 Management et contrôle de gestion (49,97 %). Le taux de réussite pour l’UE4 est en forte augmentation encore à 35,46% (29,94% en 2023), soit le meilleur taux depuis 2008 ; il est plus en retrait pour l’UE1 à 26,25 %, après un résultat particulier en 2023 (44,97%).
+
+8
+
+Evolution du nombre d'admis aux épreuves ponctuelles
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+UE1 UE2 UE3 UE4 UE5 UE6 UE7
+
+Une analyse plus fine de la répartition des notes permet de constater l’importance des notes éliminatoires (notes inférieures à 6), en particulier pour les U1 et 4 : 1 484 candidats sur les 5 985 présents (7 569 inscrits) présentent une telle note pour l’UE 1 (24,8% des présents, 14,86% en 2023) ; pour l’UE 4, 1 838 candidats présentent une note éliminatoire, soit 25,04% des présents (32,53% en 2023).
+
+9
+
+Il est aussi intéressant d’analyser les notes médianes. Pour la session 2024 (avant délibération), elles sont égales ou supérieures à 10 pour les UE 5, 6, 7 et 8 ; en 2023, elles l’étaient pour les mêmes UE, alors qu’en 2022, tel était le cas également pour l’UE 2.
+
+La présentation détaillée des résultats permet de mieux apprécier la situation pour chaque UE.
+
+UE Moyenne Médiane Ecart-type
+
+2024 2024 2023 2022 2024 2023 2022 UE 1 7.73 7.50 9.50 8.00 2.84 2.90 3.21 UE 2 8.17 8.00 6.00 10.00 2.85 3.17 2.89 UE 3 9.65 9.75 9.00 8.75 2.39 2.53 2.66 UE 4 8.31 8.25 8.00 8.00 3.46 3.43 3.64 UE 5 10.08 10.25 10.25 10.50 2.63 2.65 3.12 UE 6 11.21 11.00 11.00 11.00 4.72 4.75 4.69 UE 7 11.50 12.00 12.00 11.50 3.28 3.31 3.39 UE 8 12.52 12.50 13.00 12.00 3.10 2.99 3.26
+
+10
+
+3\. Présentation des résultats par UE à la session 2024
+
+(avant délibération du jury)
+
+11
+
+12
+
+13
+
+14
+
+4\. Nombre d’admis au DSCG à la session 2024
+
+Les candidats se présentant au DSCG peuvent opter pour deux voies : celle des épreuves ponctuelles ou celle de la validation des acquis de l’expérience (VAE ; cf. 7.). Par ailleurs, un candidat peut se présenter aux UE de son choix : il peut ainsi se présenter à une seule ou à plusieurs UE, mais il ne peut valider son DSCG que s’il valide l’ensemble de ses UE avec une moyenne supérieure à 10/20 (hormis les UE pour lesquelles le candidat, du fait d’un autre diplôme, possède une dispense) ou qu’il est en mesure de compenser des UE entre elles (sans notes éliminatoire fixée à 6/20).
+
+Avant délibération du jury et hors VAE, la situation s’est présentée ainsi pour les épreuves ponctuelles :
+
+DSCG Inscrits à l'examen
+
+Nombre de diplômables notés Nombre d'admis Taux de réussite
+
+2024 16057 6625 2952 44,6%
+
+2023 15010 6302 3051 48,4%
+
+2022 15198 5837 2611 44,7%
+
+Un candidat diplômable est un candidat qui bénéficie, pour une session N et dans chacune des 7 unités d’enseignement obligatoires, d’une note non éliminatoire ou d’une dispense.
+
+Le nombre de diplômables augmente encore par rapport à 2023 (il n’a jamais été aussi élevé) mais la part de diplômables par rapport aux inscrits diminue légèrement du fait de l’augmentation substantielle de ces derniers à cette session (41,26 des inscrits en 2024, 41,99% en 2023). Ainsi, sur les 16 057 candidats qui se sont présentés en 2024 à au moins une épreuve du DSCG, 6 625 se sont trouvés diplômables et 3 051 ont validé leur diplôme, avant délibération du jury, soit un taux de réussite de 44.56%, en légère baisse par rapport aux sessions précédentes (après délibération du jury des années en question).
+
+Au regard des résultats obtenus et des retours académiques, le jury a décidé, à l’unanimité, de majorer la moyenne des candidats présentant une moyenne générale supérieure ou égale à 9,90. Au final, 3 107 candidats sont diplômés par cette décision pour cette session 2024 ; l’augmentation de moyenne générale pour les candidats concernés présente un impact sur les taux de réussite par épreuve et le taux de réussite globale passe de 44,6% à 46,9%.
+
+15
+
+Après délibération et majoration de moyenne, les indicateurs par UE sont définitivement les suivants :
+
+Moyenne médiane Note
+
+Ecart type
+
+UE 1 7.73 7.50 2.83 UE 2 8.20 8.00 2.84 UE 3 9.67 10.00 2.37 UE 4 8.32 8.25 3.46 UE 5 10.09 10.25 2.63 UE 6 11.21 11.00 4.72 UE 7 11.51 12.00 3.27 UE 8 12.52 12.50 3.10
+
+Au final, le nombre de diplômés ne cesse d’augmenter et la session 2024 permet de diplômer, comme en 2023, plus de 3 000 candidats, quelle que soit la voie retenue.
+
+Evolution du nombre de diplômés du DSCG 2008-2024
+
+3 3 2 2 2 2 2 1 1 1 1 1 1 412 1 213 1 631 1 67
+
+787 2 113 2 095 2 309 2 111 2 154 2 140 2 280 2 530 2 589 2 511 2 611 3 051 3 107 E. ponctuelles VAE 200 000 800 600 400 200 000 800 600 400 200 000 16 75 65 48 26 26 46 21 27
+
+25 17 17 18
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+16
+
+Les meilleurs candidats :
+
+• 12 candidats ont entre 16 et 18 à l’UE 1 (meilleure note 17,75)
+
+• 16 candidats ont entre 16 et 18 à l’UE 2 (meilleure note 17,5)
+
+• 1 candidat a obtenu la note de 18 à l’UE 3
+
+• 1 candidat a obtenu la note de 18,25 à l’UE 4
+
+• 5 candidats ont obtenu une note supérieure ou égale à 18 à l’UE 5 (meilleure note 18,75)
+
+• 469 candidats ont obtenu une note supérieure ou égale à 18 à l’UE 6 (meilleure note 20)
+
+• 73 candidats ont obtenu une note supérieure ou égale à 18 à l’UE 7 (meilleure note 20)
+
+• 32 candidats ont obtenu une note supérieure ou égale à 18 à l’UE 8 (meilleure note 20)
+
+Les trois meilleurs candidats ont obtenu les moyennes générales suivantes : 16,58 (candidate ayant préparé le DSCG au lycée Gustave Eiffel de Bordeaux), 16,37 (candidate ayant obtenu le master CCA de l’Université de Rennes) et 16,25 (candidat ayant obtenu le master CCA de l’Université de Bourgogne Europe).
+
+17
+
+5\. Présentation comparée des résultats par UE 2022-2023-2024, après délibération
+
+Les tableaux ci-après présentent les résultats des trois dernières sessions, après délibération.
+
+2022 Inscrits Présents Taux de
+
+présence Admis Taux de réussite UE1 7 426 5 715 76,96% 1 534 26,84% UE2 3 984 2 987 74,97% 1 568 52,49% UE3 4 006 3 356 83,77% 1 258 37,49% UE4 8 749 6 737 77% 2 043 30,33% UE5 4 194 3 488 83,17% 2 109 60,46% Tx de réussite moyen aux épreuves écrites 22 283 8 512 38,20% UE6 4 043 3 285 81,25% 1 991 60,61% UE7 2 064 2 004 97,09% 1 427 71,21% Tx de réussite moyen aux épreuves orales 5 289 3 418 64,62%
+
+2023 Inscrits Présents Taux de
+
+présence Admis Taux de réussite UE1 7 512 5 968 79,45% 2 684 44,97% UE2 3 663 2 956 80,70% 436 14,75% UE3 4 012 3 380 84,25% 1 368 40,47% UE4 8 542 6 683 78,24% 2 001 29,94% UE5 4 108 3 375 82,16% 1 933 57,27% Tx de réussite moyen aux épreuves écrites 22 362 8 423 37,67% UE6 4 131 3 368 81,53% 2 043 60,66% UE7 2 424 2 334 96,25% 1 697 72,71% Tx de réussite moyen aux épreuves orales 5 702 3 740 65,59%
+
+2024 Inscrits Présents Taux de
+
+présence Admis Taux de réussite UE1 7 569 5 985 79,07% 1 571 26,25% UE2 4 385 3 572 81,46% 1 107 30,99% UE3 4 240 3 538 83,44% 1 774 50,14% UE4 9 266 7 341 79,23% 2 606 35,50% UE5 4 414 3 639 82,44% 2 105 57,85% Tx de réussite moyen aux épreuves écrites 24 075 9 163 38,06% UE6 4 597 3 776 82,14% 2 302 60,96% UE7 2 492 2 418 97,03% 1 755 72,58% Tx de réussite moyen aux épreuves orales 6 194 4 057 65,50%
+
+18
+
+Focus sur les UE 1 et 4 :
+
+5% 0%Evolution du taux de réussite aux UE 1 et UE4 45%
+
+40%
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+UE1 UE4
+
+528 580
+
+Evolution du nombre d'admis aux UE 1 et UE 4
+
+UE1 UE4
+
+2684 2500
+
+2305
+
+2606
+
+2000
+
+1616
+
+1711 1553
+
+1571
+
+518
+
+2131
+
+1648
+
+2050
+
+1834 1912
+
+2043
+
+2001
+
+991
+
+1580 1500
+
+1328
+
+1649
+
+1607
+
+1000
+
+938
+
+837
+
+1281 1335 1160
+
+1294
+
+1689
+
+1507 1426
+
+1534
+
+1080 500
+
+489 0
+
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+19
+
+6\. Analyse des épreuves ponctuelles du DSCG 2024
+
+A la lumière des rapports académiques reçus et des retours oraux, les sujets ont été jugés par les correcteurs en adéquation avec le référentiel du DSCG et permettant une bonne évaluation des candidats. Le niveau des candidats demeure toutefois encore trop faible, sans doute lié à une préparation insuffisante des UE et/ou une maîtrise approximative des bases (DCG) et/ou encore une méthodologie de travail inadaptée aux épreuves. Il est rappelé notamment que la maîtrise de l'ensemble des UE du DCG reste un prérequis pour aborder le DSCG.
+
+Pour rappel, aucun point du programme du DSCG ne peut être considéré comme mineur et ce n’est pas parce qu’un point du programme n’a pas fait l’objet d’un sujet au cours des années antérieures qu’il ne pourra pas faire l’objet d’un futur sujet. La session 2024 l’illustre.
+
+Le DSCG est un diplôme conférant le grade de master et, en tant que tel, il exige que les candidats puissent démontrer qu’ils maîtrisent des compétences tout à la fois techniques, d'analyse, de synthèse et rédactionnelles de ce niveau.
+
+Les sujets sont issus d’un appel national à sujets (lancé pour la première fois en 2024, avec le soutien du CNOEC) ou/et construits par la commission nationale dédiée mise en place ; ces sujets, ancrés dans des situations réelles, ont été testés par des enseignants-chercheurs, enseignants et membres de la profession.
+
+UE 1 : Gestion juridique, fiscale et sociale
+
+Le sujet
+
+Le sujet est classique dans son architecture et reprend une structuration utilisée depuis plusieurs années. Il se compose de quatre dossiers indépendants.
+
+Le dossier 1 concerne les aspects juridiques et fiscaux de la dissolution d’une société et se compose de huit questions. Six questions sont relatives aux aspects juridiques de la liquidation amiable d’une société et deux abordent des questions fiscales.
+
+Le dossier 2 est relatif au droit des entreprises en difficulté et se compose de trois questions sans aucune difficulté particulière. Il porte sur la situation d’une personne morale qui fait l’objet d’une liquidation judiciaire ainsi que sur l’action en responsabilité pour insuffisance d’actif.
+
+Le dossier 3 porte sur l’obligation de révélation des faits délictueux par le commissaire aux comptes ainsi que sur le délit de blanchiment à travers trois questions. La première question a pu poser problème dans la mesure où des candidats ont évoqué le droit d’alerte, alors que la réponse attendue porte sur l’obligation de révélation des faits délictueux. Les deux autres questions sont classiques dans la mesure où elles portent sur les éléments constitutifs de deux délits, l’un de non-révélation des faits délictueux par le commissaire aux comptes, l’autre de blanchiment. Il est à préciser que le délit de blanchiment n’avait jamais été mobilisé dans un dossier de l’UE 1 au cours des dix dernières années.
+
+20
+
+Le dossier 4 sollicite les candidats sur un emprunt obligataire et est composé de quatre questions. Trois questions portent sur les aspects juridiques d’un emprunt obligataire et une question est d’ordre fiscal, à savoir le traitement fiscal de la cession d’actions.
+
+Bilan du sujet
+
+Globalement, le sujet a été jugé conforme au programme du DSCG, même si certaines commissions académiques auraient souhaité un sujet avec davantage de questions de réflexion et/ou de questions de nature fiscale. Certaines commissions ont exprimé la volonté de sujets relatifs au droit des obligations et au droit social. Enfin, une académie a suggéré de créer un sujet portant sur une même société ou entreprise et comprenant des dossiers traitant de notions juridiques spécifiques.
+
+Bilan des copies
+
+Les rapports des commissions académiques mettent en évidence :
+
+• que les candidats ont de réelles difficultés en orthographe, grammaire et conjugaison ;
+
+• que les candidats ont un réel manque de maîtrise de la méthodologie de résolution d’un cas pratique ;
+
+• qu’un certain nombre de candidats a un faible niveau de connaissances juridiques : à plusieurs reprises, des commissions académiques constatent le manque de connaissances de base ;
+
+• qu’un certain nombre de candidats ne prend pas le temps de relire sa copie ;
+
+• un manque d’exploitation des annexes, lesquelles permettent de formuler une solution justifiée.
+
+Conseils pour l’année 2025
+
+Sur le fond, les candidats doivent se préparer régulièrement à l’épreuve de l’UE 1. Il leur faut acquérir les connaissances de base de l’UE 1. Il leur faut également maîtriser et appliquer la méthodologie de résolution d’un cas pratique, les dossiers n’étant que des cas pratiques indépendants les uns des autres. Les candidats doivent aussi impérativement lire avec attention les questions posées et détecter les questions d’analyse de celles qui sont davantage relatives à des conditions d’application générales d’une notion ou d’un concept. Cette lecture attentive permettra ainsi d’éviter les réponses hors sujet. Par ailleurs, si des annexes sont fournies, il convient de les utiliser dans le raisonnement et dans la justification d’une solution technique. De plus, une préparation quasi exclusivement axée sur la révision des annales est à proscrire, dans la mesure où celles-ci ne permettent pas de revoir et assimiler l’intégralité du programme de l’UE 1. Enfin, il convient de toujours expliquer et justifier ses réponses.
+
+Sur la forme, les copies doivent être rédigées avec soin et la présentation doit être aérée. Les questions traitées doivent être numérotées. Il est conseillé de rédiger une copie par dossier.
+
+21
+
+UE 2 : Finance
+
+Le sujet
+
+Le sujet est présenté sous la forme de l’étude d’un cas global, en l’occurrence le retrait de la cote de Bel et de ses conséquences en matière de gouvernance. L’accent a été mis sur des considérations extra-financières pour tenir compte des préoccupations de la profession.
+
+Le dossier 1, classique, est essentiellement calculatoire et vise à vérifier la maîtrise des fondamentaux en matière d’évaluation d’entreprise. Le MEDAF est mobilisé pour calculer la rentabilité exigée par les actionnaires. Trois méthodes d’évaluation sont proposées pour fixer une fourchette de négociation pour le retrait de la cote qui s’avère fixé à un prix de 550 euros.
+
+Le dossier 2 revient sur les conséquences en matière de gouvernance du retrait de la cote de Bel par la maison-mère Unibel. Des questions de cours sont posées et les candidats sont invités à calculer la nouvelle structure d’actionnariat à la suite du retrait. Le sujet interroge la structure de l’état-major de l’entreprise pour vérifier la compréhension des textes de loi (application du texte initial de la loi Copé- Zimmermann) et théories fondatrices de la finance, comme la théorie de l’agence dans sa dimension gouvernance.
+
+Le dossier 3 porte sur les engagements en matière de durabilité de l’entreprise étudiée. Une question de compréhension de la différence entre engagement RSE et critères ESG est posée pour amorcer le dossier ; une réflexion est ensuite engagée sur le rôle des parties prenantes, le changement de statut vers la société à mission permis par la loi PACTE de 2019 et le rôle de l’actionnariat salarié dans la création de valeur.
+
+Ce sujet se veut intégrateur des interrogations posées par des dirigeants d’entreprise à leur cabinet d’expertise comptable, en conduisant une réflexion progressive sur les modalités d’une décision stratégique, ses conséquences sur les mécanismes de gouvernance et un engagement vers une performance durable et inclusive. Ce sujet intègre, par conséquent, à la fois des dimensions calculatoires et des réflexions théoriques et managériales en prise directe avec les questionnements actuels des entreprises.
+
+Bilan du sujet
+
+Le sujet reprend différents aspects du programme de l’UE2 Finance du DSCG : évaluation d’entreprise, retrait de la cote, gouvernance d’entreprise, performance extra-financière, etc. Le sujet a reçu un accueil favorable par les différentes commissions académiques, même si la dimension extra-financière semble prendre trop de place au détriment de la partie calculatoire, considérée comme plus fondamentale pour l’épreuve pour certaines d’entre elles. D’autres relèvent la clarté d’un sujet qui permet aux candidats, via le barème de points, de maximiser leurs chances de réussir l’épreuve. Le sujet est considéré d’actualité et correspondant bien au référentiel.
+
+22
+
+Bilan des copies
+
+Les rapports des commissions académiques soulignent que le sujet était abordable pour un candidat moyen et que les résultats d’ensemble sont corrects et même supérieurs à ceux des années précédentes. Cependant, ils mettent en évidence :
+
+• que les candidats ne soignent pas suffisamment leur copie qui peut être illisible ;
+
+• que les candidats rendent des copies raturées avec de trop nombreuses fautes d’orthographe ;
+
+• que certains candidats n’ont pas les connaissances de base pour répondre au sujet (FTD ; RSE/ESG, etc.), rendant ainsi les réponses superficielles ;
+
+• que les candidats répondent aux questions rédactionnelles de façon non suffisamment contextualisées ;
+
+• que les candidats ne maîtrisent pas les concepts théoriques fondamentaux.
+
+Conseils pour l’année 2025
+
+Sur le fond, les candidats doivent considérer que l’épreuve de l’UE2 Finance du DSCG est conçue à partir d’une situation réelle dont il est attendu :
+
+\- une compréhension globale du cas d’espèce, découpé en plusieurs dossiers pour aborder
+
+différents points du programme ; - une réflexion qui s’inscrit dans une volonté de répondre aux attentes du dirigeant qui sollicite
+
+le concours d’un cabinet d’expertise comptable dans ladite opération financière.
+
+À cette fin, le candidat doit considérer le cas sous l’angle d’analyse du dirigeant ou du gérant de société, confronté à son quotidien et à des décisions stratégiques à prendre. Ces dernières peuvent avoir des répercussions sur la gouvernance de l’organisation, qui relève du champ de la finance organisationnelle.
+
+Par ailleurs, face à l’évolution des problématiques auxquelles sont confrontés les dirigeants et a fortiori leur conseil, la performance durable de l’entreprise est autant à prendre en considération que les performances financière et économique ; elle conduit, de fait, à des réflexions en termes de conseils sur des dimensions extra-financières relevant des aspects environnementaux, sociaux ou sociétaux ainsi que de gouvernance de l’entreprise. Qu'il s'agisse du cadre dans lequel l'entreprise opère ou de l'incorporation des critères ESG dans la stratégie RSE, le candidat doit être en mesure de formuler un raisonnement qui intègre cette notion de performance durable.
+
+De plus, dans la mesure où, en finance, théorie et pratique s'influencent mutuellement, il est essentiel que le candidat prenne en compte les principaux enseignements théoriques dans sa réflexion. Le candidat doit savoir articuler des définitions de cours, des éléments théoriques et des exemples qui s’appliquent au cas étudié (ou non).
+
+Enfin, le sujet de l’UE2 Finance est construit sur la base d’un cas cohérent dans lequel tous les éléments permettant le traitement des questions se trouvent dans l’énoncé du sujet et dans les annexes. Il ne s'agit pas de fournir au candidat, dans le cadre d’une épreuve de niveau master, tous les éléments d'appréciation nécessaires à un même niveau du sujet pour qu'il puisse répondre de manière scolaire
+
+23
+
+à chaque question. Les données permettant d'aborder les questions du sujet sont délibérément diffusées dans l'énoncé, comme elles le sont dans la réalité d’une problématique de gestion.
+
+Sur la forme, les copies doivent être rédigées avec soin :
+
+• la présentation doit être aérée ;
+
+• le candidat doit éviter de présenter une copie avec des ratures ;
+
+• le candidat doit soigner l’orthographe et la grammaire avec des phrases allant directement à l’essentiel ;
+
+• le candidat doit être en mesure de faire des tableaux là où il est idoine de le faire, comme pour le tableau des flux de trésorerie par exemple.
+
+UE 3 : Management et contrôle de gestion
+
+Le sujet 2024 porte sur une TPE de services, plus précisément une école de yoga. Il place le candidat dans la position de collaborateur au sein d’un cabinet d’expertise comptable. Il doit réaliser une mission de conseil pour une entrepreneuse, directrice de l’école de yoga, désireuse d’accroître son bénéfice. Cette mission s’étale sur deux exercices. Le sujet est ainsi découpé en deux parties d’égale importance, chacune correspondant à une période (avant, après).
+
+La structure du sujet
+
+Dans la première partie, le candidat réalise un diagnostic stratégique du micro-environnement, construit une nouvelle grille de prix et établit les prévisions de chiffre d’affaires correspondantes ; il rédige une note pour expliquer son travail et analyser les options stratégiques envisageables pour l’entreprise. La seconde partie se situe l’année suivante. Elle porte sur le suivi et la révision des actions mises en œuvre (prix). Le candidat doit analyser des écarts sur chiffre d’affaires déjà calculés (et fournis en annexes). Il doit ensuite étudier plusieurs décisions destinées à accroître le résultat : lancement d’une nouvelle offre (avec détermination d’un programme de production optimal), nouvelle approche marketing (marketing digital), adhésion à une marketplace, puis à un réseau de franchise.
+
+Les éléments saillants Dans ce sujet, plusieurs éléments sont à souligner :
+
+• L’entreprise étudiée : une TPE, dans le secteur des services ;
+
+• La position du candidat : il est mis en position de conseil dans un cabinet ;
+
+• Un rééquilibrage : le contrôle de gestion fait part égale avec le management ;
+
+• Les compétences évaluées : elles correspondent aux niveaux supérieurs de la taxonomie de Bloom (analyser, évaluer et créer) ; les candidats ne doivent pas simplement expliquer ou exploiter un outil, une technique ou un concept, ils doivent analyser la situation, identifier l’outil, technique ou concept approprié, l’adapter au contexte, l’exploiter et en tirer des conclusions opérationnelles.
+
+24
+
+L’avis des correcteurs … … sur le sujet
+
+D’une manière générale, le sujet est jugé pertinent, équilibré et accessible, « il ne pose pas de soucis ». A l’exception de deux commissions académiques, il est jugé parfaitement conforme au programme et aux attentes de l’épreuve. Il reprend les points essentiels du programme de l’UE3 et accorde plus de poids au contrôle de gestion (« enfin \! » écrit un coordinateur). Les rapports soulignent que le sujet demande aux candidats de se placer « en termes de conseil » et que les questions sont mieux délimitées que les années précédentes.
+
+… le corrigé et le barème Globalement, les coordinateurs considèrent que le corrigé et le barème sont assez précis et permettent une correction plus aisée que les années précédentes. Il ne s’agit pas d’un barème par compétences. Un point jugé positif par certains, négatif par d’autres, porte sur le nombre de points relativement important attribué à une question jugée facile (trop pour certains).
+
+Les copies Les notes sont meilleures que les années précédentes. La majorité des candidats ont pu traiter toutes les questions.
+
+Les principales difficultés portent sur :
+
+\- L’expression écrite Les candidats ont un très faible niveau en matière d’orthographe, grammaire, conjugaison (« le niveau d'orthographe est parfois indigent »).
+
+De plus, ils ont des difficultés à rédiger une analyse. Les réponses rédactionnelles sont souvent mal rédigées, non structurées et descriptives. Elles manquent d’analyse et de prise de hauteur et se limitent souvent soit à la récitation du cours ou à la description de données fournies en annexe.
+
+\- Un manque de contextualisation Il est constaté un fréquent manque de contextualisation. Les candidats récitent leur cours, sans l’exploiter au bénéfice de l’entreprise. Cela aboutit parfois à des erreurs de logique et à des conclusions déconnectées de la situation.
+
+Par ailleurs, lorsque les candidats prennent en compte le contexte, des erreurs fréquentes témoignent d’une méconnaissance des TPE et des activités de service. Ce problème est peut-être lié à un enseignement centré sur les grandes entreprises et l’industrie. Ainsi, de nombreux candidats ont pu considérer, de façon surprenante, que les entreprises de service n’ont pas de fournisseurs ; pour certains d’entre eux, la question des options stratégiques ne se pose pas pour des TPE, qui constituent, pourtant, une part substantielle des clientèles des cabinets d’expertise comptable (cette remarque a été relevée dans un rapport académique).
+
+25
+
+\- Des concepts et techniques non maîtrisés Le sujet permet d’évaluer si les candidats sont capables de déterminer les concepts, outils et techniques à mobiliser, puis de les adapter à la situation. De trop nombreuses copies ont démontré que cette compétence n’est pas encore acquise, tant en matière de management (notamment de nombreux candidats ont utilisé le PESTEL ou SWOT au lieu des forces de Porter pour analyser le micro- environnement), que de contrôle de gestion (peu de candidats ont compris qu’il fallait utiliser la méthode du facteur rare et que celui-ci correspondait aux week-ends).
+
+UE 4 : Comptabilité et audit
+
+Le sujet est classique et composé de 4 dossiers indépendants qui permettent d’aborder les 4 grands domaines de compétences fondamentales du référentiel de l’UE4. Dans l’ensemble, ce sujet a été jugé, par les commissions académiques, conforme au programme de l’UE 4, intéressant, classique, bien conçu (sujet clair et bien formulé, avec des annexes après chaque dossier) et accessible pour un candidat ayant sérieusement préparé l’épreuve. Le sujet a été jugé plus facile que les années précédentes car il ne comportait pas de grande difficulté technique, ni d’une multitude de points de détails complexes du programme. Le délai imparti pour chaque partie a été jugé satisfaisant et le barème relativement avantageux pour les candidats.
+
+Le dossier 1 sur les comptes de groupes présente peu de difficultés, les questions sont très classiques et courantes. La première porte sur la détermination d’un périmètre de consolidation en IFRS. Les candidats devaient ensuite passer des écritures de retraitements de pré-consolidation dont les calculs devaient être présentés sous forme de tableau (emprunt obligataire, provisions réglementées) et de consolidation (prêt entre filiales). La question suivante porte sur le calcul et la comptabilisation des écarts d’évaluation et du goodwill complet ainsi que sur le partage des capitaux propres d’une filiale intégrée globalement. Ensuite, les candidats sont invités à mettre en œuvre la consolidation par la mise en équivalence d’une filiale détenue directement et indirectement par la consolidante. Une dernière question interroge les candidats sur la variation de périmètre. Les annexes guident les candidats et facilitent le travail à réaliser.
+
+Dans l’ensemble, les questions relatives au périmètre, écarts d’évaluation, goodwill et au partage des capitaux propres ont été davantage traitées. En revanche, les candidats n’ont pas toujours su bien traiter les éléments liés aux écritures de retraitement, surtout en ce qui concerne l’emprunt obligataire, pour lequel les calculs du coût amorti sont pourtant fournis. Les correcteurs ont globalement relevé un manque de justifications des calculs et écritures de retraitement des candidats ; les connaissances sur ces points restent trop souvent approximatives. Pour la question 1, la prise ou non en compte des droits de vote (au dénominateur dans le calcul du pourcentage de contrôle du groupe SPM dans CALENDULA) en contrepartie des certificats d’investissement n’a pas vraiment gêné les candidats, les questions suivantes ne portant pas sur cette société. Les deux solutions ont été acceptées afin de privilégier la logique du candidat. Finalement, l’impact potentiel s’est avéré très mineur.
+
+Le dossier 2 est plus original et porte sur la norme IFRS 15 – produits des activités ordinaires, qui n’avait jamais fait l’objet de questions jusqu’à présent, alors qu’elle est pourtant d’actualité et d’un intérêt
+
+26
+
+pratique incontestable. Le candidat est invité à prendre connaissance de cette norme pour déterminer le chiffre d’affaires (CA) lié à une politique de fidélisation ; une annexe fournie permet d’analyser facilement les contrats d’exclusivité proposés. Le barème est favorable aux candidats. La moitié des points porte sur les étapes du processus de reconnaissance du CA, alors que la ventilation entre les deux prestations, qui est la question la plus technique, est relativement moins valorisée (2pts/10). Cette ventilation permet de tester les capacités d’analyse et de réflexion du candidat. La solution proposée par le corrigé se veut volontairement simple. Une réponse alternative à la méthode résiduelle proposée, mobilisant une approche proportionnelle (au regard des prix spécifiques attachés à chaque obligation de prestation de contrat : la vente et les avantages associés), a également été acceptée, afin de ne pas pénaliser le candidat, dès lors que son raisonnement reste logique. Le peu de réponse correcte montre toutefois que les candidats rencontrent d’importantes difficultés d’analyse d’une documentation fournie.
+
+Le dossier 3 sur les opérations de restructuration traite d’une opération de fusion-renonciation, pour laquelle il convient de justifier ou déterminer les caractéristiques de l’opération de fusion : parité d’échange, soulte, augmentation de capital, conformité de la soulte, évaluation des apports, prime de fusion et mali de fusion. Ce mali doit être ensuite qualifié et affecté. En dernier lieu, il faut comptabiliser l’opération chez l’absorbante. Ce dossier, très classique, ne présente pas de difficultés techniques majeures et est le dossier le plus réussi par les candidats. Certains candidats ont rencontré des difficultés sur le calcul de la prime de fusion et l’analyse du mali n’a pas toujours été conduite. Bien que le calcul de la soulte ne soit plus au programme officiel depuis la précédente réforme, sa définition, la vérification de sa légalité et son enregistrement figurent bien au programme. Dans l’ensemble, les candidats n’ont été que très rarement affectés par la demande de son calcul, dans la mesure où il s’agissait d’opérer une simple soustraction. Là encore, la logique du candidat a été privilégiée.
+
+Le dossier 4 sur l’audit est plus atypique, dans la mesure où il propose trois premières questions sur des éléments de déontologie de la profession d’expert-comptable et la répartition des travaux entre commissaires aux comptes. La dernière question porte sur la formulation de l’opinion pour les comptes sociaux ou consolidés. Il s’agit donc d’une question très classique susceptible de rapporter beaucoup de points mais de nombreux candidats y ont répondu de façon très superficielle. En effet, il est ici attendu que le candidat cite les différentes formulations de l’opinion (lorsque des réserves sont émises, ces dernières doivent être assorties des motifs, ces derniers étaient donc logiquement attendus). Le barème de cette dernière question se veut volontairement avantageux afin de rendre plus accessible le dossier. Les premières questions sont fondées sur davantage d’analyse personnelle du candidat et ont été davantage discriminantes. De nombreux candidats ont confondu indépendance du CAC et de l’EC et ont manqué de connaissances sur le co-commissariat, deux points qui sont pourtant très importants pour les professionnels et inclus dans le programme du DSCG. La réflexion et les justifications du candidat ont été valorisées, en particulier pour la réponse à la question 1 qui suppose une appréciation individuelle du professionnel quant à son indépendance, son intégrité et son objectivité.
+
+Les performances sur le fond restent dans l’ensemble très moyennes et trouvent leur origine dans l’absence de préparation d’un grand nombre de candidats, qui méconnaissent des thèmes abordés et certaines règles comptables de base de fonctionnement des comptes. Les réponses aux questions
+
+27
+
+doivent être détaillées, structurées et argumentées afin de traiter correctement toutes les spécifications d’une situation, notamment en audit. Les candidats doivent se préparer de manière complète et approfondie sur toutes les parties du programme. Les dossiers traitant des comptes de groupe, des IFRS et des opérations de restructuration requièrent une préparation sérieuse pour développer des compétences d’analyse et d’appréciation, indispensables dans le cadre de l’exercice d’une activité professionnelle. Dans de trop nombreuses copies, il persiste un manque de soin dans la présentation, des fautes d’orthographe, grammaticales et de syntaxe, une absence de renvoi au numéro des questions traitées, des écritures sans libellé et tracées à main levée. Ce manque de soin n’est pas acceptable de la part de candidats à un diplôme conférant le grade de master.
+
+Conseils pour la session 2025
+
+Sur le fond, les candidats doivent se préparer de manière régulière et sur l’ensemble des parties du programme, sans faire d’impasse. Les traitements attendus nécessitent une maîtrise précise des connaissances associées au programme de l’épreuve mais supposent également connues les bases de la comptabilité. Pour bien comprendre les retraitements de pré-consolidation, il est par exemple opportun de revoir les fondamentaux de l’UE10 du DCG. La gestion du temps est également très importante, afin de pouvoir traiter l’intégralité des dossiers de l’épreuve. Il n’est pas nécessaire de traiter le sujet dans l’ordre proposé. Pour certains candidats, il peut être préférable de commencer par les parties les mieux maîtrisées et les moins lourdes sur le plan technique. Au sein des dossiers, il est toutefois préconisé de respecter l’ordre des questions. Il convient de bien numéroter les questions abordées. En revanche, nul besoin de reporter l’intégralité de l’intitulé de la question sur la copie. Il est recommandé de prendre le temps de bien lire l’ensemble du sujet avant de débuter la rédaction et de relire sa copie en fin d’épreuve. Une lecture attentive de chaque question est impérative afin de proposer des réponses précises et concises et d’éviter des hors-sujets. Les propos vagues et autres fioritures qui ne visent pas à répondre directement aux questions posées sont à proscrire. Les informations fournies en annexe doivent être lues attentivement et utilisées à bon escient. Enfin, il est conseillé aux candidats de travailler les sujets des dernières années afin de s’imprégner des singularités de cette épreuve, même si une préparation sur les seules annales reste très insuffisante. Certains points d’interrogation restent récurrents et constituent des incontournables pour la validation du DSCG.
+
+Sur la forme, les correcteurs insistent sur la nécessité de présenter des copies faisant ressortir clairement le raisonnement tenu, les éventuelles hypothèses formulées et les réponses apportées. Il est également préconisé de bien détailler les étapes de calcul, d’apporter des justifications même lorsque ce n’est pas explicitement demandé et de présenter des écritures respectant les schémas usuels de présentation. Ces dernières, comme le reste de la copie, doivent être rédigées avec soin, en précisant les libellés et distinguant clairement les sommes à inscrire au débit ou au crédit. Un contrôle d’équilibre systématique doit être opéré par les candidats. Pour améliorer la présentation et la clarté des copies, il convient d’utiliser un stylo de bonne qualité. Une rédaction de chaque dossier sur une copie double séparée peut également contribuer à cette amélioration.
+
+28
+
+UE 5 : Management des systèmes d’information (MSI)
+
+Le sujet est classique et se compose de trois dossiers indépendants, permettant d'explorer les principaux domaines de compétences fondamentales du MSI.
+
+Le sujet porte sur une entreprise de services à la personne (« Aide - Maison - Domicile - Multiservices » - AMDM), créée en 2015 par un infirmier et un informaticien. AMDM propose cinq principaux services : le ménage et le repassage, l’accompagnement pour les courses quotidiennes, l’aide au jardinage et les promenades canines, la préparation des repas à domicile et la présence humaine pendant les nuits.
+
+L’entreprise a opté pour une stratégie de différenciation (également appelée stratégie de sophistication) en misant sur la qualité de ses services, grâce notamment à sa politique de ressources humaines (RH) et à son système d’information (SI). Plus précisément, l’un des deux créateurs a développé une application métier, un outil de gestion de la relation client, qui a joué un rôle clé dans cette stratégie. AMDM a connu une croissance mesurée, débutant dans le département de la Gironde avant de s’étendre progressivement aux onze autres départements de Nouvelle-Aquitaine. Aujourd’hui, elle est également implantée en Occitanie, Provence-Alpes-Côte d’Azur et Auvergne- Rhône-Alpes, couvrant ainsi la moitié de la France.
+
+Le sujet est divisé en trois dossiers équilibrés :
+
+Dossier 1 : Mise en cohérence du CRM inter-organisationnel
+
+Ce dossier porte sur les choix stratégiques après le rachat d’un concurrent. Il comprend trois questions, dont une portant sur la prise de décision stratégique : conserver deux CRM distincts ou implémenter celui d’AMDM chez le concurrent. Les candidats sont invités à analyser la situation en s’appuyant sur les documents fournis et proposer une réponse argumentée. Ils doivent également faire des propositions pour accompagner le changement. Le jury a regretté que certains candidats se contentent d’insérer des « morceaux de cours » sans les relier au contexte ni fournir une véritable argumentation.
+
+Dossier 2 : Alignement stratégique et gestion de la performance du SI
+
+Ce dossier traite de l’alignement stratégique et de la gestion de la performance du système d’information. Les candidats doivent exprimer un avis motivé, en s’appuyant sur la théorie de l’alignement stratégique. Les copies qui faisaient explicitement référence au modèle théorique ont été valorisées. Cependant, le jury a déploré que de nombreuses copies manquent de fondements théoriques solides. Les candidats devaient également proposer des indicateurs pour constituer un tableau de bord de suivi du SI/CRM, en distinguant des indicateurs de performance et de qualité, tout en justifiant leurs choix.
+
+29
+
+Dossier 3 : SI fantômes et BYOD dans la gestion de projet
+
+Ce dossier porte sur des thématiques actuelles : les SI fantômes et le BYOD (Bring Your Own Device). Les candidats sont invités à rédiger une note de synthèse sur les avantages et inconvénients de ces concepts. Les copies concises et rigoureuses sur le plan orthographique ont été particulièrement appréciées. Les candidats sont aussi invités à analyser les étapes d’une gestion de projet en identifiant les erreurs potentielles.
+
+Conseils pour la session 2025
+
+Les performances sur le fond restent globalement moyennes, principalement en raison d'un manque de préparation chez de nombreux candidats. Une méconnaissance des thèmes abordés ainsi que des fondamentaux du MSI est observée. Les réponses aux questions doivent être détaillées, structurées et argumentées. Il est essentiel que les candidats se préparent de façon complète et approfondie sur l'ensemble des parties du programme.
+
+Plus précisément :
+
+\- Orthographe et syntaxe : Pour une épreuve de niveau master, le niveau en orthographe et en syntaxe est souvent insuffisant chez un trop grand nombre de candidats. Une maîtrise de ces aspects est essentielle. - Maîtrise du corpus théorique : Beaucoup de candidats ne s’appuient pas suffisamment sur le corpus théorique attendu. La compréhension et l’intégration de ces bases théoriques sont indispensables pour réussir cette épreuve. L’ensemble du programme doit être maîtrisé. - Capacité d’analyse et de réflexion : L’objectif principal de cette épreuve n’est pas la récitation des cours, mais bien la démonstration de capacités d’analyse, de réflexion critique et d’argumentation en relation avec le Management des SI.
+
+UE 6 : Anglais des affaires
+
+\- Préparation : une heure, sans aucun autre document que celui fourni par le jury. Le document support de l’épreuve est en anglais et peut éventuellement inclure des données chiffrées sous forme de graphiques ou de tableaux. Il porte sur les thèmes et notions définies au programme de l’UE 6 du diplôme (pages 25 à 27) :
+
+https://cache.media.education.gouv.fr/file/25/01/7/ensup135\_annexe2\_1142017.pdf
+
+\- Épreuve : 30 minutes maximum ; exposé du candidat, en anglais : 15 minutes maximum ;
+
+entretien avec les membres du jury, en anglais : 15 minutes maximum.
+
+Exposé : lors de sa prise de parole en continu de 15 minutes maximum, le candidat synthétise le contenu du document fourni puis propose un commentaire de ce dernier. La consigne accompagnant le support donne une problématique sur laquelle le candidat s’appuie afin de structurer son
+
+30
+
+commentaire et organiser ses propos. Le commentaire argumenté est étayé des connaissances relatives aux thèmes et notions définies par le programme – sans qu’une technicité excessive, qui viendrait entraver la communication à l’aune du niveau B2 ciblé, ne soit attendue – et veille à intégrer des faits d’actualité à bon escient. L’ensemble de l’exposé doit être clairement structuré, à l’aide, notamment, de transitions entre les différentes parties (introduction, synthèse du document support qui en fera ressortir les articulations logiques, commentaire argumenté structuré, conclusion).
+
+Entretien : le jury conduit un entretien en anglais avec le candidat à partir d’éléments de son exposé et du document qui a servi de point d’appui à la première partie de l’épreuve. Pour cette deuxième partie et au fil des échanges, le candidat est invité à réagir, décrire, reformuler, développer une argumentation, justifier son propos ou encore apporter des explications.
+
+\- Remarques et conseils du jury pour la session 2025
+
+Des notes très élevées voire maximales ont été attribuées, à plusieurs reprises, à des candidats qui, sans être bilingues, ont communiqué de manière fluide et efficace avec le jury, au service d’un propos structuré, argumenté et illustré, tant lors de l’exposé que de l’entretien, démontrant ainsi leur maîtrise des attendus de l’épreuve et les compétences linguistiques attendues à ce niveau. Ainsi, les futurs candidats doivent être convaincus qu’une préparation régulière et sérieuse à l’épreuve, tenant compte des remarques et conseils formulés dans le présent rapport, leur permettra de démontrer leur maîtrise assurée des aptitudes évaluées.
+
+Maîtrise et respect des attendus de l’épreuve
+
+La session 2024 a confirmé la préparation satisfaisante de la plupart des candidats, qui cernent correctement les attendus de l’épreuve. Cet aspect est essentiel : ceux, encore trop nombreux, qui n’ont pas respecté les étapes attendues de l’exposé en omettant, par exemple, la synthèse du document support, ont été fortement pénalisés, quelles que soient leurs compétences de communication en anglais. Les sujets ont été adaptés au niveau B2 du CECRL sur les domaines définis par le programme, sans rentrer dans une technicité excessive au regard du niveau B2 ciblé. Les sept champs thématiques définis par le programme ont été explorés par les supports proposés. Il convient donc de ne faire aucune impasse et de disposer du lexique spécifique, de connaissances suffisantes et d’arguments illustrés pour chacun des sept champs pour bien comprendre les textes supports et les analyser de manière convaincante, à la lumière de la problématique fournie.
+
+▪ L’exposé du candidat (15 minutes maximum)
+
+Un exposé en autonomie d’une durée inférieure à 10 minutes ne permet généralement pas au candidat d’illustrer sa pleine maîtrise des aptitudes évaluées. C’est particulièrement le cas lorsque le candidat omet la synthèse du document ou l’évacue trop rapidement pour que le jury puisse valider sa
+
+31
+
+compréhension du document support, et/ou lorsque le commentaire structuré et argumenté est inférieur à cinq minutes. Dans la synthèse, le candidat veille à faire ressortir la structuration logique de l’argumentation de l’auteur et évite l’écueil d’une présentation linéaire qui juxtaposerait des éléments tirés du texte sans souligner leur articulation. Les arguments de l’auteur doivent être reformulés pour que le jury puisse évaluer leur pleine compréhension par le candidat. Si le candidat est amené à reprendre des segments entiers du texte, c’est uniquement sous forme de citations, qu’il indiquera clairement, en indiquant les lignes concernées. Dans cette partie, le candidat présente les arguments de l’auteur sans ajouter de commentaires et analyses personnels, qui relèvent de l’argumentation. Le jury recommande aux candidats de clairement indiquer, en anglais, le passage de la synthèse à l’argumentation. L’argumentation, ou commentaire argumenté, est le moment où le candidat met la compréhension du texte, qu’il aura démontrée dans la synthèse, au service de son analyse de la problématique indiquée. Il convient d’envisager cette problématique sous divers aspects, de construire une démonstration fondée sur une connaissance correcte des thèmes et notions au programme, et d’intégrer des éléments d’actualité permettant d’illustrer de manière convaincante le propos, en tenant compte de la spécificité du texte support. Les candidats qui éludent la problématique précise donnée par le jury et/ou évacuent le texte support commettent un hors-sujet partiel ou total. Dans cette partie, le candidat doit veiller à ne pas reprendre les arguments du texte, ce qui relève de la synthèse, sans y apporter son analyse personnelle. Ainsi, il est attendu du candidat qu’il démontre, dans le cadre de la problématique donnée, la valeur ajoutée qu’il peut apporter aux arguments de l’auteur pour les confirmer, les développer, les illustrer, les nuancer, les contredire, etc., à l’aide de ses connaissances, de l’actualité et/ou de son expérience professionnelle. Cette argumentation doit être organisée selon des axes clairement annoncés au jury, que le candidat veillera à respecter.
+
+▪ L’entretien avec le jury (15 minutes maximum)
+
+Le temps d’entretien avec le jury permet à ce dernier de vérifier auprès du candidat sa compréhension de certains éléments du texte support et sa maîtrise de concepts qu’il aura évoqués, de l’amener à préciser et nuancer les propos qu’il a tenus lors de l’argumentation, ou d’aborder avec lui d’autres aspects de la problématique. Cette partie de l’épreuve met en jeu les compétences de compréhension orale du candidat, pour bien appréhender les questions du jury, et de production orale en interaction. Le candidat veille à ne pas reprendre, en réponse aux questions du jury, ce qu’il a déjà indiqué dans son argumentation, mais d’en partir pour explorer d’autres aspects. Là encore, il est attendu que les réponses soient suffisamment développées et illustrées pour que le candidat prenne véritablement sa part à l’échange et l’alimente.
+
+32
+
+Enjeux relatifs à la communication
+
+Les candidats doivent cibler leurs entraînements sur les activités langagières et, notamment, l’expression orale en continu et en interaction (en tenant compte de la compétence phonologique), outre la compréhension de supports écrits. L’épreuve évalue avant tout la capacité du candidat à communiquer en anglais de manière intelligible et efficace au service d’un propos structuré.
+
+Par ailleurs, la compétence de communication peut souvent encore être consolidée : pour l’exposé, la prestation orale exclut la lecture de notes intégralement rédigées, sauf, éventuellement, l’introduction, les transitions et la conclusion : cet impératif doit accompagner le candidat dès le début de sa préparation en loge. À cet égard, il est recommandé aux candidats de soigner la forme de leur brouillon durant leur préparation. Celui-ci doit être clair et aéré avec, par exemple, des titres de parties et sous-parties notés et facilement repérables par un système de surlignement, des tirets pour chaque idée essentielle, etc. Il revient au candidat d’éprouver et d’affiner au fil des entraînements durant sa préparation en amont de l’examen le système qui lui permettra, le jour de l’épreuve, de s’appuyer sur un brouillon structuré et essentiellement non rédigé duquel il pourra aisément s’extraire pour favoriser une expression et un échange spontanés.
+
+En ce qui concerne l’entretien, le caractère interactif de la prestation orale (prise en compte des deux interlocuteurs et de leurs propos, réactivité, communication non verbale, etc.) peut également souvent être mieux pris en considération.
+
+Comme pour tout examen oral, une tenue vestimentaire et une posture professionnelles sont attendues.
+
+Maîtrise des compétences linguistiques au niveau B2
+
+Une maîtrise insuffisante de la langue anglaise dans ses diverses composantes (lexicale, syntaxique, grammaticale, phonologique) n’a pas permis à certains candidats de bien comprendre les textes proposés et/ou de communiquer de manière assez intelligible et précise avec le jury. Il n’est nullement attendu des candidats qu’ils soient bilingues, mais qu’ils communiquent dans un anglais qui, s’il n’est pas exempt d’erreurs et d’hésitations, est intelligible pour un anglophone et permet de tenir des propos nuancés et étayés sur des domaines connus.
+
+▪ L’étendue du lexique et sa maîtrise opérationnelle
+
+La maîtrise du vocabulaire professionnel et thématique des sept champs aux programme est attendue. Elle est l’un des pré-requis à la compréhension fine des documents supports et à un exposé assez clair, approfondi et nuancé pour emporter l’adhésion. Le jury recommande aux candidats de se constituer durant leur préparation à l’examen un glossaire technique thématique et à l’alimenter régulièrement. Le jury rappelle que la connaissance du lexique spécifique par les candidats inclut les dimensions phonétiques et phonologiques des termes employés pour qu’ils soient prononcés de manière intelligible pour un anglophone. De nombreux dictionnaires gratuits en ligne proposent la prononciation des termes, qu’il convient de vérifier. Les erreurs de prononciation sur des termes
+
+33
+
+courants et récurrents de l’anglais général et de celui des affaires (written, author, journalist, firms, measure, policy, etc.) ne sont pas acceptables au niveau B2. À cet égard, les candidats pouvant être interrogés sur des faits issus de l’actualité, lire régulièrement la presse anglo-saxonne et écouter les nouvelles sur des chaînes de télévision ou de radio variées facilement accessibles en ligne (BBC, BBC World, CNN, ABC, NPR News, etc.) sont de bons moyens d’assimiler le vocabulaire de l’anglais des affaires, mais également de renforcer la connaissance de l'actualité du monde anglo-saxon, et des cultures concernées. Le jury attire l’attention des candidats sur la nécessaire maîtrise des éléments chiffrés et des dates à l’oral, qui ne doivent pas mener, lorsqu’ils sont donnés, à des erreurs ou de longues hésitations. Là encore, l’entraînement en amont et la familiarité de documents authentiques aisément disponibles sont essentiels. Enfin, les connecteurs logiques et mots de liaison doivent faire l’objet d’une attention particulière de la part du candidat. Ils structurent le discours et facilitent les échanges avec le jury.
+
+▪ La maîtrise de la grammaire et de la syntaxe
+
+Il est recommandé aux candidats de s’assurer de la maîtrise opératoire des outils grammaticaux les plus courants. Les candidats en difficulté dans ce domaine peuvent utilement se référer, durant leur préparation à l’examen, aux glossaires grammaticaux de manuels de terminale de lycée général, qui constituent une base de travail. Le jury souhaite attirer l’attention des candidats sur quelques points faibles récurrents et problématiques, non exhaustifs, qui engagent l’intelligibilité des propos tenus et/ou leur sens et sont donc pénalisants à ce niveau :
+
+\- les erreurs liées aux constructions verbales, notamment aux formes négatives et
+
+interrogatives ; - la maîtrise des temps grammaticaux et notamment la référence au passé ; - le discours indirect ; - la forme passive ; - la construction et l’utilisation des modaux ; - l’expression du but et de la cause ; - les prépositions ; - les pronoms relatifs.
+
+▪ Deux priorités concernant l’anglais oral
+
+Comme il l’a été évoqué plus haut, la première recommandation et, donc, la priorité pour les candidats doit être la prononciation correcte des termes courants du lexique général comme de celui des affaires, qui engage l’intelligibilité du propos. Le jury souhaite par ailleurs attirer l’attention des candidats sur la réalisation, à l’oral, de certaines terminaisons grammaticales, omises ou erronées, comme les \<-s\> ou les \<-ed\>, qui emportent des considérations de sens essentielles comme la distinction entre singulier et pluriel ou le repérage temporel.
+
+34
+
+UE 7 : Mémoire
+
+Il est rappelé aux candidats que cette épreuve s’appuie sur un mémoire de niveau master et non un rapport de stage. Le mémoire bien que professionnel ne peut donc pas être uniquement le descriptif des activités réalisées ou d’un point étudié lors du stage ou de l’expérience professionnelle.
+
+Le jury constate que le niveau de français de certains candidats reste encore faible (syntaxe, accords grammaticaux, orthographe). Cela est d’autant moins acceptable que le mémoire peut faire l’objet d’une relecture. Les normes de présentation des éléments bibliographiques doivent être respectées.
+
+Le mémoire doit permettre au jury d’apprécier la capacité du candidat à définir une problématique de gestion spécifique, liée à l’activité professionnelle et ancrée dans la pratique, à utiliser les références théoriques et conceptuelles appropriées et à mettre en œuvre une démarche méthodologique pertinente, adaptée au traitement de la problématique retenue (une démarche hypothético-déductive est possible mais n’est en rien obligatoire). Or, les commissions académiques relèvent trop souvent la quasi-absence ou un manque de problématique. De même, les démonstrations (quand elles existent) sont lacunaires. Les candidats manquent également d’analyse et de recul par rapport au sujet. Ainsi, un nombre trop important de mémoires s’assimile davantage à des rapports théoriques qu’à des réflexions sur des pratiques professionnelles en vigueur.
+
+Les annexes du mémoire doivent présenter un intérêt pour la démonstration et être pleinement mobilisées dans le corps du texte. Il est important que le candidat cite correctement ses sources bibliographiques, qui ne peuvent venir que d’internet (ouvrages, articles dans des revues académiques et professionnelles …), et identifie clairement dans le mémoire les parties qui seraient issues de ces sources qu’il doit analyser et critiquer. Le plagiat est strictement interdit et le candidat qui s’y livrerait encourt l’annulation de sa session et l’interdiction de se présenter aux examens. Si le recours à l’intelligence artificielle (IA) n’est pas interdit, notamment pour un exercice de reformulation, comme une ressource, toujours en responsabilité, en transparence et dans le respect des droits d’auteur1, le recours à l’IA pour la rédaction de tout ou partie du mémoire n’en fait plus un exercice personnel que le candidat peut soutenir à l’oral.
+
+La soutenance du mémoire n’est en effet pas non plus à négliger ; elle doit être préparée en tant que telle pour une présentation dynamique et fluide dans le temps imparti, tournée autour du traitement de la problématique retenue (il ne s’agit pas de « simplement » résumer le mémoire mais bien de valoriser le travail personnel conduit). Le candidat doit se trouver en capacité de répondre aux questions de la commission académique et démontrer la maîtrise de son sujet, dans une posture la plus professionnelle possible, attendue niveau Master.
+
+1 Cf. intervention de Yves Deville, Professeur à l’école polytechnique de Louvain, lors du colloque annuel de la CTI des 3et 4 février 2025, à l’INSA de Lyon.
+
+35
+
+7\. Retour sur la session VAE du DSCG 2024
+
+Depuis la session 2020, le nombre de dossiers déposés se stabilise autour d’une centaine de dossiers. Pour la session 2024 : Nombre de dossiers déposés : 99 Nombre de candidats présents à l’oral : 97 Nombre de candidats demandant une validation intégrale : 65 Nombre de candidats demandant une validation partielle : 34
+
+Evolution du nombre de dossiers de VAE déposés pour l'obtention du DSCG
+
+280
+
+272 267
+
+260 240
+
+217 220 200 180
+
+182 175
+
+160
+
+126 133 131 144 140 120 100
+
+98 107 105
+
+91 99
+
+80
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Le jury a statué ainsi sur ces demandes :
+
+2024 2023 Candidats inscrits 99 91 Candidats auditionnés 97 90 Candidats demandant la validation intégrale\* 65 52
+
+accord du jury pour une validation totale 12 7 accord du jury pour une validation partielle 36 34 refus du jury 17 11 Candidats demandant une validation partielle\*\* 34 39
+
+accord du jury pour toutes les UE demandées 15 9
+
+accord du jury pour une validation partielle 10 20 refus de validation 9 10 \*sans bénéfice et sans dispense \*\*dispenses et bénéfices acquis
+
+36
+
+Le jury national a étudié tous les dossiers présentés aux commissions académiques et s’est attaché à s’assurer, en particulier, de la présence dans le livret 2 des éléments de preuve de l’expérience de chaque candidat. Le jury invite les candidats à veiller scrupuleusement à la qualité, la complétude et à l’intégrité du dossier numérique déposé, pour en faciliter la prise de connaissance et son évaluation. Au final, 27 candidats obtiennent le diplôme par la voie de la VAE, soit 27% des candidats inscrits (17% en 2023 et 2022) ; 46 candidats valident a minima une UE, sans pour autant obtenir le diplôme par cette voie (59% en 2023). Le jury ne valide aucune UE pour 25 candidats sur 99 (21 candidats sur 91 en 2023). D’une manière générale, le jury constate une augmentation qualitative des dossiers de VAE déposés par les candidats en termes de présentation et d’argumentation, même si certains dossiers restent encore très perfectibles. A cette fin, l’analyse des dossiers de VAE et en particulier des livrets 2 fait ressortir des points d’amélioration qui sont listés ci-après.
+
+Conseils pour la description des expériences professionnelles et la validation des compétences professionnelles pour la session 2025
+
+Il est demandé aux candidats de documenter obligatoirement les expériences professionnelles leur permettant de valider les compétences liées aux UE demandées dans le cadre de la démarche de VAE. Un livret 2 non documenté ne permet pas de valider les UE. Un remplissage approximatif de la feuille EXCEL n’est, en aucun cas, suffisant ; le candidat doit également apporter des éléments de preuve de son expérience professionnelle en lien avec les compétences attendues et seules les expériences professionnelles en lien avec les compétences visées par le référentiel doivent être décrites. L’oral permet de conforter le dossier écrit (degré de maîtrise des compétences professionnelles du candidat) et non, et en aucun cas, de suppléer une carence d’explication du livret 2, d’où l’importance de bien préparer et documenter en amont ce livret (avec rappel préconisé du curriculum-vitae du candidat). Pour autant, cette documentation indispensable ne doit pas se traduire par une inflation démesurée du nombre de pages du dossier qui, en toute logique, pourrait se limiter à une centaine de pages pour la description des compétences (grilles et commentaires à la suite de chacune des grilles). La production de livrets qui excédent 1 000 pages montre le peu de capacité à choisir avec soin les expériences probantes et à les présenter de manière concise.
+
+Le candidat ne peut pas se retrancher derrière le secret professionnel pour ne pas exposer ses expériences professionnelles à l’appui des compétences demandées. Pour autant, il doit le respecter dans la présentation des annexes en particulier : il n’est pas tolérable de constater des documents non anonymés faisant état de l’identité de clients du cabinet, potentiellement connus des examinateurs, même si ces derniers sont astreints à un devoir de réserve et de discrétion. De même, un candidat qui n’a pas eu le temps de documenter son dossier n’a pas à indiquer qu’il a une activité professionnelle trop intense pour pouvoir remplir son dossier de VAE ; dans ce cas, il peut très bien se présenter à la session suivante pour disposer de tout le temps nécessaire pour présenter un dossier de qualité. Le candidat ne peut pas davantage se prévaloir de ses diplômes ou de validation des études supérieures (VES) obtenues sur des diplômes ou encore de formations suivies pour pallier une absence d’expérience professionnelle sur un domaine de compétence ; ces formations doivent lui permettre de se présenter aux épreuves ponctuelles du DSCG.
+
+Si les pratiques professionnelles (dossiers traités ou périmètre d’activités du candidat) n’évoluent pas de manière significative d’une année sur l’autre, il est préférable que le candidat s’oriente vers les épreuves ponctuelles du DSCG au lieu de présenter une nouvelle demande de validation au titre de la
+
+37
+
+VAE, qui lui sera refusée. En revanche, si les pratiques professionnelles ont évolué, le candidat mettra en avant dans le livret 2 les dossiers nouveaux qui lui permettent de demander un nouvel examen de son dossier par la commission académique pour une même UE.
+
+Spécifiquement pour l’UE6, il est demandé au candidat de démontrer que son expérience professionnelle lui permet de valider les compétences linguistiques requises par cette UE (pratique de l’anglais des affaires dans le cadre professionnel).
+
+Le jury rappelle qu’un candidat convoqué par le jury de VAE et absent le jour de l’entretien ne peut pas se voir délivrer la ou les UE demandée(s).
+
+38
+
+Conclusion :
+
+Le jury tient à féliciter tous les diplômés et à encourager ceux qui ne le sont pas encore et qui pourront l’être avec une bonne préparation, en suivant notamment les conseils fournis.
+
+Le jury tient également à remercier les collègues des divisions des examens et concours des rectorats, chargés d’organiser les épreuves sous l’autorité des rectrices et recteurs d’académie, les collègues IA- IPR mobilisés dans ces rectorats, ceux du SIEC ainsi que tous les examinateurs et correcteurs de l’ensemble des épreuves.
+
+Une commission pédagogique nationale sera mise en place à partir de mars 2025 pour les raisons suivantes :
+
+\- la rénovation en cours des programmes atteste de la nécessité d’en assurer un suivi au fil de
+
+l’eau, et non seulement entre deux réformes ; - la nécessité de suivre pédagogiquement le programme dont la version officielle publiée n’est
+
+pas suffisante ; - la nécessité d’accompagner les équipes pédagogiques, par des « guides » pour orienter, sur la
+
+base, notamment, des rapports académiques sur les épreuves et de consultations ; - la nécessité de structurer la démarche, qui ne relève pas des missions de la commission
+
+consultative ministérielle, ni des commissions formation institutionnelles (CNOEC et CNCC).
+
+A Paris, le 25 février 2025,
+
+Pour le jury, son président, Jean-Luc ROSSIGNOL
+
+39
+
+Annexe 1 : Résultats par académie pour les épreuves ponctuelles de la session DSCG 2023
+
+Académies
+
+Nombre de diplômables
+
+notés Taux de réussite
+
+ACADÉMIE D'AIX MARSEILLE 723 178 317 56,15%
+
+ACADÉMIE D'AMIENS 182 49 82 59,76%
+
+ACADÉMIE D'ORLÉANS-TOURS 277 67 116 57,76%
+
+ACADÉMIE DE BESANCON 150 34 64 53,12%
+
+ACADÉMIE DE BORDEAUX 967 186 408 45,59%
+
+ACADÉMIE DE CLERMONT-FERRAND 176 55 106 51,89%
+
+ACADÉMIE DE CORSE 47 11 18 61,11%
+
+ACADÉMIE DE DIJON 191 51 92 55,43%
+
+ACADÉMIE DE GRENOBLE 464 114 205 55,61%
+
+ACADÉMIE DE LA GUADELOUPE 93 9 30 30%
+
+ACADÉMIE DE LA GUYANE 8 0 0 -
+
+ACADÉMIE DE LA MARTINIQUE 47 4 14 28,57% ACADÉMIE DE LA NOUVELLE CALÉDONIE
+
+Total inscrits à l'examen
+
+Nombre d’ADMIS
+
+17 6 8 75%
+
+ACADÉMIE DE LA POLYNÉSIE FRANCAISE
+
+28 4 9 44,44%
+
+ACADÉMIE DE LA RÉUNION 140 11 49 22,45%
+
+ACADÉMIE DE LILLE 599 169 314 53,82% ACADÉMIE DE LIMOGES 81 19 37 51,35% ACADÉMIE DE LYON 910 218 416 52,40% ACADÉMIE DE MAYOTTE 3 2 3 66,67% ACADÉMIE DE MONTPELLIER 467 121 213 56,81%
+
+ACADÉMIE DE NANCY- METZ 303 65 115 56,52%
+
+40
+
+ACADÉMIE DE NANTES 1138 193 456 42,32%
+
+ACADÉMIE DE NICE 372 79 133 59,40%
+
+ACADÉMIE DE NORMANDIE - CAEN 155 52 101 51,49%
+
+ACADÉMIE DE NORMANDIE - ROUEN 198 38 83 45,78%
+
+ACADÉMIE DE POITIERS 158 36 67 53,73%
+
+ACADÉMIE DE REIMS 141 44 65 67,69% ACADÉMIE DE RENNES 1001 183 401 45,64% ACADÉMIE DE STRASBOURG 405 81 154 52,60%
+
+ACADÉMIE DE TOULOUSE 517 137 243 56,38%
+
+SIEC - ACADÉMIES DE CRETEIL PARIS VERSAILLES
+
+5052 835 1983 42,11%
+
+Total 15010 3051 6302 48,41%
+
+41
+
+Annexe 2 : Résultats par académie pour les épreuves ponctuelles de la session DSCG 2024
+
+Académies
+
+Nombre de diplômables
+
+notés Taux de réussite
+
+ACADÉMIE D'AIX MARSEILLE 779 174 331 52,57%
+
+ACADÉMIE D'AMIENS 202 35 86 40,70%
+
+ACADÉMIE D'ORLÉANS-TOURS 295 76 125 60,80%
+
+ACADÉMIE DE BESANCON 167 43 71 60,56%
+
+ACADÉMIE DE BORDEAUX 998 153 399 38,35%
+
+ACADÉMIE DE CLERMONT-FERRAND 191 39 100 39%
+
+ACADÉMIE DE CORSE 44 12 18 66,67%
+
+ACADÉMIE DE DIJON 190 69 97 71,13%
+
+ACADÉMIE DE GRENOBLE 449 87 190 45,79%
+
+ACADÉMIE DE LA GUADELOUPE 78 11 31 35,48%
+
+ACADÉMIE DE LA GUYANE 11 1 2 50%
+
+ACADÉMIE DE LA MARTINIQUE 54 3 16 18,75% ACADÉMIE DE LA NOUVELLE CALÉDONIE
+
+Total inscrits à l'examen
+
+Nombre d’ADMIS
+
+10 0 2 0%
+
+ACADÉMIE DE LA POLYNÉSIE FRANCAISE
+
+22 5 8 62,50%
+
+ACADÉMIE DE LA RÉUNION 164 25 70 35,71%
+
+ACADÉMIE DE LILLE 670 178 331 53,78% ACADÉMIE DE LIMOGES 102 27 51 52,94% ACADÉMIE DE LYON 1012 234 455 51,43% ACADÉMIE DE MAYOTTE 4 1 1 100% ACADÉMIE DE MONTPELLIER 491 101 203 49,75%
+
+ACADÉMIE DE NANCY- METZ 353 88 148 59,46%
+
+42
+
+ACADÉMIE DE NANTES 1283 226 557 40,57%
+
+ACADÉMIE DE NICE 409 85 171 49,71%
+
+ACADÉMIE DE NORMANDIE 379 105 198 53,03%
+
+ACADÉMIE DE POITIERS 152 34 72 47,22%
+
+ACADÉMIE DE REIMS 144 29 59 49,15% ACADÉMIE DE RENNES 1135 174 434 40,09% ACADÉMIE DE STRASBOURG 516 123 214 57,48%
+
+ACADÉMIE DE TOULOUSE 595 146 253 57,71%
+
+SIEC - ACADÉMIES DE CRETEIL PARIS VERSAILLES
+
+5158 823 1932 42,60%
+
+Total 16057 3107 6625 46,90%
+
+43

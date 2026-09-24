@@ -1,0 +1,521 @@
+=== PAGE 1 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+1/10 
+ 
+ 
+          1620005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SESSION 2016 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D'INFORMATION 
+ 
+ 
+ 
+Durée de l'épreuve : 3 heures  
+Coefficient : 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DSCG 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+2/10 
+ 
+                     1520005 
+ 
+ 
+ 
+ 
+ 
+SESSION 2016 
+ 
+ 
+ 
+MANAGEMENT DES SYSTÈMES D'INFORMATION 
+Durée de l’épreuve : 3 heures     -     coefficient : 1 
+ 
+Document autorisé : 
+Aucun. 
+ 
+Matériel autorisé : 
+Aucun. 
+ 
+Document remis au candidat : 
+Le sujet comporte 9 pages numérotées de 1/9 à 9/9. 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+ 
+Le sujet se présente sous la forme de 3 dossiers indépendants 
+ 
+Page de garde........................................................................................................................ page 1 
+Sujet ...................................................................................................................................... page 3 
+DOSSIER 1 - Gouvernance du système d'information ...................... (7 points) ................. page 4 
+DOSSIER 2 – Projet de SI................................................................... (8 points) ................. page 5 
+DOSSIER 3 - Sécurité et Audit en environnement informatique ....... (5 points) ................. page 5 
+ 
+ 
+Le sujet comporte les annexes suivantes 
+ 
+Annexe 1 – Projet de Gestion Électronique des Documents..................................................... page 6 
+Annexe 2 - Personnel et entreprises de service numérique de SOVANI ............................... pages 6 et 7 
+Annexe 3 - Cartographie applicative de SOVANI ................................................................... page 8 
+Annexe 4 - Les éditeurs d’ERP retenus ................................................................................... page 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AVERTISSEMENT 
+Si le texte du sujet, de ses questions ou de ses annexes, vous conduit à formuler une ou plusieurs 
+hypothèses, il vous est demandé de la (ou les) mentionner explicitement dans votre copie. 
+DSCG 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+3/10 
+ 
+SUJET 
+ 
+Il vous est demandé d’apporter un soin particulier à la présentation de votre copie. 
+Toute réponse devra être argumentée. 
+ 
+Cas « SOVANI » 
+ 
+La société anonyme SOVANI certifiée ISO 9001 est spécialisée dans la commercialisation 
+d’articles de bureau depuis 1996. 
+Le portefeuille des références proposées aux clients, particuliers et professionnels, s’est enrichi 
+au fil du temps pour comporter aujourd’hui près de 3500 éléments. Les références sont de valeur et 
+volume variés depuis des stylos ou classeurs aux mobiliers de rangement. 
+La société se tourne depuis deux ans vers les objets connectés tels que des stylos et montres 
+connectés mais aussi des bureaux connectés permettant de capter et modifier la lumière ambiante, 
+l’hygrométrie, la température, la présence du salarié à son poste de travail, etc. 
+Dans cette perspective, la société SOVANI doit veiller à la sécurité dans les échanges impliquant 
+ses secrets de fabrication. 
+La société SOVANI évolue dans un secteur concurrentiel très agressif et doit être réactive à tout 
+élément susceptible d’impacter sa performance. Ainsi, la maitrise des coûts, d’approvisionnement, 
+de stockage, de production, et de logistique est au cœur de ses priorités, c’est pourquoi le bon 
+fonctionnement de son système d’information constitue un axe privilégié de sa stratégie. 
+Le siège social de la société SOVANI est domicilié à Perpignan au sein d’un local de 2000m2 
+abritant l’activité administrative. Le personnel sur site est au nombre de 115 et œuvre notamment 
+dans les domaines comptable, financier, administratif et commercial. Le siège accueille également 
+un bureau des études Recherche et Développement (R&D) particulièrement sensible car il est 
+chargé d’élaborer les dossiers techniques des articles. Ce bureau des études R&D travaille en étroite 
+collaboration avec le bureau prototypage de SOVANI qui est, lui localisé à Lyon. 
+En effet, la société anonyme SOVANI propose à la vente des produits sous diverses marques 
+fournisseurs mais également ses propres produits sous la marque SOVANI. La production des 
+articles conçus en interne est confiée à des partenaires économiques localisés en France, en 
+Espagne, en Roumanie et en Chine. Cette dispersion géographique implique une logistique assez 
+lourde. 
+La société SOVANI dispose aujourd’hui de 350 points de vente sur l’ensemble du territoire 
+français et des pays limitrophes ainsi que d’un site web créé en 2013 qui a été installé sur le serveur 
+de la société SOVANI hébergeant également l’ensemble des données, des applications et des 
+sauvegardes. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+4/10 
+ 
+ 
+DOSSIER 1 - gouvernance du système d'information 
+ 
+ 
+Compte tenu de l’environnement concurrentiel et innovant dans lequel évolue SOVANI, le 
+système d’information constitue un vecteur majeur de performances. 
+La répartition des clients se présente ainsi en 2015 et 2014 pour SOVANI. 
+ 
+2014 
+2015 
+Magasins spécialisés 
+25 % 
+29 % 
+Grande distribution 
+55 % 
+47 % 
+Grandes entreprises 
+18 % 
+14 % 
+Particuliers 
+2 % 
+10 % 
+ 
+La société SOVANI a bénéficié depuis sa création en 1996 d’une croissance assez rapide qui a 
+imposé l’utilisation d’applications de plus en plus nombreuses au fil des années. Les logiciels en 
+lien avec les différentes problématiques du système d’information et notamment les objets 
+connectés, ont été installés au fur et à mesure des besoins, parfois urgents, sans véritables réflexion 
+d’ensemble. 
+ 
+Travail à faire 
+1 Après avoir défini le concept d’alignement stratégique (AS), lister les principaux 
+domaines à appréhender dans la logique du processus d’AS du Système d’information 
+(SI) de SOVANI? 
+2 Au regard des compétences internes en SI et des exigences inhérentes aux activités de 
+SOVANI, comment couvrir au mieux l’ensemble des missions du SI ? 
+3 En tenant compte de l’historique de SOVANI, justifier le recours à une réflexion sur 
+l’urbanisation du SI. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+5/10 
+ 
+ 
+DOSSIER 2 – PROJET de MODERNISATION DU SI 
+ 
+ 
+Le fonctionnement actuel du système d’information de la société SOVANI a conduit l’équipe 
+dirigeante à déclencher plusieurs projets en lien avec le système d’information. Le plus urgent dans 
+ces projets est celui concernant l’ERP ARTGEST déployé en 2005. En effet, l’éditeur de cet ERP, la 
+société ARTING, est en liquidation judiciaire depuis janvier 2016. 
+Un deuxième projet est à l’étude basé sur une technologie cloud. 
+SOVANI fait face à la nécessité de repenser le support applicatif sur lequel repose son système 
+d’information comptable et financier. Elle envisage de profiter des opportunités technologiques 
+liées aux environnements distants. Mme FOURNIER, directrice du système d’information, a 
+commencé à prospecter en ce sens et a sélectionné 3 Entreprises de Services du Numérique (ESN). 
+Toutes les trois seraient susceptibles de convenir au projet envisagé. Vous trouverez en annexe 
+quelques informations sur ces trois éditeurs. 
+ 
+Travail à faire 
+1 Présenter le faisceau d’éléments conduisant la société SOVANI à modifier l’ERP 
+ARTGEST actuellement en place. 
+2 Identifier et apporter des commentaires sur les principales étapes à adopter dans cette 
+perspective de mise en œuvre du projet ERP. 
+3 Proposer un récapitulatif des avantages et inconvénients des trois solutions proposées en 
+annexe. Justifier votre choix de la solution qui vous semble le mieux convenir à SOVANI. 
+4 Présenter sous forme de tableau, 3 facteurs de réussite d’une telle conduite de projet en 
+intégrant par exemple les référentiels et autres bonnes pratiques. 
+5 Dans le contexte du projet de modernisation de l’ERP de SOVANI, proposer des éléments 
+de comparaison entre les 3 alternatives cloud existantes. 
+ 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+6/10 
+ 
+ 
+DOSSIER 3 - SECURITE ET AUDIT EN environnement INFORMATIQUE 
+ 
+ 
+La société anonyme SOVANI est amenée à échanger des informations sensibles entre le service 
+R&D situé à Perpignan et le bureau de prototypage situé à Lyon. Il s’agit notamment des 
+informations concernant les objets connectés, axe d’innovation majeur de ces derniers mois. 
+Xavier DITER, directeur de la sécurité du système d’information de SOVANI et récemment 
+embauché, vient d’être contacté par le cabinet d’expertise comptable, EXPDNL à Perpignan, 
+concernant les missions d’audit en environnement informatique. 
+ 
+Travail à faire 
+1 Quel type de réseau peut-on mettre en place entre le service R&D de Perpignan et le 
+bureau de prototypage situé à Lyon afin de garantir la sécurité des échanges ? Préciser 
+les caractéristiques de fonctionnement de ce réseau. 
+2 Quels sont les enjeux et les conditions de réussite de l’audit financier au sein d’une 
+organisation informatisée telles que celle de SOVANI ? 
+3 Quelles sont les étapes d’un audit assisté par ordinateur ? 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+7/10 
+ 
+ANNEXE 1 – Projet de Gestion Electronique des Documents 
+La société SOVANI a déclenché depuis janvier 2015 une gestion électronique des documents 
+(GED) afin d’y puiser des éléments de performance tant dans la qualité des informations du système 
+d’information comptable et commercial que dans la réponse à apporter aux clients qui imposent des 
+échanges de documents (commandes, factures, etc.) exclusivement en environnement numérique. 
+La société SOVANI doit ainsi traiter un volume de factures clients conséquent mais dont 80% ne 
+comportent qu’une ligne de commande. 
+La réception des factures fournisseurs est dématérialisée à 70% et intégrée majoritairement dans 
+l’ERP (Entreprise ressource planning) nommé ARTGEST utilisé par la société SOVANI depuis 
+2005 au travers d’un module EDI (Echange de documents informatisés). Le reste des factures 
+fournisseurs doit faire l’objet d’un traitement spécifique au travers de scanners et logiciels de 
+reconnaissance de factures. Cette étape est source d’erreurs souvent difficiles à identifier. 
+La mise en place récente de cette GED a été effectuée dans l’urgence pour satisfaire au plus vite 
+aux exigences des clients. Cependant, les personnels ayant reçu une formation appropriée sont trop 
+peu nombreux à ce jour. De nombreux dysfonctionnements sont à déplorer, tels que pertes de 
+données, retards dans les traitements des commandes en raison de processus non valides, anomalies 
+significatives, doublons, etc. 
+ 
+ 
+ 
+ 
+ 
+ANNEXE 2 – Personnels et entreprises de service numérique de SOVANI 
+Le système d’information est géré en interne par 5 personnes dont les fonctions sont listées ci-
+dessous : 
+ 
+Noms et prénoms 
+Fonctions au sein du SI 
+Remarques 
+FOURNIER Florence 
+Directrice du Système d’Information (DSI) 
+Recrutée en 1996 
+DITER Xavier 
+Directeur de la Sécurité du SI  
+Recruté en septembre 2016 
+DUNOZ Clara 
+Technicienne réseau 
+A mi-temps 
+BARDOTIN 
+Mohammed 
+Technicien réseau  
+A temps plein 
+DORIN Elodie 
+Stagiaire  
+Bac + 2 Services 
+Informatiques 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+8/10 
+ 
+ 
+La société SOVANI fait appel à cinq entreprises de services du numérique (ESN) pour compléter 
+les missions inhérentes au SI. 
+ 
+Désignation 
+Missions 
+Société PLA 
+Prise en charge des connexions (câblage, wifi, etc.) dans l’enceinte des 
+bâtiments de Perpignan, de Lyon et des entrepôts de SOVANI. 
+Société NUFT 
+Prise en charge de la gestion électronique des documents au travers du 
+logiciel NUMIFACT. 
+Société DATAVOG 
+Prise en charge de toutes les procédures et stockage des sauvegardes. Il a été 
+fixé dans le cahier des charges de DATAVOG : 
+- 1 sauvegarde complète effectuée tous les dimanches à 01:00, 
+- 1 sauvegarde différentielle (c’est-à-dire une sauvegarde effectuée à partir 
+de la dernière sauvegarde complète) du lundi au samedi à 02 :00, 
+La société DATAVOG est également en charge des tests à effectuer sur la 
+lisibilité des sauvegardes. 
+Ces sauvegardes sont stockées sur le serveur de SOVANI, situé dans un local 
+sécurisé (ignifugé, digicode, étanche, taux d’humidité de l’air contrôlé, etc.) 
+au sous-sol du bâtiment administratif de Perpignan. 
+7 cartouches magnétiques de 2,5 TO chacune sont également utilisées (1 par 
+jour de la semaine) et stockées dans le bureau du PDG dont la porte est 
+souvent ouverte. Les sauvegardes de chaque jour écrasent celles du jour de 
+la semaine précédente. 
+La société DATAVOG a également en charge la mise en place de plan de 
+continuité d’activité, élaboré il y a 5 ans. Le plan est peu précis, les 
+procédures sont confuses et n’a jamais été déployé. 
+Société DATAPROD 
+La société DATAPROD est spécialisée dans l’édition de logiciels à 
+destination du secteur industriel. Domiciliée à Avignon, DATAPROD est aux 
+côtés de la société SOVANI depuis 1996 et a conçu différentes applications 
+en étroite collaboration avec le directeur de la production. 
+ 
+Désignation du 
+logiciel 
+Fonctionnalités du logiciel 
+ 
+DATAPRODINT 
+Gère les différentes fonctionnalités inhérentes à la 
+fabrication des fournitures et mobiliers de bureau en 
+interne. DATAPRODINT fait l’objet de nombreuses 
+mises à jour en cohérence avec les besoins de 
+SOVANI. Le logiciel donne toute satisfaction et est 
+parfaitement maitrisé. 
+ 
+CONCEPTPROD 
+Logiciel dédié aux travaux de recherche et d’études de 
+nouveaux produits. Logiciel essentiellement utilisé par 
+les ingénieurs qui en sont pleinement satisfaits. 
+Société ARTING 
+La société ARTING est une ESN ayant créé l’ERP ARTGEST pour SOVANI 
+en 2005. Le progiciel, a donné lieu à de très nombreuses formations rendues 
+nécessaires par l’ergonomie insuffisante du progiciel. 
+ARTGEST n’est que peu interopérable avec DATAPRODINT et 
+CONCEPTPROD. La maintenance, les formations, les mises à jour, sont 
+entièrement effectuées et facturées par ARTING auprès de la société 
+SOVANI. La société ARTING est mise en liquidation judiciaire depuis 
+janvier 2016. 
+FICHEBEN 
+
+=== PAGE 9 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+9/10 
+ 
+ANNEXE 3 – Cartographie applicative de SOVANI 
+Florence FOURNIER, la directrice du système d’information propose la cartographie applicative 
+suivante, actualisée au 1er septembre 2016. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATAPRODINT 
+Dernière mise à jour : 
+01/07/2016 
+ 
+- Traçabilité  
+- Organisation des ressources 
+- Ordonnancement 
+- Gestion de la qualité 
+- Plannings 
+- Gestion des incidents 
+ARTGEST 
+Dernière mise à jour : 
+01/12/2015 
+ 
+- Immobilisations  
+- Gestion commerciale 
+- Gestion RH 
+- Etats financiers 
+- Comptabilité 
+CONCEPT PROD 
+ 
+Dernière mise à jour : 
+01/07/2016 
+ 
+- Gestion suivi de projet 
+- Lien CAO 
+- Nomenclatures 
+- Analyse de rentabilité 
+NUMIFACT 
+ 
+- Numérisation des documents 
+- Stockage des documents 
+- Échanges et circulation des 
+documents 
+FICHEBEN 
+
+=== PAGE 10 ===
+DSCG 2016 UE5- Management des systèmes d’information  
+10/10 
+ 
+ 
+ANNEXE 4 – Quelques informations sur trois éditeurs d’ERP 
+ 
+ 
+DATAPROD 
+DATAMM 
+DATAGC 
+interfaçage PRODINT et 
+CONCEPTPROD 
+licence utilisateur 
+version uniquement 
+française/ multi devises 
+maintenance matérielle et 
+logicielle 
+infogérance 
+éditeur localisé à Perpignan 
+mode SAAS 
+sauvegarde gérée en mode 
+cloud par l’éditeur 
+délai d’implémentation 6 
+mois 
+autres clients ayant des sites 
+web 
+GED 
+AAO (Audit Assisté par 
+Ordinateur) 
+- petite entreprise flexible et réactive 
+- coût licence ERP bas 
+- pas de version web 
+- multi lingue / multi devises 
+- éditeur localisé à Montpellier 
+- pas de mode SAAS 
+- sauvegarde à l’identique de 
+l’actuelle 
+- délai d’implémentation 1 mois 
+- GED 
+éditeur à forte notoriété 
+orienté grands groupes 
+licences site quel que soit le nombre 
+d’utilisateurs 
+multi lingue / multi devises 
+éditeur localisé à Lille 
+sécurité optimale 
+package formation inclus 
+maintenance logicielle 
+délai d’implémentation 1 an 
+interfaçage web 
+GED 
+AAO (Audit Assisté par Ordinateur) 
+ 
+FICHEBEN 
