@@ -1,0 +1,757 @@
+=== PAGE 1 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 1 / 10 
+Éléments indicatifs de corrigé 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+SESSION 2020 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ 
+ET DE GESTION 
+FICHEBEN 
+
+=== PAGE 2 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 2 / 10 
+ 
+DOSSIER 1 – DIAGNOSTIC STRATÉGIQUE ET PRÉCONISATIONS STRATÉGIQUES 
+(60 points) 
+ 
+ 
+ 
+PARTIE A – DIAGNOSTIC STRATÉGIQUE 
+ 
+1. 
+Décrire et expliquer les principaux éléments d’un diagnostic stratégique (situation de 
+l’entreprise sur son secteur) que l’on retrouve de façon générale dans les démarches 
+visant à en réaliser. 
+- 
+choix d’un outil de diagnostic stratégique : 5+1 forces de Porter, SWOT, PESTEL, autres… ; 
+- 
+identification des forces stratégiques versus faiblesses stratégiques, c’est-à-dire pouvant 
+impacter les performances à long terme, à l’aide de la méthode choisie ; 
+- 
+analyse des résultats du diagnostic stratégique pour définir le positionnement stratégique actuel 
+et décider du positionnement stratégique souhaité, ce qui entrainera la définition d’un nouveau 
+plan stratégique pour chercher à atteindre le positionnement souhaité. 
+ 
+2. Présenter la démarche de diagnostic choisie en expliquant les raisons de votre choix. 
+Celui-ci devra tenir compte des forces concurrentielles présentes sur la zone 
+géographique de SER-SART. 
+ 
+La formulation de la question conduit à la description d’un diagnostic selon la démarche des forces de 
+Porter qui permettent d'évaluer la concurrence sur un marché, grâce à l'analyse de 5+1 forces :  
+l'intensité concurrentielle, le pouvoir de négociation des clients, celui des fournisseurs, la menace 
+des produits de substitution et celle de nouveaux entrants, le pouvoir réglementaire. 
+ 
+Néanmoins, la démarche choisie peut aussi s’appuyer sur d’autres méthodes, par exemple sur la 
+matrice SWOT à 4 éléments en faisant ressortir les forces concurrentielles dans l’analyse : forces, 
+faiblesses, opportunités et menaces. 
+ 
+3. 
+Présenter les résultats de votre diagnostic stratégique selon la démarche choisie sous la 
+forme d’une note de synthèse pédagogique et clair. 
+ 
+En suivant la démarche de type SWOT, et à titre indicatif, ci-dessous des pistes de réponses 
+possibles : L’entreprise a des forces attractives sur lesquelles appuyer un développement : 
+- prestations différentes regroupées dans un même espace avec location d’espace de travail ; 
+- suivi individuel et ambiance agréable ; 
+- prix dans la moyenne et bassin de clients potentiels important. 
+ 
+Questions à se poser pour orienter des évolutions stratégiques : 
+- Faut-il recruter une autre personne avec compétence informatique et/ou juridique pour ouvrir le 
+dimanche et réduire le temps de réponse pour les prestations de service ? 
+- Faut-il proposer d’autres services ou au contraire réduire les prestations pour se focaliser sur les 
+domaines de compétences ? 
+- Faut-il ouvrir le dimanche ? 
+ 
+Il faudrait également associer d’autres informations, comme les coûts, la valeur perçue par les 
+clients, les tarifications possibles pour préciser l’analyse stratégique et les choix stratégiques 
+possibles. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 3 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 3 / 10 
+ 
+ 
+PARTIE B – ANALYSE DES COÛTS, DE LA VALEUR ET DES TARIFS  
+ 
+4. 
+Pour chacune des activités de Sert-Start qui seront regroupées en 5 activités principales 
+(location, restauration, service juridique, service informatique service marketing et 
+finances) analyser leur coût unitaire, leur marge et  leur seuil  de rentabilité. 
+ 
+Analyse des coûts avec clés de répartition :  
+ 
+Coût total 
+location espace 
+Restauration 
+Service J 
+Service I & D 
+Service C 
+Total 110 000  
+Coût total par 
+prestation ou pôle 
+20 400 
+30 000 
+12 000 
+27 600 
+20 000 
+Coût unitaire 
+ 
+ 
+ 
+ 
+ 
+UE retenue et 
+quantité 
+Nb h 
+gestionnaire 
+= 2 500 
+Nb h 
+gestionnaire 
+= 2 500 
+Nb de 
+prestations = 
+40 
+Nb de 
+prestations 
+= 20 
+Nb de 
+Prestations 
+= 80 
+Coût unitaire  
+8,16 
+12 
+300 
+1 380 
+250 
+Autre inducteur de 
+coût retenu et 
+quantité 
+Nb places 
+vendues 
+= 648 
+Nb unités 
+vendus 
+= 3 300 
+Nb h travail 
+ 
+= 1 000 
+Nb h travail 
+ 
+= 2 000 
+Nb h travail 
+ 
+= 2 000 
+Coût unitaire  
+31,48 
+9 
+12 
+138 
+10 
+ 
+- 
+Selon la clé de répartition, les résultats diffèrent : on va continuer une activité ou non (la moins 
+chère est la location avec l’unité « nb h gestionnaire » et c’est la restauration avec l’inducteur « 
+nb unités vendus »). Mais la pertinence des clés est discutable : l’UE « nb de prestations » sans 
+distinction n’est pas correcte et l’inducteur « nb d’heures totales de travail par personne » 
+semble représenter faiblement le type d’activité et son rendement. Il en ressort que selon le 
+critère, la différence de coût est de 1 à 10 pour une prestation ; il faudrait utiliser des inducteurs 
+plus proches de la réalité du fonctionnement. L’analyse par heure est peu pertinente : les 
+conseillers sont payés au forfait sans tenir compte des heures passées et le coût est estimé par 
+heure. Il faut calculer un coût plus proche de la réalité. 
+ 
+- 
+Il est difficile, à ce stade, d’orienter une décision. 
+ 
+- 
+Il manque des informations qualitatives pour orienter une décision : quel est le niveau de 
+difficulté et la qualité de la prestation ? Quel est le taux de satisfaction des clients ? la rapidité 
+de réponse est- elle un critère de satisfaction ? Quel degré d’utilité perçue par les clients pour 
+développer une prestation /ou arrêter une autre prestation ? Pourquoi la prestation « design logo 
+et crm » est-elle peu demandée ? liée au domaine d’expertise des 3 associés ? 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 4 / 10 
+ 
+Analyse des  résultats marges totales par prestation :  
+ 
+CA 
+Coûts totaux 
+Marge/ résultat 
+global 
+117 000 
+110 000 
+7 000 
+Dont Prestations conseil 
+- Juridique 
+- Informatique 
+- Finances & Design 
+14 000 
+20 000 
+21 000 
+12 000 
+27 600 
+20 000 
+(les 3 ensemble - 4 600) 
++ 2 000 
+- 7 600 
++ 1 000 
+Dont Location et restauration 
+62 000 
+50 400 
++ 11 600 
+ 
+Analyse des seuils de rentabilité :  
+ 
+Il est possible de calculer un seuil de rentabilité qui a peu d’intérêt au niveau global, mais peut donner une 
+indication, si on le calcule par prestation. 
+ 
+Globalement : 
+CA – charges variables 
+117 000 – 28 000 
+= marge sur charges variables 
+= 89 000 
+Charges fixes 
+- 82 000 
+Résultat 
+= 7 000 
+SR = CF*CA/Mcv SR = 82*117/89 SR = 107 
+ 
+Par type de prestation : 
+Location 
+Restauration Service J Service I&D 
+Service F 
+Total 
+CA 
+26 000 
+36 000 
+14 000 
+20 000 
+21 000 
+117 000 
+CV 
+2 400 
+12 000 
+2 000 
+9 600 
+2 000 
+28 000 
+M/CV 
+23 600 
+24 000 
+12 000 
+10 400 
+19 000 
+89 000 
+Taux de marge 
+91 % 
+67 % 
+85% 
+52% 
+90% 
+76% 
+CF  
+18 000 
+18 000 
+10 000 
+18 000 
+18 000 
+82 000 
+M/Cts spécifiques 
+5 600 
+6 000 
+2 000 
+-7 600 
+1 000 
+7 000 
+ Charges fixes communes 
+Non donné 
+Résultat  
+ 
+ 
+ 
+ 
+ 
+ 
+SR 
+19800 
+27 000 
+11 600 
+34 600 
+19 900 
+SR 
+ 
+Les prestations informatiques constituent une perte alors qu’elles sont demandées et que les temps 
+d’attente sont longs – il faudrait analyser la possibilité de proposer plus d’heures d’informatique, 
+avec la même personne ou une autre, avec des tarifs différenciés et une rémunération non 
+forfaitaire. 
+La location est l’activité qui rapporte le plus mais le nouveau contexte après réouverture peut 
+modifier la marge avec des coûts supplémentaires. 
+ 
+Il apparait que location et restauration sont les activités plus rentables que les prestations de 
+service ; mais les charges semblent mal affectées aux activités : 
+- 
+mauvaise affectation des charges d’entretien de la salle, charges affectées à la seule location. 
+- 
+mauvaise affectation des frais généraux affectés aux trois seuls services, de manière équivalente. 
+- 
+le service informatique semble peu rentable alors que demandé mais mauvaise affectation de 
+l’entretien des postes informatiques, qui ne concerne pas que cette activité. 
+ 
+Le calcul d’une marge sur coûts spécifiques pour chaque activité doit mettre en évidence un problème avec 
+l’activité « Service I&D ». 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 5 / 10 
+ 
+5. 
+Conclure quant à la politique tarifaire pouvant être appliquée sur chacune des 5 activités  
+ 
+Chacune des 5 activités à ce stade de l’analyse posent des questions similaires quant à leur politique 
+tarifaire : 
+- 
+Faut-il faire des tarifs par jour, par matin/après-midi selon la fréquentation ? 
+- 
+Faut-il faire des prix différents selon le type de prestation, faire des tarifs dégressifs ? 
+- 
+Comment mieux calculer le coût des prestations pour mieux fixer les prix ? 
+ 
+Non explicitement demandé 
+Par exemple, partir du seul coût horaire des experts (rémunération/nb heures travaillées) et recueillir 
+le nb d’heures nécessaire pour une prestation afin de déterminer une meilleure approximation et 
+fixer le prix : Si la création d’un site informatique nécessite 50  h et que le coût horaire de l’expert  
+informatique est  18 000/2 000 = 9 €) alors la prestation coûte 450 € et on peut établir une 
+tarification différenciée entre 500 et 1000 €. 
+ 
+Sur les 5 activités, il faudrait donc il essayer de valoriser les prestations et rechercher une 
+tarification adéquate. 
+ 
+6. 
+Formaliser, de façon synthétique et quantifiée, les attentes des clients telles qu’elles 
+ressortent des enquêtes de satisfaction menées auprès d’eux. 
+ 
+À partir des enquêtes dans le nouveau contexte, il ressort que la demande se porte sur : 
+- 
+des prestations de conseil et de réparation plus nombreuses et plus diversifiées avec des services 
+précis ; 
+- 
+une plus grande disponibilité de plage horaire. 
+ 
+Ces deux attentes fortes plaident pour un développement des activités avec du personnel supplémentaire. 
+Cela nécessite des coûts supplémentaires à calculer pour déterminer des tarifs attractifs et rentables. 
+ 
+7. 
+Donner la définition de la valeur différenciatrice, en regard de l’offre, des concurrents et 
+des clients. Conclure quant aux conseils à donner aux clients pour élaborer une valeur 
+différenciatrice de leurs activités :   
+ 
+ 
+Il s’agit de présenter un ensemble de services avec un prix attractif ; quel est le prix d’acceptabilité du 
+client ? On peut l’approcher par l’analyse des données historiques chez l’entreprise et chez les 
+concurrents. Pour amorcer le développement, l’entreprise peut aussi proposer un prix plus bas que 
+celui du marché, pour une première période, avec un prix plus élevé sur d’autres prestations. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 6 / 10 
+ 
+PARTIE C – PRÉCONISATIONS STRATÉGIQUES 
+ 
+8. 
+Calculer la valeur pour le client et la valeur pour l’entreprise des packs 1 et 2 proposés 
+par l’entreprise. Conclure quant à la viabilité commerciale des deux packs.  
+ 
+Remarque : le calcul de la valeur pour le client est possible mais la valeur de l’entreprise ne peut être 
+qu’appréciée compte tenu des données du texte 
+ 
+Les packs sont simples et clairs ; il faut en vérifier la valeur pour le client et la valeur pour l’entreprise : 
+ 
+Prix selon tarif actuel 
+Prix 
+pack 
+Différence / valeur 
+pour le client 
+Valeur pour l’entreprise 
+Pack 1 
+1 mois location 200 + 
+2 prestations à 1 000 = 
+2 200 € 
+2 000 
+200 /gain financier 
+pour le client ; 
+souplesse des 
+prestations. 
+Valeur si prestations simples ; 
+si plusieurs packs vendus ; si 
+autres prestations plus chères 
+demandées. 
+Pack 2 
+1 an de location 2 000 + 
+5 prestations à 1 000 = 
+7 000 € 
+10 000 3 000/perte pour le 
+client 
+Forte marge mais nb heures 
+de travail illimité & demande 
+faible. 
+ 
+Donc le pack 2 n’est pas viable en l’état. De plus les locations à l’année sont peu demandées et 
+appréciées. 
+ 
+9. 
+Sur la base du diagnostic stratégique mené et des analyses réalisées sur les coûts, la 
+valeur et les tarifs des 5 activités principales de l’entreprise, expliciter le positionnement 
+stratégique qu’elle devrait adopter.  
+ 
+Positionnement stratégique : 
+- 
+1ère année : l’activité est rentable globalement mais avec des prestations déficitaires et des 
+prestations bénéficiaires ; 
+- 
+période suivante : il y a des prestations plus performantes ou plus attendues à privilégier et le 
+nouveau contexte conduit à modifier des activités ; 
+- 
+la spécificité de l’entreprise, c'est-à-dire proposer plusieurs services de conseil regroupés au 
+même endroit, est un atout concurrentiel à conserver, tout en les développant différemment. 
+ 
+10. Formaliser un plan de préconisations stratégiques que l’entreprise devrait suivre pour 
+développer son offre, sa rentabilité et la satisfaction de ses clients. 3 préconisations au 
+moins sont attendues. Justifier chacune des préconisations.  
+ 
+Préconisations 
+- 
+Tenir compte du nouveau cadre pour proposer des prestations plus fiables et plus différenciées : 
+* service conseil en développement (recruter une personne), 
+* service réparation informatique, 
+* proposer des soirées « rencontres » avec expert sur des points particuliers : par exemple, 
+10 soirées par an payante à 50 € avec buffet. 
+- 
+Mettre en place des espaces de locations plus nombreux sur des plages d’ouverture plus larges : 
+* poste individuel + boxe à 2 + salle de réunion à 4, 
+* ouverture le dimanche et plus tard le soir avec un gestionnaire supplémentaire. 
+ 
+- 
+Mettre en place un tarif dynamique pour attirer et fidéliser les clients : 
+* tarif espace : selon la taille de l’espace (poste, boxe, salle) et le jour, 
+* tarif prestations : carte de fidélité pour dégressivité ou cumul de plusieurs prestations. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 7 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 7 / 10 
+ 
+Dans le cas d’une extension de l’espace ; pour remplir les salles de réunion pour 4 personnes avec 
+boissons et wifi, qui est proposé à la journée à 100 €, il est possible de mettre en place un tarif 
+différencié : 
+- 
+Mise en place de tarif dynamique pour la location d’espace en tenant compte de la 
+fréquentation : moins cher le matin :10 % ; moins cher le mercredi et le samedi : 10 %. 
+- 
+Mise en place de tarif dynamique pour les prestations de service en prenant en compte la 
+fidélité : réduction pour une 3ème prestation (5 %), en dehors des packs, pour une 5ème 
+prestation (10%), etc. Il est possible d’appliquer ces réductions aux autres espaces. 
+ 
+11. Proposer un nouveau pack commercial qui permettrait de maximiser la valeur pour 
+l’entreprise et la valeur pour les clients. Justifier votre réponse.  
+ 
+Propositions de Valeur  
+Selon les attentes, il semble plus pertinent de proposer un pack plus court dans le temps mais moins 
+cher que la somme de plusieurs prestations, par exemple : 
+ 
+PACK 
++ 
+= 3 mois de location de 
+place (nb de jours 
+illimité, poste ou boxe à 
+2) et 3 prestations au 
+choix 
+Prix au tarif 
+actuel 
+600 + 3 000 
+= 3 600 
+Prix 
+pack 
+ 
+= 3 000 
+Valeur pour le 
+client : gain 
+financier et 
+souplesse des 
+services 
+Valeur pour 
+l’entreprise : 
+Trésorerie et client 
+potentiel pour autres 
+prestations 
+ 
+- Autre proposition de pack : 
+ 
+Les start-up sont, par définition, toutes différentes et spécifiques. Un pack personnalisé en fonction 
+des besoins et évolutif au fur et à mesure du développement semble préférable, à construire au cas 
+par cas ; à partir des coûts de chaque prestation, un pack personnalisé peut être proposé avec 10 % 
+de réduction pour le client et une marge plus faible. Un deuxième pack et suivants seraient proposés 
+avec un tarif dégressif. 
+ 
+- Accepter toutes propositions alternatives et construites 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 8 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 8 / 10 
+ 
+ 
+ 
+PARTIE A – AMÉLIORATION DES PROCESSUS 
+ 
+1. 
+Après avoir rappelé la différence entre un audit interne et un diagnostic interne, exposer une 
+méthodologie de diagnostic des processus internes d’une organisation en décrivant ses 
+éléments principaux (thèmes diagnostiqués, méthode de collecte des informations, méthode 
+de présentation du diagnostic etc.).  
+ 
+Un audit interne consiste à vérifier un fonctionnement réel par rapport à une norme formelle attendue 
+(comptable, sociale, juridique etc.) et se conclut par un rapport sur les écarts constatés.  
+ 
+Un diagnostic interne consiste à analyser un fonctionnement réel par rapport à un fonctionnement 
+souhaité et se conclut par des recommandations pour l’atteindre. L’audit interne se suffit à lui-même 
+alors qu’un diagnostic interne est la première étape d’un processus d’amélioration. 
+ 
+Un diagnostic interne consiste à : 
+1) Réaliser des entretiens avec les salariés concernés par son périmètre pour identifier les forces 
+et les faiblesses du fonctionnement interne ; 
+2) Les entretiens d’un diagnostic interne peuvent, par exemple, porter sur les 6 thèmes du 
+diagnostic socio-économique : conditions de travail, organisation du travail, communication-
+coordination- concertation, gestion du temps, formation intégrée et mise en œuvre stratégique ; 
+3) Idéalement, un diagnostic interne fait l’objet d’une séance de restitution auprès des interviewés 
+(appelée effet-miroir) pour en valider le contenu par consensus. 
+ 
+2. 
+À partir de la méthode de diagnostic choisie, exposer les dysfonctionnements principaux 
+touchant les processus internes de l’entreprise en expliquant en quoi ils sont des facteurs 
+perturbateurs des performances. 5 dysfonctionnements au moins sont attendus. 
+ 
+Dysfonctionnements repérés, par exemple : 
+- espace mal adapté ; 
+- hygiène insuffisante ; 
+- beaucoup de monde le vendredi alors qu’il n’y a que 2 personnes pour accueillir au lieu 
+de 3 personnes les autres jours de la semaine ; 
+- temps d’attente pour service informatique ; 
+- restauration peu écologique (vaisselle, produits non bio…). 
+ 
+3. 
+Pour chaque dysfonctionnement identifié, proposer une estimation des coûts annuels, soit 
+les pertes de valeurs, qu’ils engendrent pour l’entreprise. 
+ 
+La méthodologie des coûts-performances cachés est une possibilité pour estimer les coûts des 
+dysfonctionnements en termes de surtemps, sursalaires, surconsommations, non production, non 
+création de potentiel et risques. Appliquée aux dysfonctionnements repérés, au travers d’entretiens 
+complémentaires, elle permettrait d’estimer en euros et par an les coûts de : 
+- 
+l’espace mal adapté en termes de non production ; 
+- 
+l’hygiène insuffisante en termes de risques ; 
+- 
+la mauvaise gestion de l’accueil en termes de surtemps et non production ; 
+- 
+le temps d’attente pour service informatique en termes de non production ; 
+- 
+la restauration peu écologique en termes de risques et de non production. 
+ 
+ 
+DOSSIER 2 – AMÉLIORATION DES PROCESSUS ET DE LEUR PILOTAGE 
+(40 points) 
+FICHEBEN 
+
+=== PAGE 9 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 9 / 10 
+ 
+4. Idéalement, pour trouver des solutions pertinentes d’amélioration, il faudrait mettre en place un 
+groupe de projet. Exposer la méthodologie de groupe de projet qui pourrait être conduite 
+avec les 3 associés au plan de ses dispositifs, de ses outils et de son planning.  
+ 
+Un groupe de projet type est généralement constitué d’un groupe restreint avec le chef de projet et 
+l’animateur du groupe de projet pour définir le cahier des charges du groupe de projet puis valider les 
+solutions qui vont en émerger, et d’un groupe plénier avec l’ensemble des participants du groupe de projet 
+et son animateur.  
+Un groupe de projet se réunit dans une entreprise classique 4 à 5 fois à raison d’une fois toutes les 3 
+semaines à un mois pour inventer des solutions d’amélioration par rapport à des dysfonctionnements 
+diagnostiqués.  
+Dans le cas des 3 associés, compte tenu des particularités de l’entreprise, de sa petite taille et de son 
+besoin de réactivité, on peut poser l’hypothèse d’un groupe de projet sans groupe restreint, qui réunisse 
+l’animateur (le consultant externe) et les 3 associés dans 2 à   3 séances de travail de 2 heures 
+chacune, plus ramassées dans le temps que dans une entreprise classique, c’est-à-dire une séance par 
+semaine sur 3 semaines.  
+Cela pour discuter, réfléchir et co-construire avec l’animateur des solutions d’amélioration pertinentes aux 
+dysfonctionnements repérés. Les outils utilisés en groupe de projet sont les plans d’actions, une fois les 
+solutions d’amélioration validées, et la balance économique des solutions pour vérifier que les coûts de 
+mise en œuvre qu’elles vont engendrer sont bien inférieurs aux coûts des dysfonctionnements qu’elles 
+traitent. 
+ 
+5. Proposer une solution d’amélioration pour chacun des dysfonctionnements identifiés, en 
+vous assurant que le coût annuel de ces solutions est bien inférieur au coût annuel du 
+dysfonctionnement visé. Justifier chacune de vos réponses. 
+ 
+Pour chaque solution inventée, il convient de s’assurer au moyen d’une balance économique que son coût 
+de mise en œuvre annuel est bien inférieur aux coûts annuels du dysfonctionnement qu’elle vise à traiter. 
+Cela permet de s’assurer de la rentabilité de la solution envisagée avant de la mettre en œuvre. 
+* solutions possibles : 
+- 
+nouveaux services de conseils à proposer : informatique, données client, ; 
+- 
+des packs et des tarifs différenciés selon jour et prestations ; 
+- 
+changer les procédures : 
+o déterminer le nombre de personnes en même temps dans l’espace, 
+o proposer un accès avec réservation, 
+o séparer les tables avec du plexiglass. 
+- 
+aménager l’espace de fonctionnement : 
+o gel et masques à disposition, 
+o vaisselle jetable, écologique en bambou, bocks individuels rechargeables. 
+- 
+modifier les plages horaires d’ouverture : journée plus longue ouverture le dimanche ; 
+- 
+proposer des tarifs selon affluence, selon prestation et selon durée ; 
+- 
+si grands boxes C à louer, nouveaux tarifs et procédures de réservation à déterminer. 
+* autres solutions à moyen terme : 
+- 
+investir dans du personnel pour la gestion et l’entretien de l’espace ; 
+- 
+recruter un expert informatique ; 
+- 
+organiser les rencontres débats thématiques. 
+* analyse et calcul des nouveaux coûts : 
+En regroupant les charges générées par les modifications des processus et des activités, il vient, pour 
+une année : 
+- 
+entretien et hygiène supplémentaire = 1 200 € ; 
+- 
+recrutement d’un nouveau gestionnaire = 36 000 € ; 
+- 
+recrutement d’un nouvel expert = 18 000 € ; 
+- 
+10 soirées rencontres (buffet) = 5 000 €. 
+Soit un coût total supplémentaire de 60 200 €. 
+Il faut donc déterminer le nombre de prestations et leur prix pour supporter au minimum ces coûts. Des 
+simulations sont possibles, à partir des données passées ou des enquêtes clients. 
+ 
+FICHEBEN 
+
+=== PAGE 10 ===
+DSCG 2020 
+UE3 - Management et contrôle de gestion CORRIGÉ 
+Page 10 / 10 
+ 
+PARTIE B – CONSTRUCTION D’UN TABLEAU DE BORD DE PILOTAGE DES PROCESSUS INTERNES  
+ 
+6. 
+Après avoir défini la notion de tableau de bord de pilotage et celle d’indicateurs, mettre en 
+évidence les éléments à prendre en compte pour construire puis mettre en œuvre un tableau 
+de bord de pilotage qui serait utilisé fréquemment par ses utilisateurs pour décider et agir. 
+Justifier vos réponses.   
+ 
+7. 
+Quels 
+sont 
+les 
+différents 
+domaines 
+des 
+dimensions 
+économiques, 
+sociales 
+et 
+environnementales/sociétales de l’entreprise qui devraient faire l’objet d’indicateurs de 
+pilotage. Justifier les réponses.  
+ 
+8. 
+Pour chacun des domaines identifiés, proposer un indicateur de pilotage. Justifier vos 
+réponses.      
+ 
+Pour un pilotage de la performance globale, sur les trois dimensions, économiques, sociales et 
+environnementales, il faut déterminer les variables à piloter par l’entreprise, en fonction de ses FCS, de les 
+combiner et hiérarchiser le cas échéant et d’en déduire des indicateurs quantitatifs et qualitatifs ad hoc. 
+ 
+Pour « SER-START », l’économique et le financier est encore prioritaire en phase de développement. 
+ 
+*Domaines de pilotage à intégrer 
+* Indicateurs possibles 
+- financier : 
+- 
+objectifs de marges par prestation et global, 
+- 
+distribution de revenus aux associés 
+- 
+etc… 
+- commercial : 
+- 
+objectif d’extension de la part de M, 
+- 
+clients fidèles, 
+- 
+satisfaction sur les services proposés, 
+- 
+etc… 
+- environnemental, sociétal : 
+- 
+objectif de recyclage, 
+- 
+propreté, 
+- 
+confidentialité, 
+- 
+personnel, 
+- 
+etc… 
+- marge par prestation, par mois, par jour, 
+- % des frais de personnel (local/conseils), 
+- lien tarif et fréquentation, 
+- etc… 
+- taux de fidélité, taux de présence par jour, 
+- taux de satisfaction par prestation, 
+- % par classe d’âge, par type de client (incubateur 
+ou non) … 
+- taux recyclage alimentaire, rapport coût/bénéfice, 
+- taux recyclage électronique, rapport coût/bénéfice, 
+- indice de réputation, 
+- taux satisfaction propreté hygiène. 
+ 
+Il y a beaucoup de variables à décliner et d’indicateurs à proposer. 
+Un tableau de bord stratégique avec une dimension environnementale peut être proposé : 2 tableaux de bord 
+externes, financier et commercial, et 2 tableaux internes, organisationnel et environnemental. 
+ 
+ 
+FICHEBEN 

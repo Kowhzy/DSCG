@@ -1,0 +1,40 @@
+technique;libelle;sessions_2016_2025;sessions_2020_2025;sessions_2023_2025;derniere_apparition;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;dossiers
+RGPD;RGPD;5;5;2;2025;;;;;X;X;X;X;;X;2025 D3, 2023 D1, 2023 D3, 2022 D3, 2021 D3, 2020 D1, 2020 D2
+Gantt;Gantt;5;3;2;2025;;;X;X;;X;;X;;X;2025 D1, 2023 D2, 2021 D2, 2019 D3, 2018 D2
+methodes_projet;Méthodes de projet (V, agile);4;3;1;2023;X;;;;;X;X;X;;;2023 D2, 2022 D2, 2021 D2, 2016 D2
+PCA_PRA;PCA / PRA (RTO, RPO);3;3;1;2025;;;;;X;X;;;;X;2025 D2, 2021 D3, 2020 D2
+workflow;Workflow (facture);3;3;1;2023;;;;;;X;X;X;;;2023 D1, 2022 D2, 2021 D3
+alignement_strategique;Alignement stratégique;5;2;2;2025;X;X;;X;;;;;X;X;2025 D1, 2024 D2, 2019 D2, 2017 D1, 2016 D1
+urbanisation_strates;Urbanisation, strates du SI;4;2;2;2024;X;;;X;;;;X;X;;2024 D1, 2023 D2, 2019 D1, 2016 D1
+organisation_DSI;Organisation de la DSI;3;2;1;2025;X;;;;;X;;;;X;2025 D1, 2021 D1, 2016 D1
+conduite_changement;Conduite du changement;3;2;1;2024;;;;X;X;;;;X;;2024 D1, 2020 D3, 2019 D3
+securite_SI;Sécurité du SI;3;2;1;2023;;;X;;X;;;X;;;2023 D3, 2020 D2, 2020 D3, 2018 D3
+FCS_projet;FCS / risques d'un projet;3;2;0;2022;;;X;;;X;X;;;;2022 D1, 2021 D2, 2018 D1
+BYOD_ShadowIT;BYOD / Shadow IT;2;2;2;2025;;;;;;;;;X;X;2025 D2, 2024 D3
+conservation_legale;Conservation légale des documents;2;2;1;2023;;;;;;X;;X;;;2023 D1, 2021 D3
+facturation_electronique;Facturation électronique;2;2;1;2023;;;;;;;X;X;;;2023 D3, 2022 D2
+ERP;ERP / PGI;4;1;0;2020;X;;X;X;X;;;;;;2020 D3, 2019 D2, 2018 D1, 2016 D2
+referentiels_COBIT_ITIL_ISO;Référentiels (COBIT, ITIL, ISO);3;1;1;2025;X;X;;;;;;;;X;2025 D1, 2017 D2, 2016 D2
+indicateurs_SI;Indicateurs de performance/qualité du SI;3;1;1;2024;;X;;X;;;;;X;;2024 D2, 2019 D2, 2017 D3
+SaaS_OnPremise;SaaS vs On Premise;3;1;0;2022;X;;;X;;;X;;;;2022 D3, 2019 D2, 2016 D2
+BI_decisionnel;BI / décisionnel;2;1;1;2025;;X;;;;;;;;X;2025 D3, 2017 D1
+COPIL;Comité de pilotage;2;1;1;2023;;;X;;;;;X;;;2023 D2, 2018 D1
+methodologie_audit;Méthodologie d'audit SI;1;1;1;2025;;;;;;;;;;X;2025 D1
+PSSI_DIC;PSSI (DIC);1;1;1;2025;;;;;;;;;;X;2025 D2
+Zero_Trust;Zero Trust;1;1;1;2025;;;;;;;;;;X;2025 D2
+IAM_MFA;IAM, MFA, MDM;1;1;1;2025;;;;;;;;;;X;2025 D2
+gouvernance_donnees;Gouvernance des données;1;1;1;2025;;;;;;;;;;X;2025 D3
+erreurs_gestion_projet;Diagnostic d'un projet (erreurs);1;1;1;2024;;;;;;;;;X;;2024 D3
+note_synthese;Note de synthèse;1;1;1;2024;;;;;;;;;X;;2024 D3
+GED;GED;1;1;1;2023;;;;;;;;X;;;2023 D1
+gouvernance_SI;Gouvernance du SI;1;1;0;2022;;;;;;;X;;;;2022 D1
+schema_architecture;Schéma d'architecture;1;1;0;2022;;;;;;;X;;;;2022 D1
+schema_directeur;Schéma directeur;1;1;0;2021;;;;;;X;;;;;2021 D1
+indicateurs_couts_SI;Indicateurs de coût du SI;1;1;0;2021;;;;;;X;;;;;2021 D1
+dematerialisation;Dématérialisation (copie fiable);1;1;0;2021;;;;;;X;;;;;2021 D3
+chiffrement_VPN;Chiffrement, VPN;2;0;0;2018;X;;X;;;;;;;;2018 D3, 2016 D3
+PERT;PERT;1;0;0;2018;;;X;;;;;;;;2018 D2
+architecture_cloud;Architecture, cloud, virtualisation;1;0;0;2017;;X;;;;;;;;;2017 D2
+SLA;SLA / contrat de service;1;0;0;2017;;X;;;;;;;;;2017 D2
+TCO;TCO;1;0;0;2017;;X;;;;;;;;;2017 D2
+audit_informatise;Audit en milieu informatisé;1;0;0;2016;X;;;;;;;;;;2016 D3

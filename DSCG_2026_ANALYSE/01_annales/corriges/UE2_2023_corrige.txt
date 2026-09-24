@@ -1,0 +1,592 @@
+=== PAGE 1 ===
+23DSCG-UE2 
+Finance 
+Page 1/7 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE2 – FINANCE 
+SESSION 2023 
+Éléments indicatifs de corrigé 
+FICHEBEN
+
+=== PAGE 2 ===
+23DSCG-UE2  
+Finance 
+Page 2/7 
+ 
+DOSSIER 1 – PROJET D’INVESTISSEMENT ET OPTIONS RÉELLES (20 POINTS) 
+ 
+1. Thème options réelles : à partir des annexes 1 et 2 :  
+ 
+1.1. 
+Définir les hypothèses sous-jacentes au modèle proposé en annexe 1 et en expliquer l’utilité 
+pour les projets d’investissements.  
+ 
+Le modèle de Black et Scholes raisonne en temps continu. 
+ 
+La construction de ce modèle repose sur des hypothèses de base : 
+- aucun dividende ne doit être distribué ; 
+- il n’y a pas de coûts de transaction sur les marchés ; 
+- les taux d’intérêts doivent être constants et sans risque ; 
+- la volatilité est constante dans le temps ; 
+- il y a une absence d’opportunité d’arbitrage1. 
+ 
+ 
+Modèle de Black et Scholes 
+Évaluation d’options 
+Européennes 
+Temps 
+Continu 
+Loi 
+Loi Log Normale 
+ 
+En plus des hypothèses communes, le modèle se base sur les deux éléments suivants : 
+- il est possible de faire des ventes à découvert ; 
+- le cours de l’actif support évolue suivant un processus stochastique. Ce processus se nomme 
+« mouvement brownien géométrique ». 2 
+ 
+Le modèle de Black et Scholes est un modèle qui fonctionne en temps continu et qui est particulièrement 
+adapté pour déterminer la rentabilité des projets d’investissements lorsque ces derniers ont un caractère 
+conditionnel.  
+ 
+1.2. 
+Définir ce que sont une option réelle et une option d’expansion.  
+ 
+Les options réelles : « Les options réelles sont propres aux investissements industriels. Elles offrent le 
+droit, mais non l’obligation, de modifier un projet d’investissement, en intégrant notamment l’information 
+supplémentaire acquise sur ses perspectives de rentabilité. »3  
+ 
+Les options d’extension (ou d’expansion) de la production : ce type d’option est utilisable pour une 
+entreprise qui souhaite augmenter la production ou la consommation de ressources lorsque le marché 
+lui est favorable. Elle peut aussi décider de tout réduire si le marché lui est défavorable.  
+ 
+1.3. 
+En vous basant sur le modèle de Black de Scholes, déterminer le montant de l’option d’achat  
+ 
+Pour passer d’un taux discret à un taux continu, il y a lieu d’appliquer les logarithmes népériens, soit : 
+r = Ln (1,0425) = 0,0416 
+Valeur actuelle du sous-jacent = 1 178 996,24 * (1,0425)-4 = 998 178,39 k€ 
+Temps jusqu’à l’échéance = 4 ans  
+Volatilité mesurée par l’écart type = 30% 
+E = 1 000 000 k€ 
+D1 = 0,574 arrondi à 0,57 
+D2 = -0,026 arrondi à -0,03 
+N(d1) = 0,7157  
+N(d2) = 0,488 
+ 
+1 Arbitrage : « Stratégie qui consiste à échanger les titres de manière à obtenir un profit qui ne correspond pas à une création de 
+valeur par l’entreprise mais à un mauvais fonctionnement du marché où les prix ne reflètent pas parfaitement la prise la prise de 
+risque systématique et la valeur fondamentale du titre. », DEFFAINS-CRAPSKY C., RIGAMONTI E., (2015), Réussir le DSCG 
+2 – Finance, Eyrolles, 324 pages. 
+ 
+3 Vernimmen, Finance d’entreprise. 
+FICHEBEN
+
+=== PAGE 3 ===
+23DSCG-UE2  
+Finance 
+Page 3/7 
+ 
+Preuve  
+D1 = [Ln(9981478,39/1000000) + (0,0416 + 0.5x0.3²) x4] / 0.3x2 = 0,57429 = 0,57 
+D2 = 0,574 – 0,3x2 = -0,0257 = 0,03 
+Call = 998178,39 x 0,7157 – 1000000 x e(-0,0416*4) x 0,488 = 301 203 
+Après application de la formule de Black et Scholes, nous obtenons :la valeur de l’option est de 
+301 203 K€ 
+ 
+1.4. Conclure sur l’opportunité d’investir dans ces deux projets associés 
+ 
+Option d’expansion = 301 203 K€ 
+Valeur globale : - 30 068,87 + 301 203 = 271 134,13 K€ 
+Nous pouvons donc investir dans les deux investissements envisagés car si la VAN est négative, 
+l’option d’achat est largement supérieure à la VAN obtenue. Les forages, malgré une VAN négative 
+sont compensés par la création de valeur du futur gazoduc. 
+ 
+ 
+ 
+ 
+DOSSIER 2 – GOUVERNANCE D’ENTREPRISE ET ÉVALUATION (50 POINTS) 
+ 
+Partie 1 - Gouvernance 
+ 
+1. Avant le rachat de la société SONELGAZ, Monsieur DUMONT souhaite en analyser la 
+gouvernance. 
+ 
+1.1 Définir la gouvernance d’entreprise et ses mécanismes internes et externes en donnant des 
+exemples pour chacun d’eux. 
+ 
+Définition de la gouvernance   
+La gouvernance des entreprises peut se définir comme l’ensemble des mécanismes qui gouvernent le 
+comportement des dirigeants et délimitent leurs latitudes discrétionnaires. Selon l’acception retenue, 
+gouvernance actionnariales ou partenariales, il s’agit de normes qui contribuent à la convergence des 
+intérêts des dirigeants et des actionnaires versus les différentes parties prenantes (Gérard Charreaux, 
+1997 – Le gouvernement des entreprises : corporate governance. Théories et faits). 
+ 
+Les mécanismes internes et externes  
+Dans le cadre de la gouvernance actionnariale, ces mécanismes ont pour objectifs de contraindre les 
+dirigeants à agir en faveur des intérêts des actionnaires et non en leur propre faveur (maximisation du 
+revenu par exemple…) et pour leur propre intérêt. En effet, les actionnaires déléguent un pouvoir aux 
+dirigeants notamment en matière de prise de décision. 
+ 
+Les actionnaires vont alors utiliser deux catégories de mécanismes. 
+ 
+Externes  
+Le marché financier  
+Lois et réglementation, Codes de gouvernance 
+Le marché des dirigeants (marché du travail des dirigeants pour les remplacer) 
+L’endettement (il va contraindre le dirigeant à rembourser la dette). 
+ 
+Internes 
+Mise en place de comité d’audit, de rémunération (renforcement de la responsabilité du dirigeant) 
+Système incitatif de rémunération pour le dirigeant 
+Intégration de plus d’administrateurs indépendants dans le conseil d’administration 
+ 
+FICHEBEN
+
+=== PAGE 4 ===
+23DSCG-UE2  
+Finance 
+Page 4/7 
+1.2. Définir la « géographie du capital ». Quelle analyse peut-on faire pour la SA SONELGAZ 
+France en matière de gouvernance ? 
+ 
+La géographie du capital correspond à l’étude de la structure de l’actionnariat. Il s’agit d’analyser la 
+répartition des intérêts financiers et des droits de vote dans une entreprise. Cette étude permet de 
+situer le pouvoir dans l’entreprise et d’appréhender les objectifs des différents actionnaires. Cela 
+permet de comprendre la stratégie de l’entreprise. 
+ 
+Concernant la SA SONELGAZ France, il semble s’agir d’un actionnariat très majoritairement étatique 
+puisque la société est détenue à 63.64 % par l’État Boldave, tandis que l’État Français en détient 
+8.76 %. Les actionnaires financiers détiennent environ 27.60 % de la société mais ce ne sont pas eux 
+qui sont majoritaires. Il s’agit d’un modèle de gouvernance plutôt ADMINISTRÉ qui s’explique par le 
+caractère stratégique du gaz qui est une matière première essentielle pour la sécurité des 
+approvisionnements des États. 
+ 
+1.3. Que pensez-vous des éléments de gouvernance relatifs à cette entreprise ? 
+ 
+Nous constatons que la situation de la société est plutôt en dégradation avec un résultat qui baisse 
+d’année en année pour devenir négatif. Il en est de même concernant le rendement (rapport entre le 
+dividende et le cours). Le rendement baisse jusqu’en N+2 pour ensuite être nul puisque l’entreprise ne 
+verse plus de dividendes.  
+La situation est plutôt inquiétante, voire choquante, car malgré la dégradation de la situation, Monsieur 
+Albert PRAT voit sa rémunération fixe et variable augmenter d’année en année. 
+Si les administrateurs indépendants sont nombreux, ce qui est un gage d’intégrité, l’âge de ces 
+derniers est très avancé. On peut par ailleurs relever la très grande majorité d’hommes présents dans 
+ce conseil d’administration qui ne comprend qu’une administratrice. Un renouvellement est sans doute 
+souhaitable.  
+ 
+1.4. Le conseil d’administration comprend des administrateurs indépendants. Quelles sont les 
+qualités d’un administrateur indépendant ? (en citer au moins 4)  
+ 
+Selon le Code AFEP-MEDEF, les administrateurs doivent « avant tout [être] intègres, compétents, 
+actifs, présents et impliqués ». Une certaine part d’administrateurs indépendants au sein du conseil 
+« répond à une attente du marché » et est « de nature à améliorer la qualité des délibérations ». 
+ 
+2. Procéder à l'évaluation des capitaux propres de SONELGAZ France (en N) et de l’action 
+correspondante. 
+ 
+2.1. Calculer le coût moyen pondéré du capital (arrondir à deux chiffres après la virgule)  
+ 
+)
+(
+)
+,
+(
+var
+m
+m
+a
+R
+Variance
+R
+R
+iance
+Co
+=
+β
+ 
+ 
+Béta = (0,001214/0,00093384) = 1,3 
+ 
+Coût des capitaux propres : (5 %*1,3) + 5,5 % = 12% 
+ 
+Taux d’IS : 25 % 
+Coût des fonds propres : 12 % 
+Dettes financières : 1 400 millions d’euros 
+Nombre d’actions : 640 000 000 
+Cours de l’action : 32 €.  
+Taux d’intérêt : 4,6 % 
+ 
+Coût du capital = CMPC = CCP % * (CP/CP + DF) + DF % * (DF/DF + CP) * (1-IS) 
+ 
+Coût du capital = 12% * (640 000 000 * 32)/(640 000 000 * 32 + 1 400 000 000) + 4,6% * (1 400 000 
+000/(1 400 000 000 + 640 000 000 * 32) * (1-25 %) 
+ 
+Coût moyen pondéré du capital : 11.45 % (après arrondi à deux chiffres après la virgule) 
+FICHEBEN
+
+=== PAGE 5 ===
+23DSCG-UE2  
+Finance 
+Page 5/7 
+2.2. Retrouver le montant de la covariance (Ra, Rm) par le calcul (Faire obligatoirement un 
+tableau) (6 points – 0,5 par ligne du tableau juste – 6 points seulement si les résultats sont 
+justifiés, sinon 3 points seulement) 
+ 
+Mois 
+Ra 
+Rm 
+Ra - E(Ra) 
+Rm - E(Rm) 
+A * B 
+Janvier 
+5,40 % 
+6 % 
+3,9500 % 
+4,5733 % 
+0,1806 % 
+Février 
+2,40 % 
+2,50 % 
+0,9500 % 
+1,0733 % 
+0,0102 % 
+Mars 
+-0,60 % 
+-1,58 % 
+-2,0500 % 
+-3,0067 % 
+0,0616 % 
+Avril 
+4 % 
+4,20 % 
+2,5500 % 
+2,7733 % 
+0,0707 % 
+Mai 
+-3 % 
+-4,40 % 
+-4,4500 % 
+-5,8267 % 
+0,2593 % 
+Juin 
+4,60 % 
+5,40 % 
+3,1500 % 
+3,9733 % 
+0,1252 % 
+Juillet 
+1,40 % 
+1,80 % 
+-0,0500 % 
+0,3733 % 
+-0,0002 % 
+Août 
+-3 % 
+-3,50 % 
+-4,4500 % 
+-4,9267 % 
+0,2192 % 
+Septembre 
+3,80 % 
+4,20 % 
+2,3500 % 
+2,7733 % 
+0,0652 % 
+Octobre 
+4 % 
+4,50 % 
+2,5500 % 
+3,0733 % 
+0,0784 % 
+Novembre 
+-3,40 % 
+-4 % 
+-4,8500 % 
+-5,4267 % 
+0,2632 % 
+Décembre 
+1,80 % 
+2 % 
+0,3500 % 
+0,5733 % 
+0,0020 % 
+Moyenne 
+1,45 % 
+1,43 % 
+1,3354 % 
+Covariance 
+0,1214 % 
+ 
+Covariance (Ra, Rm) = (1/n-1) * Somme [(Ra -E(Ra)) * (Rm – E(Rm))] = 0,1214 % 
+ 
+2.3. Calculer le prix de l’action par la méthode des flux de trésorerie disponibles futurs 
+actualisés.  
+ 
+Années 
+N 
+N+1 
+N+2 
+N+3 
+N+4 
+N+5 
+CA HT 
+33 000,00 35 800,00 36 814,00 37 858,00 38 934,00 40 042,00 
+Taux de marge opérationnelle 
+  
+10,00 % 
+11,00 % 
+12,00 % 
+13,00 % 
+14,00 % 
+Résultat opérationnel avant IS 
+  
+3 580,00 
+4 049,54 
+4 542,96 
+5 061,42 
+5 605,88 
+Résultat opérationnel net d'IS 
+  
+2 685,00 
+3 037,16 
+3 407,22 
+3 796,07 
+4 204,41 
+Dotation aux amortissements 
+  
+1 432,00 
+1 840,70 
+2 271,48 
+2 336,04 
+2 402,52 
+CAF 
+  
+4 117,00 
+4 877,86 
+5 678,70 
+6 132,11 
+6 606,93 
+Variation du BFR 
+  
+-996 
+-858 
++990 
+-118 
+-522 
+Investissement 
+  
+2 148,00 
+1 840,70 
+1 514,32 
+1 557,36 
+1 201,26 
+FNT 
+  
+973,00 
+2 179,20 
+5 153,96 
+4 456,39 
+4 883,67 
+BFR 
+3300 
+4 296 
+5 154 
+4 164 
+4 283 
+4 805 
+Variation du BFR 
+  
+996 
+858 
+-990 
+118 
+522 
+Autres projections 
+  
+  
+  
+  
+  
+  
+Taux du BFR en % du CA 
+10 % 
+12 % 
+14 % 
+11 % 
+11 % 
+12 % 
+Taux d’investissement en % du CA   
+6 % 
+5,00 % 
+4 % 
+4 % 
+3 % 
+Amortissement en % du CA 
+  
+4 % 
+5,00 % 
+6 % 
+6 % 
+6 % 
+FNT 
+  
+973,00 
+2 179,20 
+5 153,96 
+4 456,39 
+4 883,67 
+FNT actualisés 11,45% 
+  
+873,04 
+1 754,43 
+3 723,07 
+2 888,67 
+2 840,1 
+FNT actualisés cumulés 
+  
+873,04 
+2 627,47 
+6 350,53 
+9 238,97 12 078,97 
+ 
+Valeur actualisée des flux à 11.45 % : 12 078.97 
+ 
+FICHEBEN
+
+=== PAGE 6 ===
+23DSCG-UE2  
+Finance 
+Page 6/7 
+Valeur terminale (appliquer le modèle de Gordon-Shapiro avec une progression géométrique de 
+2 %) : (4 883.37 * 1,02)/(11,45 % - 2 %) * 1,1145^-5 = 30 654,03 
+ 
+Soit une valeur globale de : 12 078,97 + 30 654,03 = 42 733 
+ 
+Il faut ensuite déduire les minoritaires, les provisions et les dettes : 
+42 733 – 1 400 (dettes) – 5000 (provisions) = 36 333 
+ 
+La valeur de l’action est de 56,77 €  (36 333 000 000/ 640 000 000) 
+ 
+2.4. Calculer le prix de l’action par la méthode des multiples au titre de l’année N+1 par 
+comparaison avec la société GRDF à appliquer aux indicateurs N de SONELGAZ France SA 
+(CA, EBIT, PER) 
+ 
+Actif économique (capitalisation boursière + dettes financières) : 8400 + 300 = 8 700 
+Actif économique/CA = 8 700/45 000 = 0,1933 
+Actif économique/EBIT = 8 700/2 000= 4,35 
+PER = 8 400/1 000 = 8,4 
+Le montant total des passifs du groupe SONELGAZ à déduire est de : 1400 + 5 000 = 6400 
+Valorisation selon le multiple de CA : 33 000 * 0,1933 – 6400 = - 20 
+Valorisation selon le multiple de l’EBIT : 3 500 * 4,35 – 6400 = 8 825 
+Valorisation selon le multiple du PER : 8,4 * 1 300 = 10 920 
+ 
+La valeur de l’action est donc : 
+• par rapport au multiple de CA = 0 € 
+• par rapport au multiple d’EBIT : 13,79 € 
+• par rapport au PER = 17,06 € 
+ 
+2.5. Ces méthodes sont-elles utilisables pour évaluer un fonds de commerce ? Pourquoi ? 
+Quelle(s) méthode(s) est-il possible de proposer dans ce cas de figure ?  
+ 
+Un fonds de commerce n’est pas comparable à une société cotée, qu’elle le soit sur un marché réglementé 
+ou non d’ailleurs et il ne peut donc pas être évalué selon la méthode des DCF ou des comparables. 
+ 
+Les méthodes traditionnellement utilisées pour valoriser un fonds de commerce sont : 
+ 
+- 
+la méthode du barème : on applique un coefficient multiplicateur au chiffre d’affaires qui va être 
+variable en fonction du type d’activité. C’est souvent la méthode retenue par l’administration fiscale 
+pour effectuer des redressements en cas de contrôle ; 
+ 
+- 
+la méthode qui utilise des critères de rentabilité : cette méthode est plus précise que la 
+précédente car c’est une moyenne qui est utilisée et qui se base sur le résultat net ou l’EBE. Une 
+fois cette moyenne obtenue, elle est ajustée pour tenir compte des spécificités du fonds de 
+commerce (emplacement, notoriété etc…). 
+FICHEBEN
+
+=== PAGE 7 ===
+23DSCG-UE2  
+Finance 
+Page 7/7 
+ 
+DOSSIER 3 - RSE ET GESTION DU RISQUE DE TAUX (30 POINTS) 
+ 
+Partie 1 - Stratégie RSE 
+ 
+1.1. Monsieur DUMONT a entendu parler de DPEF. De quoi s’agit-t-il ? Est-ce obligatoire pour 
+son entreprise ? 
+ 
+La DPEF est la déclaration de performance extra-financière. 
+Cette déclaration est obligatoire pour les sociétés dont les titres ne sont pas admis sur un marché 
+réglementé, mais pour lesquelles le CA ou le total du bilan dépasse 100 millions d’euros. 
+Cette déclaration est obligatoire pour les sociétés cotées avec plus de 500 salariés et avec un CA net 
+qui dépasse 40 millions d’euros ou que le total de son bilan dépasse 20 millions d’euros. 
+Au cas présent, la société GAZMEGA est cotée sur Euronext growth, un marché non réglementé. 
+ 
+Années 
+Nombre de 
+salariés 
+Chiffre 
+d’affaires 
+Total bilan 
+N-1 
+510 
+41 000 000 € 
+10 000 000 € 
+N 
+530 
+42 200 000 € 
+11 000 000 € 
+ 
+La société GAZMEGA doit faire une DPEF car elle a plus de 500 salariés et réalise un chiffre d’affaires 
+supérieur à 40 000 000€.  
+ 
+1.2. Monsieur DUMONT s’interroge également sur la possibilité de faire l’objet d’une notation 
+extra-financière. Expliquer l’utilité de cette démarche et citer au moins trois agences de 
+notation extra-financières généralistes à portée internationale susceptibles de pouvoir noter 
+GAZMEGA. 
+ 
+Le recours à la notation extra-financière peut permettre d’envoyer un signal positif et fort à destination 
+des actionnaires soucieux de l’environnement mais également des habitants des deux pays concernés 
+par le futur gazoduc. Les principales agences de notations sont les suivantes : Eiris, Inrate, MSCI ESG 
+research, Oekom Research, Solarom, Sustainabilitics, Vigeo-Iris.  
+ 
+ 
+Partie 2 - Gestion du risque de taux 
+ 
+1.1. À quel risque de taux est soumis la société GAZMEGA ?  
+ 
+La société GAZMEGA est exposée au risque de hausse du taux Euribor 6 mois. Cette hausse pourrait 
+aggraver le poids de la dette. 
+ 
+1.2. Calculer le montant des intérêts à payer lors de chaque échéance si la société recours 
+au swap et si elle ne réalise aucune couverture. Envisager successivement un taux 
+Euribor 6 mois égal à 2,90% puis à 3,75%. Présenter vos résultats dans un tableau.  
+ 
+Le taux variable Euribor 6 mois + 0,5% est échangé contre un taux fixe qui va être : Euribor 6 mois + 0,5% 
++ 3,5 % versé par l’entreprise – (Euribor 6 mois + 0,1 % versé par la banque) = 3,9% 
+ 
+Le taux variable est donc échangé contre un taux fixe de 3,9 % 
+ 
+Taux de l’Euribor 6 mois 
+Euribor 6 mois (2,90 %) 
+Euribor 6 mois (3,75 %) 
+Ne rien faire (aucune 
+couverture) 
+20 000 000 * 6/12 * (2,90 % + 0,5 %) 
+= 340 000 € 
+20 000 000 * 6/12 * (3,75 % + 0,5 %) 
+= 425 000 € 
+Swap de taux 
+Montant des intérêts : 340 000 € 
+Différentiel versé par l’entreprise : 
+0,5% * 20 000 000 * 6/12 = 50 000 
+Total : 390 000 € 
+Montant des intérêts : 340 000 € 
+Différentiel reçu par l’entreprise : 
+0,35% * 20 000 000 * 6/12 = 35 000 
+Total : 305 000 
+ 
+FICHEBEN

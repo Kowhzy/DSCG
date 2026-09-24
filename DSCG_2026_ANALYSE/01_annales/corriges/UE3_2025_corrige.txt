@@ -1,0 +1,1175 @@
+=== PAGE 1 ===
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+ 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+SESSION 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Éléments indicatifs de corrigé 
+F  I  C  H  E  B  E  N
+
+=== PAGE 2 ===
+ 
+LES TANNERIES MONTESQUIEU 
+ 
+ 
+ 
+1. Identifier les enjeux liés à la RSE auxquels est confrontée l’entreprise Les Tanneries 
+Montesquieu. 
+La RSE est un acronyme créé par la Commission de Bruxelles correspondant à la déclinaison du 
+développement durable à l’échelle de l’entreprise. 
+D’après la commission européenne, la RSE (Responsabilité sociale/sociétale de l’entreprise) peut 
+être définie comme l’intégration volontaire par les entreprises de préoccupations sociales et 
+environnementales à leurs activités commerciales et leurs relations avec les parties prenantes. Cette finalité 
+peut être décomposée en trois axes. 
+- 
+Un axe social afin de contribuer à l’épanouissement des salariés. L’entreprise Les Tanneries 
+Montesquieu prend davantage en considération les conditions de travail de ses salariés. Elle cherche à 
+répondre à leurs besoins pour qu’ils restent dans l’entreprise et qu’ils s’impliquent plus dans la vie de 
+celle-ci pour une meilleure qualité des produits et une meilleure productivité. 
+- 
+Un axe environnemental qui a pour principal objectif de respecter l’environnement en ne polluant pas, 
+par exemple. Les Tanneries Montesquieu tentent de limiter leur consommation d’eau, de réduire la 
+pollution liée à leur activité au niveau des rejets de polluants notamment en investissant dans une station 
+d’épuration. Cette entreprise espère ainsi améliorer son image et diminuer ses coûts. En effet, le coût 
+de la redevance étant important, réduire la consommation d’eau et les rejets de polluant permettrait de 
+réaliser des économies. De plus, la démarche du « Luxe responsable » est également un argument 
+commercial important qui peut contribuer à accroître la performance financière de l’entreprise et du 
+groupe Voltaire International dans son ensemble. 
+- 
+Un axe sociétal qui permet de défendre les intérêts des parties prenantes en proposant des emplois aux 
+citoyens, en payant ses impôts dans le pays, par exemple. L’entreprise Les Tanneries Montesquieu, en 
+réduisant ses rejets de polluants, tient compte des riverains souvent inquiets de la pollution et des 
+émanations de soufre pouvant occasionner des maux de têtes récurrents. De même, l’entreprise 
+cherche à réduire les risques d’allergies pour les consommateurs (porteurs de bracelets de montre en 
+cuir par exemple). Tout ceci concourt à améliorer son image. 
+2. Calculer le montant de la redevance d’assainissement versée en 2023 et en 2024 ainsi que 
+l’écart total sur redevance annuelle versée. 
+Nous commençons par calculer les coefficients de pollution moyen de chaque année : 
+Coefficients de 
+pollution moyen 
+(Cp) 
+Volume d'eau rejetée 
+en mètres cubes (Vd) 
+Pollution des eaux 
+(Vd x Cp) 
+2024 
+2023 
+2024 
+2023 
+2024 
+2023 
+Janvier 
+3,30 
+3,46 
+5 410 
+6 947 
+17 853,0000 
+24 036,62 
+Février 
+2,75 
+3,81 
+4 905 
+6 682 
+13 488,7500 
+25 458,42 
+Mars 
+3,72 
+3,49 
+5 824 
+2 820 
+21 665,2800 
+9 841,80 
+Avril 
+3,45 
+3,06 
+4 803 
+2 238 
+16 570,3500 
+6 848,28 
+Mai 
+2,54 
+2,90 
+3 871 
+3 280 
+9 832,3400 
+9 512,00 
+Juin 
+2,75 
+3,31 
+4 445 
+5 131 
+12 223,7500 
+16 983,61 
+Juillet 
+1,85 
+2,81 
+5 370 
+6 024 
+9 934,5000 
+16 927,44 
+Août 
+1,65 
+1,87 
+1 362 
+1 974 
+2 247,3000 
+3 691,38 
+Septembre 
+4,23 
+3,64 
+5 406 
+5 816 
+22 867,3800 
+21 170,24 
+Octobre 
+3,61 
+3,04 
+6 233 
+5 290 
+22 501,1300 
+16 081,60 
+Novembre 
+3,89 
+1,83 
+5 269 
+4 639 
+20 496,4100 
+8 489,37 
+Décembre 
+2,11 
+2,88 
+372 
+4 668 
+784,9200 
+13 443,84 
+Total 
+53 270 
+55 509 
+170 465,11 
+172 484,60 
+Coefficient de pollution 
+moyen 
+3,2000208 
+3,1073267 
+DOSSIER 1 – INCIDENCE DE LA RSE ET COÛT DE 
+F  I  C  H  E  B  E  N
+
+=== PAGE 3 ===
+ 
+La redevance versée s’élève à : 
+ 
+● en 2024 
+2,10 € x 53 270 x 3,2000208 = 357 976,73 € ; 
+● en 2023 
+1,97 € x 55 509 x 3,1073267 = 339 794,66 €. 
+ 
+L’écart total est égal à 357 976,73 € - 339 794,66 € = 18 182,07 € (défavorable) 
+ 
+3. Analyser l’évolution du coût de la pollution entre 2023 et 2024. Pour cela : 
+ 
+a. concevoir un schéma d’analyse de cet écart (identifier les différents sous-écarts et 
+proposer une formule de calcul pour chacun d’entre eux) ; 
+L’écart total est obtenu grâce au calcul suivant : Ru2024 x V2024 x Cp2024 – Ru2023 x V2023 x Cp2023. 
+ 
+En se basant sur les calculs classiques d’écarts, il peut être décomposé en deux sous-écarts (les noms 
+des sous-écarts donnés par les candidats peuvent différer mais les principes doivent être respectés) : 
+ 
+● écart sur redevance unitaire = (Ru2024 – Ru2023) x V2024 x Cp2024 ; 
+● écart sur pollution totale = (V2024 x Cp2024 - V2023 x Cp2023) x Ru2023. 
+ 
+Ce dernier sous-écart peut également être décomposé afin d’isoler l’impact financier des deux éléments 
+qui contribuent à la pollution totale (volume et concentration) : 
+ 
+● écart sur volume d’eau = (V2024 - V2023) x Cp2024 x Ru2023 ; 
+● écart sur concentration = (Cp2024 - Cp2023) x V2023 x Ru2023. 
+ 
+ 
+Remarque : il serait possible d’envisager un troisième sous-écart qui mesurerait l’impact des 
+différences entre coefficients de pollution mensuels et coefficient moyen de l’année. Celui-ci étant peu 
+significatif et difficile à utiliser, il n’est pas nécessaire de le calculer. 
+ 
+b. à partir de ce schéma, décomposer l’écart total sur redevance versée ; 
+IMPORTANT : les résultats présentés dans ce corrigé ont été obtenus à partir des données brutes, 
+sans aucun arrondi, afin de conserver la cohérence des écarts. Les réponses des candidats pourront donc 
+différer du fait de résultats arrondis. 
+ 
+ 
+● écart sur redevance unitaire = (2,10 € – 1,97 €) x 170 465,11 = 22 160,46 € (défavorable) 
+● écart sur pollution totale = (170 465,11 – 172 484,60) x 1,97 € = - 3 978,40 € (favorable) 
+ 
+La somme de ces deux sous-écarts correspond bien à la valeur de l’écart total calculé précédemment : 
+22 160,46 € + (- 3 978,40 €) = 18 182,07 €. 
+ 
+L’écart sur pollution totale est décomposé de la manière suivante : 
+ 
+● écart sur volume d’eau = (53 270 – 55 509) x 3,2000208 x 1,97 € = - 14 114,75 € (favorable) 
+● écart sur concentration = (3,2000208 – 3,1073267) x 55 509 x 1,97 € = 10 136,35 € (défavorable) 
+Solution alternative : 
+Un sous-écart qui mesure l’impact financier de la consommation d’eau 
+: Écart sur volume d’eau = (V2024 - V2023) x Cp2023 x Ru2023. 
+Un sous-écart qui mesure l’impact financier de la concentration de polluants 
+: Écart sur concentration = (Cp2024 - Cp2023) x V2024 x Ru2023. 
+Solution alternative : 
+Écart sur volume d’eau = (53 270 – 55 509) x 3,1073267 x 1,97 € = - 13 705,89 €. 
+Écart sur concentration = (3,2000208 – 3,1073267) x 53 270 x 1,97 € = 9 727,49 €. 
+F  I  C  H  E  B  E  N
+
+=== PAGE 4 ===
+ 
+c. à partir de l’annexe 5, calculer et analyser les écarts appropriés sur trois mois 
+significatifs. 
+IMPORTANT : les résultats présentés dans ce corrigé ont été obtenus à partir des données brutes, 
+sans aucun arrondi, afin de conserver la cohérence des écarts. Les réponses des candidats pourront donc 
+différer du fait de résultats arrondis. 
+ 
+Dans cette question, plusieurs possibilités peuvent être choisies par les candidats mais ils doivent 
+justifier leur choix de manière pertinente. Il pourrait s’agir des trois mois pour lesquels les écarts sont les plus 
+défavorables ou les plus favorables. 
+ 
+Nous choisissons d’étudier : 
+ 
+● le mois pour lequel l’écart est le plus favorable (donc négatif), soit décembre ; 
+● le mois pour lequel l’écart est le plus défavorable (donc positif), soit novembre ; 
+● le mois pour lequel l’écart est le plus faible, soit mai. 
+ 
+Les trois mois sélectionnés présentent les écarts suivants : 
+ 
+L'écart total sur redevance 
+versée se décompose en : 
+L'écart sur pollution totale se 
+décompose en : 
+Écart total sur 
+redevance 
+versée 
+Écart sur 
+redevance 
+unitaire 
+Écart sur 
+pollution 
+totale 
+Écart sur 
+volume d'eau 
+Écart sur 
+concentration 
+Mai 
+1 909,27 € 
+1 278,20 € 
+631,07 € 
+2 957,25 € 
+- 2 326,18 € 
+Novembre 
+26 318,40 € 
+2 664,53 € 
+23 653,87 € 
+4 827,88 € 
+18 825,99 € 
+Décembre 
+- 24 836,03 € 
+102,04 € 
+- 24 938,07 € 
+- 17 857,18 € 
+- 7 080,89 € 
+ 
+● L’écart sur redevance unitaire mesure l’impact financier de l’évolution de la redevance unitaire. 
+● L’écart sur pollution totale mesure l’impact financier de l’évolution de la pollution (globale) des 
+eaux. 
+ 
+Ce dernier sous-écart peut également être décomposé afin d’isoler l’impact financier des deux 
+éléments qui contribuent à la pollution totale (volume et concentration) : 
+ 
+● l’écart sur volume d’eau mesure l’impact financier de la consommation d’eau ; 
+● l’écart sur concentration mesure l’impact financier de la concentration de polluants. 
+ 
+En mai N, la somme versée est légèrement supérieure à celle de l’année précédente (1 909,27 €). Si 
+on annule l’effet de la redevance unitaire par mètre cube (dont l’entreprise n’est pas responsable), on obtient 
+un écart sur pollution totale très faible (631,07 €). Il est obtenu malgré un volume d’eau supérieur à l’année 
+précédente dont l’impact est partiellement compensé par une diminution de la concentration de polluants. 
+ 
+En novembre N, la redevance versée est très largement supérieure à celle payée lors du même mois 
+de l’année précédente (26 318,40 €). Une fois l’effet de la redevance unitaire gommé, on peut apprécier 
+l’impact financier de la pollution totale. Celui-ci est très important (23 653, 87 €). Il provient très largement (à 
+hauteur de 18 825,99 €) d’une concentration des polluants plus forte que l’année précédente et dans une 
+moindre mesure de la consommation d’eau (4 827,88 €). 
+ 
+En décembre N, la redevance versée est très largement inférieure à décembre 2023 (24 836,03 €). 
+L’effet redevance est très faible (102,04 €). C’est véritablement la pollution totale qui est responsable de cette 
+forte diminution de la redevance versée. Le volume d’eau rejeté a été fortement réduit, ce qui engendre une 
+baisse de la redevance de 17 857,18 €. C’est également le cas de la concentration des polluants. Plus faible 
+qu’un an plus tôt, elle permet à la fois de faire des économies grâce à une diminution de la redevance de 
+7 080,89 € et de réduire la pollution, ce qui contribue à respecter ses engagements en matière de RSE.
+F  I  C  H  E  B  E  N
+
+=== PAGE 5 ===
+ 
+Comme les candidats peuvent avoir choisi trois autres mois, le tableau suivant récapitule l’ensemble 
+des écarts : 
+ 
+L'écart total sur redevance 
+versée se décompose en : 
+L'écart sur pollution totale se dé- 
+compose en : 
+Écart total sur 
+redevance 
+versée 
+Écart sur 
+redevance 
+unitaire 
+Écart sur 
+pollution totale 
+Écart sur 
+volume d'eau 
+Écart sur 
+concentration 
+Janv. 
+- 9 860,84 € 
+2 320,89 € 
+- 12 181,73 € 
+- 9 992,04 € 
+- 2 189,69 € 
+Fév. 
+- 21 826,71 € 
+1 753,54 € 
+- 23 580,25 € 
+- 9 626,90 € 
+- 13 953,35 € 
+Mars 
+26 108,74 € 
+2 816,49 € 
+23 292,26 € 
+22 014,51 € 
+1 277,74 € 
+Avril 
+21 306,62 € 
+2 154,15 € 
+19 152,48 € 
+17 433,02 € 
+1 719,46 € 
+Mai 
+1 909,27 € 
+1 278,20 € 
+631,07 € 
+2 957,25 € 
+- 2 326,18 € 
+Juin 
+- 7 787,84 € 
+1 589,09 € 
+- 9 376,92 € 
+- 3 716,41 € 
+- 5 660,52 € 
+Juillet 
+- 12 484,61 € 
+1 291,49 € 
+- 13 776,09 € 
+- 2 383,50 € 
+- 11 392,59 € 
+Août 
+- 2 552,69 € 
+292,15 € 
+- 2 844,84 € 
+- 1 989,31 € 
+- 855,53 € 
+Sept. 
+6 316,13 € 
+2 972,76 € 
+3 343,37 € 
+- 3 416,57 € 
+6 759,94 € 
+Oct. 
+15 571,62 € 
+2 925,15 € 
+12 646,47 € 
+6 706,33 € 
+5 940,14 € 
+Nov. 
+26 318,40 € 
+2 664,53 € 
+23 653,87 € 
+4 827,88 € 
+18 825,99 € 
+Déc. 
+- 24 836,03 € 
+102,04 € 
+- 24 938,07 € 
+- 17 857,18 € 
+- 7 080,89 € 
+ 
+Avec la solution alternative présentée dans les questions précédentes : 
+ 
+L'écart total sur redevance 
+versée se décompose en : 
+Proposition alternative de calcul 
+de l'écart sur pollution totale : 
+Écart total sur 
+redevance 
+versée 
+Écart sur 
+redevance 
+unitaire 
+Écart sur 
+pollution totale 
+Écart sur 
+volume d'eau 
+Écart sur 
+concentration 
+Janv. 
+- 9 860,84 € 
+2 320,89 € 
+- 12 181,73 € 
+- 10 476,50 € 
+- 1 705,23 € 
+Fév. 
+- 21 826,71 € 
+1 753,54 € 
+- 23 580,25 € 
+- 13 337,63 € 
+- 10 242,62 € 
+Mars 
+26 108,74 € 
+2 816,49 € 
+23 292,26 € 
+20 653,40 € 
+2 638,85 € 
+Avril 
+21 306,62 € 
+2 154,15 € 
+19 152,48 € 
+15 462,33 € 
+3 690,14 € 
+Mai 
+1 909,27 € 
+1 278,20 € 
+631,07 € 
+3 376,38 € 
+- 2 745,31 € 
+Juin 
+- 7 787,84 € 
+1 589,09 € 
+- 9 376,92 € 
+- 4 473,20 € 
+- 4 903,72 € 
+Juillet 
+- 12 484,61 € 
+1 291,49 € 
+- 13 776,09 € 
+- 3 620,35 € 
+- 10 155,74 € 
+Août 
+- 2 552,69 € 
+292,15 € 
+- 2 844,84 € 
+- 2 254,55 € 
+- 590,29 € 
+Sept. 
+6 316,13 € 
+2 972,76 € 
+3 343,37 € 
+- 2 940,03 € 
+6 283,39 € 
+Oct. 
+15 571,62 € 
+2 925,15 € 
+12 646,47 € 
+5 647,44 € 
+6 999,04 € 
+Nov. 
+26 318,40 € 
+2 664,53 € 
+23 653,87 € 
+2 271,21 € 
+21 382,66 € 
+Déc. 
+- 24 836,03 € 
+102,04 € 
+- 24 938,07 € 
+- 24 373,79 € 
+- 564,29 € 
+ 
+Les montants varient légèrement, mais le raisonnement et les conclusions restent identiques.
+F  I  C  H  E  B  E  N
+
+=== PAGE 6 ===
+ 
+4. Distinguer trois parties prenantes concernées par la réduction de l’impact environnemental 
+de l’entreprise et analyser leurs attentes respectives. 
+Selon Edward Freeman, en 1984, une partie prenante est « tout groupe ou individu qui peut affecter 
+ou être affecté par la réalisation des objectifs de l'entreprise ». D’après cette définition, il est à noter qu’une 
+partie prenante peut affecter l’entreprise sans être affectée par les activités de cette dernière en matière de 
+gestion de la pollution et réciproquement. Elles peuvent ainsi représenter des alliées ou, au contraire, des 
+ennemies de l’entreprise selon la situation et les attentes considérées. 
+L’analyse des parties prenantes aide à comprendre comment elles agissent sur les entreprises à 
+travers leur influence sur le processus de décision. 
+Remarque : d’autres auteurs peuvent être mobilisés tels que Carroll et Nasik ou Carroll et Clarkson 
+ou Friedman et Miles. 
+Les candidats peuvent citer trois parties prenantes (et leurs attentes) parmi les suivantes : 
+ 
+Parties prenantes 
+Attentes 
+Salariés 
+Les salariés des Tanneries Montesquieu ont intérêt à une réduction de l’impact environne- 
+mental car : 
+● 
+leur santé peut être dégradée du fait de l’utilisation de solvants ; 
+● 
+de plus ceux qui habitent à proximité de la tannerie sont également touchés par les odeurs 
+et autres effets négatifs sur leur cadre de vie. 
+Toutefois, certains peuvent considérer qu’il existe une concurrence entre l’environnement et 
+le social : l’argent dépensé pour réduire l’impact environnemental aurait pu être utilisé afin 
+d’augmenter les salaires (fin du monde vs fin du mois). 
+Actionnaires 
+En tant que propriétaires de l'entreprise Les Tanneries Montesquieu et comme de nombreux 
+actionnaires, ils espèrent : 
+● 
+des profits dont une partie leur sera versée sous forme de dividendes (la partie laissée en 
+réserve et celle distribuée varient en fonction du type d’actionnaires). Ici, Les Tanneries 
+Montesquieu sont détenues à 100 % par un actionnaire unique Voltaire International qui 
+elle est détenue par plusieurs types d’actionnaires. Une partie est détenue par la famille 
+du fondateur, un autre pourcentage des actions appartient aux salariés mais il y a 
+également des actionnaires institutionnels tels que des fonds d’investissement. Les 
+différentes catégories d’actionnaires n’ont pas toujours les mêmes objectifs. Par exemple, 
+les fonds d’investissement attendent souvent plus de dividendes que la famille du 
+fondateur ou les salariés. Mais, tous les actionnaires s’en remettent aux dirigeants afin 
+qu’ils prennent les bonnes décisions stratégiques pour que l’entreprise réalise un bénéfice 
+maximal ; 
+● 
+une plus-value en cas de revente car leur principal objectif est de rentabiliser les sommes 
+investies dans l'entreprise (surtout ici les fonds d’investissements) ; 
+● 
+une information financière fiable notamment sur la stratégie poursuivie et la santé 
+financière de l’entreprise. 
+La question de la gestion de la pollution est ambivalente : 
+● 
+elle accroît les dépenses et peut dégrader la performance à court terme ; 
+● 
+l’engagement volontariste dans une stratégie de protection de l’environnement (Luxe 
+responsable) peut être un puissant argument commercial afin d’améliorer la performance 
+à long terme. 
+Les clients 
+Il est possible de distinguer les clients B to B de ceux B to C. Dans l’entreprise Les Tanneries 
+Montesquieu, les clients sont en B to B. Il s’agit de grandes maisons de mode et de 
+maroquinerie françaises mais également internationales. Ces grands groupes désirent : 
+● 
+un bon rapport qualité/prix même si ce sont des entreprises de luxe ; 
+● 
+des produits fiables et de très bonne qualité surtout pour répondre aux exigences des 
+produits de luxe où la qualité doit être irréprochable ; 
+● 
+des cuirs répondant à leurs besoins spécifiques ; 
+● 
+des cuirs et des couleurs de cuirs toujours innovants ; 
+● 
+le respect de l’environnement surtout avec l’utilisation du chrome ; 
+● 
+une relation pérenne afin de sécuriser les approvisionnements en cuir de qualité. 
+Même si l’entreprise étudiée n’a de relations commerciales qu’avec d’autres entreprises, elle 
+ne doit pas négliger les consommateurs finaux qui achètent les produits finis à base de cuir. 
+En effet, le chrome utilisé pour le tannage du cuir est un facteur de développement d’allergies. 
+Le coût de la dépollution peut accroître les prix de vente. Les actions pour réduire l’impact 
+environnemental peuvent dégrader la qualité des peaux traitées (ex. des pigments bio qui 
+« tiennent » moins bien). 
+Les organisations non 
+gouvernementales 
+Les associations telles que France Nature Environnement engagent des actions pour protéger 
+l’environnement (l’eau de la rivière, l’air). 
+F  I  C  H  E  B  E  N
+
+=== PAGE 7 ===
+ 
+ 
+Les fournisseurs 
+Les fournisseurs des Tanneries Montesquieu attendent : 
+● 
+des ventes importantes et régulières ; 
+● 
+le respect des délais de paiement ; 
+● 
+la solvabilité et la pérennité de ses clients. 
+Le coût de la gestion de la pollution peut être perçu comme un risque pour leurs clients et 
+donc, indirectement, pour leur activité. 
+L’entreprise qui gère la station d’épuration est également un fournisseur. Plus les tanneries 
+rejettent des eaux polluées, plus elle gagne d’argent. 
+Les riverains 
+Les riverains de cette entreprise souhaitent : 
+● 
+un respect de la rivière afin que celle-ci ne soit pas polluée ; 
+● 
+qu’il n’y ait pas de rejets nocifs dans l’air (mauvaises odeurs, émanations de soufre qui 
+provoquent des maux de tête) ; 
+● 
+qu’il n’y ait pas de bruit lors de la production. 
+Les agriculteurs 
+Ceux qui cultivent les champs à côté des Tanneries Montesquieu attendent que l’eau de la 
+rivière ne soit pas polluée afin de pouvoir irriguer leurs cultures et que la terre n’ait pas de 
+résidu de chrome afin de ne pas vendre des produits agricoles pollués. 
+Les collectivités pu- 
+bliques 
+Elles ont la charge de la gestion et de la protection de l’eau et souhaitent que les Tanneries 
+Montesquieu polluent le moins possible afin de garantir une eau propre à la consommation. 
+ 
+En conclusion, de nombreuses parties prenantes sont en relation avec Les Tanneries Montesquieu. 
+Certaines d’entre elles sont affectées par l’impact environnemental de son activité. C’est le cas des riverains 
+et des agriculteurs qui peuvent alors créer une association pour se défendre et ainsi dégrader l’image de 
+l’entreprise. D’autres ont des intérêts opposés (les actionnaires, les clients, de grands groupes de luxe). Voici 
+quelques exemples d’attentes contradictoires de différentes parties prenantes que l’entreprise va devoir 
+gérer : 
+ 
+● Des enjeux contradictoires sont constatés entre les salariés et les actionnaires. En effet, les 
+premiers souhaitent avoir des conditions de travail décentes, réaliser un travail enrichissant et 
+conserver leur emploi alors que les actionnaires veulent, notamment pour les fonds 
+d’investissement, présents dans l’actionnariat du groupe Voltaire International, toujours plus de 
+dividendes. Ici, c’est l’axe social qui est impacté. 
+● Il peut également exister des enjeux contradictoires entre le dirigeant de l’entreprise et les riverains 
+et les agriculteurs. Les riverains des Tanneries Montesquieu peuvent être incommodés par des 
+odeurs provenant de l’usine et/ou subir la pollution de la rivière. Le risque, si le dirigeant n’en tient 
+pas compte, c’est qu’ils créent une association pour le contraindre à agir. Ici, ce sont les axes 
+environnemental et sociétal qui sont mobilisés. 
+● Les clients et les fournisseurs peuvent également avoir des enjeux opposés. En effet, même si les 
+clients (en B to B) sont de grands noms du luxe, ils souhaitent malgré tout obtenir les prix les plus 
+bas possibles pour satisfaire leurs propres actionnaires. De plus, ils ont souvent un fort pouvoir de 
+négociation (référence à M. Porter avec sa théorie sur les cinq forces concurrentielles plus 1). En 
+revanche, les fournisseurs souhaitent pouvoir vivre décemment de leur métier de fournisseurs de 
+cuirs et obtenir, alors, des prix raisonnables. En voulant respecter la partie prenante client, l’entre- 
+prise Les Tanneries Montesquieu peut alors défavoriser les fournisseurs et vice versa. Ici, c’est 
+l’axe sociétal qui est sollicité. 
+5. À partir des résultats précédents, rédiger une note de synthèse sur l’évolution du coût de la 
+pollution entre 2023 et 2024 et son incidence sur les parties prenantes concernées (maximum 
+20 lignes). 
+La redevance versée en 2024 est supérieure de 18 182,07 € à celle versée en 2023. L’impact financier 
+de la hausse de la redevance d’assainissement unitaire de 0,13 € par mètre cube (2,10 € – 1,97 €) s’élève à 
+22 160,46 €. Il s’agit de la principale cause de l’augmentation du montant de la redevance. Elle a été décidée 
+par le conseil communautaire. Elle n’est alors pas imputable à l’entreprise. Cette dernière a pu limiter les 
+conséquences de cette hausse de la redevance en réduisant sa pollution totale, ce qui lui a fait économiser 
+3 978,40 €. Cette économie provient d’une réduction du volume d’eau rejetée (pour 14 114,75  €), malgré 
+une hausse de la concentration des polluants (qui a coûté 10 136,35 €). 
+Une analyse plus pertinente serait possible si les éléments suivants étaient connus : 
+● le volume de peaux traitées ; 
+● la qualité de peaux traitées ; 
+● éventuellement le coût des peaux traitées ; 
+F  I  C  H  E  B  E  N
+
+=== PAGE 8 ===
+ 
+● les évènements qui se sont produits mois par mois durant 2024 et 2023.
+F  I  C  H  E  B  E  N
+
+=== PAGE 9 ===
+ 
+Les causes des concentrations et des rejets d’eau, mois par mois, pourraient alors être identifiées, et 
+leur impact financier mesuré. 
+ 
+L’évolution du coût de la pollution impacte différemment les différentes parties prenantes en relation 
+avec l’entreprise Les Tanneries Montesquieu. 
+ 
+Les actionnaires représentent la principale partie prenante affectée par l’augmentation du montant de 
+la redevance versée. En effet, ces hausses vont accroître les charges de l’entreprise et, toutes choses égales 
+par ailleurs, les bénéfices vont diminuer, entraînant ainsi une réduction des dividendes versés aux 
+actionnaires. Mais, si l’entreprise ne souhaite pas pénaliser les actionnaires, les clients et/ou les salariés 
+seront alors affectés. En effet, dans ce cas, le coût des redevances sera répercuté sur le prix des cuirs 
+(pénalisant ainsi les clients) et/ou sur les salaires (gel de salaires supporté par les salariés). 
+ 
+L’entreprise qui gère la station d’épuration est, quant à elle, concernée positivement par cette 
+augmentation de la redevance payée par Les Tanneries Montesquieu. La communauté d’agglomération, les 
+habitants et les agriculteurs sont également concernés, non par le montant de la redevance versée, mais par 
+la réduction de la pollution totale. 
+ 
+En conclusion, même si les résultats sont limités, les efforts de l’entreprise semblent commencer à 
+porter leurs fruits. Une meilleure image de l’entreprise pourra permettre de mieux satisfaire les parties 
+prenantes. Toutefois, afin de pouvoir véritablement apprécier les résultats en matière de réduction de l’impact 
+environnemental, il faudrait disposer des volumes de peaux traitées. 
+ 
+ 
+1. Présenter un diagnostic stratégique interne des compétences de l’entreprise Les Tanneries 
+Montesquieu. 
+Les ressources sont les actifs (tangibles ou intangibles) d’une entreprise (un stock qu’elle possède et 
+qui définit ce qu’elle sait faire), tandis que les compétences désignent les capacités à déployer ces 
+ressources dans l’entreprise afin d’atteindre un objectif fixé. 
+ 
+La façon dont ces ressources sont combinées et déployées dans l’entreprise est centrale dans la 
+notion de compétences. C’est en fait un savoir-faire que l’entreprise possède (acquis souvent par 
+apprentissage collectif) et qu’elle utilise dans le cadre de différents processus, d’où l’assimilation des 
+compétences à un flux. 
+ 
+Une compétence correspond à la capacité à mettre en œuvre, en situation de travail, un ensemble 
+de connaissances et de savoir-faire techniques et relationnels afin de parvenir au résultat attendu. 
+ 
+L’entreprise dispose des compétences suivantes : 
+ 
+● Les compétences d’ordre général (appelées aussi managériales) sont importantes dans la 
+réussite de l’entreprise. Les compétences du dirigeant, Monsieur Charles, sont soulignées dans la 
+présentation du contexte, puisqu’il définit et adapte la stratégie des Tanneries Montesquieu afin de 
+toujours répondre à un environnement changeant. Monsieur Charles a une vision stratégique et il 
+a décidé de se différencier de ses concurrents. Cette stratégie de différenciation est encore 
+amplifiée. En effet, au début des années 2020 il engage l’entreprise dans une stratégie de luxe 
+responsable. Il a également des compétences reconnues en matière de mobilisation de ses 
+salariés puisqu’il sait expliquer les changements stratégiques et insuffler les valeurs de l’entreprise. 
+● Les compétences spécifiques (ou fonctionnelles) correspondent aux compétences techniques 
+et artisanales en matière de tannage de cuir. Plusieurs étapes du processus de production 
+montrent des compétences fonctionnelles. Dans l’annexe 1, il est spécifié que le savoir-faire 
+artisanal est transmis de génération en génération, depuis 1807. Les compétences fonctionnelles 
+sont nécessaires par exemple au niveau du tri : des salariés expérimentés sont exercés à 
+reconnaître les qualités et défauts des peaux à trier. C’est également le cas pour le palissonnage : 
+le salarié les possède grâce à des gestes maintes fois répétés ou lors de l’étape dite de la cuisine. 
+Le salarié est ainsi capable d’obtenir une teinte homogène sur le cuir grâce à la connaissance du 
+dosage parfait acquis grâce à des mois voire des années de pratique.
+DOSSIER 2 – GESTION DES COMPÉTENCES ET DES RESSOURCES HUMAINES 
+F  I  C  H  E  B  E  N
+
+=== PAGE 10 ===
+ 
+● Les compétences transversales 
+ 
+✔ 
+En interne, le laboratoire de recherche et de développement propose une offre innovante et 
+créative grâce à de nouveaux process et technologies. Ce laboratoire doit, sans cesse être à l’écoute 
+des clients mais également des autres services des Tanneries Montesquieu. Il faut alors que plusieurs 
+fonctions travaillent ensemble : la R&D, la production et la fonction commerciale, notamment. Au 
+niveau de la gestion de la qualité des cuirs, des compétences transversales sont indispensable, 
+notamment à deux étapes du processus de production, afin de satisfaire les clients et de répondre à 
+la stratégie de différenciation. Au sein du laboratoire les peaux sont testées afin d’être irréprochables. 
+Il faut d’ailleurs des années d’expérience pour maîtriser ces compétences basées sur le toucher. De 
+même, la dernière étape est le contrôle qualité spécifique où là encore des salariés spécifiquement 
+formés peuvent vérifier la qualité du cuir avant le départ chez les clients. 
+✔ 
+En externe grâce aux relations avec des fournisseurs sélectionnés afin d’obtenir les meilleures 
+peaux brutes. Des acheteurs spécialisés et formés par Les Tanneries Montesquieu sont capables de 
+reconnaître les plus belles peaux. 
+ 
+2. Examiner les compétences qui peuvent être qualifiées de distinctives. 
+ 
+Une compétence est distinctive ou fondamentale lorsqu’elle permet à l’entreprise de s’imposer sur le 
+marché face à ses concurrents (détention d’un avantage concurrentiel) du fait de certaines caractéristiques : 
+● elle contribue à créer de la valeur pour le client ; 
+● elle est difficile à imiter par les concurrents ; 
+● elle est difficilement substituable ; 
+● elle est rare. 
+ 
+Selon Gary Hamel et Coimbatore Krishnarao Prahalad, une compétence distinctive (ou fondamentale) 
+est le résultat de l’apprentissage collectif de l’entreprise, principalement de la façon (unique et souvent 
+longue, mais aussi difficile à imiter) dont sont intégrées les multiples technologies et dont sont coordonnées 
+les diverses compétences de production. 
+ 
+Si une compétence distinctive est liée aux ressources uniques possédées par l’entreprise, elle s’avère 
+être bien plus que l’addition d’une certaine quantité de ressources ou de compétences individuelles. 
+ 
+L’entreprise Les Tanneries Montesquieu possède des compétences distinctives grâce au savoir-faire 
+de ses salariés en matière de travail des peaux. En effet, certaines compétences détaillées à la question 
+précédente : 
+ 
+● contribuent à créer de la valeur pour le client puisqu’elles permettent à l’entreprise de vendre ses 
+cuirs à des entreprises de luxe. Par exemple, la valeur est créée grâce à la transformation de 
+peaux brutes en cuirs de très grande qualité ; 
+● sont difficilement imitables par des concurrents. Par exemple, de nombreuses étapes du processus 
+de production des cuirs montrent des compétences, un savoir-faire que les concurrents ne 
+possèdent pas. En effet, certaines compétences telles que celles nécessaires au niveau des tests 
+en laboratoire ne s’acquièrent que grâce à une transmission de génération en génération ; 
+● sont difficilement substituables car des compétences des salariés, dans l’entreprise Les Tanneries 
+Montesquieu sont manuelles comme le palissonnage, activité impliquant des gestes précis, 
+maintes fois répétés ; 
+● sont rares et existent depuis 1807. 
+ 
+Remarque : les travaux de Jay Brian Barney auraient également pu être mobilisés avec le modèle 
+VRIN (ou VRIO).
+F  I  C  H  E  B  E  N
+
+=== PAGE 11 ===
+ 
+3. Évaluer les conséquences sur la masse salariale de la décision prise par la direction suite 
+aux négociations à partir du calcul des différents effets. 
+La masse salariale représente la somme des salaires (bruts) versés, donc hors cotisations patronales. 
+La politique salariale de l’entreprise se traduit par des augmentations collectives ou catégorielles des 
+salaires, ainsi que des évolutions des rémunérations individuelles au mérite, à l’ancienneté ou liées aux 
+changements de postes. L’ensemble de ces hausses (collectives, catégorielles ou individuelles) a un impact 
+sur la masse salariale totale (effet masse) plus ou moins important selon les taux d’augmentation (effet 
+niveau) et leur calendrier de mise en application. De plus, les augmentations accordées durant un exercice 
+ont un effet sur l’évolution de la masse salariale de l’exercice suivant (effet de report). 
+Le candidat doit calculer les ratios correspondant à ces trois effets. Plusieurs approches peuvent être 
+adoptées pour réaliser les calculs. 
+Approche à partir des indices : 
+NB : les calculs ont été réalisés à partir des valeurs affichées. 
+ 
+Période 
+Augmentation 
+Indice (base 100 
+au 01/01/2025) 
+Nombre de 
+mois 
+Total 
+Du 01/01/2025 au 28/02/2025 
+0 
+100,00 
+2 
+200,00 
+Du 01/03/2025 au 31/08/2025 
+0,50 % 
+100,50 
+6 
+603,00 
+Du 01/09/2025 au 31/12/2025 
+1,50 % 
+102,01 
+4 
+408,04 
+Total 
+12,00 
+1 211,04 
+ 
+● L’effet niveau 
+ 
+o Par les indices : 102,01/100 – 1 = 0,0201 = + 2,01 % ; 
+o Par un calcul direct :(1,005 x 1,015) – 1 = 0,0201 = + 2,01 %. 
+Interprétation : l’effet niveau mesure l’évolution des rémunérations mensuelles entre deux dates 
+données (en général, le début et la fin de l’exercice). Dans l’entreprise les Tanneries Montesquieu, les 
+salaires augmenteraient de 2,01 % entre janvier et décembre 2025 (et non 2 %). C’est le ressenti des salariés 
+qui pensent avoir une hausse de 2,01 %. 
+ 
+● L’effet masse 
+ 
+o Par les indices : 1 211,04/(100 x 12) - 1 = 0,0092 = + 0,92 % ; 
+o Par le calcul de la masse salariale annuelle basée sur le mois de décembre 2024 (MS avant 
+augmentation) et de la masse salariale annuelle 2025 (MS avant augmentation) :  
+(3 153 548/3 124 800) – 1 = 0,0092 = + 0,92 %. 
+Interprétation : l’effet masse traduit la hausse réelle de la masse globale des salaires sur une année, 
+du fait de hausses salariales. Les deux hausses de salaire (0,5 % en mars et 1,5 % en septembre) ont pour 
+effet d’accroître la masse salariale de 0,92 % pour l’année 2025. 
+ 
+● L’effet report 
+ 
+Par les ratios précédents : (1,0201/1,0092) - 1 = 0, 0108 = + 1,08 % ; 
+o Par le calcul du rapport entre la masse salariale plancher 2026 et la masse salariale de 2025 : 
+(3 187 596 / 3 153 548) – 1 = 0, 0108 = + 1,08 %. 
+Interprétation : l’effet report mesure l’incidence des augmentations accordées durant l’année 2025 sur 
+l’année 2026. Les hausses réalisées en 2025 induisent une hausse de la masse salariale, en 2026, de 
+1,08 %. Ici, la masse salariale augmentera donc davantage en 2026 qu’en 2025. 
+ 
+Vérification : effet niveau = effet masse x effet report = 1,0092 x 1,0108 = 1,0201
+F  I  C  H  E  B  E  N
+
+=== PAGE 12 ===
+ 
+4. Expliquer les raisons qui amènent la direction et les représentants du personnel à proposer 
+un calendrier d’application des augmentations salariales différent. Vous vous appuierez pour 
+cela sur des calculs. 
+Le calendrier de mise en œuvre des augmentations de salaires a un impact sur la masse salariale. 
+Plus elles interviennent tôt dans l’année, plus l’accroissement de la MS est important. C’est pour cette raison 
+que les représentants du personnel proposent que l’augmentation de 1,5 % intervienne en premier. C’est 
+l’inverse pour la direction. 
+Pour mesurer l’impact financier du calendrier, nous calculons la MS 2025 pour les deux propositions, 
+ainsi que les différences de salaires pour chaque catégorie : 
+ 
+ 
+Salaire 
+moyen 
+annuel 
+proposition 
+patronale 
+Salaire 
+moyen 
+annuel 
+proposition 
+salariale 
+Différence 
+moyenne/an 
+Différence 
+totale 
+(compte 
+tenu des 
+effectifs) 
+Masse 
+salariale 
+proposition 
+de la 
+direction 
+Masse 
+salariale 
+proposition 
+des 
+représentants 
+du 
+personnel 
+Cadres & 
+professions 
+intellectuelles 
+supérieures 
+65 396 € 
+65 720 € 
+- 324 € 
+- 3 240 € 
+653 960 € 
+657 200 € 
+Professions inter- 
+médiaires 
+38 753 € 
+38 945 € 
+- 192 € 
+- 4 224 € 
+852 566 € 
+856 790 € 
+Employés 
+30 276 € 
+30 426 € 
+- 150 € 
+- 750 € 
+151 380 € 
+152 130 € 
+Ouvriers 
+23 010 € 
+23 124 € 
+- 114 € 
+- 7 410 € 
+1 495 650 € 
+1 503 060 € 
+TOTAL 
+- 15 624 € 
+3 153 556 € 
+3 169 180 € 
+Augmentation 
+de la masse sa- 
+lariale 
+117 056 € 
+132 680 € 
+ 
+Le calendrier proposé par les représentants du personnel aboutirait à des hausses de salaires 
+moyennes supérieures à celles issues du calendrier de la direction allant de 114 € à 324 € par personne. 
+D’un point de vue général, elle engendrerait une hausse de la masse salariale par rapport à 2025 de 3 169 
+180 € - 3 036 500 € = 132 680 €. 
+Le calendrier adopté (proposé par la direction) aboutira à une hausse de la masse salariale par 
+rapport à 2025 de 3 153 556 € - 3 036 500 € = 117 056 €. 
+Le calendrier adopté permet à l’entreprise d’économiser 132 680 € – 117 056 € = 15 624 €. 
+ 
+ 
+5. Analyser les résultats obtenus au regard des compétences des salariés. 
+ 
+La direction a préféré une hausse plus faible en mars que les représentants du personnel puisque, le 
+fait de faire une hausse plus faible en mars (0,5 % au lieu de 1,5 %) a pour conséquence de minimiser la 
+masse salariale sur 2025 (voir les calculs de la question précédente). 
+Cette décision de la direction montre les intérêts divergents de deux parties prenantes (voir dossier 1) : 
+les salariés à travers leurs représentants et l’employeur. Les premiers préfèrent obtenir la forte hausse 
+(1,5 %) le plus tôt possible dans l’année. En effet, cette prise en compte précoce permet d’accroître le mon- 
+tant total des rémunérations de l’année 2025. À l’inverse, la direction essaie de minimiser les charges de 
+personnel en appliquant plus tôt l’augmentation la plus faible (0,5 %). 
+La direction ne doit cependant pas oublier que des salariés motivés sont plus productifs, plus 
+impliqués et que ce sont eux qui créent la valeur. Leurs compétences, mises en avant dans les premières 
+questions de ce dossier, doivent être conservées afin de répondre aux attentes de clients très exigeants. 
+Pour retenir les salariés compétents (et éventuellement en attirer de nouveaux), il est certes nécessaire 
+d’améliorer les conditions de travail (voir le contexte), de proposer des formations mais les salariés sont 
+également très sensibles aux hausses de salaires afin de conserver leur pouvoir d’achat.
+F  I  C  H  E  B  E  N
+
+=== PAGE 13 ===
+ 
+Les compétences fonctionnelles étudiées ont montré un savoir-faire artisanal, transmis de génération 
+en génération. Celles-ci, pour être gardées par l’entreprise, doivent être rémunérées sinon le risque pour 
+l’entreprise est de perdre ce savoir-faire indispensable à l’activité de l’entreprise. 
+ 
+Si l’entreprise souhaite garder ces nombreux savoir-faire artisanaux propices à son développement 
+économique et respecter l’axe social de la RSE, la direction ne doit pas négliger les hausses de salaires tout 
+en respectant les autres parties prenantes telles que les actionnaires et assurer sa pérennité. 
+ 
+ 
+ 
+1. Identifier la politique de gestion du périmètre adoptée par groupe Voltaire international lors du 
+rachat de l’entreprise Les Tanneries Montesquieu puis déterminer les principaux objectifs 
+poursuivis. 
+La politique de gestion du périmètre est une politique d’intégration. Elle consiste en un regroupement 
+d'activités au sein d'une même entreprise afin d’acquérir le contrôle juridique des ressources humaines, 
+financières et technologiques. Cette politique s’opère par croissance externe. 
+ 
+Ici, il s’agit d’une politique d’intégration verticale en amont puisque le groupe Voltaire International a 
+racheté son fournisseur de peaux. 
+ 
+Les principaux objectifs poursuivis sont : 
+ 
+● d’ordre stratégique puisque la volonté affichée est de rechercher une sécurité au niveau des 
+approvisionnements (des concurrents ont pris la même décision stratégique). Une autre raison 
+correspond sans doute à la volonté de créer des barrières à l’entrée pour d’autres entreprises qui ne 
+pourront pas se fournir en peaux de qualité pour répondre à la demande ; 
+● d’ordre technologique car le groupe a sans doute la volonté de maîtriser la totalité du processus de 
+production pour une meilleure qualité ; 
+● d’ordre financier en cherchant à s’approprier une marge supplémentaire (celle que prenait le 
+fournisseur) et en réduisant les coûts de transaction (référence possible à la théorie des coûts de 
+transaction de Coase puis de Williamson). Enfin, une baisse des coûts de stockage et de logistique 
+peut être réalisée. 
+ 
+2. Analyser la situation actuelle. Pour cela : 
+ 
+a. calculer les résultats avant et après impôt respectifs des entreprises Les Tanneries 
+Montesquieu et Athéna ; 
+ 
+● Résultat des Tanneries Montesquieu 
+ 
+Quantité 
+Valeur unitaire 
+Total 
+Chiffre d'affaires externe 
+23 000 
+2 010,00 € 
+46 230 000 € 
+Chiffre d'affaires Athéna 
+92 000 
+1 599,00 € 
+147 108 000 € 
+Charges variables (ext) 
+23 000 
+1 756,70 € 
+40 404 100 € 
+Charges variables (int) 
+92 000 
+1 597,00 € 
+146 924 000 € 
+Charges fixes 
+6 000 000 € 
+Résultat 
+9 900 € 
+Résultat net 
+7 425 € 
+DOSSIER 3 – GESTION DES PRIX DE TRANSFERT 
+F  I  C  H  E  B  E  N
+
+=== PAGE 14 ===
+ 
+● Résultat d’Athéna 
+ 
+Quantité 
+Valeur unitaire 
+Total 
+Chiffre d'affaires externe 
+276 000 
+990,00 € 
+273 240 000 € 
+Achats de cuir 
+92 000 
+1 599,00 € 
+147 108 000 
+Autres charges variables 
+276 000 
+40,00 € 
+11 040 000 € 
+Charges fixes 
+8 280 000 € 
+Résultat 
+106 812 000 € 
+Résultat net 
+90 790 200 € 
+ 
+b. évaluer l’impact financier de cette situation sur le résultat du groupe Voltaire 
+International ; 
+ 
+● Impact financier sur le résultat du groupe Voltaire International 
+ 
+Résultat de 
+Montesquieu 
+Résultat d’Athéna 
+Impact financier sur le résultat 
+de Voltaire International 
+Résultat avant impôt 
+9 900 € 
+106 812 000 € 
+106 821 900 € 
+Résultat net 
+7 425 € 
+90 790 200 € 
+90 797 625 € 
+ 
+c. interpréter les résultats obtenus. 
+ 
+L’entreprise Les Tanneries Montesquieu dégage un résultat faible et son impôt est peu important 
+(2 475 €). C’est lié à un prix de transfert (1 599 €) faible. Il couvre à peine les charges variables de production. 
+Il avantage l’entreprise acheteuse (Athéna) et pénalise l’entreprise vendeuse (Montesquieu). Comme 
+le résultat d’Athéna est soumis à un taux d’impôt sur les sociétés inférieur à Montesquieu, ce prix de transfert 
+permet de réduire l’impôt total supporté par le groupe. C’est de cette manière que des entreprises 
+déplacent leurs bénéfices vers leurs filiales situées dans des pays où le taux d’impôt sur les sociétés est 
+faible (ici, Athéna est basée en Irlande). 
+ 
+Comme le cuir vendu à l’extérieur du groupe, par Les Tanneries Montesquieu, nécessite plus de 
+charges variables et que la marge sur coût variable, certes très faible, du cuir vendu au sein du groupe est 
+positive, cela semble légal. 
+ 
+MCV 
+Taux de marge 
+Pour les ventes à Athéna 
+184 000 € 
+0,13 % 
+Pour les ventes avec l’extérieur 
+5 825 900 € 
+12,60 % 
+ 
+ 
+Toutefois, la faiblesse de ce taux de marge sur coût variable ne semble pas cohérente avec l’activité 
+réelle de l’entreprise et avec la démarche RSE engagée et l’idée de Luxe éthique. De plus, cela réduit 
+les possibilités de partager la valeur créée avec les salariés. 
+ 
+3. Expliquer quelles seraient les conséquences du changement de méthode de calcul du prix de 
+transfert sur les résultats respectifs des Tanneries Montesquieu, d’Athéna et de Voltaire 
+International (le calcul de ces résultats n’est pas nécessaire). 
+Le nouveau prix de transfert serait obtenu de la manière suivante : 
+ 
+Charges variables 
+1 597,00 € 
+Quote-part de charges fixes de production (6 000 000 – 500 000) / 115 000 
+47,83 € 
+Coût de production complet 
+1 644,83 € 
+Marge (10 %) 
+164,48 € 
+Prix de transfert 
+1 809,31 € 
+F  I  C  H  E  B  E  N
+
+=== PAGE 15 ===
+ 
+Le prix de transfert augmenterait de plus de 210 €. Cette hausse aurait les conséquences suivantes 
+sur les trois protagonistes : 
+ 
+● pour l’entreprise Les Tanneries Montesquieu, basée en France, le bénéfice augmenterait et son impôt 
+aussi ; 
+● pour Athéna, le bénéfice diminuerait puisque le PCI serait une charge plus importante et de ce fait 
+elle paierait moins d’impôts ; 
+● le résultat avant impôt pour le groupe Voltaire International serait inchangé (les profits seraient 
+simplement déplacés d’une entreprise à l’autre). En revanche, l’impôt total payé serait plus important 
+car le résultat imposé en France (à 25 %) augmenterait et celui imposé en Irlande à 15 % diminuerait. 
+Le résultat net du groupe Voltaire International diminuerait. 
+ 
+La hausse du prix de transfert faisant diminuer le résultat net du groupe, la décision ne sera pas facile 
+à prendre. En effet, les actionnaires du groupe Voltaire International, notamment les actionnaires 
+institutionnels tels que des fonds d’investissement, cherchent à maximiser leurs dividendes. 
+ 
+4. Proposer trois arguments en faveur d’une hausse du prix de transfert que pourrait mobiliser 
+monsieur Charles. 
+Les candidats peuvent citer trois arguments parmi les quatre suivants. 
+ 
+● Un argument financier (local, limité à l’entreprise elle-même) : l’entreprise Les Tanneries 
+Montesquieu est en position de force puisque, pour l’instant, elle vend 4/5 de sa production au sein 
+du groupe et 1/5 en dehors du groupe. Mais, le nombre de tanneries étant en diminution et la demande 
+en hausse, grâce aux grands groupes de Luxe, le dirigeant de l’entreprise les Tanneries Montesquieu 
+pourrait être tenté de vendre davantage à l’extérieur (pour un prix moyen de 2 010 €) et moins à 
+Athéna (PCI de 1 599 €) afin d’améliorer ses résultats, à condition, bien entendu, qu’il soit autorisé à 
+le faire. 
+● Un argument fiscal : si l’administration française considère que le groupe oriente ses profits vers les 
+zones géographiques les moins imposées, alors que cela ne correspond pas à la réalité de l’activité 
+des deux filiales, il existe un risque important de redressement. 
+● Un argument social : il estime qu’une partie de la valeur est créée par son entreprise et qu’il est 
+normal que cette valeur soit récompensée. En fonction du prix de transfert fixé, une hausse des 
+salaires pourrait même être envisagée afin de récompenser les efforts des salariés qui ont des 
+compétences reconnues (voir le dossier 2). De plus, cela pourrait conduire à une distribution de 
+participation (l’entreprise a plus de 50 salariés, voir le dossier 2). 
+● Un argument sociétal (citoyen ou éthique) : une hausse du prix de transfert (PCI), cohérente avec 
+l’activité réelle de l’entreprise, permettrait de faire apparaître davantage de profit sur le territoire 
+français et ainsi de contribuer davantage à la solidarité nationale en payant plus d’impôt. 
+ 
+Les deux derniers arguments sont cohérents avec la stratégie RSE développée. 
+F  I  C  H  E  B  E  N

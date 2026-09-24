@@ -1,0 +1,186 @@
+Sujet type d’examen ………………………………………………………………………… 577 Corrigés des applications, cas et cas de synthèse ………………………………………… 586 Corrigé du sujet type d’examen …………………………………………………………… 723 Index …………………………………………………………………………………………… 733
+III
+IV PROGRAMME UE 2. FINANCE
+Niveau M – 140 heures – 15 ECTS
+1\. La valeur (20 heures)
+1.1. La valeur en finance
+Sens et portée de l’étude Compétences visées Notions et contenus
+Expliquer quelles sont les bases du cadre général de la finance et de la théorie financière classique : rôle central de l’information financière et des marchés et apports de la finance comportementale, organisationnelle et entrepreneuriale.
+• Appréhender l’influence des marchés financiers dans le financement de l’économie.
+• Analyser les aspects humains dans la finance moderne.
+• Exprimer un point de vue critique des modèles et outils de la finance classique.
+• Importance de l’hypothèse d’efficience pour la gestion financière et les différentes formes d’efficience.
+• Hypothèses des différents modèles (rationalité, etc.) et organisation des marchés financiers.
+• Aspects psychologiques et humains à prendre en compte dans tous les choix et décisions.
+1.2. La valeur et le risque
+Sens et portée de l’étude Compétences visées Notions et contenus
+• Les modèles proposés par la théorie financière fournissent des outils pour quantifier le prix du risque.
+• Maîtriser les principaux modèles d’évaluation du risque financier utilisés en finance.
+• Modèle d’évaluation des actifs financiers (Medaf) : fondements, possibilités d’utilisation pratique et limites.
+• Modèle de Fama et French et ses dérivés.
+• Mesure des primes de risque.
+1.3. La valeur et la performance
+Sens et portée de l’étude Compétences visées Notions et contenus
+• Les marchés financiers sont organisés en vue d’assurer aux investisseurs une allocation efficiente des ressources en vue d’atteindre un meilleur niveau de performance.
+• Analyser les principaux placements boursiers.
+• Optimiser la gestion des revenus des inves- tissements financiers.
+• Établir un diagnostic patrimonial.
+• Allouer des classes d’actifs au sein d’un patrimoine.
+• Cours boursiers et gestion de portefeuille.
+• Les principaux placements financiers et la gestion patrimoniale – introduction à la finance immobilière.
+• La performance boursière.
+• Les modèles d’actualisation des dividendes.
+2\. Diagnostic approfondi (20 heures)
+2.1. Analyse financière des comptes consolidés
+Sens et portée de l’étude Compétences visées Notions et contenus
+Dès lors qu’une société exerce un contrôle ou une influence notable sur une autre, l’étude de ses seuls comptes individuels ne permet plus de porter un jugement sur sa santé financière. L’étude des comptes consolidés est alors nécessaire, ce qui implique d’en connaître les incidences en matière de diagnostic financier (d’où la nécessité de connaitre les principales normes IFRS pour mener un diagnostic)
+• Réaliser une analyse financière fondamentale.
+• Interpréter les états financiers des groupes en normes comptables internationales.
+• Estimer la pérennité et le risque de l’activité et des métiers.
+• Apprécier la performance opérationnelle et financière.
+• Interpréter un tableau de flux.
+• Diagnostic décliné selon le modèle économique
+• Démarche du diagnostic et impacts des comptes de groupe (consolidés et combinés)
+• Analyse de l’activité
+• Analyse de la structure financière
+• Analyse de la rentabilité : rentabilité économique et rentabilité des capitaux propres
+• Analyse par les flux de trésorerie
+2.2. Analyse extra-financière
+Sens et portée de l’étude Compétences visées Notions et contenus
+Face aux limites des approches purement comptables du diagnostic financier, les approches doivent être articulées avec les autres domaines du diagnostic : stratégie, organisation, environnement.
+• Identifier les éléments extra- financiers pour le diagnostic.
+• Interpréter le reporting RSE.
+• Utiliser les outils de notation.
+• La gouvernance d’entreprise.
+• Responsabilité sociale de l’entreprise (RSE) et critères extra financiers.
+• Analyse de la création de valeur et de sa répartition.
+• La notation et le scoring.
+3\. Évaluation de l’entreprise (20 heures)
+Différentes approches existent pour évaluer une entreprise. Selon le contexte de l’opération et les caractéristiques de l’entreprise, certaines méthodes seront à privilégier. Il faut donc être en mesure de déterminer la ou les méthodes adéquates, les mettre en œuvre et pouvoir expliquer les différences de valorisation auxquelles elles aboutissent.
+3.1. Évaluation par les flux
+Sens et portée de l’étude Compétences visées Notions et contenus
+Évaluation par les flux. • Maîtriser les méthodes
+d’évaluation par les flux.
+• Construire un business plan.
+• Expliciter le rôle de l’actuali- sation.
+• Approches par les flux : revenant aux apporteurs de capitaux, revenant aux actionnaires.
+V
+3.2. Évaluation par approche comparative
+Sens et portée de l’étude Compétences visées Notions et contenus
+Évaluation par approche comparative.
+• Maîtriser les indicateurs de comparaison.
+• Caractériser les avantages et les limites de cette approche.
+• Le choix des inducteurs.
+• La constitution d’échantillons d’entreprises comparables.
+• Les effets des paramètres sous-jacents sur les conditions d’évaluation.
+3.3. Autres évaluations particulières et spécifiques
+Sens et portée de l’étude Compétences visées Notions et contenus
+Autres évaluations particulières et spécifiques.
+• Choisir la méthode sectorielle ou plus spécifique adaptée en matière d’évaluation.
+• Approche patrimoniale : actif net réévalué et explication de la méthode par le goodwill.
+• Approche immobilière.
+• Approche spécifique pour les start-up.
+• Exemples d’approche sectorielle.
+4\. Investissement et financement (30 heures)
+4.1. Investissement et désinvestissement
+Sens et portée de l’étude Compétences visées Notions et contenus
+• Pour assurer sa pérennité, l’entreprise doit investir. La sélection des projets à réaliser est une étape cruciale dans la vie des entreprises, qui doit tenir compte de nombreux facteurs.
+• L’entreprise peut être aussi soumise au rationnement du capital et doit savoir arbitrer.
+• Évaluer et classer des projets.
+• Déterminer la création de valeur à travers la décision d’investissement ou de désinvestissement.
+• Les critères de sélection des projets d’investissement (prise en compte des projets mutuellement exclusifs et des projets liés)
+• Les techniques de désinvestissement
+• La défaillance dans les projets et la liquidation
+VI
+4.2. Modalités de financement
+Sens et portée de l’étude Compétences visées Notions et contenus
+• En fonction de son contexte et de sa taille, l’entreprise met en œuvre une politique financière afin de financer le plus judicieusement possible les emplois de sa politique économique.
+• Dans certains secteurs d’activité, l’État ou les collectivités territoriales sont parties prenantes des projets entrepreneuriaux par le biais d’aides, de subventions (locales, régionales, nationales ou européennes) ou de partenariats public-privé).
+• Comparer les sources de financement.
+• Estimer l’impact du choix d’une source sur la structure financière.
+• Analyser les nouveaux outils de financement.
+• Appréhender le fonctionnement et les objectifs du capital investissement.
+• Fonds propres et quasi-fonds propres.
+• Financements bancaires.
+• Financements obligataires (simples et particuliers).
+• Financements court terme (euro PP).
+• Capital-investissement.
+• Les financements publics (subventions, aides, prêts, en faveur des PME, à destination de la redynamisation locale ou financement R\&D).
+4.3. Le choix d’une structure de financement
+Sens et portée de l’étude Compétences visées Notions et contenus
+• L’arbitrage entre capitaux propres et dettes résulte d’un certain nombre de facteurs qu’il convient de connaître afin d’optimiser la structure financière de l’entreprise.
+• Étudier les arbitrages dans les choix de financement.
+• Identifier les principaux déterminants de la structure financière des entreprises.
+Théories explicatives du choix de financement.
+5\. La trésorerie (20 heures)
+La dimension internationale des entreprises tant dans leur structure (multinationale) que dans leurs activités les expose à des risques supplémentaires d’où la nécessité de prendre en compte le contexte économique et la conjoncture.
+5.1. La gestion des flux de trésorerie au sein d’un groupe
+Sens et portée de l’étude Compétences visées Notions et contenus
+Comprendre les flux et opérations intra-groupes.
+• Appliquer les mécanismes de centralisation.
+• Discerner les différents types de financement et de placement.
+• Les centralisations de trésorerie : mécanismes financiers, bancaires.
+• Les opérations intra-groupes.
+• Les principaux supports de financement et de placement (marchés par titres finan- ciers : actions, obligations, OPCVM, monétaire).
+VII
+5.2. La gestion des risques
+Sens et portée de l’étude Compétences visées Notions et contenus
+• Plusieurs techniques permettent de diminuer l’exposition globale au risque en optimisant l’organisation de la trésorerie.
+• Le risque résiduel ne pouvant être supprimé, il peut être couvert sur les marchés organisés ou de gré à gré.
+• Les options, les swaps et les contrats à terme constituent des outils de couverture des risques.
+• Analyser la structure des taux.
+• Optimiser l’exposition globale au risque.
+• Couverture des risques de change et de taux : contrats standardisés sur les marchés organisés, contrats de gré à gré.
+• Option : caractéristiques de l’instrument, déterminants de la valeur d’une option, modèle de Black et Scholes.
+• Swaps, forward et futures.
+• Les marchés et les risques : matières premières, changes, dérivés, produits optionnels, produits fermes et swaps.
+5.3. La fraude et le blanchiment des capitaux
+Sens et portée de l’étude Compétences visées Notions et contenus
+Appréhender le mode de réglementation des marchés, des banques et des établissements financiers.
+• Mettre en œuvre la déontologie, la conformité et l’organisation déontologique des établissements financiers.
+• Appliquer la règlementation pour la lutte contre le blanchiment et le financement du terrorisme.
+• La réglementation financière.
+• La fraude comptable et financière.
+• Le rôle de Tracfin.
+• Éthique, déontologie et morale dans le management financier.
+6\. Ingénierie financière (30 heures)
+6.1. La politique de dividende
+Sens et portée de l’étude Compétences visées Notions et contenus
+La politique de dividende consiste, pour une entreprise, à déterminer le niveau et la forme de la rémunération qu’elle entend verser à ses actionnaires
+• Déchiffrer la politique de dividende.
+• Maîtriser les incidences fiscales de la politique de dividende.
+• Le processus et les effets informationnels du paiement du dividende : les théories de la politique du dividende et les déterminants de la politique du dividende.
+• Les impacts fiscaux.
+VIII
+6.2. La gestion de la valeur de l’action
+Sens et portée de l’étude Compétences visées Notions et contenus
+La recherche de sources de création de valeur ou l’élimination de sources de destruction de valeur pour les actionnaires peuvent conduire les entreprises à restructurer profondément leurs actifs et passifs.
+• Repérer les stratégies des groupes dans la gestion de leur capital.
+• Analyser les motifs des opérations de réorganisation.
+• Maîtriser les techniques d’introduction en Bourse.
+• Les rachats d’actions : les mécanismes, les effets attendus, la mesure des politiques suivies.
+• Les opérations affectant le nombre d’actions.
+• Les opérations de restructuration (apport partiel d’actif, scission- dissolution, scission partielle avec échange d’actions).
+• Les introductions en Bourse.
+6.3. Les fusions et acquisitions
+Sens et portée de l’étude Compétences visées Notions et contenus
+Comprendre les stratégies financières liées aux opérations d’acquisition, de fusion, d’OPA qui rythment la vie des groupes.
+• Analyser les opérations de fusions et d’acquisitions.
+• Décrypter les montages financiers avec et sans levier financier.
+• Recherche de synergies et autres facteurs.
+• Le recours aux holdings.
+• Les opérations à effet de levier.
+• Les offres publiques.
+6.4. Les opérations sur les dettes et sur les créances
+Sens et portée de l’étude Compétences visées Notions et contenus
+Les opérations de décomptabilisation / déconsolidation des dettes/ créances permettent d’accroître la performance financière des groupes par la recherche d’une structure financière plus optimale.
+Maîtriser les opérations complexes visant à nettoyer les bilans.
+Le désendettement (defeasance) et la titrisation : objectifs et modalités.
+6.5. Les innovations financières
+Sens et portée de l’étude Compétences visées Notions et contenus
+• Au cours de ces dernières années, l’univers de la finance a été marqué par l’arrivée du numérique. Une (r)évolu- tion du métier de la finance est en marche par le digital et les plateformes via Internet.
+• Repérer le rôle du numérique et des algorithmes dans la finance.
+• Comprendre le rôle des nouveaux acteurs.
+• La place et le développement du numérique en finance (Fintechs, plateformes de crowdfunding, systèmes privés d’échanges de titres, blockchains, cryptomonnaies).
+• Analyse par les réseaux et les données.
+IX

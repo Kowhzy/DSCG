@@ -1,0 +1,848 @@
+=== PAGE 1 ===
+21DSCG-UE2 
+Finance CORRIGÉ 
+Page 1 / 11 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE2 – FINANCE 
+SESSION 2021 
+Éléments indicatifs de corrigé 
+FICHEBEN 
+
+=== PAGE 2 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 2 / 11 
+ 
+DOSSIER 1 – PROJET D’INVESTISSEMENT IMMOBILIER 
+ 
+ 
+1. La valeur et le risque (annexe 1) 
+ 
+1.1 Déterminer le taux de rendement espéré du marché et de l’action 
+ 
+Il s’agit ici de calculer l’espérance mathématique en pondérant les rentabilités par leurs 
+probabilités de réalisation. 
+ 
+A 
+Ra 
+Rm 
+a * Ra 
+a * Rm 
+Probabilité 
+Rentabilité 
+action 
+Rentabilité 
+marché 
+Action 
+Marché 
+0,1 
+14 % 
+12 % 
+1,4 % 
+1,2 % 
+0,2 
+22 % 
+20 % 
+4,4 % 
+4,0 % 
+0,4 
+28 % 
+26 % 
+11,2 % 
+10,4 % 
+0,3 
+-20 % 
+-16 % 
+-6,0 % 
+-4,8 % 
+ 
+ 
+E(X) 
+11,0 % 
+10,8 % 
+ 
+ 
+ 
+E(Ra) 
+E(Rm) 
+ 
+1.2 Calculer la covariance entre la rentabilité du marché et celle de l’action 
+ 
+Probabilité 
+(p) 
+Rentabilité 
+action 
+Rentabilité 
+marché 
+p * (Ra - E(Ra)) * (Rm - E(Rm)) 
+0,1 
+14 % 
+12 % 
+0,0036 % 
+0,2 
+22 % 
+20 % 
+0,2024 % 
+0,4 
+28 % 
+26 % 
+1,0336 % 
+0,3 
+-20 % 
+-16 % 
+2,4924 % 
+ 
+ 
+Covariance 
+3,7320% 
+ 
+1.3 Calculer le béta de l’action. L’action est-elle plus risquée ou moins risquée que 
+le marché ? 
+ 
+Béta = Covariance (Ra ; Rm)/Var (Rm) = 3,7320 %/3,2496 % = 1,15  
+ 
+Le béta étant supérieur à 1, l’action est plus risquée que le marché. 
+ 
+1.4 En recourant au modèle du MEDAF, déterminer le taux de rentabilité minimum 
+des capitaux propres. La rentabilité exigée par les actionnaires est-elle 
+atteinte ? 
+E(Ri) = RF + [E(RM) – RF] * βi 
+Avec : 
+- 
+[E(RM) - RF] représente la prime de risque de marché ; 
+- 
+[E(RM) - RF]i représente la prime de risque global du titre i; 
+- 
+RF est le taux de rendement d’un actif sans risque, le taux des obligations d’État à 
+long terme (les OAT en France par exemple) ; 
+- 
+RM est le taux de rentabilité exigé en moyenne pour le marché ; 
+- 
+ßi mesure la volatilité de sa rentabilité par rapport à la volatilité du marché. Une 
+action dont le β est supérieur à 1 est plus risquée que le marché (son cours de 
+Bourse sera plus volatil que l’indice boursier du marché) et inversement. L’actif sans 
+risque a, par définition, un β égal à 0. 
+ 
+E(Ri) = 6% + [10,8% – 6%] * 1,15 
+ 
+Taux de rentabilité des capitaux propres 
+11,51% 
+ 
+La rentabilité exigée par les actionnaires est de 12%. Elle n’est donc pas atteinte mais elle 
+est proche de l’objectif recherché. 
+FICHEBEN 
+
+=== PAGE 3 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 3 / 11 
+ 
+2. Les modalités de financement d’un projet d’investissement 
+ 
+2.1 Définir le capital investissement. 
+ 
+Le capital-investissement est une activité qui consiste pour un investisseur à apporter des 
+financements essentiellement en fonds propres à une société qui n'est pas encore cotée, 
+en échange d’une prise de participations dans le capital (mais certains fonds peuvent 
+n’apporter que des dettes comme des obligations convertibles). Cette opération s'effectue 
+en achetant soit des titres existant auprès d'anciens actionnaires, soit des titres 
+nouvellement émis lors d'une augmentation de capital. La plupart du temps, le capital 
+investissement est réalisé par des fonds spécialisés ou encore par des particuliers 
+fortunés, dont le but est de réaliser des plus-values, soit par la revente des titres à 
+d’autres fonds soit par des cessions lors d’une introduction en bourse. 
+ 
+2.2 Quelles sont les différentes formes sous lesquelles peuvent se décliner le 
+capital investissement ? 
+ 
+Il existe plusieurs formes de capital investissement. Sa nature va dépendre de la situation de 
+l’entreprise sur son marché ou encore de sa situation financière :  
+ 
+ Le capital-innovation ou capital-risque : 
+ 
+Le capital risque ou capital innovation est un investissement, généralement sous forme 
+d'argent, apporté au profit d'une jeune entreprise par des investisseurs. Ce financement 
+prend la forme d'une prise de participation au capital de ladite entreprise. Pour les 
+investisseurs, le capital-risque permet d'apporter du capital, un réseau et de l'expérience au 
+profit d'une entreprise naissante, innovante et au futur prometteur. Au moment de sa 
+création, une entreprise a besoin de capitaux pour financer sa phase de lancement 
+(réalisation de prototype, développement d'un service, communication, publicité...). 
+Le capital-risque permet de faire entrer des investisseurs au capital de la société et ainsi 
+augmenter les capitaux de l'entreprise. Le principal risque pour les investisseurs est de ne 
+jamais trouver acquéreur pour revendre leurs actions si l'entreprise ne se développe pas, ou 
+de tout perdre si la société est dissoute. 
+Néanmoins, les gains dont ils peuvent bénéficier sont susceptibles de dépasser leurs 
+espérances si l'entreprise connaît le succès escompté. Pour les entreprises, le capital-risque 
+leur permet de bénéficier de fonds à un stade de développement où il est souvent difficile 
+d'obtenir des prêts bancaires. 
+A noter que le capital-risque prend des participations dans l'entreprise et, avec celles-ci, 
+acquiert un pouvoir décisionnel sur l'entreprise. 
+ 
+ Le capital développement : 
+ 
+Le capital-développement est une forme de capital-investissement qui s'attache à financer 
+les entreprises existantes en forte croissance, dont la taille est devenue significative, ayant 
+atteint leurs seuils de rentabilité et dégageant des profits. 
+L'investissement réalisé en fonds propres a vocation à financer le développement de 
+l'entreprise, en échange généralement d'une participation minoritaire. Cet investissement 
+peut concerner aussi bien le lancement d'un nouveau produit, la conquête de nouveaux 
+marchés, l'acquisition d'un concurrent ou le simple renouvellement de l'appareil productif. Au 
+travers du capital-développement, les investisseurs cherchent à réaliser une plus-value à 
+court ou moyen terme via la cession des parts acquises ou une éventuelle introduction en 
+bourse. 
+ 
+ Le capital transmission : 
+Le capital-transmission est l'entrée au capital d'un investisseur dans une entreprise afin d'en 
+accompagner la transmission ou la cession. Il prend souvent la forme d'un "leveraged buy-
+out" (LBO). 
+FICHEBEN 
+
+=== PAGE 4 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 4 / 11 
+Les opérations de LBO sont une technique d’achat d’entreprise avec effet levier, 
+principalement motivées par les configurations suivantes : 
+- 
+Cession d’une entreprise à capital familial 
+- 
+Retraits de la cote 
+- 
+Reconfiguration actionnariale dans le cadre d’une sortie des minoritaires 
+- 
+Cession à des investisseurs financiers d’une entreprise racheté précédemment par 
+des financiers sur le mode LBO (secondaires, voire tertiaires). 
+ 
+L’acquisition d’une cible par l’intermédiaire d’un LBO permet de bénéficier d’effets de : 
+- 
+Levier juridique, qui consiste à démultiplier la puissance du contrôle de l’acquéreur 
+grâce à la création d’une société holding ou d’une succession de holding en 
+cascade ; 
+- 
+Levier financier ; qui permet d’augmenter l’espérance de rentabilité des fond propres 
+investis par le biais du recours à l’endettement ; 
+- 
+Levier fiscal, qui consiste dans l’économie d’impôt induite grâce au mécanisme de 
+l’intégration fiscale ; 
+- 
+Levier managérial, qui consiste à renforcer la motivation et la fidélité de l’équipe de 
+management de la société cible au moyen de schémas d’intéressement garantissant 
+un alignement de leurs intérêts avec ceux des investisseurs repreneurs. 
+ 
+ Le capital retournement : 
+Le capital retournement désigne des fonds apportés par des investisseurs pour consolider le 
+capital d'une société traversant une période difficile. 
+ 
+Ce capital retournement tend en général vers trois objectifs :  
+- 
+Éviter la liquidation judiciaire de l'entreprise ;  
+- 
+Lui permettre de se relancer ;  
+- 
+Envoyer un signal fort à d'autres investisseurs potentiels, pour les inciter à apporter 
+également des capitaux. 
+Le capital retournement provient, en général, de fonds d'investissements spécialistes du 
+sauvetage d'entreprises en difficulté. Leurs risques sont plus élevés, mais les bénéfices 
+escomptés également. 
+ 
+En somme, le capital investissement est la deuxième source de financement des 
+entreprises. Il est un mode financement capital pour les jeunes entreprises et ainsi joue un 
+élément essentiel pour la croissance économique.  
+ 
+2.3 Définir et préciser le rôle de la BPI. 
+ 
+BPI France est une banque publique d’investissement créée en 2012 et qui résulte de 
+la fusion d’organismes tels qu’Oséo ou la CDC entreprises. Elle est détenue par l’État, la 
+Caisse Des Dépôts et des sociétaires. BPI France est présidé par la Caisse Des Dépôts.  
+ 
+L’objectif de BPI France est de rendre l’économie française plus compétitive en soutenant 
+plus particulièrement les entreprises innovantes, les PME et les ETI (entreprises de taille 
+intermédiaire) en complément des aides apportées par l’Etat et les collectivités locales. 
+Ne disposant pas cependant d’un agrément bancaire, elle propose des solutions de 
+financement adaptées aux entreprises, de la phase d’amorçage jusqu’à la cotation en 
+bourse à partir de ressources provenant d’investisseurs privés (marchés financiers). 
+ 
+Plusieurs modes de financements sont mis à la disposition des entreprises : 
+- 
+L’aide pour le développement de l’innovation, 
+- 
+L’avance remboursable, 
+- 
+Le prêt innovation recherche et développement, 
+- 
+La subvention innovation… 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 5 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 5 / 11 
+3. L’investissement (annexe 2) 
+ 
+3.1 Définir les principales caractéristiques du marché immobilier. 
+ 
+Face à l’évolution instable du marché boursier, les particuliers se réorientent 
+progressivement vers le marché immobilier considéré comme plus sûr. L’immobilier peut 
+aussi constituer un complément facilitant la diversification des risques. 
+Comme pour le marché boursier, il existe des indices du marché immobilier. A titre 
+d’exemple, il y a l’indice Notaires de France Insee qui indique l’évolution des prix des 
+logements anciens.  
+L’immobilier est caractérisé par un terrain sur lequel est apposé une construction. Un terrain 
+nu peut également être qualifié de « bien immobilier ». Il y a des sous-catégories de marchés 
+dans le secteur de l’immobilier comme : l’immobilier de bureaux, l’immobilier résidentiel, 
+l’immobilier des primo-accédants, etc. avec chacun des caractéristiques spécifiques et des 
+cycles propres. 
+ 
+Ce bien dispose des principales caractéristiques ci-après :  
+ 
+- 
+Bien localisé : la localisation du bien a une influence directe  
+- 
+Durabilité : sol intact indéfiniment (en principe) et le bien s’amortit. C’est un actif réel 
+qui peut être loué ou vendu. Il peut être financé par emprunt. 
+- 
+Hétérogénéité : l’investissement immobilier peut être à usages multiples (résidence, 
+loisirs, habitation principale, agriculture…) 
+ 
+3.2 Préciser les principaux risques d’un investissement immobilier. 
+ 
+Les biens immobiliers étant détenus dans une optique de long terme, de nombreux risques 
+peuvent survenir, même si l’investissement dans la pierre reste une valeur sûre : 
+ 
+Type de risque 
+Caractéristiques du risque 
+Malfaçons 
+Découvrir des vices cachés dans le bien immobilier peut entraîner des 
+réparations importantes. 
+Dégradation 
+Un appartement ayant subi des dégradations de la part du locataire est une 
+perte supplémentaire qui va altérer la rentabilité du bien. 
+Vacance locative 
+L’appartement acheté peut ne pas trouver de locataires et dégrader 
+l’investissement du propriétaire. 
+Illiquidité 
+Plus le bien est difficile à vendre plus l’investisseur devra baisser son prix pour 
+réussir à vendre son bien et à le convertir en « argent frais ». Le risque 
+d’illiquidité dépend du type de bien et de sa localisation. 
+Krach 
+La baisse trop importante du prix de marché peut entraîner une très grosse 
+perte pour l’investisseur à la revente notamment. 
+Législatif 
+Un changement législatif qui résulte de la loi de finances et qui peut 
+défavoriser un investisseur immobilier. 
+Un programme de défiscalisation désavantageux. Encadrement des loyers… 
+Expropriation 
+Ce risque est difficile à anticiper même s’il est possible de se renseigner sur 
+les travaux ou les projets en cours de la ville avant d’acheter. 
+Financier 
+Il est lié à l’endettement et à l’éventualité de ne pas pouvoir rembourser 
+La survenance d’un impayé du locataire et les frais de procédure à engager 
+pour expulser le locataire. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 6 / 11 
+3.3 Calculer la VAN des deux projets. Peut-on conclure sur l’opportunité de lancer 
+un projet plutôt qu’un autre ? Pourquoi ? 
+ 
+Projet 1 - Lunettes VR 
+ 
+Durées 
+1 
+2 
+3 
+4 
+5 
+6 
+Résultat d’exploitation après 
+impôts 
+12 000 
+13 000 
+12 000 
+11 000 
+12 000 
+14 000 
++Dotations aux 
+amortissements 
+2 000 
+2 000 
+2 000 
+2 000 
+2 000 
+2 000 
+-Variation du BFRE 
+8 000 
+9 000 
+8 000 
+7 000 
+8 000 
+8 000 
+Flux (nets) de trésorerie 
+6 000 
+6 000 
+6 000 
+6 000 
+6 000 
+8 000 
+ 
+Calcul de la VAN du projet 1 (lunettes VR) : 
+ 
+-18 000 + 6 000 * (1,12)-1 + 6000 * (1,12)-2 + 6 000 * (1,12)-3 + 6 000 * (1,12)-4 + 6 000 * 
+(1,12)-5 + 8 000 * (1,12)-6 = 7 681,71 K€ ( 
+ 
+PROJET 1 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+Flux nets 
+-18 000 
+6 000 
+6 000 
+6 000 
+6 000 
+6 000 
+8 000 
+Flux nets actualisés 
+-18 000 
+5 357,14 
+4 783,16 
+4 270,68 
+3 
+813,11 
+3 
+404,56 
+4 053,05 
+Flux nets actualisés 
+cumulés 
+-18 000 
+-12 642,86 
+-7 
+859,69 
+-3 
+589,01 
+224,10 
+3 
+628,66 
+7 681,71 
+ 
+Projet 2 - Lunettes 360 
+ 
+Durées 
+1 
+2 
+3 
+Flux potentiel de trésorerie 
+d’exploitation après IS 
+13 000 
+14 000 
+15 000 
+-Variation du BFRE 
+3 000 
+4 000 
+5 000 
+= Flux (nets) de trésorerie 
+10 000 
+10 000 
+10 000 
+ 
+Calcul de la VAN du projet 2 (lunettes 360) : 
+ 
+-18 000 + 10 000 * (1,12)-1 + 10 000 * (1,12)-2 + 10 000 * (1,12)-3 = 6 018,31 K€ 
+ 
+PROJET 2 
+0 
+1 
+2 
+3 
+Flux nets 
+-18 000 
+10 000 
+10 000 
+10 000 
+Flux nets actualisés 
+-18 000 
+8 928,57 
+7 971,94 
+7 117,80 
+Flux nets actualisés cumulés 
+-18 000 
+-9 071,43 
+-1 099,49 
+6 018,31 
+ 
+Nous connaissons la valeur de la VAN de chaque projet (qui est positive) mais nous ne 
+pouvons pas nous positionner sur le choix de l’investissement à retenir car les durées de 
+vie sont différentes. La VAN ne permet pas de prendre une décision. Il faudra recourir à 
+d’autres outils. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 7 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 7 / 11 
+3.4 Définir la méthode de l’annuité équivalente, ainsi que de la méthode de 
+l’horizon commun (ou du plus petit commun multiple). 
+ 
+Les deux méthodes utilisées ont pour objectif de permettre de comparer des projets ayant 
+des durées de vie différentes. 
+ 
+Méthode de l’horizon commun : On renouvelle à l’identique les projets jusqu’à ce que 
+leurs durées coïncident. Dans notre cas, un projet a une durée de vie de 3 ans tandis que 
+le second projet a une durée de 6 ans. Par conséquent on « dupliquera » deux fois le 
+projet de 3 ans pour obtenir une durée comparable de 6 ans. 
+ 
+Méthode de l’annuité équivalente : L’annuité équivalente représente le montant des 
+fonds qui, s’ils étaient perçus annuellement de manière constante sur la durée de vie du 
+projet et actualisé au taux requis, aboutirait au même calcul que la VAN. Cela permet de 
+comparer les projets d’investissement sur une base commune. 
+ 
+ 
+ 
+3.5 Calculer la rentabilité des deux projets en utilisant la méthode de l’horizon 
+commun, puis de l’annuité équivalente. 
+ 
+ 
+Application de la méthode de l’horizon commun (ou plus petit commun multiple) : 
+VAN du projet sur 6 ans : 7 681,71 K€ 
+VAN du projet sur 3 ans : 6 018,31 K€ 
+ 
+Pour appliquer l’horizon commun, nous allons retenir une période commune de 6 ans. Il y 
+a lieu de dupliquer le projet 2 deux fois pour le ramener à une période de 6 ans. 
+L’investissement de 18 000 k€ sera de nouveau engagé à la fin de la troisième année, ce 
+qui fera un flux net de -8 000 (10 000 – 18 000). 
+ 
+-18 000 + 10 000 * (1,12)-1 + 10 000 * (1,12)-2 -8 000 * (1,12)-3 + 10 000 * (1,12)-4 + 10 000 
+* (1,12)-5 + 10 000 * (1,12)-6 = 10 302,03 K€ 
+ 
+Projet 2 Horizon commun 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+Flux nets 
+-18 000 
+10 000 
+10 000 
+-8 000 
+10 000 
+10 000 
+10 000 
+Flux nets actualisés 
+-18 000 8 928,57 
+7 971,94 
+-5 694,24 
+6 355,18 
+5 674,27 
+5 066,31 
+Flux nets actualisés cumulés -18 000 -9 071,43 -1 099,49 -6 793,73 
+-438,55 
+5 235,72 
+10 302,03 
+ 
+Application de la méthode l’annuité équivalente : 
+ 
+Projet 1 : 7 681,71 * (0,12) / [1 - (1,12)-6)] = 1 868,39 K€ 
+ 
+Projet 2 : 6 018,31 * (0,12) / [1 - (1,12)-3)] = 2 505,71 K€ 
+ 
+ 
+3.6 Conclure sur l’opportunité de lancer les projets d’investissement en recourant 
+aux deux techniques précédentes. 
+ 
+En k€ 
+Projet 1 
+Projet 2 
+Projet à retenir 
+Méthode de l’horizon commun 
+7 681,71 
+10 302,03 
+Projet 2 
+Méthode de l’annuité équivalente 
+1 868,39 
+2 505,72 
+Projet 2 
+ 
+L’analyse des deux méthodes nous permet de conclure que le projet 2 est le plus rentable 
+alors qu’auparavant en utilisant la VAN c’est le projet 1 qui était le plus rentable. 
+FICHEBEN 
+
+=== PAGE 8 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 8 / 11 
+ 
+DOSSIER 2 – OPÉRATION DE RESTRUCTURATION 
+ 
+ 
+1. Gestion d’une opération de fusion (annexe 3) 
+ 
+1.1 Indiquer les principales motivations qui conduisent à réaliser une opération de 
+fusion. 
+ 
+L’objectif principal recherché est la création de valeur dont la source est l’effet de synergie 
+obtenu à la suite de la fusion. Un autre objectif est purement stratégique. 
+ 
+a) La recherche de synergie de coûts et de complémentarités 
+ 
+Trois catégories de synergie :  
+- 
+Synergies liées aux effets de volume 
+- 
+Synergies liées au partage de ressources 
+- 
+Synergie de croissance 
+ 
+b) Les motivations stratégiques : offensives et défensives 
+ 
+- 
+Motifs offensifs des fusions-acquisitions :  
+o Croissance du pouvoir de domination et d’influence 
+o Captation des ressources spécifiques 
+o Pénétration sur un nouveau marché 
+o Renouvellement 
+ 
+- 
+Motifs défensifs des fusions-acquisitions :  
+o Consolidations des positions sur des secteurs à maturité 
+o Adaptation aux évolutions technologiques 
+o Acquisition de taille critique 
+o Neutralisation des concurrents 
+o Limitation des entrées sur le secteur 
+ 
+1.2 Calculer la parité d’échange des actions des deux sociétés Invest Immo et 
+Achète Moi 
+ 
+ 
+Calcul de la Valeur financière Moyenne Achète moi :  (28 + 20) / 2 = 24 
+ 
+VF = 24/6 % = 400 € 
+ 
+Calcul de la Valeur financière Moyenne Invest Immo : (7 + 5) / 2 = 6 
+ 
+VF = 6/6 % = 100 € 
+ 
+ANCC Achète Moi : 
+Capital : 50 000 € 
++Réserves : 15 000 € 
++Plus-value sur constructions : 100 000 € 
++Plus-value sur VMP : 35 000 € 
+     
+= ANCC Total : 200 000 € 
+Valeur mathématique intrinsèque : 200 000 / (50 000/50) = 200 € 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 9 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 9 / 11 
+ANCC Invest Immo : 
+Capital : 150 000 € 
++Réserves légales et statutaires : 50 000 € 
++Plus-value sur construction : 276 500 € 
++ Plus-value sur stocks de marchandises : 8 500 € 
++ Plus-value sur titres détenus : 100 * (200 – 50) = 15 000 € 
+ 
+= ANCC Total : 500 000 € 
+Valeur mathématique intrinsèque : 500 000 € / (150 000/30) = 100 € 
+ 
+ 
+Base de calcul de la parité d’échange Invest Immo : (100 + 100)/2 = 100 € 
+Base de calcul de la parité d’échange Achète Moi : (200 + 400)/2 = 300 € 
+300/100 = 3 pour 1 
+ 
+Nous en concluons que la parité d’échange est de 3 actions Invest Immo pour 1 
+action Achète Moi.  
+ 
+ 
+1.3 Déterminer le cours du groupe après l’acquisition, ainsi que la prime de 
+contrôle. 
+ 
+Cours du groupe après la fusion :  
+ 
+Nombre de titres Achète-Moi à rémunérer : 1000 * 90% = 900 actions 
+ 
+Nombre de titres Invest-Immo à émettre : 900 * 3/1 = 2 700 actions 
+ 
+Nombre d’actions total = 2 700 actions + 5 000 actions = 7 700 actions 
+ 
+Valorisation des deux sociétés après la fusion = (100 * 5 000) + (200 * 1 000) + effet de 
+synergie (100 000 €) = 800 000 € 
+ 
+Cours du groupe après la fusion = 800 000/7 700 = 103,90 € 
+ 
+Prime de contrôle :  
+ 
+(103,90€ * 2 700 actions) – (1000 * 200) = 80 530 € 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 10 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 10 / 11 
+ 
+DOSSIER 3 – COUVERTURE DU RISQUE DE CHANGE 
+ 
+ 
+1. Choix d’un mode de paiement 
+ 
+1.1 Pouvez-vous indiquer au dirigeant quel est le crypto-actif le plus connu et le 
+définir ? 
+ 
+Le crypto-actif le plus connu est le bitcoin qui est une monnaie numérique. Bitcoin est 
+une technologie « pair à pair » fonctionnant sans autorité centrale. La gestion des 
+transactions et la création de bitcoins est prise en charge collectivement par le réseau. 
+Bitcoin est libre et ouvert. Sa conception est publique, personne ne possède ni ne 
+contrôle Bitcoin et tous peuvent s'y joindre. 
+ 
+1.2 Quels sont les avantages et les inconvénients de ce crypto actif ? 
+ 
+Avantages 
+Inconvénients 
+ 
+-Traçabilité et historique des échanges 
+ 
+- Paiement irréversible 
+ 
+- Nouvelle technologie pérenne 
+ 
+- 
+Première 
+crypto 
+monnaie 
+libre 
+et 
+décentralisée 
+ 
+- Système duplicable 
+ 
+- Monnaie de confiance et insaisissable 
+ 
+- Sécurité de la transaction 
+ 
+ 
+- Absence d’actifs sous-jacents à une monnaie 
+ 
+- Concentration des pools de minage 
+ 
+- Monnaie volatile 
+ 
+- Technologie non mature et stade expérimental de la 
+monnaie 
+ 
+- Blanchiment et manipulation des cours 
+ 
+- Anonymat non respecté 
+ 
+- Non-sécurisation des transactions non confirmées 
+ 
+- Nombre limité de transactions par seconde 
+ 
+- Statut juridique encore mal défini à ce jour 
+ 
+ 
+2. Achat en devises et couverture de change (annexes 4) 
+ 
+2.1 A quel type de risque de change doit faire face l’entreprise ? 
+ 
+L’entreprise réalise une opération en Livre Sterling de 300 000 £. Le risque auquel elle 
+doit faire face c’est que la livre sterling peut baisser à l’échéance par rapport à l’euro, 
+c’est-à-dire une dépréciation de la livre sterling. Donc elle pourrait recevoir une 
+somme plus faible dans 3 mois que ce qu’elle pourrait recevoir aujourd’hui si les dépôts 
+de garanties étaient encaissés immédiatement. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 11 ===
+21DSCG-UE2  
+Finance CORRIGÉ 
+Page 11 / 11 
+2.2 Calculez les gains et/ou les pertes de change suivant les trois situations ci-
+après : 
+ 
+- 
+Recourir à un contrat à 
+ 
+Contrat à terme 
+1£ = 1,35€ 
+1£ = 1,05€ 
+Cours négocié à 
+1,12€ quel que 
+soit l’évolution du 
+cours de change. 
+Somme encaissable au 15/03 : 
+300 000 * 1,11 = 333 000 € 
+ 
+Somme encaissée au 15/06 : 
+300 000 * 1,12 = 336 000 € 
+ 
+Résultat : + 3 000 € (Gain de change) 
+Somme encaissable au 15/03 : 
+300 000 * 1,11 = 333 000 € 
+ 
+Somme encaissée au 15/06 : 
+300 000 * 1,12 = 336 000 € 
+ 
+Résultat : 3 000 € (Gain de change) 
+ 
+- 
+Recourir à une option de change 
+ 
+Option de change 
+1£ = 1,35€ 
+1£ = 1,02€ 
+Option d’achat 
+d’euros contre livre 
+sterling 
+Ne pas exercer l’option et payer la 
+prime 
+ 
+Montant encaissé : (300 000 * 1,35) 
+– 1000 € = 404 000 € 
+ 
+Résultat : Gain de change = 404 000 
+– 333 000 = + 71 000 € 
+Exercer l’option et payer la prime 
+ 
+ 
+Montant encaissé : (300 000 * 1,05) – 
+1000 € = 314 000 € 
+ 
+Résultat de change : Perte de change = 
+314 000 – 333 000 = - 19 000 € 
+ 
+ 
+2.3 Quel est le choix le plus judicieux à opérer pour l’entreprise ? 
+ 
+Ne rien faire peut être favorable à l’entreprise s’il lui est possible d’obtenir plus d’euros 
+avec une livre sterling. 
+ 
+Le contrat à terme permet de se couvrir mais pas vraiment de spéculer, ce qui n’est pas le 
+cas des options de change qui permettent à la fois de se couvrir et de spéculer. Il faudra 
+donc se couvrir en utilisant le contrat à terme ou l’option de change si avec une livre 
+sterling on obtient moins d’euros. L’entreprise prend moins de risque en recourant à un 
+contrat à terme. 
+FICHEBEN 

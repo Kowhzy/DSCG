@@ -1,0 +1,2678 @@
+{
+ "ue": "UE5",
+ "genere_le": "2026-09-24",
+ "consignes_agent": [
+  "L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.",
+  "Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).",
+  "Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.",
+  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
+  "Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.",
+  "Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.",
+  "Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027."
+ ],
+ "epreuve": "Écrit de 3 heures, coefficient 1, aucun document ni matériel (calculatrice interdite) ; 3 dossiers ; noté sur 40 points depuis 2024 (14/14/12 en 2024, 18/12/10 en 2025) [DSCG UE5 2024-2025]. Date de l'épreuve : jeudi 22 octobre 2026, 9h30-12h30 selon ta convocation (note Drive « UE5-01-cadrage-et-programme »).",
+ "reference_programme": "Annexe II de l'arrêté du 13 février 2019 (BO ESR n°25 du 20 juin 2019), UE5 Management des systèmes d'information, p. 18-25 de l'annexe",
+ "methode_ipr": {
+  "ponderations": {
+   "f_hist": 15,
+   "f_cur": 20,
+   "f_rec": 10,
+   "poids": 10,
+   "jury": 15,
+   "diff": 10,
+   "transv": 10,
+   "bo": 5,
+   "gap": 5
+  },
+  "seuils": {
+   "PRIORITÉ MAXIMALE": 60,
+   "PRIORITÉ TRÈS ÉLEVÉE": 45,
+   "PRIORITÉ ÉLEVÉE": 32,
+   "À MAÎTRISER": 20
+  },
+  "regle": "une rubrique signalée comme faiblesse par le jury 2025 est au minimum en PRIORITÉ TRÈS ÉLEVÉE",
+  "scenarios_sensibilite": [
+   "référence",
+   "égalitaire",
+   "fréquences seules",
+   "jury renforcé",
+   "récence renforcée",
+   "sans « gap »",
+   "poids du barème renforcé"
+  ]
+ },
+ "synthese": [
+  "Référentiel applicable : programme de 2019 (140 h ; 1re session en 2020) ; la réforme de 2025 (Zero Trust, NIS2, IA, Green IT, MiCA) ne s'applique qu'à partir de la session 2027. Le sujet 2025 montre toutefois une lecture extensive du programme de 2019 (Zero Trust, RTO/RPO, BI).",
+  "La conduite de projet SI est le thème le plus constant : en principal dans 8 sessions sur 10, et un diagramme de Gantt (ou un PERT) est demandé en 2018, 2019, 2021, 2023 et 2025.",
+  "Droit et sécurité de l'information (RGPD/DPO, conservation, dématérialisation, cryptographie) : 7 sessions sur 10 ; le RGPD est mobilisé dans chacune des 5 sessions 2020-2023 et en 2025. Surveillance et prévention (PSSI, PCA/PRA, Shadow IT, Zero Trust) figure dans chacune des 3 dernières sessions (en principal en 2023 et 2025, en toile de fond en 2024).",
+  "Alignement stratégique et schéma directeur : 6 sessions sur 10, et c'est la notion que le jury critique le plus (2024 et 2025) : copies « sans fondements théoriques solides », alignement « réduit à un choix technique ».",
+  "2025 ouvre de nouveaux champs : audit du SI (COBIT, ISO 27001, méthodologie de mission) comme « socle structurant », Zero Trust et BI/Data Science. Le jury rappelle qu'un point faible une année peut être réinterrogé dès l'année suivante [Rapport du jury 2025, p. 21].",
+  "Changements de format : notation sur 40 points depuis 2024, calculatrice interdite, formats imposés (note de 20 lignes). Le taux de réussite chute de 57,85 % (2024) à 38,87 % (2025)."
+ ],
+ "surprises": [
+  "La partie 4 « gestion de la performance informationnelle » (30 h sur 140 au programme officiel) est peu interrogée depuis 2020 hors indicateurs (2024) : contrats de services, budgets et évaluation des projets n'y ont jamais été interrogés en principal ; coûts seulement en 2021 (indicateurs de coût). La notion de PCA relève officiellement de 4.2 : elle a été mobilisée en 2020, 2021 et 2025.",
+  "Maintenance (2.3), gestion des connaissances (2.5) et audit assisté (6.3, dernière apparition en 2016) forment les zones du programme jamais ou très rarement évaluées.",
+  "2025 : le jury juge le sujet « tout à fait conforme au programme officiel » tout en y intégrant Zero Trust, RTO/RPO et BI, des notions absentes de ton cours de sécurité selon ta note Drive « UE5-07 sécurité moderne »."
+ ],
+ "rubriques": [
+  {
+   "code": "5.2",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Mise en place d'une architecture de confiance",
+   "notions_officielles": "PKI, certificat, signature électronique, droit de l'information (RGPD, conservation, dématérialisation)",
+   "ipr": 63.9,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 1,
+    "rang_min": 1,
+    "rang_max": 2,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2024
+   ],
+   "frequence_2016_2025": 0.7,
+   "frequence_2020_2025": 0.833,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.24,
+   "dossiers": [
+    "2025 D2",
+    "2023 D3",
+    "2022 D3",
+    "2021 D3",
+    "2020 D1",
+    "2020 D2",
+    "2018 D3",
+    "2016 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».",
+     "difficulte_candidats": false,
+     "consequence": "RGPD/sécurité et ERP en contexte cabinet."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.",
+     "difficulte_candidats": true,
+     "consequence": "Fiche sécurité moderne (manquante dans le cours selon tes notes Drive)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "SE p.160-163 ; fiche ACD13",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.2",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "La mise en œuvre d'un projet",
+   "notions_officielles": "cahier des charges, parties prenantes, cycle de vie, planification et ordonnancement, qualité (ISO, CMMI), suivi des coûts et délais (écarts), tests et recette, déploiement, formation",
+   "ipr": 60.3,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 2,
+    "rang_min": 1,
+    "rang_max": 4,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2025
+   ],
+   "frequence_2016_2025": 0.8,
+   "frequence_2020_2025": 0.833,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.142,
+   "dossiers": [
+    "2024 D3",
+    "2023 D2",
+    "2022 D2",
+    "2021 D2",
+    "2020 D3",
+    "2019 D3",
+    "2018 D1",
+    "2018 D2",
+    "2016 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 29",
+     "observation": "D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte.",
+     "difficulte_candidats": true,
+     "consequence": "Argumenter en situation."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 30",
+     "observation": "D3 : SI fantômes et BYOD (note de synthèse), erreurs de gestion de projet ; « L'ensemble du programme doit être maîtrisé ».",
+     "difficulte_candidats": false,
+     "consequence": "Notes de synthèse courtes et structurées."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S4 ; SE p.247, 254-257",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.2",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "La stratégie SI",
+   "notions_officielles": "alignement stratégique, schéma directeur, agilité",
+   "ipr": 59.6,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 3,
+    "rang_min": 1,
+    "rang_max": 3,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2017,
+    2019,
+    2021,
+    2024,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.6,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.153,
+   "dossiers": [
+    "2025 D1",
+    "2024 D2",
+    "2021 D1",
+    "2019 D2",
+    "2017 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 29",
+     "observation": "D2 : alignement stratégique ; références explicites au modèle valorisées ; « de nombreuses copies manquent de fondements théoriques solides » ; indicateurs de performance et de qualité.",
+     "difficulte_candidats": true,
+     "consequence": "Connaître et citer le modèle d'alignement."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 35",
+     "observation": "Nouvelle orientation « niveau master » ; D1 audit et convergence = « socle structurant » : alignement, COBIT vs ISO 27001, méthodologie d'audit.",
+     "difficulte_candidats": false,
+     "consequence": "Méthodologie de mission d'audit SI + référentiels."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D1 : « un nombre significatif de copies a présenté des développements génériques, peu contextualisés » ; alignement stratégique « parfois réduit à un choix technique basique ou à une simple standardisation logicielle ».",
+     "difficulte_candidats": true,
+     "consequence": "Analyser les dimensions organisationnelles/managériales."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36-37",
+     "observation": "Trois difficultés persistantes : corpus théorique peu mobilisé, argumentation descriptive, rédaction ; « La simple restitution de connaissances techniques ne saurait suffire ».",
+     "difficulte_candidats": true,
+     "consequence": "Citer explicitement modèles et référentiels."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S2 Stratégie et gouvernance informatique (13 p.)",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "5.3",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Surveillance et prévention",
+   "notions_officielles": "surveillance des processus, prévention, continuité, protection juridique, assurances et garanties",
+   "ipr": 54.7,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 4,
+    "rang_min": 3,
+    "rang_max": 5,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2018,
+    2020,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2021,
+    2024
+   ],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.15,
+   "dossiers": [
+    "2025 D2",
+    "2023 D3",
+    "2020 D2",
+    "2018 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».",
+     "difficulte_candidats": false,
+     "consequence": "RGPD/sécurité et ERP en contexte cabinet."
+    },
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ».",
+     "difficulte_candidats": false,
+     "consequence": "Prestataires, cloud, continuité."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 30",
+     "observation": "D3 : SI fantômes et BYOD (note de synthèse), erreurs de gestion de projet ; « L'ensemble du programme doit être maîtrisé ».",
+     "difficulte_candidats": false,
+     "consequence": "Notes de synthèse courtes et structurées."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.",
+     "difficulte_candidats": true,
+     "consequence": "Fiche sécurité moderne (manquante dans le cours selon tes notes Drive)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S9 Sécurité des SI ; note Drive UE5-07 « sécurité moderne »",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.3",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Évolution des systèmes d'information",
+   "notions_officielles": "urbanisation et cartographie, SI inter-organisationnels, open data/innovation, BYOD, référentiels (ITIL, COBIT, ISO)",
+   "ipr": 47.5,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 5,
+    "rang_min": 5,
+    "rang_max": 7,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2019,
+    2022,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2017,
+    2023,
+    2025
+   ],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.183,
+   "dossiers": [
+    "2024 D1",
+    "2024 D3",
+    "2022 D1",
+    "2019 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2024,
+     "page": "p. 29",
+     "observation": "D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte.",
+     "difficulte_candidats": true,
+     "consequence": "Argumenter en situation."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 30",
+     "observation": "D3 : SI fantômes et BYOD (note de synthèse), erreurs de gestion de projet ; « L'ensemble du programme doit être maîtrisé ».",
+     "difficulte_candidats": false,
+     "consequence": "Notes de synthèse courtes et structurées."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.",
+     "difficulte_candidats": true,
+     "consequence": "Fiche sécurité moderne (manquante dans le cours selon tes notes Drive)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S3 Urbanisation des SI (10 p.)",
+    "statut_notion": "I/A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Les systèmes d'entreprise (15 h)",
+   "intitule": "Le cycle de vie des systèmes d'entreprise (SE)",
+   "notions_officielles": "mise en place, déploiement, renouvellement, exploitation et évaluation",
+   "ipr": 46.8,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 6,
+    "rang_min": 4,
+    "rang_max": 7,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2020,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.139,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2",
+    "2020 D3",
+    "2018 D1",
+    "2016 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».",
+     "difficulte_candidats": false,
+     "consequence": "RGPD/sécurité et ERP en contexte cabinet."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 29",
+     "observation": "D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte.",
+     "difficulte_candidats": true,
+     "consequence": "Argumenter en situation."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S5",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Les systèmes d'entreprise (15 h)",
+   "intitule": "La place des systèmes d'entreprise (SE)",
+   "notions_officielles": "intégration, PGI-ERP, couverture fonctionnelle, open source, SaaS, évolutions réglementaires",
+   "ipr": 43.3,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 7,
+    "rang_min": 6,
+    "rang_max": 9,
+    "scenarios_premier_tiers": "6/7"
+   },
+   "sessions_principal": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+   ],
+   "sessions_toile_de_fond": [
+    2024
+   ],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.667,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2023,
+   "poids_bareme_quand_present": 0.188,
+   "dossiers": [
+    "2023 D1",
+    "2022 D2",
+    "2021 D3",
+    "2020 D3",
+    "2019 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».",
+     "difficulte_candidats": false,
+     "consequence": "RGPD/sécurité et ERP en contexte cabinet."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S5 Progiciels de gestion intégrée (30 p.)",
+    "statut_notion": "A/I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.1",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Position de la fonction SI au sein de l'organisation",
+   "notions_officielles": "DSI : missions, fonctions, rôles, ressources, types d'organisation, tableau de bord de la DSI",
+   "ipr": 40.6,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 8,
+    "rang_min": 6,
+    "rang_max": 12,
+    "scenarios_premier_tiers": "5/7"
+   },
+   "sessions_principal": [
+    2016,
+    2021,
+    2022
+   ],
+   "sessions_toile_de_fond": [
+    2017,
+    2024,
+    2025
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.117,
+   "dossiers": [
+    "2022 D1",
+    "2021 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D3 BI : chaîne de valeur (collecte, ETL, entrepôt, restitution), compétences, rôle de la DSI ; BI réduite à un outil dans les copies faibles.",
+     "difficulte_candidats": true,
+     "consequence": "Chaîne décisionnelle et gouvernance des données."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S1 Position fonction informatique (10 p.)",
+    "statut_notion": "I/A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.1",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Les enjeux d'un projet",
+   "notions_officielles": "place du projet dans la stratégie, agilité, organisation du projet, MOA/MOE, faire/faire-faire face au cloud (SaaS, IaaS, PaaS), régie/forfait",
+   "ipr": 36.9,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 9,
+    "rang_min": 8,
+    "rang_max": 15,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2017,
+    2021,
+    2022
+   ],
+   "sessions_toile_de_fond": [
+    2018,
+    2019,
+    2023,
+    2024
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.129,
+   "dossiers": [
+    "2022 D3",
+    "2021 D2",
+    "2017 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ».",
+     "difficulte_candidats": false,
+     "consequence": "Prestataires, cloud, continuité."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S4 Gestion de projets de SI (43 p.) ; S6",
+    "statut_notion": "A/U"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.4",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Gestion des risques du projet",
+   "notions_officielles": "analyse et gestion des risques, intégration des risques dans les contrats",
+   "ipr": 28.1,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 10,
+    "rang_min": 8,
+    "rang_max": 16,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2021,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2018,
+    2019
+   ],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.1,
+   "dossiers": [
+    "2024 D1",
+    "2021 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S4/S6",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Définition d'indicateurs",
+   "notions_officielles": "indicateurs de performance et de qualité (données, sécurité, fiabilité…)",
+   "ipr": 27.7,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 11,
+    "rang_min": 8,
+    "rang_max": 13,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2017,
+    2019,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2021
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.175,
+   "dossiers": [
+    "2024 D2",
+    "2019 D2",
+    "2017 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2024,
+     "page": "p. 29",
+     "observation": "D2 : alignement stratégique ; références explicites au modèle valorisées ; « de nombreuses copies manquent de fondements théoriques solides » ; indicateurs de performance et de qualité.",
+     "difficulte_candidats": true,
+     "consequence": "Connaître et citer le modèle d'alignement."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S7 Gestion de la performance informatique (29 p.)",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "6.2",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil",
+   "notions_officielles": "normes professionnelles, comptes d'entités informatisées, risques d'audit et de conseil, ITIL, COBIT, cartographie applicative, obligations légales",
+   "ipr": 26.4,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 12,
+    "rang_min": 10,
+    "rang_max": 16,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2017
+   ],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.15,
+   "dossiers": [
+    "2025 D1",
+    "2016 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 35",
+     "observation": "Nouvelle orientation « niveau master » ; D1 audit et convergence = « socle structurant » : alignement, COBIT vs ISO 27001, méthodologie d'audit.",
+     "difficulte_candidats": false,
+     "consequence": "Méthodologie de mission d'audit SI + référentiels."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36-37",
+     "observation": "Trois difficultés persistantes : corpus théorique peu mobilisé, argumentation descriptive, rédaction ; « La simple restitution de connaissances techniques ne saurait suffire ».",
+     "difficulte_candidats": true,
+     "consequence": "Citer explicitement modèles et référentiels."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S10, S2",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.4",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Management stratégique des données (Big Data-Mégadonnées)",
+   "notions_officielles": "big data, analyse et sécurité des données, plateformes, datacenter et cloud computing",
+   "ipr": 26.2,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 13,
+    "rang_min": 9,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2017,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.125,
+   "dossiers": [
+    "2025 D3",
+    "2017 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D3 BI : chaîne de valeur (collecte, ETL, entrepôt, restitution), compétences, rôle de la DSI ; BI réduite à un outil dans les copies faibles.",
+     "difficulte_candidats": true,
+     "consequence": "Chaîne décisionnelle et gouvernance des données."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "SE (Expert DSCG UE5) p.79, 82, 209",
+    "statut_notion": "A/I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Le contrat de services",
+   "notions_officielles": "niveaux de service (SLA), infogérance, facturation interne, responsabilité du prestataire, plan de continuité d'activité",
+   "ipr": 25.3,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 14,
+    "rang_min": 10,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2017
+   ],
+   "sessions_toile_de_fond": [
+    2020,
+    2021,
+    2025
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2017,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2017 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 9",
+     "observation": "Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ».",
+     "difficulte_candidats": false,
+     "consequence": "Prestataires, cloud, continuité."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.",
+     "difficulte_candidats": true,
+     "consequence": "Fiche sécurité moderne (manquante dans le cours selon tes notes Drive)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S6 ; SE p.125",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": "Contrat de services (SLA, infogérance, réversibilité) : seulement 2017 (ancien programme). Pourtant, les environnements « externalisation, cloud, contractualisation des prestataires » sont cités par le jury 2020."
+  },
+  {
+   "code": "6.1",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Audit du système d'information",
+   "notions_officielles": "missions d'audit (interne, externe, stratégique), documentation d'audit, conseils et recommandations",
+   "ipr": 24.9,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 15,
+    "rang_min": 12,
+    "rang_max": 17,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2016
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.15,
+   "dossiers": [
+    "2025 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 35",
+     "observation": "Nouvelle orientation « niveau master » ; D1 audit et convergence = « socle structurant » : alignement, COBIT vs ISO 27001, méthodologie d'audit.",
+     "difficulte_candidats": false,
+     "consequence": "Méthodologie de mission d'audit SI + référentiels."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D1 : « un nombre significatif de copies a présenté des développements génériques, peu contextualisés » ; alignement stratégique « parfois réduit à un choix technique basique ou à une simple standardisation logicielle ».",
+     "difficulte_candidats": true,
+     "consequence": "Analyser les dimensions organisationnelles/managériales."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S10 Audit et gouvernance ; SE p.242-244 ; ACD11",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.3",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Les coûts",
+   "notions_officielles": "coûts de la fonction SI, TCO, coût d'opportunité, externalisation, open source, mutualisation, tarifications du cloud",
+   "ipr": 23.8,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 16,
+    "rang_min": 11,
+    "rang_max": 17,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2017,
+    2021
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2021,
+   "poids_bareme_quand_present": 0.133,
+   "dossiers": [
+    "2021 D1",
+    "2017 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 9",
+     "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+     "difficulte_candidats": false,
+     "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "S7",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Coûts du SI / TCO : 2017 (TCO) et 2021 (indicateurs de coût). Une question de coût complet ou de TCO sans calculatrice reste plausible sous forme qualitative."
+  },
+  {
+   "code": "6.4",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Contrôle et reporting",
+   "notions_officielles": "projets de reporting, entrepôt de données, visualisation, qualité et intégration des données",
+   "ipr": 23.1,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 17,
+    "rang_min": 14,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2017
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.125,
+   "dossiers": [
+    "2025 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 36",
+     "observation": "D3 BI : chaîne de valeur (collecte, ETL, entrepôt, restitution), compétences, rôle de la DSI ; BI réduite à un outil dans les copies faibles.",
+     "difficulte_candidats": true,
+     "consequence": "Chaîne décisionnelle et gouvernance des données."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "SE p.79, 296 ; ACD12",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "5.1",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Architecture technique",
+   "notions_officielles": "client-serveur, middleware, transactionnel, intégration, portail",
+   "ipr": 22.0,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 18,
+    "rang_min": 12,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2017,
+    2022
+   ],
+   "sessions_toile_de_fond": [
+    2016,
+    2018,
+    2025
+   ],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.1,
+   "dossiers": [
+    "2022 D1",
+    "2017 D2"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "S8 Architectures techniques",
+    "statut_notion": "I/A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.5",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Évaluation des projets de SI",
+   "notions_officielles": "bilan coûts/avantages, critères de sélection, ROI pré et post projet, réversibilité, analyse post mortem",
+   "ipr": 13.2,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 19,
+    "rang_min": 19,
+    "rang_max": 20,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016
+   ],
+   "sessions_toile_de_fond": [
+    2022
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2016,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2016 D2"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "S7",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Évaluation des projets (ROI, coûts-avantages) : seulement 2016 et, en toile de fond, 2022 (SaaS vs On Premise)."
+  },
+  {
+   "code": "2.5",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Gestion des connaissances",
+   "notions_officielles": "capitalisation des savoirs, outils collaboratifs et de KM, text mining",
+   "ipr": 13.0,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 20,
+    "rang_min": 19,
+    "rang_max": 22,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [
+    2017,
+    2020,
+    2025
+   ],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "S12 Outils collaboratifs p.1",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Gestion des connaissances : jamais en principal (seulement en toile de fond en 2017, 2020 et 2025)."
+  },
+  {
+   "code": "6.3",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Audit et conseils assistés",
+   "notions_officielles": "étapes et outils de l'audit assisté, progiciels d'aide aux missions",
+   "ipr": 9.8,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 21,
+    "rang_min": 20,
+    "rang_max": 23,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2016,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2016 D3"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "SE p.292-305",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Audit assisté par ordinateur : 2016 uniquement."
+  },
+  {
+   "code": "2.3",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Maintenance",
+   "notions_officielles": "maintenance corrective et évolutive, contrat de maintenance, TMA et niveau de service",
+   "ipr": 9.0,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 22,
+    "rang_min": 21,
+    "rang_max": 22,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "S6 Contrats de service (18 p.)",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Maintenance (corrective, évolutive, TMA) : jamais interrogée en principal."
+  },
+  {
+   "code": "4.4",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Les budgets",
+   "notions_officielles": "budget de la fonction SI, facturation interne, pay per licence / per use",
+   "ipr": 9.0,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 23,
+    "rang_min": 22,
+    "rang_max": 23,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "S7",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Budgets du SI : jamais interrogés sur la période."
+  }
+ ],
+ "techniques": [
+  {
+   "technique": "RGPD",
+   "libelle": "RGPD",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 5.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3",
+    "2023 D3",
+    "2023 D1",
+    "2022 D3",
+    "2021 D3",
+    "2020 D2",
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "Gantt",
+   "libelle": "Gantt",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2023 D2",
+    "2021 D2",
+    "2019 D3",
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "methodes_projet",
+   "libelle": "Méthodes de projet (V, agile)",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D2",
+    "2022 D2",
+    "2021 D2",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "PCA_PRA",
+   "libelle": "PCA / PRA (RTO, RPO)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2021 D3",
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "workflow",
+   "libelle": "Workflow (facture)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1",
+    "2022 D2",
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "alignement_strategique",
+   "libelle": "Alignement stratégique",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2024 D2",
+    "2019 D2",
+    "2017 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "urbanisation_strates",
+   "libelle": "Urbanisation, strates du SI",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2",
+    "2019 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "organisation_DSI",
+   "libelle": "Organisation de la DSI",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2021 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "conduite_changement",
+   "libelle": "Conduite du changement",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2020 D3",
+    "2019 D3"
+   ]
+  },
+  {
+   "technique": "securite_SI",
+   "libelle": "Sécurité du SI",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2020 D3",
+    "2020 D2",
+    "2018 D3"
+   ]
+  },
+  {
+   "technique": "FCS_projet",
+   "libelle": "FCS / risques d'un projet",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D1",
+    "2021 D2",
+    "2018 D1"
+   ]
+  },
+  {
+   "technique": "BYOD_ShadowIT",
+   "libelle": "BYOD / Shadow IT",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2024 D3"
+   ]
+  },
+  {
+   "technique": "conservation_legale",
+   "libelle": "Conservation légale des documents",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1",
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "facturation_electronique",
+   "libelle": "Facturation électronique",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2022 D2"
+   ]
+  },
+  {
+   "technique": "ERP",
+   "libelle": "ERP / PGI",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D3",
+    "2019 D2",
+    "2018 D1",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "referentiels_COBIT_ITIL_ISO",
+   "libelle": "Référentiels (COBIT, ITIL, ISO)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2017 D2",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "indicateurs_SI",
+   "libelle": "Indicateurs de performance/qualité du SI",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2",
+    "2019 D2",
+    "2017 D3"
+   ]
+  },
+  {
+   "technique": "SaaS_OnPremise",
+   "libelle": "SaaS vs On Premise",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D3",
+    "2019 D2",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "BI_decisionnel",
+   "libelle": "BI / décisionnel",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3",
+    "2017 D1"
+   ]
+  },
+  {
+   "technique": "COPIL",
+   "libelle": "Comité de pilotage",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D2",
+    "2018 D1"
+   ]
+  },
+  {
+   "technique": "methodologie_audit",
+   "libelle": "Méthodologie d'audit SI",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1"
+   ]
+  },
+  {
+   "technique": "PSSI_DIC",
+   "libelle": "PSSI (DIC)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2"
+   ]
+  },
+  {
+   "technique": "Zero_Trust",
+   "libelle": "Zero Trust",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2"
+   ]
+  },
+  {
+   "technique": "IAM_MFA",
+   "libelle": "IAM, MFA, MDM",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2"
+   ]
+  },
+  {
+   "technique": "gouvernance_donnees",
+   "libelle": "Gouvernance des données",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3"
+   ]
+  },
+  {
+   "technique": "erreurs_gestion_projet",
+   "libelle": "Diagnostic d'un projet (erreurs)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3"
+   ]
+  },
+  {
+   "technique": "note_synthese",
+   "libelle": "Note de synthèse",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3"
+   ]
+  },
+  {
+   "technique": "GED",
+   "libelle": "GED",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1"
+   ]
+  },
+  {
+   "technique": "gouvernance_SI",
+   "libelle": "Gouvernance du SI",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D1"
+   ]
+  },
+  {
+   "technique": "schema_architecture",
+   "libelle": "Schéma d'architecture",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D1"
+   ]
+  },
+  {
+   "technique": "schema_directeur",
+   "libelle": "Schéma directeur",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "indicateurs_couts_SI",
+   "libelle": "Indicateurs de coût du SI",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "dematerialisation",
+   "libelle": "Dématérialisation (copie fiable)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "chiffrement_VPN",
+   "libelle": "Chiffrement, VPN",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D3",
+    "2016 D3"
+   ]
+  },
+  {
+   "technique": "PERT",
+   "libelle": "PERT",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "architecture_cloud",
+   "libelle": "Architecture, cloud, virtualisation",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2017,
+   "dossiers": [
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "SLA",
+   "libelle": "SLA / contrat de service",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2017,
+   "dossiers": [
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "TCO",
+   "libelle": "TCO",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2017,
+   "dossiers": [
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "audit_informatise",
+   "libelle": "Audit en milieu informatisé",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2016,
+   "dossiers": [
+    "2016 D3"
+   ]
+  }
+ ],
+ "annales_recommandees": [
+  {
+   "annale": "2025 (sujet entier, 3 h)",
+   "interet": "À refaire absolument : alignement stratégique, COBIT vs ISO 27001, méthodologie d'audit avec Gantt, PSSI (DIC), PCA/PRA (RTO/RPO), Zero Trust, BI (ETL, entrepôt), rôle de la DSI."
+  },
+  {
+   "annale": "2024 (sujet entier)",
+   "interet": "Strates du SI, choix d'un CRM après acquisition, résistance au changement, alignement (modèle à citer), indicateurs de performance et de qualité, BYOD et Shadow IT, erreurs de conduite de projet."
+  },
+  {
+   "annale": "2023 D2 + D1",
+   "interet": "COPIL, méthode de projet, Gantt d'un programme de bascule, urbanisation ; GED (indexation, conservation), RGPD."
+  },
+  {
+   "annale": "2021 (sujet entier)",
+   "interet": "Organisation de la DSI, schéma directeur, indicateurs de coût, FCS/risques, deux méthodes de projet, Gantt, SI achats et RGPD."
+  },
+  {
+   "annale": "2022 (sujet entier)",
+   "interet": "Gouvernance SI, architecture cible, workflow facture, Factur-X, SaaS vs On Premise, mutualisation du DPO."
+  },
+  {
+   "annale": "2020 Q1-Q15",
+   "interet": "RGPD complet : DPO, AIPD, registre, consentement, sous-traitants, continuité et formation."
+  },
+  {
+   "annale": "2018 D2 + D3",
+   "interet": "PERT/chemin critique ; VPN et clés de chiffrement : seul entraînement « cryptographie » récent."
+  },
+  {
+   "annale": "2017 D2",
+   "interet": "SLA/ITIL, TCO, virtualisation : le seul dossier sur la partie « performance informationnelle » (zone peu interrogée)."
+  },
+  {
+   "annale": "2016 D3",
+   "interet": "Audit en environnement informatisé et audit assisté par ordinateur (6.2/6.3)."
+  }
+ ],
+ "attendus_corriges": [
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q1 alignement stratégique du SI",
+   "bareme": "n.c. (dossier 18 pts)",
+   "attendus": "Définition (cohérence stratégie métier / stratégie SI) · appliquée à l'hétérogénéité des cabinets (logiciels, GED, sécurité) · bénéfices : économies d'échelle, qualité, fiabilité des données, gouvernance unifiée, RGPD.",
+   "pieges": "Partir des annexes (pratiques fragmentées).",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q2 audit SI et deux référentiels",
+   "bareme": "n.c.",
+   "attendus": "Définition de l'audit SI · COBIT (gouvernance, objectifs de contrôle, maturité) + ISO 27001 (SMSI, risques, PSSI) · variantes recevables : ITIL/ITSM, ISO 22301, NIST CSF.",
+   "pieges": "Dire en quoi CHAQUE référentiel aide le cas.",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q3 méthodologie d audit de convergence",
+   "bareme": "n.c.",
+   "attendus": "Périmètre (logiciels métier, infra, sécurité IAM/PCA/PRA, support) · objectifs · 4 étapes : cadrage, collecte, analyse, restitution · livrables (rapport, cartographie, matrice des risques, architecture cible) · échéancier 6-8 semaines avec GANTT.",
+   "pieges": "Échéancier sans GANTT seulement partiellement valorisé : faire le diagramme.",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q4 problèmes organisationnels et solutions (organigramme DSI)",
+   "bareme": "n.c.",
+   "attendus": "IAM éclaté, BYOD sans contrôle, support inégal, procédures hétérogènes · analyse de l'organigramme (13 personnes : sécurité éclatée, qualité/audit surreprésentée, convergence sous-dimensionnée) · DSSI rattaché à la DG, pôle Gouvernance & Sécurité, séparation RUN/BUILD, PSSI commune, roadmap Zero Trust · centralisation vs décentralisation → centralisation progressive.",
+   "pieges": "Exploiter les effectifs chiffrés de l'organigramme (ratios).",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q5 objectifs de la PSSI et PCA/PRA",
+   "bareme": "n.c. (dossier 12 pts)",
+   "attendus": "Confidentialité (MFA, chiffrement, habilitations), intégrité (sauvegardes, journalisation), disponibilité · PCA = mode dégradé, PRA = restauration · RTO et RPO.",
+   "pieges": "Définir RTO/RPO. Le corrigé développe trois objectifs alors que la question en demande deux : en traiter deux à fond.",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q6 pertinence du Zero Trust et risques du BYOD",
+   "bareme": "n.c.",
+   "attendus": "« Never trust, always verify » : identité, terminaux, réseau · risques BYOD : obsolescence, absence d'EDR, mélange des données, sauvegardes non conformes.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q7 trois mesures Zero Trust",
+   "bareme": "n.c.",
+   "attendus": "IAM + MFA + RBAC · MDM + EDR · micro-segmentation et accès conditionnel.",
+   "pieges": "Principe + justification par le cas pour chaque mesure.",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q8 BI : chaîne de valeur, compétences, bénéfices",
+   "bareme": "n.c. (dossier 10 pts)",
+   "attendus": "ETL → entrepôt de données → restitution (dataviz) · compétences : data literacy, RGPD, gouvernance des données, data storytelling · bénéfices : vision 360°, prévisions, reporting ESG.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q9 rôle de la DSI pour BI et data science",
+   "bareme": "n.c.",
+   "attendus": "Gouvernance des données (référentiels, qualité, métadonnées), sécurité et RGPD, accès aux outils (data warehouse, datamarts, dataviz), alignement, acculturation.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2025 (Drive « UE 5 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "1.1 strates du SI touchées",
+   "bareme": "n.c. (dossier 14 pts)",
+   "attendus": "Quatre strates : métier, fonctionnelle, applicative, technique · le CRM touche la strate applicative (et la strate métier si les méthodes changent).",
+   "pieges": "Justifier aussi pourquoi les autres strates ne sont pas touchées.",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "1.2-1.3 arguments contre le changement de CRM, conduite du changement",
+   "bareme": "n.c.",
+   "attendus": "Urbanisation, architecture modulaire · arguments de H2O rejetés (services identiques, coût de maintenir deux logiciels, AP maintenue en interne) · risque = freins au changement (technologique, organisationnel) → plans de formation et de communication détaillés.",
+   "pieges": "Détailler le contenu des plans (cible, messages, calendrier…).",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.1 alignement stratégique (Venkatraman)",
+   "bareme": "n.c. (dossier 14 pts)",
+   "attendus": "Quatre composantes du modèle de Venkatraman · seul l'axe stratégie d'entreprise / stratégie SI est demandé · différenciation par la qualité vs maîtrise des coûts SI → alignement jugé bon.",
+   "pieges": "Citer l'auteur et se limiter à l'axe demandé.",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "2.2-2.3 indicateurs de performance et de qualité du SI",
+   "bareme": "n.c.",
+   "attendus": "Performance : dépenses SI/CA, ROI, coût hotline/budget SI, compétences par application · qualité : satisfaction des utilisateurs, accompagnement du changement, jours de formation · acceptés : sécurité, disponibilité.",
+   "pieges": "Deux indicateurs par question, reliés aux objectifs affichés (coûts, compétences).",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2024",
+   "dossier": "3",
+   "question": "3.1 note de synthèse BYOD et SI fantômes",
+   "bareme": "n.c. (dossier 12 pts)",
+   "attendus": "Définition du Shadow IT · avantages (innovation, partage des connaissances, usage, économies) · risques (intégrité, vie privée, sécurité) · gouvernance : équilibre autonomie/centralisation.",
+   "pieges": "Forme « note de synthèse ».",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2024",
+   "dossier": "3",
+   "question": "3.2 erreurs de gestion de projet par phase",
+   "bareme": "n.c.",
+   "attendus": "Tableau par phase · objectifs non mesurables, coût ignoré, triangle délai/qualité/coût absent, pas de COPIL ni d'équipe, cahier des charges par la secrétaire, MOE trop décisionnaire, pas de PERT/GANTT, pas de lien avec l'utilisateur.",
+   "pieges": "Structurer par les phases, comme la question l'exige.",
+   "alerte": false,
+   "source": "Corrigé UE5 2024 (Drive « UE 5 - 2024 Corrigé ») — scan lu visuellement"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Q1-Q2 mots-clés GED conformes RGPD, facture erronée",
+   "bareme": "n.c. (dossier 6 pts)",
+   "attendus": "Mots-clés : dates de période, de comptabilisation, d'échéance, référence d'engagement, montants HT/TTC, TVA · exclus : adresses, contacts, SIREN, opérateurs · facture erronée : avoir + nouvelle facture avec nouveau numéro, piste d'audit fiable.",
+   "pieges": "Ne jamais supprimer la traçabilité.",
+   "alerte": false,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé »)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Q3-Q5 calendrier de conservation, bon à payer, RGPD",
+   "bareme": "n.c.",
+   "attendus": "Purge à 10 ans après la clôture (11 ans après la date de facture accepté) · documents d'engagement et de livraison pour le BAP · RGPD : sécurité, durée de conservation, droits, registre, habilitations, anonymisation.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé »)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q6-Q7 COPIL et méthodologie de projet",
+   "bareme": "n.c. (dossier 8 pts)",
+   "attendus": "COPIL : chef de projet, sponsor, membres de l'équipe, donneur d'ordre (pas les clients basculés, qui vont en COPROJ) · cycle en V / cascade avec avantages et inconvénients.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé »)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q8 organisation du programme et GANTT de 5 bascules",
+   "bareme": "n.c.",
+   "attendus": "Paralléliser les bascules, prioriser pour éviter les ressources inoccupées, gestion de projet mutualisée · GANTT de 3 personnes (Evelyne, Patrice, Jean) sur 5 projets A-E.",
+   "pieges": "Exercice de planification pratique : s'entraîner à le tracer vite.",
+   "alerte": false,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé »)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q9 urbanisation et documents à réviser",
+   "bareme": "n.c.",
+   "attendus": "Définition de l'urbanisation · éléments à réviser : infrastructure (DAT), interfaces/flux, sécurité, processus, architecture applicative.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé »)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q10-Q13 facturation électronique, PDP, sécurité",
+   "bareme": "n.c. (dossier 6 pts)",
+   "attendus": "Rôle des PDP · motivations (fraude à la TVA, automatisation, contrôles, statistiques, compétitivité) · calendrier par taille · plan de classement : pas d'obligation de changement (Factur-X possible) · sécurité : accès, confidentialité, intégrité, RGPD, haute disponibilité.",
+   "pieges": "ALERTE ACTUALITÉ : le calendrier 2024-2026 du corrigé est dépassé. Report (LF 2024) à septembre 2026 (réception pour toutes, émission GE/ETI) et septembre 2027 (émission PME/micro). Le PPF est abandonné comme plateforme de facturation (octobre 2024) au profit des plateformes agréées. À vérifier dans une source officielle à jour.",
+   "alerte": true,
+   "source": "Corrigé UE5 2023 (Drive « UE 5 - 2023 Corrigé ») + alerte"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "question": "Q1-Q3 gouvernance du SI, schéma d architecture, FCS",
+   "bareme": "n.c. (dossier 6 pts)",
+   "attendus": "Définition de la gouvernance du SI (rôles, responsabilités, décision) · schéma d'architecture cible à dessiner (suppressions/ajouts de GED, ERP, BD, VPN, AD) · FCS : gouvernance validée, audit, coopération, communication, adhésion, planning, ITIL.",
+   "pieges": "Le schéma est un livrable noté : le dessiner.",
+   "alerte": false,
+   "source": "Corrigé UE5 2022 (Drive « UE 5 - 2022 Corrigé »)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q1-Q2 typologies de factures et circuits de validation",
+   "bareme": "n.c. (dossier 7 pts)",
+   "attendus": "≥ 4 typologies (engagée, non engagée, frais généraux, immobilisation, exploitation, sous-traitance, notes de frais) · tableau des circuits de validation (niveaux 1-3 par pays et par type).",
+   "pieges": "Optimiser = regrouper les types ayant le même circuit.",
+   "alerte": false,
+   "source": "Corrigé UE5 2022 (Drive « UE 5 - 2022 Corrigé »)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q3-Q4 étapes du workflow, méthode, Factur-X",
+   "bareme": "n.c.",
+   "attendus": "Analyse, paramétrage, recette, formation, mise en production · cycle en V (une date de bascule) ou agile par typologie · Factur-X = PDF + XML (format hybride), avantages.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2022 (Drive « UE 5 - 2022 Corrigé »)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "question": "Q1-Q3 SaaS vs On Premise, tout-en-un, DPO mutualisé",
+   "bareme": "n.c. (dossier 7 pts)",
+   "attendus": "Définitions et choix par application (CRM en SaaS, ERP et GED plutôt On Premise) · avantage et inconvénient du tout-en-un · DPO mutualisable (art. 37 RGPD, groupe ou contrat de service).",
+   "pieges": "Citer l'article 37.",
+   "alerte": false,
+   "source": "Corrigé UE5 2022 (Drive « UE 5 - 2022 Corrigé »)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "question": "Q1-Q3 organisations SI, schéma directeur, indicateurs de coût",
+   "bareme": "n.c. (dossier 8 pts)",
+   "attendus": "Organisations : fusionnée, répartie, indépendante, externalisée (CSP) · schéma directeur (définition + tableau par phases : période, objectifs, acteurs, livrables) · indicateurs de coût : infrastructures, maintenance, disponibilité, RH (ETP), valorisation, amortissement, coût d'opportunité.",
+   "pieges": "Le schéma directeur est attendu sous forme de tableau phasé.",
+   "alerte": false,
+   "source": "Corrigé UE5 2021 (Drive « UE 5 - 2021 Corrigé »)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "question": "Q4-Q6 FCS/risque, méthodes de projet, GANTT 5 tâches 40 semaines",
+   "bareme": "n.c. (dossier 5 pts)",
+   "attendus": "FCS/risques (audit, coopération, progiciel, prestataires, utilisateurs, planning, tests) · cycle en V recommandé, agile non recommandé (disponibilité), autres méthodes discutées · GANTT à tracer.",
+   "pieges": "GANTT : graduation en semaines, 5 tâches, total 40.",
+   "alerte": false,
+   "source": "Corrigé UE5 2021 (Drive « UE 5 - 2021 Corrigé »)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "question": "Q7-Q11 SI achats : conservation, workflow, numérisation, RGPD, continuité",
+   "bareme": "n.c. (dossier 7 pts)",
+   "attendus": "Conservation 10 ans · workflow de validation → bon à payer · destruction du papier possible si copie fiable (piste d'audit fiable) · RGPD : données fournisseurs licites pour l'exécution du contrat · continuité : GED hybride, PCA/PRA, réversibilité (incendie OVH 2021), VPN.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2021 (Drive « UE 5 - 2021 Corrigé »)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "question": "Q1-Q8 DPO, AIPD, registre, consentement, contrats",
+   "bareme": "1 pt par question",
+   "attendus": "DPO (données sensibles) · mutualisation · rôle auprès de la direction · AIPD si risque élevé · registre · information des salariés · mise à jour des contrats des sous-traitants.",
+   "pieges": "ALERTES : le corrigé dit le registre non obligatoire sous 250 salariés, or l'exception de l'art. 30.5 ne s'applique pas aux traitements non occasionnels comme la paie. Il fonde le traitement des salariés sur le consentement, alors que cette base est fragile dans la relation de travail. Il qualifie les sous-traitants de « coresponsables », alors que l'art. 28 en fait des sous-traitants liés par contrat. À vérifier dans le cours ou auprès de la CNIL.",
+   "alerte": true,
+   "source": "Corrigé UE5 2020 (Drive « UE 5 - 2020 Corrigé ») + alerte"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "question": "Q9-Q15 risques SI, formation, RGPD clients, newsletter",
+   "bareme": "1 pt ou 0,5 pt par question",
+   "attendus": "PCA · notification de violation à la CNIL sous 72 h · formation (y compris à distance, plateforme sécurisée) · obligations RGPD (consentement, minimisation, habilitations, droits, conservation) · local vs SaaS · cabinet = sous-traitant de ses clients (lettre de mission) · newsletter : identité, désinscription, information.",
+   "pieges": "Barème fin par question : réponses courtes et précises.",
+   "alerte": false,
+   "source": "Corrigé UE5 2020 (Drive « UE 5 - 2020 Corrigé »)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "3",
+   "question": "Q16-Q20 ERP, séminaires end-user/key-user, sécurité",
+   "bareme": "1-2 pts par question",
+   "attendus": "Bénéfices de l'intégration (BD unique) · plan des séminaires (tronc commun, spécialisations EU/KU, conclusion) · 3 silos (3 BD + 6 applications) → 1 ERP (1 BD + 6 modules) · questionnaire sécurité et indicateur.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE5 2020 (Drive « UE 5 - 2020 Corrigé »)"
+  }
+ ],
+ "dossiers_annales": [
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "intitule": "Audit et convergence des SI (SAS IAG-DD / IAC-Digit)",
+   "points": "18",
+   "total_points": "40",
+   "questions_resume": "Q1 pertinence de l'alignement stratégique, bénéfices · Q2 définir l'audit SI, deux référentiels/normes (COBIT, ISO 27001) · Q3 méthodologie d'audit (périmètre, objectifs, livrables, échéancier) · Q4 problèmes organisationnels et solutions",
+   "rubriques_principales": "6.1|1.2|6.2",
+   "rubriques_secondaires": "1.1|1.3|2.2",
+   "techniques": "alignement_strategique|referentiels_COBIT_ITIL_ISO|methodologie_audit|Gantt|organisation_DSI",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2025 Sujet (id 1td3dmPVU9zeLuRRIFNjRGJgCB7y6uK59, ajouté le 24/09/2026)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "intitule": "Sécurité et Zero Trust",
+   "points": "12",
+   "total_points": "40",
+   "questions_resume": "Q5 deux objectifs d'une PSSI, rôle du PCA/PRA · Q6 pertinence du Zero Trust, risques des ordinateurs personnels (BYOD) · Q7 trois mesures opérationnelles Zero Trust",
+   "rubriques_principales": "5.3|5.2",
+   "rubriques_secondaires": "5.1|4.2|1.3",
+   "techniques": "PSSI_DIC|PCA_PRA|Zero_Trust|BYOD_ShadowIT|IAM_MFA",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "intitule": "Valorisation des données (BI et Data Science)",
+   "points": "10",
+   "total_points": "40",
+   "questions_resume": "Q8 BI et transformation des métiers du cabinet, compétences, bénéfices clients · Q9 deux rôles de la DSI pour intégrer BI et Data Science",
+   "rubriques_principales": "1.4|6.4",
+   "rubriques_secondaires": "1.1|2.5",
+   "techniques": "BI_decisionnel|gouvernance_donnees|RGPD",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "intitule": "Mise en cohérence de CRM inter-organisationnels (AMDM / H2O)",
+   "points": "14",
+   "total_points": "40",
+   "questions_resume": "1.1 strates du SI touchées · 1.2 discuter les arguments de H2O (processus, obsolescence) · 1.3 caractériser le risque d'adoption et le gérer",
+   "rubriques_principales": "1.3|3.2|2.4",
+   "rubriques_secondaires": "3.1|2.2",
+   "techniques": "urbanisation_strates|conduite_changement",
+   "nature": "rédaction",
+   "source": "Drive « UE 5 - 2024 Sujet (transcription lisible).md » (id 1g__P49S4v7SlFi60ml47MOeCecoZISj5bAdFNCqv_u4) — PDF Drive = scan"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "intitule": "Alignement stratégique et gestion de la performance du SI",
+   "points": "14",
+   "total_points": "40",
+   "questions_resume": "2.1 alignement stratégie/stratégie SI · 2.2 deux indicateurs de performance du SI · 2.3 deux indicateurs de qualité du SI",
+   "rubriques_principales": "1.2|4.1",
+   "rubriques_secondaires": "1.1",
+   "techniques": "alignement_strategique|indicateurs_SI",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "3",
+   "intitule": "Gestion de projet, SI fantômes et BYOD",
+   "points": "12",
+   "total_points": "40",
+   "questions_resume": "3.1 note de synthèse (20 lignes) avantages/inconvénients BYOD et Shadow IT, gouvernance · 3.2 erreurs de gestion de projet par phase (cahier des charges, MOE, budget, pilotage)",
+   "rubriques_principales": "2.2|1.3",
+   "rubriques_secondaires": "5.3|1.1|2.1|2.4|5.2",
+   "techniques": "BYOD_ShadowIT|erreurs_gestion_projet|note_synthese",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "intitule": "Conception de la GED",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 mots-clés d'indexation · Q2 facture corrigée et numéro unique · Q3 paramètres du calendrier de conservation · Q4 documents du workflow bon à payer · Q5 RGPD et plan de classement achats",
+   "rubriques_principales": "3.1",
+   "rubriques_secondaires": "5.2",
+   "techniques": "GED|RGPD|conservation_legale|workflow",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2023 Sujet (id 1F30KtgFsYRd5th5pCAXbL42W0JiFrBOO)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "intitule": "Direction de projet (bascule de 100 clients GED)",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q6 comité de pilotage · Q7 méthodologie de projet (avantages/inconvénients) · Q8 organisation du programme et Gantt · Q9 urbanisation et documents d'urbanisation",
+   "rubriques_principales": "2.2|3.2",
+   "rubriques_secondaires": "1.3|2.1",
+   "techniques": "COPIL|methodes_projet|Gantt|urbanisation_strates",
+   "nature": "mixte (schéma)",
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "intitule": "Impact de la loi de finances 2024-2026 (facturation électronique)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q10 rôle des PDP · Q11 motivations du législateur · Q12 mise à jour du plan de classement · Q13 trois points d'attention sécurité pour la DSI",
+   "rubriques_principales": "5.2|5.3",
+   "rubriques_secondaires": "3.1|1.3",
+   "techniques": "facturation_electronique|securite_SI|RGPD",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "intitule": "Construction du système d'information (groupe SD3i)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 gouvernance des SI et sa redéfinition · Q2 modéliser le schéma d'architecture cible · Q3 deux facteurs clés de succès",
+   "rubriques_principales": "1.1|1.3|5.1",
+   "rubriques_secondaires": "2.1",
+   "techniques": "gouvernance_SI|schema_architecture|FCS_projet",
+   "nature": "mixte (schéma)",
+   "source": "Drive UE 5 - 2022 Sujet (id 1RE2Pv149rr5yIpguEzb4jotuzLkdBsD9)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "intitule": "Mise en œuvre d'un workflow facture (année de transition)",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 typologies de factures · Q2 circuits de validation · Q3 étapes et méthodologie de projet · Q4 Factur-X",
+   "rubriques_principales": "3.1|2.2",
+   "rubriques_secondaires": "5.2",
+   "techniques": "workflow|methodes_projet|facturation_electronique",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "intitule": "Équipement de nouveaux SI (SaaS vs On Premise, RGPD)",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 SaaS vs On Premise et choix par application · Q2 avantage/inconvénient d'une solution tout-en-un · Q3 mutualisation du DPO (RGPD)",
+   "rubriques_principales": "2.1|5.2",
+   "rubriques_secondaires": "3.1|4.5|5.1",
+   "techniques": "SaaS_OnPremise|RGPD",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "intitule": "Schéma directeur du SI (Haute-Loire Habitat)",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q1 deux organisations possibles de la DSI · Q2 définir et établir un schéma directeur · Q3 deux indicateurs de coût du SI",
+   "rubriques_principales": "1.1|1.2|4.3",
+   "rubriques_secondaires": "4.1",
+   "techniques": "organisation_DSI|schema_directeur|indicateurs_couts_SI",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2021 Sujet (id 1Kdt-K3XlN8rl9R7ZSMbRheWvApLE4Vqc)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "intitule": "Cadrage du projet",
+   "points": "5",
+   "total_points": "20",
+   "questions_resume": "Q4 un FCS et un risque · Q5 deux méthodes de conduite de projet · Q6 diagramme de Gantt (5 tâches, 40 semaines)",
+   "rubriques_principales": "2.1|2.2|2.4",
+   "rubriques_secondaires": "",
+   "techniques": "FCS_projet|methodes_projet|Gantt",
+   "nature": "mixte (schéma)",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "intitule": "Système d'information achats",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q7 conservation légale des factures · Q8 traitement informatique d'une facture · Q9 destruction de l'original papier · Q10 RGPD et factures d'achat · Q11 améliorations du SI achats (Covid)",
+   "rubriques_principales": "3.1|5.2",
+   "rubriques_secondaires": "5.3|4.2",
+   "techniques": "conservation_legale|workflow|dematerialisation|RGPD|PCA_PRA",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "intitule": "Cabinet CECL20 — RGPD et DPO (semaines 1 à 5, Q1-Q8)",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q1-3 DPO (obligation, mutualisation, rôle) · Q4 AIPD · Q5-6 registre des traitements · Q7 information et consentement des salariés · Q8 contrats avec les sous-traitants",
+   "rubriques_principales": "5.2",
+   "rubriques_secondaires": "4.2",
+   "techniques": "RGPD",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2020 Sujet (id 1akH6xayKQlo1r0aJJ9CNz9wGMNEk88p2)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "intitule": "Cabinet CECL20 — crise, sécurité, formation, RGPD clients (semaines 6 à 8, Q9-Q15)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q9 prévenir et traiter les risques SI · Q10-11 formation des personnels, à distance · Q12-14 obligations RGPD d'un cabinet, solutions informatiques, RGPD chez les clients · Q15 newsletter/mailing-list",
+   "rubriques_principales": "5.3|5.2",
+   "rubriques_secondaires": "2.5|4.2",
+   "techniques": "PCA_PRA|securite_SI|RGPD",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "3",
+   "intitule": "Cabinet CECL20 — ERP/PGI SaaS et séminaires utilisateurs (semaines 9 et suivantes, Q16-Q20)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q16 apports du nouvel ERP en SaaS · Q17-18 séminaires end-user/key-user · Q19-20 questionnaire et exploitation des réponses pour la sécurité (points de Q18-Q20 déduits du total, répartition non vérifiée)",
+   "rubriques_principales": "3.1|3.2|2.2",
+   "rubriques_secondaires": "5.3",
+   "techniques": "ERP|conduite_changement|securite_SI",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2019",
+   "dossier": "1",
+   "intitule": "Urbanisation du SI (SOLIDOR)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 pertinence de l'urbanisation · Q2 cartographie des processus · Q3 représentation (Ishikawa) du processus d'urbanisation",
+   "rubriques_principales": "1.3",
+   "rubriques_secondaires": "",
+   "techniques": "urbanisation_strates",
+   "nature": "mixte (schéma)",
+   "source": "Drive UE 5 - 2019 Sujet (id 1Z0d8wbaGYbWLeHhCzMUUsTjWDKRDHLrN)"
+  },
+  {
+   "annee": "2019",
+   "dossier": "2",
+   "intitule": "Alignement stratégique du SI",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 modèle d'alignement · Q2 ERP/CRM et NPS · Q3 SaaS forces/faiblesses · Q4 suivi de la qualité de la DSI",
+   "rubriques_principales": "1.2|3.1|4.1",
+   "rubriques_secondaires": "2.1",
+   "techniques": "alignement_strategique|ERP|SaaS_OnPremise|indicateurs_SI",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2019",
+   "dossier": "3",
+   "intitule": "Pilotage du changement",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 pertinence du pilotage du changement · Q2 dispositifs face aux résistances · Q3 Gantt en 6 phases, durée minimum",
+   "rubriques_principales": "2.2",
+   "rubriques_secondaires": "2.4",
+   "techniques": "conduite_changement|Gantt",
+   "nature": "mixte (schéma)",
+   "source": "idem"
+  },
+  {
+   "annee": "2018",
+   "dossier": "1",
+   "intitule": "Remplacement du PGI (Mirlac)",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 organes de pilotage du projet · Q2 conditions de réussite · Q3 critères de choix d'un PGI · Q4 difficultés de mise en place",
+   "rubriques_principales": "3.2|2.2",
+   "rubriques_secondaires": "2.1",
+   "techniques": "COPIL|FCS_projet|ERP",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2018 Sujet (id 1mg0HpCRmz439eElElMLl08o4bQL1cdYk)"
+  },
+  {
+   "annee": "2018",
+   "dossier": "2",
+   "intitule": "Ordonnancement du projet PGI",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 graphe d'ordonnancement (PERT) · Q2 allongement des développements · Q3 solution pour tenir la durée",
+   "rubriques_principales": "2.2",
+   "rubriques_secondaires": "2.4",
+   "techniques": "PERT|Gantt",
+   "nature": "calcul (ordonnancement)",
+   "source": "idem"
+  },
+  {
+   "annee": "2018",
+   "dossier": "3",
+   "intitule": "Sécurisation des échanges",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 conséquences des cyberattaques · Q2 VPN et clés de chiffrement · Q3 quatre autres dispositifs de protection",
+   "rubriques_principales": "5.2|5.3",
+   "rubriques_secondaires": "5.1",
+   "techniques": "securite_SI|chiffrement_VPN",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2017",
+   "dossier": "1",
+   "intitule": "Gouvernance du SI (AIDADOM)",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 stratégie informatique · Q2 apports d'une SSII · Q3 informatique décisionnelle",
+   "rubriques_principales": "1.2|1.4",
+   "rubriques_secondaires": "1.1|6.4",
+   "techniques": "alignement_strategique|BI_decisionnel",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2017 Sujet (id 1Licwy7u0za1kZV9d5d1TB4rfYVohur30)"
+  },
+  {
+   "annee": "2017",
+   "dossier": "2",
+   "intitule": "Projet de déploiement de l'application métier",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q4 hébergement central · Q5 full-web · Q6 virtualisation, haute disponibilité et TCO · Q7 SLA et référentiel (ITIL)",
+   "rubriques_principales": "5.1|4.2|4.3",
+   "rubriques_secondaires": "6.2|1.3",
+   "techniques": "architecture_cloud|SLA|TCO|referentiels_COBIT_ITIL_ISO",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2017",
+   "dossier": "3",
+   "intitule": "Étude du projet FOAD",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q8 enjeux, avantages et contraintes · Q9 six indicateurs d'accès à la plateforme",
+   "rubriques_principales": "2.1|4.1",
+   "rubriques_secondaires": "2.5",
+   "techniques": "indicateurs_SI",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2016",
+   "dossier": "1",
+   "intitule": "Gouvernance du SI (SOVANI)",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "Q1 alignement stratégique · Q2 couvrir les missions du SI (compétences internes/externalisation) · Q3 urbanisation",
+   "rubriques_principales": "1.2|1.1|1.3",
+   "rubriques_secondaires": "",
+   "techniques": "alignement_strategique|organisation_DSI|urbanisation_strates",
+   "nature": "rédaction",
+   "source": "Drive UE 5 - 2016 Sujet (id 1uXcmoKGmZHdtyj4u7rICaY2UCtmFfKcX)"
+  },
+  {
+   "annee": "2016",
+   "dossier": "2",
+   "intitule": "Projet de modernisation de l'ERP",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q1 raisons de changer d'ERP · Q2 étapes du projet · Q3 comparaison de trois solutions · Q4 facteurs de réussite et référentiels · Q5 alternatives cloud",
+   "rubriques_principales": "3.2|2.2|4.5",
+   "rubriques_secondaires": "5.1|1.3",
+   "techniques": "ERP|methodes_projet|referentiels_COBIT_ITIL_ISO|SaaS_OnPremise",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2016",
+   "dossier": "3",
+   "intitule": "Sécurité et audit en environnement informatisé",
+   "points": "5",
+   "total_points": "20",
+   "questions_resume": "Q1 réseau sécurisé (VPN) · Q2 audit financier en environnement informatisé · Q3 étapes d'un audit assisté par ordinateur",
+   "rubriques_principales": "5.2|6.2|6.3",
+   "rubriques_secondaires": "6.1",
+   "techniques": "chiffrement_VPN|audit_informatise",
+   "nature": "rédaction",
+   "source": "idem"
+  }
+ ],
+ "jury_toutes_observations": [
+  {
+   "annee": 2020,
+   "page": "p. 9",
+   "observation": "Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ».",
+   "rubriques": "5.2|5.3|3.1|3.2",
+   "difficulte_candidats": false,
+   "consequence": "RGPD/sécurité et ERP en contexte cabinet."
+  },
+  {
+   "annee": 2020,
+   "page": "p. 9",
+   "observation": "Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ».",
+   "rubriques": "5.3|4.2|2.1",
+   "difficulte_candidats": false,
+   "consequence": "Prestataires, cloud, continuité."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 9",
+   "observation": "D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience.",
+   "rubriques": "1.2|4.3|2.1|2.4|2.2|5.2|5.3",
+   "difficulte_candidats": false,
+   "consequence": "Schéma directeur, indicateurs de coût, méthodes et Gantt."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 10",
+   "observation": "« Cette UE5 continue sa transformation vers de moins en moins de questions liées aux techniques et à l'informatique ».",
+   "rubriques": "",
+   "difficulte_candidats": false,
+   "consequence": "Posture de manager/conseil plutôt que technicien."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 29",
+   "observation": "D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte.",
+   "rubriques": "3.2|2.2|1.3",
+   "difficulte_candidats": true,
+   "consequence": "Argumenter en situation."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 29",
+   "observation": "D2 : alignement stratégique ; références explicites au modèle valorisées ; « de nombreuses copies manquent de fondements théoriques solides » ; indicateurs de performance et de qualité.",
+   "rubriques": "1.2|4.1",
+   "difficulte_candidats": true,
+   "consequence": "Connaître et citer le modèle d'alignement."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 30",
+   "observation": "D3 : SI fantômes et BYOD (note de synthèse), erreurs de gestion de projet ; « L'ensemble du programme doit être maîtrisé ».",
+   "rubriques": "5.3|2.2|1.3",
+   "difficulte_candidats": false,
+   "consequence": "Notes de synthèse courtes et structurées."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 35",
+   "observation": "Nouvelle orientation « niveau master » ; D1 audit et convergence = « socle structurant » : alignement, COBIT vs ISO 27001, méthodologie d'audit.",
+   "rubriques": "6.1|6.2|1.2",
+   "difficulte_candidats": false,
+   "consequence": "Méthodologie de mission d'audit SI + référentiels."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 36",
+   "observation": "D1 : « un nombre significatif de copies a présenté des développements génériques, peu contextualisés » ; alignement stratégique « parfois réduit à un choix technique basique ou à une simple standardisation logicielle ».",
+   "rubriques": "1.2|6.1",
+   "difficulte_candidats": true,
+   "consequence": "Analyser les dimensions organisationnelles/managériales."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 36",
+   "observation": "D2 sécurité et Zero Trust « discriminant » : DIC, PCA vs PRA (RTO/RPO), Zero Trust comme cadre, BYOD, IAM/MFA/MDM ; confusions référentiels/normes/solutions.",
+   "rubriques": "5.3|5.2|4.2|1.3",
+   "difficulte_candidats": true,
+   "consequence": "Fiche sécurité moderne (manquante dans le cours selon tes notes Drive)."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 36",
+   "observation": "D3 BI : chaîne de valeur (collecte, ETL, entrepôt, restitution), compétences, rôle de la DSI ; BI réduite à un outil dans les copies faibles.",
+   "rubriques": "1.4|6.4|1.1",
+   "difficulte_candidats": true,
+   "consequence": "Chaîne décisionnelle et gouvernance des données."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 36-37",
+   "observation": "Trois difficultés persistantes : corpus théorique peu mobilisé, argumentation descriptive, rédaction ; « La simple restitution de connaissances techniques ne saurait suffire ».",
+   "rubriques": "1.2|6.2",
+   "difficulte_candidats": true,
+   "consequence": "Citer explicitement modèles et référentiels."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 18-19",
+   "observation": "Taux de réussite UE5 : 57,85 % (2024) → 38,87 % (2025).",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "Épreuve en durcissement."
+  }
+ ],
+ "programme_complet": [
+  {
+   "code": "1.1",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Position de la fonction SI au sein de l'organisation",
+   "notions": "DSI : missions, fonctions, rôles, ressources, types d'organisation, tableau de bord de la DSI"
+  },
+  {
+   "code": "1.2",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "La stratégie SI",
+   "notions": "alignement stratégique, schéma directeur, agilité"
+  },
+  {
+   "code": "1.3",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Évolution des systèmes d'information",
+   "notions": "urbanisation et cartographie, SI inter-organisationnels, open data/innovation, BYOD, référentiels (ITIL, COBIT, ISO)"
+  },
+  {
+   "code": "1.4",
+   "partie": "1. Gouvernance des SI (30 h)",
+   "intitule": "Management stratégique des données (Big Data-Mégadonnées)",
+   "notions": "big data, analyse et sécurité des données, plateformes, datacenter et cloud computing"
+  },
+  {
+   "code": "2.1",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Les enjeux d'un projet",
+   "notions": "place du projet dans la stratégie, agilité, organisation du projet, MOA/MOE, faire/faire-faire face au cloud (SaaS, IaaS, PaaS), régie/forfait"
+  },
+  {
+   "code": "2.2",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "La mise en œuvre d'un projet",
+   "notions": "cahier des charges, parties prenantes, cycle de vie, planification et ordonnancement, qualité (ISO, CMMI), suivi des coûts et délais (écarts), tests et recette, déploiement, formation"
+  },
+  {
+   "code": "2.3",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Maintenance",
+   "notions": "maintenance corrective et évolutive, contrat de maintenance, TMA et niveau de service"
+  },
+  {
+   "code": "2.4",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Gestion des risques du projet",
+   "notions": "analyse et gestion des risques, intégration des risques dans les contrats"
+  },
+  {
+   "code": "2.5",
+   "partie": "2. La gestion de projets SI (30 h)",
+   "intitule": "Gestion des connaissances",
+   "notions": "capitalisation des savoirs, outils collaboratifs et de KM, text mining"
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Les systèmes d'entreprise (15 h)",
+   "intitule": "La place des systèmes d'entreprise (SE)",
+   "notions": "intégration, PGI-ERP, couverture fonctionnelle, open source, SaaS, évolutions réglementaires"
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Les systèmes d'entreprise (15 h)",
+   "intitule": "Le cycle de vie des systèmes d'entreprise (SE)",
+   "notions": "mise en place, déploiement, renouvellement, exploitation et évaluation"
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Définition d'indicateurs",
+   "notions": "indicateurs de performance et de qualité (données, sécurité, fiabilité…)"
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Le contrat de services",
+   "notions": "niveaux de service (SLA), infogérance, facturation interne, responsabilité du prestataire, plan de continuité d'activité"
+  },
+  {
+   "code": "4.3",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Les coûts",
+   "notions": "coûts de la fonction SI, TCO, coût d'opportunité, externalisation, open source, mutualisation, tarifications du cloud"
+  },
+  {
+   "code": "4.4",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Les budgets",
+   "notions": "budget de la fonction SI, facturation interne, pay per licence / per use"
+  },
+  {
+   "code": "4.5",
+   "partie": "4. Gestion de la performance informationnelle (30 h)",
+   "intitule": "Évaluation des projets de SI",
+   "notions": "bilan coûts/avantages, critères de sélection, ROI pré et post projet, réversibilité, analyse post mortem"
+  },
+  {
+   "code": "5.1",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Architecture technique",
+   "notions": "client-serveur, middleware, transactionnel, intégration, portail"
+  },
+  {
+   "code": "5.2",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Mise en place d'une architecture de confiance",
+   "notions": "PKI, certificat, signature électronique, droit de l'information (RGPD, conservation, dématérialisation)"
+  },
+  {
+   "code": "5.3",
+   "partie": "5. Architecture et sécurité des SI (15 h)",
+   "intitule": "Surveillance et prévention",
+   "notions": "surveillance des processus, prévention, continuité, protection juridique, assurances et garanties"
+  },
+  {
+   "code": "6.1",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Audit du système d'information",
+   "notions": "missions d'audit (interne, externe, stratégique), documentation d'audit, conseils et recommandations"
+  },
+  {
+   "code": "6.2",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil",
+   "notions": "normes professionnelles, comptes d'entités informatisées, risques d'audit et de conseil, ITIL, COBIT, cartographie applicative, obligations légales"
+  },
+  {
+   "code": "6.3",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Audit et conseils assistés",
+   "notions": "étapes et outils de l'audit assisté, progiciels d'aide aux missions"
+  },
+  {
+   "code": "6.4",
+   "partie": "6. Audit du SI, conseil et reporting (20 h)",
+   "intitule": "Contrôle et reporting",
+   "notions": "projets de reporting, entrepôt de données, visualisation, qualité et intégration des données"
+  }
+ ]
+}

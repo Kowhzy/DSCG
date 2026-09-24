@@ -1,0 +1,40 @@
+technique;libelle;sessions_2016_2025;sessions_2020_2025;sessions_2023_2025;derniere_apparition;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;dossiers
+gouvernance;Gouvernance (codes, agence, administrateurs);4;4;3;2025;;;;;;;X;X;X;X;2025 D3, 2024 D2, 2023 D2, 2022-S1 D2, 2022-S2 D2
+MEDAF_beta;MEDAF, bêta (désendetté/réendetté);5;3;2;2025;X;;X;;;X;;;X;X;2025 D1, 2024 D1, 2021 D1, 2018 D1, 2016 D1
+CMPC;CMPC;5;3;2;2025;X;;;X;X;;;X;;X;2025 D1, 2023 D2, 2020 D1, 2019 D1, 2016 D1
+RSE_ESG;RSE / ESG / extra-financier;3;3;2;2024;;;;;;;X;X;X;;2024 D3, 2023 D3, 2022-S1 D2, 2022-S2 D4
+DCF_FTD;DCF / flux de trésorerie disponibles;5;2;2;2024;X;X;;X;;;;X;X;;2024 D1, 2023 D2, 2019 D1, 2017 D1, 2016 D1
+multiples;Multiples (comparables);3;2;2;2024;;X;;;;;;X;X;;2024 D1, 2023 D2, 2017 D1
+covariance_risque;Covariance, variance, risque de portefeuille;3;2;1;2023;;;X;;;X;;X;;;2023 D2, 2021 D1, 2018 D1
+couverture_taux;Couverture du risque de taux (swap, collar…);3;2;1;2023;;;;X;X;;;X;;;2023 D3, 2020 D2, 2019 D1
+VAN_TRI;VAN, TRI, conflits de critères;2;2;1;2025;;;;;;X;;;;X;2025 D1, 2021 D1
+crowdfunding;Crowdfunding;2;2;1;2025;;;;;X;;;;;X;2025 D3, 2020 D1
+blockchain_crypto;Blockchain, crypto-actifs;2;2;0;2021;;;;;X;X;;;;;2021 D3, 2020 D2
+dividende_theories;Politique de dividende (théories);1.5;1.5;1;2025;;;;;;;½;;;X;2025 D3, 2022-S1 D2, 2022-S1 D3
+parties_prenantes;Parties prenantes;1.5;1.5;1;2024;;;;;;;½;;X;;2024 D3, 2022-S2 D4
+parite_fusion;Parité d'échange, fusion;1.5;1.5;0;2022;;;;;;X;½;;;;2022-S1 D3, 2021 D2
+diagnostic_ratios;Diagnostic par ratios (ROCE, ROE, gearing…);4;1;0;2022;X;;X;X;;;X;;;;2022-S1 D1, 2022-S2 D1, 2019 D1, 2018 D1, 2016 D1
+LBO;Montage LBO;2;1;1;2025;;;;X;;;;;;X;2025 D2, 2019 D2
+notation;Notation (financière / extra-financière);2;1;1;2023;;;;X;;;;X;;;2023 D3, 2019 D1
+capital_investissement;Capital-investissement;2;1;0;2021;;;X;;;X;;;;;2021 D1, 2018 D2
+couverture_change;Couverture du risque de change;2;1;0;2021;;X;;;;X;;;;;2021 D3, 2017 D2
+obligations_duration;Obligations (taux, duration, sensibilité);2;1;0;2020;;;;X;X;;;;;;2020 D1, 2019 D1
+flux_projet;Flux d'un projet (BFR, IS, valeur de reprise);1;1;1;2025;;;;;;;;;;X;2025 D1
+tableau_amortissement;Tableaux d'amortissement / annuités;1;1;1;2025;;;;;;;;;;X;2025 D2
+prime_offre_publique;Prime et fourchette d'une offre publique;1;1;1;2024;;;;;;;;;X;;2024 D1, 2024 D2
+droits_de_vote;Structure d'actionnariat, droits de vote;1;1;1;2024;;;;;;;;;X;;2024 D2
+societe_a_mission;Société à mission;1;1;1;2024;;;;;;;;;X;;2024 D3
+Black_Scholes;Black-Scholes;1;1;1;2023;;;;;;;;X;;;2023 D1
+option_reelle;Options réelles;1;1;1;2023;;;;;;;;X;;;2023 D1
+fonds_de_commerce;Évaluation d'un fonds de commerce;1;1;1;2023;;;;;;;;X;;;2023 D2
+immobilier;Finance immobilière;1;1;0;2021;;;;;;X;;;;;2021 D1
+annuite_equivalente;Annuité équivalente / horizon commun;1;1;0;2021;;;;;;X;;;;;2021 D1
+EVA;EVA / création de valeur;1;1;0;2020;;;;;X;;;;;;2020 D1
+netting_cash_pooling;Netting / centralisation de trésorerie;1;1;0;2020;;;;;X;;;;;;2020 D2
+start_up_VC;Évaluation de start-up (VC method);1;1;0;2020;;;;;X;;;;;;2020 D3
+BPA_relution;BPA : relution / dilution;0.5;0.5;0;2022;;;;;;;½;;;;2022-S1 D3
+efficience_finance_comportementale;Efficience et finance comportementale;0.5;0.5;0;2022;;;;;;;½;;;;2022-S2 D3
+dissertation;Dissertation (format pré-2020);4;0;0;2019;X;X;X;X;;;;;;;2019 D2, 2018 D2, 2017 D2, 2016 D2
+TFT;Tableau de flux de trésorerie;1;0;0;2019;;;;X;;;;;;;2019 D1
+IPO;Introduction en bourse;1;0;0;2017;;X;;;;;;;;;2017 D1
+fusions_acquisitions;Fusions-acquisitions (qualitatif);1;0;0;2016;X;;;;;;;;;;2016 D2

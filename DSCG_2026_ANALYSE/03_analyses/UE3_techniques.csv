@@ -1,0 +1,55 @@
+technique;libelle;sessions_2016_2025;sessions_2020_2025;sessions_2023_2025;derniere_apparition;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025;dossiers
+ecarts;Analyse d'écarts;6;3;3;2025;X;X;;X;;;;X;X;X;2023 D2, 2025 D1, 2019 D3, 2017 D3, 2016 D2, 2024 D2
+parties_prenantes;Parties prenantes;5;3;2;2025;X;;X;;;;X;X;;X;2023 D2, 2022 D3, 2025 D1, 2018 D1, 2016 D1
+couts_caches;Coûts cachés (Savall-Zardet);4;3;1;2023;;;X;;X;;X;X;;;2023 D3, 2022 D2, 2020 D2, 2018 D1
+note_synthese;Note de synthèse;3;3;2;2025;;;;;X;;;X;;X;2023 D1, 2023 D2, 2025 D1, 2020 D1
+Porter_5F;5 (+1) forces de Porter;3;3;2;2024;;;;;;;X;X;X;;2023 D1, 2022 D1, 2024 D1
+RSE;RSE / DD;4;2;1;2025;;;X;X;;;X;;;X;2022 D3, 2025 D1, 2019 D1, 2018 D1
+competences;Gestion des compétences;3;2;2;2025;;;;X;;;;X;;X;2023 D3, 2025 D2, 2019 D2
+masse_salariale;Masse salariale (effets niveau/masse/report);3;2;1;2025;;X;;;;;X;;;X;2022 D2, 2025 D2, 2017 D3
+PESTEL;PESTEL;3;2;1;2023;;X;;;;;X;X;;;2023 D1, 2022 D1, 2017 D1
+digital;Marketing digital;2;2;1;2024;;;;;;;X;;X;;2022 D1, 2024 D2
+previsions_resultat;Prévisions de CA / résultat;2;2;1;2024;;;;;;X;;;X;;2021 D4, 2024 D1
+tarification;Tarification / grille de prix;2;2;1;2024;;;;;X;;;;X;;2020 D1, 2024 D1
+TBS;Tableau de bord social;2;2;1;2023;;;;;;;X;X;;;2023 D3, 2022 D2
+strategies_generiques;Stratégies génériques;4;1;0;2022;X;;X;X;;;X;;;;2022 D1, 2019 D2, 2018 D1, 2016 D1
+diagnostic_ressources_competences;Diagnostic ressources / compétences;3;1;1;2025;X;;;X;;;;;;X;2025 D2, 2019 D2, 2016 D1
+franchise_plateforme;Franchise / plateforme;2;1;1;2024;;;;X;;;;;X;;2019 D3, 2024 D2
+SWOT;SWOT;2;1;0;2021;;X;;;;X;;;;;2021 D1, 2017 D1
+outils_CG;Outils de contrôle de gestion;2;1;0;2021;X;;;;;X;;;;;2021 D4, 2016 D2
+couts_marges_seuil;Coûts, marges, seuil de rentabilité;2;1;0;2020;;;;X;X;;;;;;2020 D1, 2019 D3
+conduite_projet;Conduite de projet;2;1;0;2020;X;;;;X;;;;;;2020 D2, 2016 D2
+PCI;Prix de cession interne / de transfert;1;1;1;2025;;;;;;;;;;X;2025 D3
+integration_verticale;Intégration verticale;1;1;1;2025;;;;;;;;;;X;2025 D3
+couts_transaction;Coûts de transaction;1;1;1;2025;;;;;;;;;;X;2025 D3
+facteur_rare;Optimisation sous contrainte (facteur rare);1;1;1;2024;;;;;;;;;X;;2024 D2
+scenarios;Scénarios;1;1;1;2023;;;;;;;;X;;;2023 D1
+faire_faire_faire;Faire ou faire-faire (relocalisation);1;1;1;2023;;;;;;;;X;;;2023 D2
+formation;Plan de formation;1;1;1;2023;;;;;;;;X;;;2023 D3
+QVT_attractivite;QVT, attractivité;1;1;1;2023;;;;;;;;X;;;2023 D3
+marketing;Marketing stratégique / mix;1;1;0;2022;;;;;;;X;;;;2022 D1
+GEPP;GEPP / GPEC;1;1;0;2022;;;;;;;X;;;;2022 D2
+KM;Knowledge management (SECI);1;1;0;2022;;;;;;;X;;;;2022 D2
+gouvernance;Gouvernance (codes, agence, administrateurs);1;1;0;2022;;;;;;;X;;;;2022 D3
+ocean_bleu;Océan bleu;1;1;0;2021;;;;;;X;;;;;2021 D1
+business_model;Business model (canvas);1;1;0;2021;;;;;;X;;;;;2021 D2
+integration_fidelisation;Intégration, fidélisation;1;1;0;2021;;;;;;X;;;;;2021 D3
+cout_turnover;Coût du turnover;1;1;0;2021;;;;;;X;;;;;2021 D3
+seuil_rentabilite;Seuil de rentabilité d'une décision;1;1;0;2021;;;;;;X;;;;;2021 D3
+remuneration;Rémunération (dont BSPCE);1;1;0;2021;;;;;;X;;;;;2021 D4
+diagnostic_strategique;Diagnostic stratégique (démarche);1;1;0;2020;;;;;X;;;;;;2020 D1
+valeur_client;Valeur client / offre;1;1;0;2020;;;;;X;;;;;;2020 D1
+diagnostic_processus;Diagnostic des processus;1;1;0;2020;;;;;X;;;;;;2020 D2
+tableau_de_bord;Tableau de bord de pilotage;1;1;0;2020;;;;;X;;;;;;2020 D2
+performance_globale;Performance globale;1;1;0;2020;;;;;X;;;;;;2020 D2
+Mintzberg;Configurations de Mintzberg;3;0;0;2019;X;X;;X;;;;;;;2019 D1, 2017 D2, 2016 D1
+modes_developpement;Modes de développement;2;0;0;2019;;X;;X;;;;;;;2019 D3, 2017 D2
+entreprise_liberee;Entreprise libérée;1;0;0;2019;;;;X;;;;;;;2019 D1
+chaine_valeur;Chaîne de valeur;1;0;0;2019;;;;X;;;;;;;2019 D2
+risques;Risques;1;0;0;2019;;;;X;;;;;;;2019 D2
+conduite_changement;Conduite du changement;1;0;0;2018;;;X;;;;;;;;2018 D2
+progres_continu;Progrès continu;1;0;0;2018;;;X;;;;;;;;2018 D2
+apprentissage_organisationnel;Apprentissage organisationnel;1;0;0;2018;;;X;;;;;;;;2018 D2
+rentabilite_actions;Rentabilité d'un plan d'actions;1;0;0;2018;;;X;;;;;;;;2018 D2
+Greiner;Modèle de Greiner;1;0;0;2017;;X;;;;;;;;;2017 D2
+valeur_acquise;Valeur acquise (projet);1;0;0;2016;X;;;;;;;;;;2016 D2

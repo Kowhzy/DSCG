@@ -1,0 +1,461 @@
+=== PAGE 1 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 1 / 7 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+SESSION 2023 
+Éléments indicatifs de corrigé
+FICHEBEN
+
+=== PAGE 2 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 2 / 7 
+DOSSIER 1 – CONCEPTION DE LA GED 
+1. Sur la typologie de document « Facture » présent en annexe 1, un certain nombre de mots 
+clés permettent de qualifier le document afin de le retrouver efficacement. Proposer deux 
+mots clés supplémentaires pertinents pour qualifier la facture en GED afin d’améliorer la 
+recherche de ce type de document. Ces mots clés complémentaires doivent être conformes 
+du point de vue du RGPD.   
+Réponses pressenties :  
+- 
+« Date de période », « date de début de période », « date de fin de période » : cela permet 
+de dater les prestations d’une facture afin de calculer ultérieurement les produits constatés 
+d’avance ou les charges constatées d’avance lors du bilan ; 
+- 
+« Date de comptabilisation » : dans certains contextes, elle est différente de la date 
+d’enregistrement de la facture ; 
+- 
+« Référence d’engagement » ou « Référence de Livraison » : il s’agit des références du 
+devis, de la commande, du marché, du contrat… ; 
+- 
+« Date de paiement » ou « date d’échéance » : on préférera la date de paiement plutôt que 
+la condition de paiement qui ne servira pas à des recherches efficaces dans la GED ; 
+- 
+« Montant HT », « Montant TTC » : permet de retrouver une facture par son montant ; 
+- 
+« Type de TVA », « Montant de TVA », « Taux de TVA » : peut apporter une valeur sur la 
+recherche d’une catégorie de facture. 
+Il peut aussi avoir des mots clés sur des particularités de paiement (escomptes, affacturages, les 
+écotaxes…) ou liés à l’exercice, voir la solution comptable où la facture a été transmise dans le 
+cadre d’un environnement multi-applicatifs 
+Si l’activité l’exige, on peut retrouver la référence et la raison sociale du client livré ou de l’entité 
+facturée sinon ce n’est pas conforme RGPD. 
+Réponses non conformes RGPD ou non adapté à une GED. 
+- 
+Les références des produits ou des services contenus dans la facture. Les prix unitaires ou 
+quantités ne sont pas non plus appropriés. 
+- 
+L’adresse (fournisseur, client ou livraison) ou des informations de contacts (nom, téléphone, 
+email…). Siret, Siren ou TVA intracom 
+- 
+Les informations de comptabilisation générales ou analytiques 
+- 
+Les informations sur les opérateurs (utilisateurs) de l’entreprise qui traitent la facture  
+- 
+Des avis personnels sur la facture ou des commentaires liés à l’activité (confidentialité)  
+ 
+2. Le Plan de classement indique que la facture d’achat à un numéro de pièce unique en GED. 
+En conséquence, comment traiter une facture erronée d’un fournisseur dans le cas où celui-
+ci décide de renvoyer une version corrigée ? La réponse doit respecter la législation 
+comptable. 
+La législation impose l’enregistrement de chaque facture fournisseur réceptionnée par un canal 
+conforme par l’entreprise. Afin de conserver la traçabilité qui est de plus renforcée avec les nouvelles 
+lois de finances, l’entreprise doit informer le fournisseur pour non-conformité de la facture et en 
+bloquer généralement le paiement. La facture corrigée devra obligatoirement comporter un nouveau 
+numéro pour être traitée de manière conforme et la précédente facture erronée devra être annulée 
+par un avoir. 
+Dans la pratique, des exceptions sont tolérées comme la réception d’une facture où la qualité 
+d’impression serait insuffisante, même si l’entreprise devait dans ce cas demander un duplicata, 
+elle peut dans la plupart des GED via un accès administrateur remplacer le document en GED par 
+le document d’une meilleure qualité. L’objectif est de ne jamais supprimer la traçabilité ou changer 
+la piste d’audit fiable.     
+ 
+FICHEBEN
+
+=== PAGE 3 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 3 / 7 
+3. Dans la nouvelle version de la GED vous disposez d’un calendrier de conservation qui 
+effectue une « purge » des documents au-delà d’une période programmée vis-à-vis d’une 
+date de référence. Quels sont les paramètres qui doivent être programmés pour la facture 
+d’achat afin de ne plus conserver les documents au-delà du temps de conservation légal ?  
+Le calendrier de conservation doit programmer une purge des factures au bout de 10 ans après la 
+date de clôture de l’exercice. 
+Accepter toute réponse respectant cette législation comptable. Comme la date de clôture de 
+l’exercice n’est pas mentionnée dans le sujet, on acceptera 11 ans à partir de la date d’établissement 
+de la facture 
+ 
+4. Pour valider le Bon à payer d’une facture, les utilisateurs acteurs du Workflow Facture 
+auront accès à la GED. Quels sont les documents qui leurs permettront de valider le Workflow  
+Voici la liste des types de documents susceptibles d’aider la validation du bon à payer d’une facture :  
+- 
+les documents d’engagements : cela peut être des devis, commandes, marchés, contrats ; 
+- 
+les documents de livraisons : Bons de livraison, Compte rendu d’intervention, étiquettes de 
+traçabilités ; 
+- 
+les précédentes factures des mêmes produits ou du même fournisseur ; 
+- 
+les documents liés à l’environnement du contenu de la facture : Situation de travaux, 
+documents de projets, certificats réglementaires, contrats. 
+ 
+5. D’un point de vue du RGPD, quelles sont les limitations ou les règles à respecter sur les 
+documents du Plan de Classement Achat ? 
+Voici une liste de limitation ou de règles à respecter : 
+- 
+disposer d’un système de sécurité pour les documents contenant des données personnelles 
+ou sensibles, c’est le cas des documents du Plan de classement Achat. L’entreprise doit 
+donc mettre en place des lieux de stockage sécurisés avec contrôle d’accès (GED, Système 
+d’Archivage Electronique, placard sécurisés…) dans le but d’assurer la confidentialité des 
+données ; 
+- 
+mettre en place les règles de gestion de la durée de conservation des données, car le RGPD 
+demande de ne pas maintenir la détention de document comportant des données sensibles 
+ou personnelles au-delà de la durée légale de conservation. Cela peut être la mise en place 
+d’un calendrier de conservation pour une GED ou d’une gestion interne d’inventaire 
+régulière ; 
+- 
+informer les fournisseurs comme les tiers de leur droit d’accès, de rectification, d’opposition 
+et de suppression des informations collectées à travers les documents échangés ; 
+- 
+maintenir un registre déclaré des informations personnelles détenues dans chaque système 
+d’information. Les documents du plan de classement achat en font partie ;   
+- 
+gestion des droits utilisateurs : Les documents achats peuvent contenir des informations 
+sensibles ou confidentielles. Elles sont légales du point de vue RGPD, car nécessaires pour 
+l’exercice du contrat, mais ne pouvant être diffusé où consulter de l’ensemble du personnel 
+(adresses, téléphones ou email du fournisseur par exemple), il faut donc mettre en place une 
+gestion des accès ; 
+- 
+anonymiser sur les documents sans altérer la valeur probante du document de toutes 
+informations personnelles sur des personnes (exemple, un numéro de sécurité sociale sur 
+une facture de soin). Cela se traduit par une altération du document qui ne change pas la 
+valeur de sa finalité comptable. 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 4 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 4 / 7 
+DOSSIER 2 – DIRECTION DE PROJET 
+6. Pour piloter l’ensemble de vos projets au sein du programme de bascule des clients de 
+l’ESN, vous décidez d’organiser un Comité de pilotage mensuel. Quels sont les participants 
+à convier à ce comité ? 
+Un Comité de pilotage convie les acteurs impliqués dans l’ensemble du projet. Dans notre contexte 
+les membres à convier sont :  
+- 
+Le chef ou le directeur de projet : C’est ici votre rôle, vous animerez ce comité 
+- 
+Le sponsor du projet : C’est au sein de votre direction, celui qui finance le budget de votre 
+programme. Au sein d’une ESN, c’est en général un directeur opérationnel 
+- 
+Les membres de l’équipe : En fonction des sujets et de l’ordre du jour, un membre de votre 
+équipe sachant sur un sujet peut intervenir. Vous pouvez aussi convier votre chef de projet 
+- 
+Le donneur d’ordre du programme : C’est votre client, celui pour lequel vous réalisez ce 
+programme de projet. C’est le souhait de votre direction générale qui en général va déléguer 
+cela à un manageur opérationnel 
+Votre Copil étant au niveau « programme de projet », vous n’invitez pas les clients sur lesquels vous 
+réalisez les bascules, ils seront conviés aux différents COPROJ (Comités Projets) les concernant. 
+ 
+7. Décrire la méthodologie de projet employée pour basculer un client de GED à partir des 
+informations présentées en annexe 2 et 3. Justifier ce choix de méthodologie en décrivant 
+les avantages et les inconvénients. 
+La méthodologie de projet utilisée est le cycle en V ou en cascade, les tâches du projet se succèdent 
+sans itération avec analyse, installation/paramétrage, recette, formation, mise en production. La 
+différence entre un cycle en V et la méthode en cascade est que cette dernière ne permet pas un 
+retour aux étapes précédentes. On note une exception pour les runs de transfert de données qui 
+est proche du modèle itératif, car le 2e run est un complément de celui réalisé par le premier, mais 
+cela ne qualifie pas toute la méthodologie du projet 
+Les avantages de la méthodologie de cycle en V ou en cascade pour ce programme.  
+- 
+S’adapte à un programme de multi-projet identique, car il pourra plus facilement spécialiser les 
+ressources et paralléliser les tâches identiques. 
+- 
+Facilite la gestion et le pilotage du projet avec une visibilité claire de la cible dès le départ (effet 
+tunnel). Les résultats sont définis en amont dès l’audit. 
+- 
+Les projets sont une bascule vers la nouvelle version de GED, on limite la conduite du 
+changement, car l’outil, l’éditeur et le projet sont déjà vécus du client et des utilisateurs. 
+- 
+La durée du projet est courte, un cycle en V s’adapte plus facilement et sera plus efficace. 
+ 
+Les inconvénients de la méthodologie de cycle en V ou en cascade pour ce programme. 
+- 
+Les projets étant répétitifs, il y a un risque d’excès de confiance de la part de l’équipe projet qui 
+peut omettre des particularités ou négliger certaines tâches de la méthodologie de projet. 
+- 
+Manque de souplesse pour un cas de projet ou de client très particulier. C’est le cas si, par 
+exemple, le client veut faire parallèlement à la bascule de GED un projet d’amélioration continue. 
+Dans ce cas, une méthode itérative serait plus adaptée.  
+- 
+Le manque de communication de cette méthodologie entre client et fournisseur. Elle donne aussi 
+beaucoup d’autonomie à la MOE, le client participant peu dans les phases d’intervention. Cela 
+peut provoquer une phase de recette beaucoup plus longue que planifiée initialement. 
+- 
+La méthode cycle en V ou en cascade a généralement une période de garantie plus longue 
+après la mise en production pour laisser le temps au client d’évaluer le projet. 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 5 / 7 
+8. Donner deux critères d’organisation du programme de projet à l’aide des éléments 
+présentés au sein des annexes 2 et 3 afin de réaliser les 100 bascules clients en un minimum 
+de temps. Vous présenterez ensuite un Gantt du programme pour les 5 premières bascules.  
+L’organisation permettant de réaliser le maximum de bascule en un minimum de temps doit prendre 
+en compte les critères suivants :  
+- 
+traiter les étapes de plusieurs bascules sans attendre qu’une bascule se termine. Comme les 
+ressources sont spécialisées, cela permet de limiter les temps d’attentes d’une ressource entre 
+chaque projet ;  
+- 
+prioriser les étapes entre les bascules pour ne pas laisser des ressources sans charge : cela est 
+possible, car les étapes 2 et 3 peuvent être réalisées indépendamment, et les étapes 7 et 8 
+peuvent être faites en même temps ; 
+- 
+répartir les étapes sur le chemin critique des projets pour limiter les risques : cela permet 
+d’avancer d’autres projets de bascule par rapport au chemin critique d’un des projets ; 
+- 
+la Gestion du projet est transverse à tous les projets, elle est donc mutualisée  
+ 
+Gantt pour 5 bascules en un minimum de temps : Le Gantt est présenté en 3 parties continues 
+ 
+ 
+ 
+ 
+Légende : chaque couleur est une bascule, ABCDE pour les 5 projets 
+On prendra note des précisions de l’annexe permettant l’optimisation :  
+- 
+les étapes 2 et 3 peuvent être réalisées en même temps, il est même possible de réaliser l’installation 
+avant la correction ; 
+- 
+la gestion de projet n’est pas affectée à un projet en particulier, mais peut être transverse à plusieurs 
+bascules. 
+9. Après avoir défini la notion d’urbanisation du Système d’information, présenter un 
+minimum de trois éléments de révision des documents d’urbanisation dans le cadre des 
+bascules de GED chez vos clients 
+L'urbanisation du système d'information consiste à s’assurer que chaque évolutions ou 
+transformations du SI conserve de la cohérence vis-à-vis des objectifs métiers et opérationnelle de 
+l’entreprise. Cette discipline est inscrite dans le respect de la stratégie du Système d’information.  
+Son principal enjeu est d’assurer la direction de la transformation continue du Système 
+d’information. L’urbanisation assure aussi la conservation d’un SI applicatif homogène au cours de 
+chaque évolution ou changement de processus informatique. 
+L’urbanisation s'appuie sur un ensemble de concepts similaires à ceux de l'urbanisation de l'habitat 
+humain (organisation des villes, du territoire) pour schématiser le SI. On retrouve alors dans les 
+livrables les notions d’infrastructure, de flux, de service, d’organisation, les utilisateurs, les sources 
+de données et de valeurs, …  
+ 
+ 
+ 
+Personnes : 
+Evelyne : 
+A1 - Audit
+B1 - Audit
+Gestion de projet
+C1 - Audit
+Gestion de projet
+D1 - Audit
+Patrice : 
+A3 - Installation
+B3 - Installation
+A5 - Run 1
+C3 - Installation
+B5 - Run 1
+Jean : 
+A2 - Correction
+A4 -Paramétrage
+B2 - Correction
+B4 -Paramétrage
+C2 - Correction
+Tâches
+Personnes : 
+Evelyne : 
+Gestion de projet
+A7 - Formation
+E1 - Audit
+Gestion de projet
+B7 - Formation
+Gestion de projet
+Patrice : 
+D3 - Installation
+A8 - Run 2
+C5 - Run 1
+E3 - Installation
+B8 - Run 2
+D5 - Run 1
+Jean : 
+A6 -Recette
+C4 -Paramétrage
+D2 - Correction
+B6 -Recette
+D4 -Paramétrage
+C6 -Recette
+A9 - 
+Reconnexion 
+au SI
+Tâches
+Personnes : 
+Evelyne : 
+C7 - Formation
+Gestion de projet
+Gestion de projet
+D7 - Formation
+E7 - Formation
+Patrice : 
+C8 - Run 2
+E5 - Run 1
+D8 - Run 2
+E8 - Run 2
+Jean : 
+E2 - Correction
+E4 -Paramétrage
+D6 -Recette
+E6 -Recette
+C9 - 
+Reconnexion 
+au SI
+Tâches
+B9 - 
+Reconnexion 
+au SI
+D9 - 
+Reconnexion 
+au SI
+E9 - 
+Reconnexion 
+au SI
+FICHEBEN
+
+=== PAGE 6 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 6 / 7 
+La bascule de GED dans un Système d’information impacte l’urbanisation du SI sur plusieurs 
+éléments qui nécessitent une révision dans notre contexte. 
+- 
+Éléments d’infrastructure Technique : la nouvelle application de GED aura son propre DAT 
+(Dossier d’Architecture Technique). Ce document fait partie de l’urbanisation du SI. 
+- 
+Éléments d’interface : les interfaces ou technologies pouvant évoluer avec la nouvelle GED, à 
+minima il faut décrire dans l’urbanisation les flux entre les applications du SI qui seront orientés 
+vers la nouvelle GED. 
+- 
+Éléments de sécurité : la GED étant lié à des utilisateurs, l’urbanisation du SI doit veiller au 
+respect des différents profils et session de connexion des utilisateurs pour accéder au service. 
+- 
+Éléments de processus : la nouvelle GED peut apporter de nouvelles fonctionnalités applicatives 
+à cataloguer dans l’urbanisation du SI dans le cadre de leur exploitation. Cela se renseigne sous 
+forme de cartographie des processus. 
+- 
+Éléments d’architecture applicative : la nouvelle GED est une application à part entière, 
+remplaçant l’ancienne, mais avec des versions, des serveurs applicatifs principaux, secondaires 
+(base de données, serveurs de stockage…) c’est à identifier dans la mise à jour de l’urbanisation  
+ 
+DOSSIER 3 – IMPACT SUR LA NOUVELLE LOI DE FINANCES 2024-2026 
+10. Définir le rôle des PDP (Plateforme de Dématérialisation Partenaire) dans la cadre de la 
+mise en place de la nouvelle loi de finances 2024-2026 
+Les Plateformes de Dématérialisation Partenaire (PDP) sont des services fournis par des 
+prestataires certifiés permettant aux entreprises d’assurer l’émission et la réception des factures sur 
+les nouvelles normes. La nouvelle loi de finances 2024-2026 instaure un calendrier à partir duquel 
+chaque entreprise française aura l’obligation de déposer l’ensemble de ses factures de ventes 
+(facture client) sur la PPF (Plateforme de Facturation Française). Sur la même période, ses factures 
+d’achats (facture fournisseur) seront également disponibles sur la même plateforme PPF. Le PDP 
+agit alors comme un intermédiaire, mandaté par l’entreprise pour faciliter le dépôt et la récupération 
+des factures sur la PPF. Les valeurs ajoutées sont diverses comme la traçabilité et le pilotage des 
+factures, les services complémentaires (affacturage, recouvrement, info de solvabilité…), et en 
+particulier surtout la conversion de flux comme les facturations EDI spécifiques de certains secteurs 
+(transports, industries…).   
+ 
+11. Citer deux arguments qui ont motivé le législateur à rédiger la nouvelle loi de finances 
+2024-2026. Pourquoi cette loi précise les années 2024 à 2026 ? 
+La nouvelle loi de finances 2024 – 2026 a été motivée pour :  
+o lutter contre la fraude à la TVA ;  
+o automatiser les déclarations légales des entreprises ; 
+o permettre et faciliter les contrôles ; 
+o améliorer la connaissance et la conjoncture économique en réalisant des études et des 
+statistiques ; 
+o renforcer la compétitivité des entreprises par la digitalisation des factures (diminuer les 
+coûts de traitement). 
+Elle s’échelonne de 2024 à 2026 pour l’entrée en vigueur en fonction de la taille des entreprises. 
+o Grande entreprise dès 2024 
+o ETI en 2025 selon les critères de l’Insee : < 5 000 personnes et CA < 1500 M€ 
+o PME en 2026 selon les critères de l’Insee : < 250 personnes et CA < 50 M€ 
+Accepter la réponse : calendrier selon la taille de l’entreprise 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+23DSCG-UE5 
+Management des systèmes d’information 
+Page 7 / 7 
+12. Dans quelles mesures le plan de classement achat évoqué en annexe 1 doit ou ne doit 
+pas être mis à jour dans le cadre de la nouvelle loi de finances 2024-2026 ? 
+Il n’y a pas d’obligation ou de changement à opérer au niveau du plan de classement achat présenté 
+en annexe 1. Il est cependant possible de rajouter des informations facultatives comme la date de 
+réception de la facture sur la PPF ou de créer une nouvelle nature de document dans le dossier 
+Facture pour le nouveau format électronique comme la Factur-X 
+ 
+13. Concernant la sécurité du Système d’Information, décrire au moins 3 points d’attention 
+que la DSI (Direction des Systèmes d’Information) doit intégrer dans la cadre de la mise en 
+œuvre de la nouvelle loi de finances 2024-2026. 
+Voici quelques points d’attention qui concerne le sujet :  
+- 
+sécurité de contrôle d’accès : les données sensibles et stratégiques de l’entreprise, en 
+l’occurrence les factures seront publiées et récupérées sur une plateforme externe à l’entreprise. 
+Cet accès pour déposer ou récupérer ce flux sera sécurisé sous forme d’un contrôle d’accès. 
+La sécurité du SI devra donc prendre en compte cet enjeu pour garantir la pérennité de l’accès 
+pour respecter la législation et la non-usurpation du profil pour éviter le vol de données liées à 
+la facturation de l’entreprise ou le sabotage des déclarations (arnaque au RIB, fausses factures, 
+usurpation d’identité, phishing, hameçonnage…) ; 
+ 
+- 
+confidentialité des informations : jusqu’à présent, les factures de vente et d’achat étaient 
+détenues en original au sein de l’entreprise. À partir de la nouvelle loi de finances, c’est la 
+Plateforme Française de Facturation qui fait office de référentiel des factures pour l’entreprise. 
+Il est donc important de conserver l’organisation des permissions d’accès (i.e. habilitation) 
+uniquement des personnes pour ne pas divulguer des informations confidentielles détenues sur 
+les factures ; 
+ 
+- 
+autonomie et conservation de l’intégrité des données : l’entreprise doit pouvoir produire 
+l’ensemble des documents pendant toute la durée de validé et de conservation légale. Une 
+solution de GED reste donc une réponse pour garantir l’intégrité des données des factures 
+d’achat et vente. Il n’y a de plus pas de reprise d’historique des factures de l’entreprise sur la 
+PFF (plateforme française de facturation) ; 
+ 
+- 
+RGPD : les factures déposées sur la PFF ou les factures transitant par un PDP restent sous la 
+responsabilité de l’entreprise d’un point de vue RGPD. Cela rentre donc dans le système 
+d’information de l’entreprise et les processus liés au RGPD s’appliquent également sur ces 
+éléments (anonymisation, pseudomysation, droit à l’oubli, contrôle d’accès…) ; 
+ 
+- 
+haute disponibilité des flux de facture : si à partir de 2024/2026, l’ensemble des factures de 
+vente de l’entreprise doivent être déposées sur la PFF par obligation légale, cela rend ce flux de 
+données critique pour assurer le chiffre d’affaires de l’entreprise. On notera aussi que la non-
+récupération des factures peut causer des pénalités ou des pertes d’escomptes. La sécurité du 
+SI doit donc fournir le niveau de haute disponibilité requis pour garantir le fonctionnement de ce 
+processus et éviter l’impact de coût financier.     ; 
+ 
+- 
+synergie capitalisée : la nouvelle loi de finances a aussi pour objectif d’amélioration la 
+performance et la digitalisation des entreprises en permettant le traitement des factures en 100% 
+numériques et du reporting ou des déclarations réglementaires automatisées. La sécurité du SI 
+doit en conséquence s’adapter pour aligner les applications actuelles à ces nouveaux processus 
+(solution comptable, ERP…) et pérenniser ces acquis de performance  
+FICHEBEN

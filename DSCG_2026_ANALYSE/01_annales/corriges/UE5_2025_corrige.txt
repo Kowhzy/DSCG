@@ -1,0 +1,418 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+SESSION 2025 
+ 
+ 
+ 
+ 
+ 
+Éléments indicatifs de corrigé 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIPLÔME SUPÉRIEUR DE 
+COMPTABILITÉ ET DE 
+GESTION
+F  I  C  H  E  B  E  N
+
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+Q1 – Expliquer en quoi une démarche d’alignement stratégique du SI est pertinente dans 
+le contexte de création de la SAS IAG-DD. Présenter les notions et expliciter les bénéfices 
+attendus pour les cabinets membres. 
+ 
+ 
+Réponse indicative 
+L’alignement stratégique désigne la mise en cohérence entre la stratégie d’entreprise et la 
+stratégie SI. Dans le cas de la SAS IAC-Digit, cette démarche est particulièrement pertinente 
+car les cabinets associés présentent une forte hétérogénéité : chacun utilise ses propres 
+logiciels comptables (Ciel, Sage, EBP…), des solutions variées de GED (serveurs locaux, clés 
+USB, cloud gratuit), et des pratiques disparates en sécurité. Cette diversité accroît les coûts, 
+les redondances et les risques. 
+Une démarche d’alignement permettrait de définir une cible commune, en standardisant les 
+outils, en harmonisant les processus et en facilitant l’interopérabilité. Elle contribuerait aussi à 
+sécuriser les données partagées et à garantir notamment la conformité RGPD. 
+Les bénéfices attendus sont multiples : économies d’échelle, meilleure qualité de service, 
+fiabilité accrue des données, et renforcement de la gouvernance SI grâce à une vision unifiée. 
+Les annexes 1 et 2 illustrent bien cette nécessité, en mettant en évidence des pratiques locales 
+fragmentées. 
+ 
+Q2 – Après avoir défini la notion d’audit des SI, identifier deux référentiels ou normes 
+mobilisables pour faire évoluer le SI. Préciser, pour chacun, en quoi il peut constituer une  
+Réponse indicative 
+L’audit des SI est une démarche structurée et méthodique visant à évaluer la fiabilité, la 
+sécurité, la conformité réglementaire et l’efficacité du SI. 
+Il permet d’apprécier dans quelle mesure l’organisation du système, ses processus et ses 
+ressources contribuent à la performance globale, au respect des normes et référentiels en 
+vigueur, ainsi qu’à la maîtrise des risques liés à l’usage des technologies. 
+Dans le cas de la SAS IAC-Digit, deux référentiels sont particulièrement pertinents : 
+● 
+COBIT : cadre de gouvernance des SI décrivant les processus clés du cycle de vie 
+(planification, acquisition, mise en œuvre, exploitation, supervision). Il permet d’évaluer 
+la maturité organisationnelle, de définir des objectifs de contrôle alignés avec la 
+stratégie, et d’harmoniser les pratiques des cabinets associés. 
+● 
+ISO 27001 : norme internationale de sécurité de l’information définissant les principes 
+d’un système de management de la sécurité de l’information (SMSI). Elle repose sur 
+l’identification et le traitement des risques, ainsi que sur la mise en œuvre de politiques 
+de sécurité et de contrôles organisationnels et techniques. Elle est essentielle pour 
+protéger les données clients et instaurer une PSSI commune. 
+La combinaison de COBIT et d’ISO 27001 offre à la SAS IAC-Digit un cadre à la fois de 
+gouvernance et de sécurité opérationnelle, permettant de sécuriser et de converger les SI 
+hétérogènes identifiés dans les annexes. 
+ 
+Variantes recevables 
+● 
+ITIL : si présenté comme cadre opérationnel des services SI, avec mention d’ITSM. 
+● 
+ISO 22301 : si expliqué en lien avec la continuité d’activité. 
+● 
+Autres normes (ex. NIST CSF) : recevables si bien justifiées. 
+ 
+ 
+D
+F  I  C  H  E  B  E  N
+
+=== PAGE 3 ===
+ 
+ 
+Q3 – Élaborer une méthodologie d’audit adaptée au projet de convergence des SI dans 
+la SAS IAG-DD. 
+ 
+Réponse indicative 
+La méthodologie d’audit doit être adaptée à l’objectif de convergence des SI de la SAS IAC- 
+Digit. 
+ Périmètre : elle couvre les logiciels métiers (comptabilité, paie, GED), les 
+infrastructures techniques (réseaux, serveurs, solutions cloud), la sécurité (gestion 
+des identités et des accès – IAM –, plan de continuité et de reprise d’activité – 
+PCA/PRA) ainsi que l’organisation du support utilisateurs. 
+ Objectifs : cartographier l’existant, évaluer la maturité des pratiques, identifier les 
+redondances, et proposer des scénarios de convergence technique et 
+organisationnelle intégrant la continuité et la reprise d’activité. 
+ Étapes : 
+1. Cadrage – définition des objectifs, du périmètre et des acteurs impliqués. 
+2. Collecte – entretiens, inventaires logiciels, analyse des logs. 
+3. Analyse – identification des écarts, évaluation des risques et des coûts. 
+4. Restitution – rapport d’audit, cartographie du SI, recommandations 
+stratégiques. 
+ Livrables : rapport détaillé, cartographie applicative, matrice des risques, schéma 
+d’architecture cible. 
+ Échéancier : un audit sur 6 à 8 semaines, jalonné par un diagramme de GANTT 
+(cadrage → collecte → analyse → restitution). 
+Les annexes 1, 2, 5 et 6 montrent l’ampleur des écarts actuels (logiciels multiples, GED non 
+sécurisée, IAM dispersé, support inégal, absence de procédures communes). 
+L’audit doit ainsi fournir une trajectoire de convergence réaliste et sécurisée, adaptée à des 
+cabinets de taille moyenne. 
+ 
+Variantes recevables 
+ 
+Mention de livrables complémentaires (par ex. plan de migration) recevable. 
+ 
+Démarche différente (par ex. orientée ISO 19011) recevable si cohérente. 
+ 
+Un échéancier textuel (sans diagramme GANTT) → partiellement valorisé. 
+ 
+Q4 – Analyser d’éventuels problèmes organisationnels au vu des annexes 5 et 6 et 
+proposer des solutions palliatives. 
+ 
+Réponse indicative 
+Les annexes 5 et 6 mettent en évidence plusieurs faiblesses organisationnelles : une gestion 
+des identités et des accès (IAM – Identity and Access Management) éclatée, parfois avec des 
+mots de passe partagés et l’usage d’ordinateurs personnels (BYOD – Bring Your Own Device) 
+sans contrôle centralisé ; un support technique inégal, certains cabinets disposant d’un 
+technicien interne et d’autres non ; enfin, des procédures hétérogènes (sauvegardes, mises à 
+F  I  C  H  E  B  E  N
+
+=== PAGE 4 ===
+ 
+jour, gestion des incidents) créant vulnérabilités et inefficacité collective. 
+L’examen de l’organigramme confirme un effectif de 13 personnes (1 DSSI et 
+12 opérationnels) dont 2 en sécurité, 3 en qualité/conformité, 2 en projets, 2 en convergence 
+et 3<en support. Si le volume global est adapté à une structure de taille moyenne, la répartition 
+révèle plusieurs déséquilibres : une sécurité éclatée entre RSSI et « Sécurité SI », une cellule 
+Qualité/Audit surreprésentée (3 personnes), un support sous pression (3 personnes) sans 
+coordination transversale et une fonction de convergence/architecture sous-dimensionnée 
+(2 personnes). Le ratio de gestion (près d’1 poste sur 4 consacré à la conformité et à l’audit, 
+contre moins d’1 sur 6 à l’architecture et à la convergence) illustre ce désalignement entre les 
+ressources mobilisées et les priorités stratégiques. 
+Pour y remédier, plusieurs mesures sont envisageables : 
+1. Repositionner le DSSI sous la Direction générale, afin de donner une légitimité 
+stratégique aux choix de convergence et de sécurité ; 
+2. Regrouper la sécurité et la gouvernance : fusion RSSI + Sécurité SI avec Qualité/Audit, 
+pour former une entité Gouvernance & Sécurité (5 personnes), pilote de la PSSI, de 
+l’IAM, des PRA/PCA et des SLA ; 
+3. Séparer le RUN et le BUILD : 
+o 
+RUN – Opérations & Support (4 personnes) : inclure les 3 agents de support et 
+1 profil réorienté de la sécurité pour gérer le quotidien (ITSM, SLA, CMDB). 
+o 
+BUILD – Projets & Convergence (4 personnes) : regrouper les projets et 
+l’interopérabilité pour piloter les évolutions applicatives et l’urbanisation du  SI. 
+4. Harmoniser et documenter les procédures SI dans une PSSI commune, intégrant 
+PRA/PCA, sauvegardes et mises à jour ; 
+5. Déployer une roadmap Zero Trust adaptée au BYOD, incluant un IAM centralisé avec 
+MFA/RBAC, la gestion des terminaux (MDM), des outils de protection avancée (EDR) 
+et des accès conditionnels. 
+Enfin, le choix entre centralisation et décentralisation des fonctions SI doit être discuté : 
+● 
+Centralisation : avantage de la cohérence, d’économies d’échelle, d’une meilleure 
+sécurité et d’un pilotage stratégique unifié ; inconvénients possibles de rigidité, de perte 
+d’agilité locale et dépendance accrue au centre. 
+● 
+Décentralisation : avantage d’une plus grande réactivité et d’une adaptation fine aux 
+besoins de chaque cabinet ; mais elle accroît les coûts, les redondances et la fragilité 
+de la sécurité. 
+ 
+Dans le contexte de SAS IAC-Digit, où les annexes soulignent la dispersion et l’hétérogénéité, 
+la centralisation progressive apparaît comme la solution la plus pertinente, tout en conservant 
+une déconcentration opérationnelle au sein du support pour garantir la proximité avec les 
+utilisateurs. 
+Cette réorganisation, à effectifs constants, permettrait de professionnaliser la gouvernance du 
+SI, de réduire les redondances, d’équilibrer la charge entre RUN et BUILD, et de transformer 
+la dispersion actuelle en une trajectoire convergente et sécurisée. Elle poserait également les 
+bases d’une gouvernance des données et du développement futur de solutions de Business 
+Intelligence (BI). 
+ 
+Variantes recevables 
+F  I  C  H  E  B  E  N
+
+=== PAGE 5 ===
+ 
+● 
+Gouvernance : comité de pilotage SI inter-cabinets ou DSI fédérale, avec des relais 
+locaux. 
+● 
+Sécurité/IAM : recours à ITIL, à un prestataire externe ou à l’authentification adaptative. 
+● 
+Suppor : externalisation partielle (infogérance) ou automatisation niveau 1 
+(chatbot/ITSM). 
+● 
+Procédures : appui sur la norme ISO 9001 (qualité) ou ISO 22301 (continuité). 
+● 
+Urbanisation : ERP commun ou interopérabilité via une API. 
+● 
+Organisation : modèle hybride (gouvernance centralisée + support local) ou accent sur 
+l’accompagnement au changement. 
+ 
+ 
+ 
+Q5 – Présenter deux objectifs fondamentaux d’une politique de sécurité des SI, en les 
+définissant et en identifiant leurs implications concrètes. Expliquer le rôle dans un plan 
+de continuité et de reprise des activités (PCA/PRA) pour l’atteinte des objectifs PSSI. 
+ 
+Réponse indicative 
+Une PSSI (Politique de Sécurité des Systèmes d’Information) fixe les principes de protection 
+des ressources numériques. Ses objectifs fondamentaux incluent : 
+● 
+Confidentialité : seules les personnes autorisées accèdent aux données, grâce à des 
+mesures telles que l’authentification multi facteur (MFA), le chiffrement et la gestion 
+rigoureuse des habilitations. 
+● 
+Intégrité : les données doivent rester fiables, exactes et non altérées, ce qui suppose 
+des sauvegardes régulières, des mécanismes de journalisation et des contrôles 
+systématiques. 
+● 
+Disponibilité : les systèmes doivent être accessibles au moment voulu, ce qui implique 
+des dispositifs de continuité et de reprise d’activité. 
+Le PCA (Plan de Continuité d’Activité) vise à maintenir un service minimal en mode dégradé 
+en cas d’incident majeur, tandis que le PRA (Plan de Reprise d’Activité) permet de restaurer 
+complètement les systèmes après un sinistre. Deux indicateurs sont essentiels : 
+● 
+RTO (Recovery Time Objective) : délai maximal de reprise, 
+● 
+RPO (Recovery Point Objective) : perte de données maximale admissible. 
+Dans le contexte de la SAS IAC-Digit, où circulent des données clients sensibles et où les 
+cabinets sont dispersés, ces dispositifs sont cruciaux. Les annexes 5 et 6 révèlent en effet 
+l’absence de PRA formalisé et la dépendance à des sauvegardes locales disparates, ce qui 
+constitue une vulnérabilité majeure. L’intégration d’un PCA et d’un PRA dans la PSSI est donc 
+une priorité pour renforcer la disponibilité, fiabiliser les échanges entre cabinets et garantir la 
+résilience de l’organisation. 
+ 
+ 
+ 
+Variantes recevables 
+● 
+Substitution de « disponibilité » par « intégrité » si bien expliquée et contextualisée. 
+● 
+Référence à la traçabilité comme objectif fondamental recevable, si elle est liée à la 
+conformité/RGPD. 
+● 
+Mise en avant d’exemples sectoriels (banques, santé) valorisés si reliés au cas. 
+ 
+Q6 – Dans le contexte spécifique de la SAS IAG-DD, expliquer pourquoi une politique 
+de Zero Trust est pertinente, notamment pour certains cabinets associés. Préciser en quoi 
+l’utilisation potentielle d’ordinateurs personnels par les collaborateurs peut accroître les 
+D
+OSSIER 2
+12
+i t
+F  I  C  H  E  B  E  N
+
+=== PAGE 6 ===
+ 
+risques. 
+ 
+ 
+Réponse indicative 
+Le modèle Zero Trust repose sur le principe « never trust, always verify » : aucune connexion 
+n’est considérée comme sûre par défaut, qu’elle soit interne ou externe. Il s’applique à l’identité 
+(authentification forte), aux terminaux (contrôle de conformité) et aux réseaux (segmentation, 
+surveillance). 
+Dans SAS IAC-Digit, ZT est particulièrement pertinent car les cabinets sont dispersés, les 
+accès se font à distance et une GED partagée est utilisée. Les annexes 5 et 6 révèlent que 
+de nombreux collaborateurs utilisent leurs ordinateurs personnels (BYOD) pour travailler, sans 
+contrôle centralisé. 
+Ce choix accroît les risques : obsolescence des systèmes, absence de solutions de protection 
+(EDR – Endpoint Detection & Response), confusion entre données professionnelles et 
+personnelles, non-conformité des sauvegardes. 
+L’adoption d’un modèle ZT permettrait de sécuriser chaque accès, d’imposer des contrôles 
+permanents et d’éviter qu’une faille isolée ne compromette l’ensemble de l’organisation. 
+ 
+ 
+Q7 – Formuler trois mesures opérationnelles inspirées du modèle Zero Trust, que la SAS 
+IAG-DD pourrait déployer auprès des collaborateurs pour améliorer la sécurité SI, en 
+décrivant pour chaque mesure brièvement son principe et en justifiant sa pertinence au 
+regard du contexte des cabinets. 
+ 
+Réponse indicative 
+ IAM/MFA/RBAC → meilleure gestion des droits. 
+ MDM/EDR → contrôle des terminaux. 
+ Micro-segmentation/accès conditionnel → limiter les mouvements latéraux. 
+ 
+Trois mesures concrètes, inspirées du modèle Zero Trust, peuvent être mises en œuvre pour 
+renforcer la sécurité des SI. 
+1. Un système de gestion centralisée des identités et des accès (IAM, Identity and Access 
+Management), intégrant une authentification multi facteur (MFA, ou Multi- Factor 
+Authentication) et un contrôle des accès basé sur les rôles (RBAC, ou Role- Based 
+Access Control). Cette combinaison assure une gestion fine, traçable et sécurisée des 
+droits d’accès, en limitant les risques liés à la dispersion actuelle des identifiants et en 
+garantissant la séparation des tâches. 
+2. Un dispositif de gestion des terminaux mobiles (MDM – Mobile Device Management), 
+associé à des solutions de détection et de réponse sur les postes de travail (EDR – 
+Endpoint Detection and Response). Ce tandem permet de contraindre la conformité 
+des équipements, d’imposer les mises à jour de sécurité et de détecter les 
+comportements anormaux, réduisant ainsi les vulnérabilités liées à l’utilisation 
+d’ordinateurs personnels (BYOD – Bring Your Own Device). 
+3. La micro-segmentation du réseau et la mise en place d’un accès conditionnel 
+consistent à cloisonner les environnements techniques et à limiter les mouvements 
+latéraux en cas d’attaque, afin de renforcer la résilience et la maîtrise des risques. 
+ 
+Ces mesures répondent directement aux constats des annexes 5 et 6 : identités et accès 
+dispersés, terminaux personnels non sécurisés et absence de procédures homogènes. 
+Leur mise en œuvre permettrait d’améliorer significativement la posture de sécurité, tout en 
+restant adaptée à des cabinets de taille moyenne souhaitant mutualiser leurs SI et se 
+conformer aux bonnes pratiques de gouvernance. 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 7 ===
+ 
+ 
+Q8 – BI : transformation, compétences, bénéfices 
+ 
+ 
+Réponse indicative 
+La Business Intelligence (BI – informatique décisionnelle) regroupe l’ensemble des outils et 
+processus permettant de transformer les données brutes en informations utiles à la décision. 
+Elle repose sur une chaîne de valeur composée de trois étapes : 
+ 
+L’extraction, la transformation et le chargement des données (ETL – Extract, 
+Transform, Load), 
+ 
+Le stockage dans un entrepôt de données (data warehouse), 
+ 
+Et la restitution via des outils de visualisation (dataviz ou data visualization). 
+ 
+Dans le cas de SAS IAC-Digit, les annexes 2 et 6 mettent en évidence une gestion 
+électronique des documents éclatée (GED) et des données dispersées, insuffisamment 
+contrôlées. La mise en place d’une solution de BI permettrait de structurer ces données et de 
+les exploiter de manière plus fiable. 
+ 
+Cette transformation aurait un impact direct sur les métiers : les collaborateurs passeraient de 
+tâches de saisie et de contrôle manuel à des activités d’analyse prédictive et à plus forte valeur 
+ajoutée. Pour accompagner ce changement, plusieurs compétences clés sont nécessaires. 
+ 
+La culture de la donnée (data literacy). 
+ 
+La maîtrise du Règlement Général sur la Protection des Données (RGPD). 
+ 
+La gouvernance des données. 
+ 
+Et la capacité à communiquer les résultats de manière claire et convaincante (data 
+storytelling). 
+ 
+Les bénéfices attendus sont multiples : une vision à 360° de la relation client, des prévisions 
+plus fiables et un reporting partagé sur les critères environnementaux, sociaux et de 
+gouvernance (ESG – Environmental, Social, Governance). 
+La BI constitue ainsi un levier stratégique pour renforcer la performance, la fiabilité 
+décisionnelle et la différenciation compétitive des cabinets associés. 
+ 
+ 
+Variantes recevables 
+ Référence à des outils précis (Power BI, Tableau) acceptée. 
+ Focus sur Big Data valorisable si bien relié au cas. 
+ 
+Q9 – Rôle de la DSI pour BI & data science 
+ 
+Réponse indicative 
+ DSI = garante la gouvernance des données (référentiel, qualité, RGPD) et 
+facilitatrice BI/IA (choix de solution, data marts, self-service sécurisé, 
+formation). 
+La Direction des Systèmes d’Information (DSI) joue un rôle central dans la réussite des projets 
+de Business Intelligence (BI ou informatique décisionnelle) et de data science. Ses 
+responsabilités sont multiples : 
+ 
+Assurer la gouvernance des données, en définissant des référentiels communs, en 
+garantissant la qualité et en organisant la gestion des métadonnées. 
+D
+F  I  C  H  E  B  E  N
+
+=== PAGE 8 ===
+ 
+ 
+Garantir la sécurité et la conformité réglementaire, notamment vis-à-vis du Règlement 
+Général sur la Protection des Données (RGPD), grâce à la traçabilité et à l’application 
+de procédures formalisées.
+F  I  C  H  E  B  E  N
+
+=== PAGE 9 ===
+ 
+ 
+Faciliter l’accès aux outils de gestion et d’analyse, tels que les entrepôts de données 
+(data warehouse), les magasins de données spécialisés (datamarts) et les solutions 
+de visualisation sécurisées (dataviz – data visualization). 
+ 
+Dans le cas de SAS IAC-Digit, les annexes 5 et 6 mettent en évidence des lacunes 
+importantes : l’absence d’un système centralisé de gestion des identités et des accès (IAM – 
+Identity and Access Management), le non-respect du RGPD faute de procédures adaptées, et 
+l’absence de suivi de la qualité des données. 
+La DSI doit également veiller à l’alignement stratégique : la donnée n’est plus une simple 
+ressource technique, mais un actif stratégique au service de la performance collective. Enfin, 
+elle doit accompagner l’acculturation des collaborateurs en développant la culture de la 
+donnée (data literacy) par la formation et le soutien aux métiers. 
+ 
+Ce rôle pivot permet de transformer la dispersion actuelle en avantage compétitif, en faisant 
+de la BI un outil d’efficacité opérationnelle et de création de valeur pour l’ensemble des 
+cabinets associés 
+ 
+Variantes recevables 
+ Insistance sur rôle pédagogique de la DSI (formation, acculturation). 
+ 
+F  I  C  H  E  B  E  N

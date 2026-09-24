@@ -1,0 +1,488 @@
+=== PAGE 1 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 1/6 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ 
+ET DE GESTION 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+ 
+ 
+SESSION 2020 
+ 
+ 
+ 
+ 
+ 
+Éléments indicatifs de corrigé 
+ 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 2/6 
+ 
+ 
+DOSSIER 1 – CRÉATION DE VALEUR ET FINANCEMENT OBLIGATAIRE 
+ 
+ 
+1. Les outils de la création de valeur (annexe 1) 
+ 
+1.1 Définir l’EVA en expliquant son utilité pour l’entreprise. 
+ 
+L’EVATM (ou economic value added) correspond littéralement à la valeur ajoutée économique. Il s’agit 
+d’un indicateur de valeur actionnariale diffusé par Stern et Stewart. 
+Elle s’obtient en faisant la différence entre le résultat opérationnel après impôt et le coût moyen 
+pondéré du capital (rémunération minimale attendue par les apporteurs de fonds que sont les 
+actionnaires et les créanciers financiers). 
+ 
+EVA : résultat opérationnel après impôt – (CMPC * Actif économique) 
+ 
+Il en résulte qu’il y a création de valeur actionnariale lorsque l’EVATM est positive, c’est-à-dire lorsque 
+la rentabilité économique est supérieure au coût du capital. Il y a destruction de valeur actionnariale 
+dans le cas contraire. 
+ 
+1.2 Calculer l’EVATM pour les quatre prochaines années après avoir déterminé le coût du 
+capital  de la société BTP PLUS.  
+ 
+Calcul du coût des capitaux propres. 
+Le coût des capitaux propres s’obtient en utilisant la formule du MEDAF. 
+Taux sans risque + prime de risque de marché *Béta 
+3 % + 6 %*(2,625 %/5,25 %) = 6 % 
+ 
+Taux de rentabilité attendue des capitaux propres = 6 % 
+ 
+Calcul du coût du capital. 
+L’entreprise se finance à 60 % par l’emprunt obligataire et, donc, à 40 % par fonds propres. 
+CMPC (coût moyen pondéré du capital) = (3 % * 2/3 * 60%) + (40 % * 6 %) = 3,6 % 
+ 
+Coût moyen pondéré du capital = 3,6 % 
+ 
+Calcul de l’EVATM. 
+ 
+EVATM = résultat opérationnel après impôt – (actif économique * CMPC) 
+Années 
+2020 
+2021 
+2022 
+2023 
+Résultat opérationnel. 
+500 
+600 
+700 
+800 
+Résultat opérationnel après IS (A). 
+333,33 
+400 
+466,67 
+533,33 
+Actif économique (immo brutes + bfre). 
+3 400 
+4 200 
+4 600 
+5 200 
+CMPC (coût moyen pondéré du capital). 
+3,6 % 
+3,6 % 
+3,6 % 
+3,6 % 
+Actif économique * CMPC (B). 
+122,4 
+151,2 
+165,6 
+187,2 
+EVATM = (A – B) 
+210,93 
+248,8 
+301,07 
+346,13 
+ 
+1.3 Les actionnaires ont-ils eu raison de demander une augmentation des dividendes ? 
+ 
+Nous pouvons constater que les EVATM sont positives au titre des chacune des quatre prochaines 
+années. Cela signifie que la rentabilité économique est supérieure au coût moyen pondéré du capital. 
+La rentabilité qui est obtenue est ainsi supérieure à celle qui est espérée compte tenu du risque pris 
+par les actionnaires qui apportent les fonds. Selon cet indicateur la demande de dividendes 
+complémentaires semble donc légitime.  
+ 
+ 
+
+=== PAGE 3 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 3/6 
+2. 
+Le marché obligataire (annexe 2) 
+ 
+2.1 Définir la duration et la sensibilité. 
+ 
+La duration et la sensibilité sont des outils de mesure du risque de taux. 
+Duration : la duration d’une obligation correspond à la durée (de vie moyenne des flux financiers 
+pondérés par la valeur actualisée) pendant laquelle le portefeuille obligataire est « immunisé » contre 
+le risque de taux.  
+ 
+Sensibilité : la sensibilité d’une obligation mesure la variation à la hausse comme à la baisse de la 
+valeur d’une obligation en fonction de l’évolution des taux d’intérêt. Cette fluctuation est en général de 
+1 %. 
+ 
+2.2 Comment évolue le cours d’une obligation en fonction du taux ? 
+ 
+Toutes choses étant égales par ailleurs, le cours de l’obligation évolue en sens inverse du taux 
+d’intérêt. Ainsi, si le taux d’intérêt augmente (ou diminue), la valeur de l’obligation diminue (ou 
+augmente). 
+La société décide finalement de recourir à l’emprunt obligataire ADAK sur les conseils du directeur 
+financier du groupe. 
+ 
+2.3 Retrouver le prix d’émission de l’emprunt obligataire ADAK. 
+ 
+Prix d’émission = actualisation des coupons et actualisation du prix de remboursement. 
+Prix d’émission = (500 * 4,20%) * (1-1,043-10/0,043) + 500 * 1,043-10. 
+ 
+Le prix d’émission est de 496 € 
+ 
+2.4 Pourquoi le taux de rendement actuariel brut est-il supérieur au taux nominal ? 
+ 
+Le taux de rendement actuariel de 4,3 % est supérieur au taux nominal de 4,2 % car nous sommes en 
+présence d’une prime d’émission. En effet, la valeur nominale de l’obligation est de 500€ tandis que 
+le prix d’émission est de 496 €. 
+Il en résulte une prime d’émission de 4 € (500 – 496). 
+ 
+2.5 Calculer le montant du coupon couru au 25/09/2022, date de la vente de l’obligation en 
+ 
+Bourse. 
+ 
+Le calcul du coupon couru s’obtient en comptabilisant le nombre de jours qui se sont écoulés entre le 
+11 mars et le 25 septembre, auquel il faut rajouter 3 jours ouvrés. 
+ 
+Mars 
+Avril 
+Mai 
+Juin 
+Juillet 
+Août 
+Septembre 
+3 jours ouvrés 
+Total 
+31 – 11 = 20 
+30 
+31 
+30 
+31 
+31 
+25 
+3 
+201 
+ 
+500 * 4,2% * 201/365 = 11,56 € (soit 2,31 %) 
+ 
+2.6 Déterminer la valeur de revente de l’obligation au 25/09/2022 si à cette date le cours est de 
+ 
+98,75 %. 
+ 
+Valeur de revente de l’obligation : (98,75% + 2,31%) * 500 = 101,06% * 500 = 505,30 € 
+ 
+2.7 Ce mode de financement est-il possible ? De quoi s’agit-il ? 
+ 
+Le crowdfunding (ou financement participatif) permet de collecter des fonds auprès du public. C’est un 
+outil de désintermédiation financière qui évite ainsi de recourir aux établissements de crédit. Ce 
+système permet de collecter des fonds pour la réalisation d’un projet sur une plateforme en ligne. La 
+plupart du temps, il fait appel à un grand nombre d’investisseurs avec des sommes modiques pour 
+atteindre le montant désiré par le porteur de projet. Il s’agit le plus souvent d’un projet fédérateur 
+ayant pour objet de rassembler le plus grand nombre de personnes autour. 
+ 
+ 
+
+=== PAGE 4 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 4/6 
+2.8 Quels sont les avantages et les inconvénients de ce type de financement ? Citer trois 
+ 
+avantages et trois limites. 
+ 
+a) Les avantages. 
+- Les formalités administratives liées à ce mode de financement sont quasi-inexistantes pour 
+le donateur. Cela demande moins de travail ; 
+- Le crowdfunding peut rapidement toucher un public très vaste ; 
+- L’entreprise qui reçoit les fonds ne verra pas son droit de vote se diluer (sauf dans le cas 
+de l’investissement participatif) et pourra conserver son pouvoir de décision ; 
+- Ce mode de financement participatif est en principe moins coûteux d’un emprunt bancaire 
+classique ; 
+- Le Crowdfunding peut être mis en place très rapidement et de façon simple ; 
+- Le Crowdfunding est également un outil de communication au service du porteur de projet 
+qui va le faire connaître ; 
+- Il est possible pendant la campagne de se faire assister par des professionnels et de 
+bénéficier d’un suivi. 
+b) Les limites. 
+- Les plateformes sont nombreuses et pas toutes de la même qualité ; 
+- Les montants levés ne sont pas encore assez importants pour ce type de financement ; 
+- Il y a risque de dilution du pouvoir pour l’investissement participatif ; 
+- Un partage des bénéfices peut être rendu nécessaire en cas d’investissement participatif ; 
+- L’utilisation de la plateforme peut être coûteuse à terme 
+- Ce mode de financement est encore trop orienté vers les jeunes entreprises de type start-
+up. 
+- Ce mode de financement peut porter atteinte à l’image du porteur de projet et laisser 
+supposer que l’entreprise n’est pas assez solide financièrement pour opter pour un autre 
+mode de financement. 
+ 
+ 
+DOSSIER 2 – GESTION DU RISQUE DE TAUX ET DE LA TRÉSORERIE 
+ 
+ 
+1. 
+Gestion du risque de taux (annexe 3) 
+ 
+1.1 Définir la notion de Collar, expliquer en quoi un Collar permet de se couvrir efficacement 
+contre la variation des taux d’intérêt ? 
+ 
+Le principe consiste à acheter un Collar (tunnel) qui est la combinaison de l’achat d’un Cap et de la 
+vente d’un Floor. Dans ce cas de figure, l’emprunteur peut se protéger contre la hausse des taux 
+d’intérêts à un seuil plafond en achetant un Cap (taux plafond). Il paiera une prime en contrepartie de 
+cette protection. La vente du Floor va avoir pour effet de permettre d’encaisser la prime. Cette 
+opération permet de limiter le coût de la couverture qui est égale à la différence des deux primes. Le 
+coût de l’emprunt quant à lui permet de bénéficier d’un taux tunnel. 
+ 
+1.2 Calculer les différentiels d’intérêts et de prime en fonction des trois hypothèses 
+présentées  
+en annexe. 
+ 
+Emprunt : 10 000 0000 €. 
+Achat du Cap : taux de 6 % et prime à payer de 0,80 %. 
+Vente du Floor : taux de 4,5 % et prime à percevoir de 0,60 %. 
+Hypothèse 
+Hypothèse 1 
+Hypothèse 2 
+Hypothèse 3 
+Taux d’intérêt 
+7 % 
+3 % 
+5 % 
+Différentiel 
+d’intérêt 
+(7 – 6) % * 10 000 000 = 
+100 000 € reçu de la banque 
+(4,5 - 3) % * 10 000 000 € = 
+150 000 € à verser par 
+l’emprunteur à la banque 
+L’emprunteur se procure des 
+fonds sans rien verser, ni 
+recevoir de la banque. 
+Prime à payer 
+Paiement de la prime du Cap de 
+0,80 % car l’emprunteur exerce 
+l’option d’achat du Cap 
+Paiement de la prime du Cap 
+de 0,80 % car l’emprunteur 
+exerce l’option d’achat du Cap 
+Rien à faire 
+Prime à 
+percevoir 
+Perception de la prime du Floor 
+de 0,60% liée à sa vente. 
+Perception de la prime du Floor 
+de 0,60% liée à sa vente. 
+Rien à faire 
+Différentiel de 
+prime 
+- 0,80 % + 0,60 % = - 0,20 %, soit 
+20 000 € à payer. 
+- 0,80 % + 0,60 % = - 0,20 %, 
+soit 20 000 € à payer. 
+Rien à faire 
+ 
+
+=== PAGE 5 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 5/6 
+2. 
+Gestion de trésorerie (annexe 4) 
+ 
+2.1 Présenter l’intérêt de la mise en place d’un netting. 
+ 
+La mise en place d’un netting (signifiant « compensation bilatérale ») permet de compenser les 
+créances et les dettes au sein des sociétés d’un groupe qui sont à l’étranger. Cette opération a pour 
+effet de réduire massivement les flux au sein du groupe et de réaliser des économies de gestion. Cet 
+outil permet de réduire le risque de change. 
+ 
+2.2 Vous présenterez le schéma correspondant au montage. 
+ 
+1 € = 135 dinars algériens. 
+1 € = 3,5 dinars tunisiens. 
+ 
+            Créances 
+Dettes 
+BTP Plus 
+DZ construction 
+MA Habitat 
+TUNIS Project 
+BTP Plus 
+ 
+200 000 000 DA 
+15 000 000 DH 
+800 000 DT 
+DZ construction 
+2 000 000 € 
+ 
+ 
+ 
+MA Habitat 
+600 000 € 
+150 000 000 DA 
+ 
+400 000 DT 
+TUNIS Project 
+ 
+ 
+20 000 000 DH 
+ 
+ 
+1 € = 135 dinars algériens. 
+1 € = 3,5 dinars tunisiens. 
+1 € = 11 dirham marocains. 
+ 
+2.3 Calculer les soldes de trésorerie correspondants en euros. 
+ 
+Créances 
+Dettes 
+BTP Plus 
+DZ construction 
+MA Habitat 
+TUNIS 
+Project 
+Total 
+A payer 
+BTP Plus 
+ 
+200 000 000 DA 
+15 000 000 DH 
+800 000 DT 
+3 073 689,27 € 
+473 689,27 € 
+DZ construction 
+2 000 000 € 
+ 
+ 
+ 
+2 000 000 € 
+ 
+MA Habitat 
+600 000 € 
+150 000 000 DA 
+ 
+400 000 DT 
+1 825 396,82 € 
+ 
+TUNIS Project 
+ 
+ 
+20 000 000 DH 
+ 
+1 818 181,82 € 
+1 475 324,68 € 
+421 521,34 DT 
+Total 
+2 600 000 € 
+2 592 592,59 € 
+3 181 818,18 € 
+342 857,14 € 
+8 717 267,83 € 
+ 
+À percevoir 
+ 
+592 592,59 € 
+79 999 999,6 DA 
+1 356 421,36 € 
+123 311,03 DH 
+ 
+ 
+ 
+ 
+La mise en place du netting permet d’effectuer des économies importantes (1 949 013,95 € contre 
+8 717 267,83 € sans le netting). 
+ 
+2.4 Définir la Blockchain et préciser son intérêt pour résoudre les problèmes de trésorerie de 
+la  filiale algérienne. 
+ 
+« La Blockchain (chaîne de blocs) est un registre permanent, infalsifiable, distribué et historicisé qui 
+permet d’établir de la confiance entre les agents, sans intervention d’un tiers. L’application qui a rendu 
+célèbre la blockchain est le bitcoin créé en 2009. L’objectif de cette technologie est la 
+désintermédiation sous toutes ses formes. »1 
+ 
+Accepter toutes remarques pertinentes du candidat concernant la Blockchain. 
+La technologie Blockchain présente un intérêt certain pour résoudre les problèmes de trésorerie de la 
+filiale algérienne. Concernant l'envoi de factures, la blockchain permettrait d'acheminer de manière 
+sécurisée une facture d'un fournisseur vers son client. Celle-ci pourrait même porter une référence au 
+contrat (la preuve cryptographique du contrat de prestation pouvant être annexée au smart contract), 
+qui lui-même aurait pu être constitué puis signé de manière sécurisée entre le fournisseur et son 
+client. Le fournisseur aurait alors une visibilité totale sur le process de bout en bout : il pourrait 
+observer en direct où en est l'exécution et le paiement de la prestation, à la manière du suivi d'un 
+colis. La gestion de trésorerie sera efficace. 
+La mise en place de cette technologie permet de conserver, partager et sécuriser les données. Les 
+échanges sont par ailleurs inviolables. 
+ 
+ 
+ 
+ 
+1 DSCG 2 Finance - Manuel - Réforme 2019-2020 
+
+=== PAGE 6 ===
+DSCG 2020  
+UE2 - FINANCE - CORRIGÉ 
+Page 6/6 
+ 
+DOSSIER 3 – ÉVALUATION D’UNE START-UP 
+ 
+ 
+1. 
+Évaluation d’une start-up (annexe 5) 
+ 
+1.1 Expliquer succinctement pourquoi les méthodes traditionnelles d’évaluation d’entreprise 
+ 
+ne sont pas efficaces pour valoriser une start-up. Quelles sont leurs faiblesses ? 
+ 
+Les méthodes courantes comme les DCF (discount cash-flow), les comparables ou encore l’ANCC 
+(actif net comptable corrigé) pourraient être appliquées même si en réalité une start-up peut avoir une 
+durée de vie très faible et dispose rarement d’un historique de son bénéfice, voire de son chiffre 
+d’affaires. Ces méthodes sont plus adaptées à des entreprises anciennes. L’incertitude sur les flux de 
+trésorerie dégagés et le niveau de risque supporté par la société rend l’évaluation de la start-up très 
+difficile. 
+Méthode 
+Faiblesse pour les start-up 
+ANCC 
+Difficulté pour évaluer les incorporels 
+DCF 
+Les flux de trésorerie d’un actif incorporel sont difficiles à évaluer. Quel horizon ? 
+Quel taux d’actualisation ? Quel montant retenir pour la valeur terminale ? 
+Comment tenir compte des évolutions au cours du projet ? 
+Comparable 
+Informations difficiles à obtenir concernant les incorporels qui sont souvent des 
+éléments déterminant pour une start-up. 
+ 
+1.2 Quels sont les facteurs à prendre en compte dans l’évaluation d’une start-up ? 
+ 
+Les principaux facteurs sont les suivants : 
+- 
+la personnalité du fondateur et le profil de l’équipe ; 
+- 
+la qualité du triptyque produit-marché-technologie ; 
+- 
+la fiabilité du business plan. 
+ 
+1.3 Procéder à l’évaluation de la start-up par la méthode du « Venture Capital Method ». 
+ 
+Moyenne du résultat net médian : (16 + 14 + 12)/3 = 14 
+ 
+Valeur de sortie = 14 * (1 – 30%) * 5 * (1 – 40%) = 29,4 millions d’euros 
+ 
+La valeur de sortie peut être estimée à 29,4 millions d’euros. 
+ 
+Valeur d’entrée = 29,4 / (1,32)5 = 7,34 millions d’euros 

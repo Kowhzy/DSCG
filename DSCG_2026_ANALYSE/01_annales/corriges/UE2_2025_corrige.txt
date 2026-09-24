@@ -1,0 +1,748 @@
+=== PAGE 1 ===
+25DSCG-UE2 
+FINANCE 
+Page 1/8 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+ 
+SESSION 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Éléments indicatifs de corrigé 
+F  I  C  H  E  B  E  N
+
+=== PAGE 2 ===
+25DSCG-UE2 
+FINANCE 
+Page 3/8 
+DOSSIER 1 
+Sous-dossier 1 – Coût du capital d’une société non cotée 
+1. Concernant la détermination du coût des fonds propres par la méthode du 
+MEDAF de la société Transvert, identifier et expliquer le problème auquel est 
+confronté le directeur administratif et financier. 
+Comme la société n’est pas cotée, l’estimation du coût des fonds propres par la méthode 
+du MEDAF pose problème car le bêta du titre Transvert (coefficient de sensibilité de 
+l’action à une variation du rendement du marché) n’est pas connue. 
+2. À l’aide de l’annexe 1, déterminer le coût du capital de la société Transvert. 
+Étape 1 : calcul du bêta de l’actif de chacune des entreprises de l’échantillon  
+Bêta de l’actif de l’entreprise 1 (société « Technonix) = 1,1 x 0,55 + 0,67 x 0,45 = 0,9065 
+Bêta de l’actif de l’entreprise 2 (société « Cosmo ») = 0,95 x 0,7 + 0,15 x 0,30 = 0,71  
+Étape 2 : calcul de la moyenne des bêtas de l’actif de l’échantillon  
+(0,9065+0,71)/2 = 0,8083 
+Étape 3 : calcul du bêta des capitaux propres de la société Transvert 
+Bêta des capitaux propres = 0,8083 + (0,8083-0,259) x (0,6/0,4) 
+Bêta des capitaux propres = 1,6321 
+Étape 4 : calcul du coût des fonds propres de Transvert par la méthode du MEDAF  
+Coût des fonds propres de Transvert = 0,036 + 1,6321 x 0.027 = 0,0801 
+Étape 5 : calcul du coût du capital de Transvert  
+CMPC = 0,0801 x 0,4 + 0,043 x 0,75 x 0,6 = 0,0514 soit 5,14 % 
+ 
+Sous-dossier 2 - Choix d’investissement 
+3. Concernant le projet d’investissement A, déterminer ses flux de trésorerie ainsi 
+que la VAN. Vous arrondissez vos calculs à l’euro près. 
+Projet A 
+Début 2026 
+2026 
+2027 
+2028 
+2029 
+2030 
+Quantité annuelle de 
+compresseurs 
+fabriqués par la chaîne 
+de fabrication 
+automatisée 
+ 
+1700 
+1500 
+1100 
+800 
+450 
+Chiffre d'affaires 
+ 
+4 250 000 
+3 750 000 
+2 750 000 
+2 000 000 
+1 125 000 
+Charges variables 
+ 
+(1 870 000) 
+(1 650 000) 
+(1 210 000) 
+(880 000) 
+(495 000) 
+Charges fixes 
+ 
+(150 000) 
+(150 000) 
+(150 000) 
+(120 000) 
+(120 000) 
+Amortissements 
+ 
+(612 613) 
+(540 541) 
+(396 396) 
+(288 288) 
+(162 162) 
+Résultat brut 
+ 
+1 617 387 
+1 409 459 
+993 604 
+711 712 
+347 838 
+IS (25%) 
+ 
+(404 347) 
+(352 365) 
+(248 401) 
+(177 928) 
+(86 959) 
+Résultat net 
+ 
+1 213 041 
+1 057 095 
+745 203 
+533 784 
+260 878 
+Amortissements 
+ 
+612 613 
+540 541 
+396 396 
+288 288 
+162 162 
+CAF d'exploitation 
+ 
+1 825 653 
+1 597 635 
+1 141 599 
+822 072 
+423 041 
+Investissements 
+(2 000 000) 
+ 
+ 
+ 
+ 
+ 
+Variation du BFR 
+(255 000) 
+30 000 
+60 000 
+45 000 
+52 500 
+67 500 
+Cession d'une 
+ancienne chaîne de 
+montage nette d'IS 
+22 500 
+ 
+ 
+ 
+ 
+ 
+FTD 
+(2 232 500) 
+1 855 653 
+1 657 635 
+1 186 599 
+874 572 
+490 541 
+FTD actualisé 
+(2 232 500) 
+1 764 935 
+1 499 523 
+1 020 940 
+715 688 
+381 799 
+ VAN du projet A 
+3 150 385 
+VAN = - 2 232 500 + 1 855 653 x 1,0514-1 + 1 657 635 x 1,0514-2 + 1 186 599 x 1,0514-3 
++ 874 572 x 1,0514-4 + 490 541 x 1,0514-5 = 3 150 385 €. 
+Détails des calculs :  
+● CA : 1 700 compresseurs x 2 500 € = 4 250 000 € pour 2026  
+F  I  C  H  E  B  E  N
+
+=== PAGE 3 ===
+25DSCG-UE2 
+FINANCE 
+Page 4/8 
+● CV : 1 700 compresseurs x 1 100 € = 1 870 000 € pour 2026  
+F  I  C  H  E  B  E  N
+
+=== PAGE 4 ===
+25DSCG-UE2 
+FINANCE 
+Page 5/8 
+● CF : 150 000 € de 2026 à 2028 puis 120 000 € en 2029 et 2030  
+● 
+Amortissements par unité d’œuvre (nombre de compresseurs fabriqués)  
+Année 
+2026 
+2027 
+2028 
+2029 
+2030 
+Total 
+Nombre de 
+compresseurs 
+fabriqués 
+1 700 
+1 500 
+1 100 
+800 
+450 
+5 550 
+Amortissements 
+612 613 
+= 2 000 000 
+x (1 700 / 5 
+550) 
+540 541 
+396 396 
+288 288 
+162 162 
+2000000 
+● Investissements = 1 950 000 + 50 000  
+● 
+Variation du BFRE : 
+Année 
+2026 
+2027 
+2028 
+2029 
+2030 
+BFRE 
+255 000 
+= 4 250 000 
+x 6 % 
+225 000 
+165 000 
+120 000 
+67 500 
+Variation 
+BFRE 
++ 30 000 
++ 60 000 
++ 45 000 
++ 52 500 
++ 67 500 
+● La machine cédée est totalement amortie donc VNC = 0 
+Gain de cession net d’IS : 30 000 – 25 % x (30 000 – 0) = 22 500  
+4. Concernant le projet d’investissement B, déterminer ses flux de trésorerie ainsi 
+que la VAN. Vous arrondissez vos calculs à l’euro près. 
+Projet B 
+Début 2026 
+2026 
+2027 
+2028 
+2029 
+2030 
+Quantité annuelle de 
+compresseurs 
+fabriqués par la chaîne 
+de fabrication 
+automatisée 
+ 
+1500 
+1500 
+1500 
+1500 
+1500 
+Chiffre d'affaires 
+ 
+3 300 000 
+3 300 000 
+3 300 000 
+3 300 000 
+3 300 000 
+Charges variables 
+ 
+(1 500 000
+) 
+(1 500 000) 
+(1 500 000) 
+(1 500 000) 
+(1 500 000
+) 
+Charges fixes 
+ 
+(150 000) 
+(150 000) 
+(150 000) 
+(150 000) 
+(150 000) 
+Amortissements 
+ 
+(400 000) 
+(400 000) 
+(400 000) 
+(400 000) 
+(400 000) 
+Résultat brut 
+ 
+1 250 000 
+1 250 000 
+1 250 000 
+1 250 000 
+1 250 000 
+IS (25%) 
+ 
+(312 500) 
+(312 500) 
+(312 500) 
+(312 500) 
+(312 500) 
+Résultat net 
+ 
+937 500 
+937 500 
+937 500 
+937 500 
+937 500 
+Amortissements 
+ 
+400 000 
+400 000 
+400 000 
+400 000 
+400 000 
+CAF d'exploitation 
+ 
+1 337 500 
+1 337 500 
+1 337 500 
+1 337 500 
+1 337 500 
+Investissements 
+(2 000 000) 
+ 
+ 
+ 
+ 
+ 
+Variation du BFR 
+(198 000) 
+- 
+- 
+- 
+- 
+198 000 
+Cessions d'une 
+ancienne chaîne de 
+montage nette d'IS 
+22 500 
+ 
+ 
+ 
+ 
+ 
+FTD 
+(2 175 500) 
+1 337 500 
+1 337 500 
+1 337 500 
+1 337 500 
+1 535 500 
+FTD actualisé 
+(2 175 500) 
+1 272 113 
+1 209 923 
+1 150 774 
+1 094 515 
+1 195 116 
+ 
+ VAN 
+du 
+projet 
+B 
+3 746 94
+1 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 5 ===
+25DSCG-UE2 
+FINANCE 
+Page 6/8 
+5. Rédiger une courte note (10 lignes maximum) dans laquelle vous expliquerez les 
+points suivants :  
+● les raisons expliquant que ces critères peuvent conduire à des 
+conclusions apparemment contradictoires ;  
+Ces deux critères sont en contradiction car ce sont avant tout des critères de sélection et 
+non de classement. De plus, VAN et TRI sont basés sur des hypothèses différentes : le 
+premier est basé sur l’hypothèse d’un réinvestissement des cash-flows au coût du capital 
+tandis que le second est basé sur un réinvestissement au TRI.  
+● l’intérêt d’utiliser la VAN globale pour résoudre ce problème. Les 
+calculs ne sont pas demandés.  
+L’intérêt d’utiliser la VAN globale est qu’elle tient compte d’un réinvestissement des flux à 
+un taux différent du coût du capital ou du TRI. Les flux du projet sont ainsi capitalisés à 
+un taux de réinvestissement, puis actualisés.  
+6. Que feriez-vous si vous étiez face à un projet à VAN nulle avec des flux certains ? 
+Lorsque la valeur actuelle nette (VAN) d’un projet est nulle, cela signifie que les flux de 
+trésorerie actualisés couvrent exactement le montant de l’investissement initial, 
+rémunérant donc le capital au taux exigé sans création ni destruction de valeur. En 
+présence de flux certains, ce projet se situe à la frontière de la rentabilité. La décision 
+d’investir peut alors dépendre d’éléments extra-financiers ou stratégiques : effets d’image, 
+obligations réglementaires, effets d’apprentissage ou opportunité d’accès à des projets 
+futurs plus rentables. Toutefois, s’il existe des projets à VAN strictement positive, ils 
+devront être privilégiés. 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 6 ===
+25DSCG-UE2 
+FINANCE 
+Page 7/8 
+DOSSIER 2 – Rachat des parts via un LBO  
+ 
+1. Quel est le montant de l’emprunt que doit contracter la holding si son objectif est 
+de racheter les 25% de Laurent LAGARDE ? 
+ 
+ 
+Montant 
+en K€ 
+% 
+ 
+Calculs 
+VCP de Transvert 
+88 000 
+100
+% 
+ 
+Financement de l'opération 
+22 000 
+25% 
+25% x 88 000 
+ 
+La holding devra contracter 22 millions d’euros de dettes financières. 
+ 
+2. Compléter le schéma du montage financier ainsi réalisé (annexe 3).  
+Calculs préliminaires pour compléter le schéma : 
+ 
+Montant 
+en K€ 
+% 
+ 
+Calculs 
+VCP de Transvert 
+88 000 
+100
+% 
+ 
+Financement de l'opération 
+22 000 
+25% 
+25% x 88 000 
+Fonds propres 
+8 800 
+40% 
+40% x 22 000 
+dont Fonds d’investissement 
+2 800 
+32% 
+32% x 8 800 
+David Lagarde et les salariés 
+6 000 
+68% 
+68% x 8 800 
+Dettes financières 
+13 200 
+60% 
+60% x 22 000 
+Dont senior 
+7 260 
+55% 
+55% x 13 200 
+junior 
+5 940 
+45% 
+45% x 13 200 
+ 
+Les valeurs dans le schéma ci-dessous peuvent être données en kilos euros ou en millions 
+d’euros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2800 
+ 
+ 
+ 
+   13200 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22000 
+ 
+ 
+ 
+ 
+Dividendes  
+ 
+ 
+ 
+ 
+ 
+3. Présenter le bilan simplifié de la holding après l’opération.  
+ 
+Actif (k euros) 
+Passif (k euros) 
+Actions Transvert 22 000 
+Capitaux propres       8 800 
+ 
+ 
+ 
+ 
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 7 ===
+25DSCG-UE2 
+FINANCE 
+Page 8/8 
+Dettes financières    13 200 
+Total                     22 000 
+Total                     22 000 
+4. Effectuer le tableau d’amortissement des deux emprunts sachant que la dette 
+senior est de 7 260 K€ et la dette junior de 5 940 K€. 
+ 
+Calcul de l’annuité constante :  
+Annuité = emprunt x i /(1-(1+i)-n) = 7260 x 0,05 /(1- (1+0,05)-5) = 1677 
+ 
+Années 
+2026 
+2027 
+2028 
+2029 
+2030 
+Dette senior 
+ 
+ 
+ 
+ 
+ 
+Capital emprunté 
+7260 
+5946 
+4567 
+3118 
+1597 
+Calcul des intérêts à 5% 
+363 
+297 
+228 
+156 
+80 
+Amortissements du 
+capital 
+1314 
+1380 
+1449 
+1521 
+1597 
+Annuités de 
+remboursement 
+1677 
+1677 
+1677 
+1677 
+1677 
+ 
+ 
+ 
+ 
+ 
+ 
+Dette junior 
+ 
+ 
+ 
+ 
+ 
+Capital emprunté 
+5940 
+5940 
+5940 
+5940 
+5940 
+Calcul des intérêts à 6% 
+356 
+356 
+356 
+356 
+356 
+Amortissement du 
+capital 
+ 
+ 
+ 
+ 
+5940 
+ 
+ 
+5. Quelles sont les conditions de réussite de cette opération de rachat ? Sont-elles 
+remplies ici ?  
+ 
+Dividendes reçus de Transvert > remboursement annuel des dettes de la holding 
+k€ 
+2026 
+2027 
+2028 
+2029 
+2030 
+Résultat 
+distribuable de 
+TRANSVERT 
+24 975 
+27 473 
+29 670 
+31 747 
+34 604 
+Dividende reçu 
+par la holding 
+6 244 
+6 868 
+7 418 
+7 937 
+8 651 
+Remboursement 
+d'emprunt* 
+2033 
+2033 
+2033 
+2033 
+7973 
+ 
+*annuités de la dette senior + intérêts + remboursement du capital in fine de la 
+dette junior. 
+ 
+Les dividendes reçus permettent de rembourser les engagements contractuels envers les 
+banques et répondent aux conditions de réussite de l’opération.  
+ 
+F  I  C  H  E  B  E  N
+
+=== PAGE 8 ===
+25DSCG-UE2 
+FINANCE 
+Page 9/8 
+DOSSIER 3 
+ 
+1. Au regard du profil financier de la société Transvert, quelle serait la plateforme la 
+plus appropriée pour cette levée de fonds ?  
+ 
+La société Transvert est spécialisée dans l’industrie permettant de générer de l’énergie 
+électrique, elle présentait une valorisation importante de 88 millions d’euros (Vcp) lors du 
+départ en retraite de l’associé et a fait l’objet d’un rachat réussi par LBO. Il est fort probable 
+que ce profil financier d’entreprise intéresse, en 2030, les investisseurs avisés et 
+patrimoniaux d’InvestWealth qui peuvent mettre des tickets de plusieurs milliers d’euros 
+dans la levée de fonds. 
+ 
+2. Considérant une levée de fonds à hauteur de 4 millions d’euros, quel serait le 
+nombre d’investisseurs attirés pour chacune des plateformes au regard du ticket 
+moyen ? 
+  
+ 
+InvestImpact 
+InvestWealth 
+Ticket d'investissement 
+moyen 
+2 500 € en moyenne 
+12 000 € en moyenne 
+Calcul 
+= 4 000 000/2 500 
+= 4 000 000/12 000 
+Nombre d’investisseurs 
+attirés 
+1 600 investisseurs 
+334 investisseurs 
+ 
+3. Quelle serait la fourchette de coût de l’opération pour chacune des plateformes ?  
+ 
+ 
+InvestImpact 
+InvestWealth 
+Fourchette basse 
+4 000 000*5%= 
+200 000 € 
+4 000 000*6%= 
+240 000 € 
+Fourchette haute 
+4 000 000*10%= 
+400 000 € 
+4 000 000*10%= 
+400 000 € 
+ 
+4. Quelle est la spécificité du modèle de gouvernance des actionnaires au sein des 
+principales plateformes d’equity crowdfunding en France ? 
+ 
+En France, la gouvernance des actionnaires se fait via une holding gérée par la plateforme 
+d’equity crowdfunding qui va rassembler l’ensemble des participations des investisseurs 
+à la levée de fonds. Seul un représentant de la plateforme siégera au titre de l’ensemble 
+des investisseurs au conseil d’administration de l’entreprise financée.  
+Dans le cas d’espèce, si InvestWealth est retenue, elle créera une holding spécialement 
+pour cette levée de fonds de 4 000 000 euros, voire plus en fonction de la collecte, et cette 
+holding hébergera les titres de participation des 334 investisseurs attendus. Un pacte 
+d’actionnaire pourra être conclu entre l’ensemble des participants pour régir leurs relations 
+durant cette opération.  
+ 
+5. Proposer une argumentation à destination des « petits actionnaires » pour leur 
+expliquer que la distribution de dividende ne les enrichit pas. 
+ 
+Dans l’hypothèse d’un marché financier parfait au sens de Modigliani et Miller (1961), la 
+distribution d’un dividende entraîne une baisse du cours de l’action égale à la valeur du 
+dividende. 
+La distribution de dividende ne modifie donc pas la valeur du patrimoine de l’actionnaire 
+mais seulement la structure de ce patrimoine. 
+F  I  C  H  E  B  E  N

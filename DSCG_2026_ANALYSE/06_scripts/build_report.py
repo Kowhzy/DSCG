@@ -4,7 +4,8 @@ sys.path.insert(0, os.path.dirname(__file__))
 import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
-from stats import compute, write, YEARS
+from stats import compute, write, YEARS, techniques, sensitivity, SCENARIOS
+import csv as _csv
 from referentiel import RUBRIQUES, JURY, COURS, COURS_NOTE, BO_REF, PARTIES_NOTE
 from contenu import TITRES, EPREUVE, SYNTHESE, SURPRISES, TROUS, ANNALES, METHODE_COMMUNE
 
@@ -218,6 +219,17 @@ def reason(r):
     if r.get('regle'): s += ' Catégorie ' + r['regle'] + '.'
     return s
 
+def attendus(ue):
+    p = os.path.join(BASE, '02_data', f'{ue}_attendus_corriges.csv')
+    return list(_csv.DictReader(open(p, encoding='utf-8'), delimiter=';'))
+
+def attendus_rubrique(ue, r, rows, att, n=3):
+    keys = {(x['annee'], x['dossier']) for x in rows if r['code'] in x['P'] and x['y'] >= 2020}
+    out = [a for a in att if (a['annee'], a['dossier']) in keys or any((a['annee'], d) in keys for d in a['dossier'].split('-'))]
+    out = [a for a in out if a['source'] != 'Non vérifié']
+    out.sort(key=lambda a: a['annee'], reverse=True)
+    return out[:n]
+
 def annales_rubrique(ue, r, rows):
     items = []
     for row in sorted(rows, key=lambda x: x['annee'], reverse=True):
@@ -228,6 +240,8 @@ def annales_rubrique(ue, r, rows):
 
 def build(ue):
     rows, res = compute(ue); write(ue, rows, res)
+    tech = techniques(ue); sens = sensitivity(ue, res); att = attendus(ue)
+    sens_by = {x['code']: x for x in sens}
     ch = charts(ue, res, rows)
     srt = sorted(res, key=lambda r: -r['ipr'])
     fn = os.path.join(R, f'DSCG_2026_{ue}.pdf')
@@ -252,6 +266,11 @@ def build(ue):
         data.append([str(i), f"<b>{r['code']}</b> {r['titre']}", r['cat'].replace('PRIORITÉ ', '').capitalize(), fr(r['ipr'], 1),
                      f"{fr(r['sessions_10'])}/10", f"{fr(r['sessions_cur'])}/6", pct(r['f3']), str(r['last'] or '—')])
     S.append(tbl(data, [7 * mm, 68 * mm, 24 * mm, 11 * mm, 19 * mm, 17 * mm, 16 * mm, 16 * mm]))
+    nt = -(-len(res) // 3); rob = [r['code'] for r in srt[:10] if sens_by[r['code']]['top_tiers'] == len(SCENARIOS)]
+    S.append(P(f"<b>Robustesse.</b> Sous {len(SCENARIOS)} jeux de pondérations différents, les rubriques {', '.join(rob) or 'aucune'} restent toujours dans le premier tiers du classement (rang ≤ {nt}) : ces priorités ne dépendent pas du choix des pondérations. Détail en section 5.5."))
+    alert = [a for a in att if 'ALERTE' in a['pieges_et_vigilance'] or 'ALERTE' in a['attendus_du_corrige']]
+    if alert:
+        S.append(P(f"<b>Corrigés à lire avec prudence.</b> {len(alert)} point(s) des éléments de corrigé semblent erronés ou dépassés : " + ' ; '.join(f"{a['annee']} D{a['dossier']} ({a['question'][:45]})" for a in alert) + ". Détail en section 10.3."))
     S.append(P('Surprises et points d\'attention', 'h2'))
     S += [B(t) for t in SURPRISES[ue]]
     S.append(P('Zones à ne pas négliger (faible fréquence mais toujours au programme)', 'h2'))
@@ -272,15 +291,15 @@ def build(ue):
     for t, x in METHODE_COMMUNE:
         S.append(P(f"<b>{t}.</b> {x}"))
     S.append(P('Hiérarchie des sources utilisées', 'h2'))
-    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (structure relevée via ta page Notion)."),
+    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction en tête des manuels Dunod UE2/UE3 et dans le document « Programme MSI 19-20 » pour l'UE5) ; éléments indicatifs de corrigé 2020-2025 (lus question par question, sauf UE3 2024 indisponible)."),
           B("Niveau 2 (contrôle) : Compta Online (articles « Pronostic DSCG … thèmes récurrents », « réforme ») via les extraits de moteur de recherche, le site étant inaccessible ; tes notes Drive (UE5-01 à UE5-07) ; ta base Notion (héritée d'un modèle, donc utilisée comme index et non comme preuve)."),
           B("Contrôle croisé : les structures des sujets 2020, 2021, 2024 et 2025 ont été vérifiées contre la description qu'en donne le rapport du jury correspondant (concordance constatée).")]
     S.append(CondPageBreak(170 * mm))
     # --- 3. programme
     S.append(P('3. Programme officiel applicable', 'h1'))
     S.append(P(f"<b>Référence.</b> {BO_REF[ue]}. Programme applicable aux sessions 2020 à 2026 ; remplacé à partir de la session 2027 (arrêté du 4 août 2025, BO ESR du 28 août 2025). {PARTIES_NOTE[ue]}"))
-    S.append(P("Arborescence de travail : partie → rubrique officielle → notions et compétences attendues (résumé de travail, à confronter à l'annexe). Toutes les rubriques restent au programme 2026."))
-    data = [['Partie', 'Rubrique', 'Notions / compétences attendues (résumé)']]
+    S.append(P("Arborescence : partie (volume horaire officiel) → rubrique officielle → notions et contenus (résumé fidèle du texte officiel). Toutes les rubriques restent au programme 2026."))
+    data = [['Partie', 'Rubrique', 'Notions et contenus officiels (résumé)']]
     for c, pa, t, n, b in RUBRIQUES[ue]:
         data.append([pa, f"<b>{c}</b> {t}", n])
     S.append(tbl(data, [40 * mm, 55 * mm, 83 * mm]))
@@ -317,6 +336,27 @@ def build(ue):
     S.append(P('5.4 Taux de réussite (après délibération)', 'h2'))
     S.append(img(ch['reussite'], 165 * mm))
     S.append(P("Sources : rapports du jury 2020 (p. 4), 2021 (p. 4), 2024 et 2025 (p. 18-19). Les autres UE sont affichées en gris pour contexte.", 'small'))
+    S.append(CondPageBreak(120 * mm))
+    S.append(P('5.5 Robustesse du classement (test de sensibilité)', 'h2'))
+    S.append(P(f"L'IPR dépend de pondérations choisies par l'analyste. Pour vérifier que le classement n'en est pas un artefact, il a été recalculé sous {len(SCENARIOS)} scénarios : "
+               + ' ; '.join(f"<i>{k}</i>" for k in SCENARIOS) + ". Colonne « 1er tiers » : nombre de scénarios où la rubrique est classée parmi les "
+               + f"{-(-len(res) // 3)} premières."))
+    data = [['Rubrique', 'IPR', 'Rang (référence)', 'Rang min', 'Rang max', '1er tiers', 'Lecture']]
+    for x in sens:
+        lec = ('priorité robuste' if x['top_tiers'] == x['n_scen'] else 'dépend des pondérations' if x['top_tiers'] > 0 else
+               'jamais prioritaire' if x['rmin'] > 2 * -(-len(res) // 3) else 'rang intermédiaire stable' if x['rmax'] - x['rmin'] <= 3 else 'rang variable')
+        data.append([f"<b>{x['code']}</b> {short(x['titre'], 40)}", fr(x['ipr'], 1), str(x['rank_ref']), str(x['rmin']), str(x['rmax']), f"{x['top_tiers']}/{x['n_scen']}", lec])
+    S.append(tbl(data, [70 * mm, 12 * mm, 20 * mm, 15 * mm, 15 * mm, 15 * mm, 31 * mm]))
+    S.append(P("Détail par scénario : 03_analyses/" + ue + "_sensibilite.csv.", 'small'))
+    S.append(CondPageBreak(120 * mm))
+    S.append(P('5.6 Les techniques les plus mobilisées', 'h2'))
+    S.append(P("Les rubriques du programme sont larges. Ce tableau compte les techniques et outils précis demandés dans les dossiers (une fois par session), indépendamment de la rubrique. Il indique ce qu'il faut savoir faire, pas seulement ce qu'il faut connaître."))
+    data = [['Technique / outil', 'Sessions 2016-25', 'Depuis 2020', '2023-2025', 'Dernière', 'Dossiers (récents d\'abord)']]
+    for x in tech[:24]:
+        data.append([x['label'], fr(x['s10'], 1).replace(',0', ''), fr(x['scur'], 1).replace(',0', ''), fr(x['s3'], 1).replace(',0', ''), str(x['last']),
+                     ', '.join(sorted(x['dossiers'], reverse=True)[:6]) + (' …' if len(x['dossiers']) > 6 else '')])
+    S.append(tbl(data, [56 * mm, 18 * mm, 16 * mm, 15 * mm, 15 * mm, 58 * mm]))
+    S.append(P(f"Liste complète ({len(tech)} techniques) : 03_analyses/{ue}_techniques.csv." + (" Sessions pondérées ½ pour les deux sujets 2022." if ue == 'UE2' else ''), 'small'))
     S.append(CondPageBreak(170 * mm))
     # --- 6. jury
     S.append(P('6. Analyse des rapports du jury', 'h1'))
@@ -384,6 +424,9 @@ def build(ue):
                P(f"<b>Raison du classement :</b> {reason(r)}"),
                P(f"<b>Dans tes ressources :</b> {cs} — statut déclaré dans Notion : {stt}."),
                P("<b>Annales à refaire :</b> " + ('<br/>'.join(annales_rubrique(ue, r, rows)) or "aucune annale 2016-2025 en principal : travailler sur le cours et un mini-cas.")),
+               P("<b>Ce qu'attendaient les corrigés officiels :</b> " + ('<br/>'.join(f"<b>{a['annee']} D{a['dossier']} — {a['question']}</b> : {a['attendus_du_corrige']}"
+                  + (f" <i>Vigilance : {a['pieges_et_vigilance']}</i>" if a['pieges_et_vigilance'] else '') for a in attendus_rubrique(ue, r, rows, att))
+                  or "aucun corrigé 2020-2025 ne mobilise cette rubrique en principal.")),
                Spacer(1, 3)]
         S.append(KeepTogether(blk[:3])); S += blk[3:]
     S.append(CondPageBreak(170 * mm))
@@ -392,10 +435,25 @@ def build(ue):
     S.append(P("Ordre conseillé : du plus récent (format et attentes actuels) vers l'ancien programme, en conditions réelles pour au moins un sujet complet."))
     data = [['Annale', 'Compétences travaillées et intérêt pédagogique']] + [[f"<b>{a}</b>", t] for a, t in ANNALES[ue]]
     S.append(tbl(data, [42 * mm, 136 * mm]))
-    S.append(P('Par thème prioritaire', 'h2'))
+    S.append(P('10.1 Par thème prioritaire', 'h2'))
     for r in [x for x in srt if x['cat'] in CATS[:3]]:
         a = annales_rubrique(ue, r, rows)
         if a: S.append(P(f"<b>{r['code']} {r['titre']}</b><br/>" + '<br/>'.join('→ ' + x for x in a)))
+    S.append(CondPageBreak(120 * mm))
+    S.append(P('10.2 Ce qu\'attendent les corrigés officiels (2020-2025, question par question)', 'h2'))
+    S.append(P("Synthèse des éléments indicatifs de corrigé : résultats chiffrés de référence, notions attendues et pièges. Les corrigés sont « indicatifs » : d'autres réponses argumentées sont acceptées. Les chiffres ont été recalculés quand c'était possible."))
+    data = [['Session', 'Question', 'Barème', 'Attendus du corrigé', 'Pièges et vigilance']]
+    for a in sorted(att, key=lambda a: (a['annee'], a['dossier']), reverse=True):
+        data.append([f"{a['annee']} D{a['dossier']}", a['question'], a['bareme'], a['attendus_du_corrige'], a['pieges_et_vigilance']])
+    S.append(tbl(data, [15 * mm, 30 * mm, 14 * mm, 75 * mm, 44 * mm]))
+    S.append(P(f"Source : 02_data/{ue}_attendus_corriges.csv (colonne source : fichier du corrigé). n.c. = barème par question non communiqué.", 'small'))
+    alert = [a for a in att if 'ALERTE' in a['pieges_et_vigilance'] or 'ALERTE' in a['attendus_du_corrige']]
+    S.append(P('10.3 Corrigés à lire avec prudence', 'h2'))
+    if alert:
+        S.append(P("Points où le corrigé semble contenir une erreur ou une information dépassée. Ne pas apprendre le chiffre ou la règle du corrigé sans vérification dans ton cours ou auprès de ton enseignant."))
+        S += [B(f"<b>{a['annee']} D{a['dossier']} — {a['question']}</b> : {a['pieges_et_vigilance'] if 'ALERTE' in a['pieges_et_vigilance'] else a['attendus_du_corrige']}") for a in alert]
+    else:
+        S.append(P("Aucune anomalie relevée dans les corrigés lus."))
     S.append(CondPageBreak(170 * mm))
     # --- 11. checklist
     S.append(P('11. Checklist de révision', 'h1'))
@@ -431,6 +489,20 @@ def build(ue):
 def link(u, label=None):
     return f'<link href="{u}" color="#1c5cab"><u>{label or u}</u></link>'
 
+CORR = {
+ 'UE2': {'2025': '1VyyKcpbKQMFO1Q1HWEsJ7ePS-8i3p0Xm', '2024': '1Ynbj96O5VQmAWUJtCLxwL9_Q_PhQb774', '2023': '1Sy9p7pZ5Xb7p85ZXfRkcykmnSeA7ZmPP',
+         '2022-S1': '1DK-UytkLXYDX3jO-zr8sqjaBR9ceQDVv', '2022-S2': '195xbM4fcoUkDgDG42BCNn0Xb1hAIsRqd', '2021': '1fayxXx8Yd_7y5iHW_hFzLiv_SxLpbEVO', '2020': '1agfC5cyoSYfiForcBlRWb04t1QbOyRR4'},
+ 'UE3': {'2025': '1irKIEaezI8N3EG1xgiJGNVG50ZhSAgV4', '2023': '1TsDftRM2UUzNSuKA92-_ayHUVFE0bp3e', '2022': '1_Bx33FaSMe6wD9KiLurXEnkfOZ01qV--',
+         '2021': '1WS2cRZP5ysjQMWEzOHfbq6kp8oJCwBYo', '2020': '1ql7hwyfHiHC_lvRp7McdXzAN103_6u1T'},
+ 'UE5': {'2025': '1BEsDUzNE4onNpgm4tRLulqtNtfiuy9WP', '2024': '1QQ_uF8gU-bwjMuZ4iRuKXqdAVb1M8Lib', '2023': '1CR9tu9QcKhTYPWpSFmTUTfL_vjeQSUrH',
+         '2022': '1JuMyuPIJ2yRa8Wm2X4SuTtbtPM_nKX_E', '2021': '1moGNzX5oR_n-Z0vmQze3SRwDE3U_pn4j', '2020': '1Cq8YX9LolnuaS21GS64M5o_rv2lMZ9AT'},
+}
+PROG = {
+ 'UE2': ["Programme officiel UE2 Finance (texte de l'annexe reproduit en tête du manuel)", "Dunod, manuel DSCG 2 Finance", "—", "Drive / 07_ressources ; extrait : 00_sources_officielles/bulletin_officiel/programme_UE2_via_Dunod.txt"],
+ 'UE3': ["Programme officiel UE3 Management et contrôle de gestion (texte de l'annexe reproduit en tête du manuel)", "Dunod, manuel DSCG 3", "—", "Drive / 07_ressources ; extrait : 00_sources_officielles/bulletin_officiel/programme_UE3_via_Dunod.txt"],
+ 'UE5': ["Programme officiel UE5 MSI — document « Programme MSI 19-20 » (6 p.)", "Enseignante (dossier Drive « Rapports de jury et programme MSI »)", "2019", "transcription : 00_sources_officielles/bulletin_officiel/programme_UE5_transcription.txt"],
+}
+
 def SOURCES(ue, rows):
     d = 'https://drive.google.com/file/d/'
     s = [
@@ -438,7 +510,8 @@ def SOURCES(ue, rows):
      ["Rapport du jury du DSCG — session 2021", "Jury national DSCG (MESR)", "2021", link(d + '1Op95l3PKyXaIgv_fjIO_1GZItCaDUKzU/view', 'Drive : Rapport_jury_DSCG_2021.pdf') + ' ; ' + link('https://www.ac-strasbourg.fr/media/15311/download', 'ac-strasbourg')],
      ["Rapport du jury national du DSCG — session 2024", "Jury national DSCG (MESR)", "2025", link('https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2025-03/rapport-du-jury-national-du-dscg---2024-36344.pdf', 'enseignementsup-recherche.gouv.fr') + ' ; ' + link(d + '163LAI9oQuAkTwVgxUHy6yB_mDZcfLttA/view', 'copie Drive')],
      ["Rapport du jury national du DSCG — session 2025", "Jury national DSCG (MESR)", "2026", link('https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2026-03/rapport-du-jury-national-du-dscg---2025-39591.pdf', 'enseignementsup-recherche.gouv.fr') + ' ; ' + link(d + '16PrV4HSQGDYq5aY9_nYwl9-_lsRB2Old/view', 'copie Drive')],
-     ["Arrêté du 13 février 2019 — annexe II (programme DSCG), BO ESR n°25 du 20 juin 2019", "MESR", "2019", link('https://cache.media.education.gouv.fr/file/25/01/7/ensup135_annexe2_1142017.pdf', 'ensup135_annexe2_1142017.pdf') + " (non ouvert : domaine bloqué ; rubriques relevées via Notion)"],
+     ["Arrêté du 13 février 2019 — annexe II (programme DSCG), BO ESR n°25 du 20 juin 2019", "MESR", "2019", link('https://cache.media.education.gouv.fr/file/25/01/7/ensup135_annexe2_1142017.pdf', 'ensup135_annexe2_1142017.pdf') + " (non ouvert : domaine bloqué ; texte relu via la reproduction ci-dessous)"],
+     PROG[ue],
      ["Arrêté du 4 août 2025 réformant les programmes DSCG (application session 2027)", "MESR (BO ESR 28/08/2025)", "2025", "texte officiel non consulté ; " + link('https://www.compta-online.com/reforme-du-dscg-ao8849', 'Compta Online — réforme du DSCG')],
      ["Page Notion « Programme officiel 2026 — couverture et preuves de Sacha »", "Notion (Sacha)", "2026", link('https://app.notion.com/p/3e49f8997e9f813285d6efb00aed4ad1', 'Notion')],
      ["Page Notion « Annales 2020–2025 — Couverture et priorités » (base héritée, index uniquement)", "Notion (Sacha)", "2026", link('https://app.notion.com/p/6129f8997e9f8267a08b81758d44b47c', 'Notion')],
@@ -455,6 +528,8 @@ def SOURCES(ue, rows):
         s += [["Pronostic DSCG UE5 : thèmes récurrents sur 12 sessions (contrôle secondaire)", "Compta Online", "2025-26", link('https://www.compta-online.com/analyse-des-sujets-du-dscg-ue5-management-des-systemes-information-ao4630')],
               ["Notes Drive UE5-01 à UE5-07 (cadrage, matrice, sécurité moderne)", "Sacha (session Claude du 27/08/2026)", "2026", link('https://docs.google.com/document/d/1GPQsrbp1XjcbGl4-jc6M_O_Ao3vcs5SXiu0qLdEjd0I/edit', 'UE5-01 cadrage')],
               ["Cours et fiches UE5 (enseignante), Expert DSCG UE5", "établissement ; éditeur", "—", "/Users/sacha/Documents/DSCG/UE 5 - MSI/ ; Drive « Expert DSCG UE 5.pdf »"]]
+    s.append([f"Éléments indicatifs de corrigé DSCG {ue} sessions 2020-2025 [Corrigé {ue} année]", "Jury national (copies FicheBEN / Drive)", "2020-25",
+              ' ; '.join(link(d + i + '/view', a) for a, i in sorted(CORR[ue].items(), reverse=True)) + (" — UE3 2024 : non disponible (fichier > 10 Mo)" if ue == 'UE3' else '')])
     seen = set()
     anc = sorted({r['annee'] for r in rows if r['y'] < 2020})
     s.append([f"Sujets DSCG {ue} sessions {anc[0]} à {anc[-1]} (ancien programme) [DSCG {ue} {anc[0]}-{anc[-1]}]", "SIEC / MESR (sujets nationaux)", f"{anc[0]}-{anc[-1][2:]}",

@@ -1,0 +1,573 @@
+=== PAGE 1 ===
+- 1 -
+UE2 – FINANCE 
+Durée de l'épreuve : 3 heures - coefficient : 1 
+Document autorisé : Aucun. 
+Matériel autorisé :  
+-
+L’usage de la calculatrice avec mode examen actif est autorisé ;
+-
+L’usage de la calculatrice sans mémoire, « type collège », est autorisé.
+Tout autre matériel est interdit.  
+Document remis au candidat :  
+Le sujet comporte 12 pages numérotées de 1/12 à 12/12 
+Il vous est demandé de vérifier que le sujet est complet dès sa mise à votre disposition. 
+Le sujet se présente sous la forme de 3 dossiers Indépendants. 
+DOSSIER 1 – DIAGNOSTIC FINANCIER (30 points, soit 6/20) 
+DOSSIER 2 – DIAGNOSTIC RSE (RESPONSABILITE SOCIETALE DES ENTREPRISES) (30 points, soit 6/20) 
+DOSSIER 3 – INGENIERIE FINANCIERE (40 points, soit 8/20) 
+Le sujet comporte 12 annexes.  
+DOSSIER 1 
+ANNEXE 1 – Stratégie du groupe. 
+ANNEXE 2 – Etats financiers consolidés au 31/12/2020. 
+ANNEXE 3 – Etats financiers consolidés 2016-2020. 
+ANNEXE 4 – Ratios financiers – Comparaison de sociétés du même secteur au 31/12/20. 
+ANNEXE 5 – Prévisions des résultats Sopra Steria.  
+DOSSIER 2 
+Annexe 6 – Extrait communiqué de presse. 
+Annexe 7 – Sopra Steria reconnu par le CDP avec la note « A » pour ses actions en faveur de l’environnement et 
+du climat, pour la 4ème année consécutive.  
+Annexe 8 – Impact de la cyberattaque et agence de notation.  
+Annexe 9 – Composition du conseil d’administration.  
+Annexe 10 – Répartition de l’actionnariat (extrait du Document d’Enregistrement Universel 2020-DEU) 
+Annexe 11 – Extrait communiqué de presse au 9 avril 2020.  
+Annexe 12 – Dividende proposé au titre de l’exercice 2020.  
+
+=== PAGE 2 ===
+- 3 -
+CAS SOPRA STERIA 
+Sopra Steria Group est né de la fusion en 2014 de Sopra et de Steria. La société est devenue l’un des 
+leaders européens du conseil, des services numériques et de l’édition logiciels. Elle aide ses clients à 
+mener leur transformation digitale à l’aide d’une connaissance approfondie des secteurs d’activité et 
+de technologies innovantes. Avec 46 000 collaborateurs dans près de 30 pays, le Groupe a réalisé un 
+chiffre d’affaires de 4,3 milliards d’euros en 2020. La société est cotée sur le compartiment A d’Euronext 
+et est le membre de l’indice SBF 120.  
+Le cas est constitué de trois dossiers totalement indépendants. 
+DOSSIER 1 – DIAGNOSTIC FINANCIER (6 POINTS) 
+L’activité de Sopra Steria s’organise essentiellement autour de 3 pôles : 
+-
+la prestation de conseil : prestations de conseil stratégique, de conseil dans la mise en œuvre
+de projets de restructuration et d’évolution vers les nouvelles technologies, etc. ;
+-
+l’intégration de solutions et de systèmes : conception et déploiement de solutions en
+technologie Internet (portails, sites marchands, Intranets, Extranets, etc.),  intégration des
+solution ERP, mise en place de solutions applicatives (gestion de la relation client, gestion des
+RH, etc.). Le groupe propose également des solutions de sous-traitance destinées à assurer un
+support technique auprès des utilisateurs et la maintenance des applications ;
+-
+la prestation d’infogérance et exploitation des processus métiers : supervision,
+administration et exploitation des infrastructures informatiques, exploitation des fonctions
+finance, administration, ressources humaines, etc.
+La crise sanitaire a eu globalement un impact positif sur le monde du logiciel, notamment le marché 
+français. En 2020, pour la première fois, les entreprises ont davantage dépensé sur le plan mondial 
+auprès des acteurs du cloud (ou informatique dématérialisée) tels qu’Amazon Web Services ou 
+Microsoft Azure, qu’auprès des fabricants d’équipements et de logiciels (serveurs, routeurs, etc.). En 
+accélérant la digitalisation des échanges et des modes de production, la crise sanitaire a eu un effet 
+positif sur les cent premiers éditeurs de logiciels français. Le cumul des chiffres d’affaires des éditeurs 
+de logiciels français a progressé de 6,6% passant de 10,9 milliards d’euros en 2019 à 11,6 milliards 
+d’euros en 2020. Seuls 33% de ces éditeurs affichent des revenus en recul, bien inférieurs aux 
+prévisions.  
+La répartition géographique du chiffre d’affaires de Sopra Steria est la suivante : France (45,7%), 
+Royaume Uni (20,6%) et Europe (33,7%).  
+À l’aide de vos connaissances et des annexes 1, 2 et 3 qu’il convient de bien lire avant de répondre aux 
+questions, il vous est demandé le travail suivant :  
+
+=== PAGE 3 ===
+- 4 -
+1.
+Calculer le taux de marge opérationnelle, le ROCE (rentabilité des capitaux employés avant
+impôt, en utilisant l’EBIT) et le ROE en 2019 et 2020.
+2020 
+2019 
+EBITDA 
+452,3 
+471,7 
+EBIT 
+205,9 
+283 
+Résultat net consolidé net 
+118,9 
+173,1 
+Taux de marge opérationnelle 2020 : 
+(𝑟é𝑠𝑢𝑙𝑡𝑎𝑡 𝑜𝑝é𝑟𝑎𝑡𝑖𝑜𝑛𝑛𝑒𝑙)
+𝐶𝐴 𝐻𝑇
+202,3
+4262,9 = 4,75% 
+Taux de marge opérationnelle 2019 : 
+283,2
+4434 = 6,39% 
+ROCE 2020 (utilisant EBIT) : 
+(𝐸𝐵𝐼𝑇)
+(𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑  𝑎𝑣𝑒𝑐 𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑 = 𝑎𝑐𝑡𝑖𝑓 é𝑐𝑜𝑛𝑜𝑚𝑖𝑞𝑢𝑒 = 𝐶𝑃 + 𝑒𝑛𝑑𝑒𝑡𝑡𝑒𝑚𝑒𝑛𝑡 𝑛𝑒𝑡)
+=
+205,9
+1445,4 + 743,1 = 9,41% 
+ROCE 2019 (utilisant EBIT) : 
+283 / (1422,2 + 856) = 12,42% 
+ROE 2020 : 
+𝑟é𝑠𝑢𝑙𝑡𝑎𝑡 𝑛𝑒𝑡
+ 𝑐𝑎𝑝𝑖𝑡𝑎𝑢𝑥 𝑝𝑟𝑜𝑝𝑟𝑒𝑠
+= 118,9 
+1445,4 = 8,23% 
+(On utilise le RN consolidé ou celui donné en annexe 3 à savoir 116,3) 
+𝑅𝑂𝐸 2019 : 173,1
+1422,2 = 12,17% 
+
+=== PAGE 4 ===
+- 5 -
+2.
+Calculer le ratio d’endettement (gearing) et la capacité de remboursement (en vous basant
+sur l’EBITDA) en 2019 et 2020. Analyser la structure financière du groupe.
+Eléments utiles au bilan 
+Bilan 
+Actif 
+2020 
+2019 
+Passif 
+2020 
+2019 
+Capitaux 
+propres 
+1445,4 
+1422,2 
+Dette 
+financières 988,6 
+1053,5 
+Equivalents 
+de trésorerie 245,5 
+197,5 
+GEARING 2020 : 
+𝑒𝑛𝑑𝑒𝑡𝑡𝑒𝑚𝑒𝑛𝑡 𝑛𝑒𝑡 / 𝐶𝑃 
+= 743,1
+1445,4
+ = 51,4% 
+GEARING 2019 : 
+856
+1422,2 = 60,19% 
+Capacité de remboursement 2020 (en se basant sur l’EBITDA) : 
+𝑒𝑛𝑑𝑒𝑡𝑡𝑒𝑚𝑒𝑛𝑡 𝑛𝑒𝑡
+𝑒𝑏𝑖𝑡𝑑𝑎
+= 743,1
+452.3 = 1,643 
+Capacité de remboursement 2019 : 
+856
+471,7 = 1,815 
+
+=== PAGE 5 ===
+- 6 -
+Analyse de la structure financière (principaux éléments marquants) 
+•
+Niveau de dette peu élevé (gearing <1)
+•
+Dettes essentiellement à long terme (>75%)
+•
+Capitaux propres beaucoup constitués de réserves -> possible incorporation au capital social
+•
+Capacité de remboursement large, sous contrôle
+3.
+Faire un diagnostic succinct sur l’évolution du groupe entre 2016 et 2020.
+Mesures diverses 
+2020 
+2016 Evol 
+Dettes financières 
+988600 
+771300 
+28,17% 
+Endettement net 
+743100 
+505900 
+46,89% 
+Actif immobilisé 
+2659000 
+2030800 
+30,93% 
+BFR 
+372800 
+847000 
+-55,99%
+Effectif 
+45960 
+39813 
+15,44% 
+CA 
+4262900 
+3741300 
+13,94% 
+EBITDA 
+452300 
+330400 
+36,89% 
+Résultat net 
+116700 
+145000 
+-19,52%
+Capitaux propres 
+1445400 
+1103100 
+31,03% 
+2020 
+2016 
+ROE 
+8,07% 
+13,14% 
+Gearing 
+0,514 
+0,459 
+Capacité de 
+remboursement 1,64 
+1,53 
+
+=== PAGE 6 ===
+- 7 -
+Commentaires sur les éléments les plus notables 
+•
+Evolution du CA +14%, identique à l’effectif.
+•
+EBITDA en nette augmentation, gain de performance.
+•
+Diminution du ROE du fait des charges non courantes.
+•
+Chute du BFR qui peut être expliquée par une chute du délai de paiement des clients et/ou une
+augmentation du délai de paiement des fournisseurs.
+•
+Globalement activité sous contrôle, en constant développement, mais une baisse de la
+rentabilité financière.
+Il s'agit ici des principales idées, mais toute autre idée pertinente pouvait également être abordée. Il ne 
+faut pas oublier non plus de mettre en forme la réponse sous forme de 2 ou 3 paragraphes 
+thématiques. 
+4.
+Que pensez-vous de Sopra Steria Group en comparaison aux sociétés de son secteur
+d’activité au 31/12/2020 ?
+L’objectif ici est de comparer les ratios que nous avons calculés avec les principaux ratios du secteur 
+d'activité afin de positionner le groupe vis-à-vis de ses concurrents. 
+Éléments notables : 
+•
+ROE : légèrement inférieur mais comparable.
+•
+ROCE : idem.
+•
+Gearing : parmi les plus élevés, du fait d’une dette financière nette positive.
+•
+Part des CP au bilan un peu inférieure aux concurrents.
+Donc globalement les performances du groupe semblent relativement comparables, voire légèrement 
+inférieures aux concurrents en moyenne du fait de charges financières plus élevées qui pèsent sur la 
+rentabilité financière du groupe.   
+
+=== PAGE 7 ===
+- 8 -
+DOSSIER 2 – DIAGNOSTIC RSE (RESPONSABILITE SOCIETALE DES ENTREPRISES) (6 POINTS) 
+Sopra Steria place l’humain au centre de son action et s’engage auprès de ses clients à tirer le meilleur 
+parti du digital pour construire un avenir positif. À l’aide de vos connaissances et des annexes 6 à 12, il 
+vous est demandé le travail suivant :  
+1.
+Définir les critères ESG. Donner au moins un exemple précis d’un critère E, d’un critère S et
+d’un critère G1.
+Ce sigle international est utilisé par la communauté financière pour désigner les critères 
+Environnementaux, Sociaux et de Gouvernance (ESG) qui constituent généralement les trois piliers de 
+l'analyse extra-financière. Ils sont pris en compte dans la gestion socialement responsable. Grâce aux 
+critères ESG, on peut évaluer l’exercice de la responsabilité des entreprises vis-à-vis de l’environnement 
+et de leurs parties prenantes (salariés, partenaires, sous-traitants et clients). 
+•
+Le critère environnemental tient compte de : la gestion des déchets, la réduction des émissions
+de gaz à effet de serre et la prévention des risques environnementaux.
+•
+Le critère social prend en compte : la prévention des accidents, la formation du personnel, le
+respect du droit des employés, la chaine de sous-traitance (supply chain) et le dialogue social.
+•
+Le critère de gouvernance vérifie : l’indépendance du conseil d’administration, la structure de
+gestion et la présence d’un comité de vérification des comptes.
+Il est nécessaire dans une stratégie de développement durable et d’investissement responsable de 
+relier la performance financière d’une entreprise à son impact environnemental et social. 
+2.
+Que pensez-vous du communiqué de presse du 7 octobre 2021 de Sopra Steria (annexe 6) ?
+Rappeler ce qu’est une déclaration de diagnostic de performance extra-financière.
+La Déclaration de Performance Extra-Financière (dite "DPEF") est un document par l'intermédiaire 
+duquel une entreprise détaille les implications sociales, environnementales et sociétales de sa 
+performance et de ses activités, ainsi que son mode de gouvernance. 
+Conformément aux articles L. 225-102-1, et R. 225-104 à R. 225-105-2 (2017) du code de commerce, les 
+entreprises doivent réaliser une déclaration annuelle de performance extra-financière (DPEF). 
+Celle-ci doit comporter : 
+•
+Une description des risques liés à l'activité de l'entreprise ;
+1 https://www.novethic.fr/lexique/detail/esg.html 
+
+=== PAGE 8 ===
+- 9 -
+•
+Une description des politiques mises en place pour "prévenir, identifier et atténuer la
+survenance de ces risques" ;
+•
+Les résultats de ces dernières (appuyés par des indicateurs clés de performance (ou "ICP")).
+Qui est concerné ? 
+Dans certains cas, la DPEF est obligatoire. Les entreprises concernées sont les suivantes : 
+•
+Les sociétés cotées, dotées d'un effectif supérieur à 500 employés et dont le bilan s'avère
+supérieur à 20 millions d’euros, ou dont le chiffre d’affaires s'avère supérieur à 40 millions
+d'euros ;
+•
+Les entreprises non cotées, dotées d'un effectif moyen de 500 employés, dont le bilan ou le
+chiffre d'affaires excède 100 millions d’euros.
+Il est difficile de décrire précisément l'effet du communiqué de presse, mais on peut l'imaginer assez 
+limitée dans la mesure où il n'y a que peu d'éléments de contexte fournis dans le document, et que 
+d'autre part les prix qui sont mentionnés et remportés par le groupe portent essentiellement sur des 
+points de détail et ne permettent pas de donner une image globale des performances 
+environnementales de l'entreprise. 
+On peut cependant imaginer que l’effet global est positif, en renforçant le prestige et la réputation de 
+l'entreprise auprès des consommateurs. 
+3.
+A l’aide de l’annexe 7, que signifie l’acronyme CDP ? Quelle est la mission du CDP2 ?
+CDP : Le CDP, anciennement Carbon Disclosure Project est une organisation à but non lucratif qui a 
+récolté les données d’entreprises à l’échelle internationale pour évaluer leur impact sur 
+l’environnement. 
+Le CDP est une organisation internationale à but non lucratif qui gère l’une des plus grandes bases de 
+données environnementales au monde. Il encourage les investisseurs, les entreprises, les États et les 
+régions à mesurer leur impact pour ensuite agir de manière concrète. C’est leur impact global sur 
+l’environnement qui est calculé grâce à leurs réponses aux différents questionnaires du CDP. 
+Le CDP mesure l’impact de l’organisme sur 3 pôles différents : 
+•
+Le climat ;
+•
+L’eau ;
+•
+Les forêts.
+La CDP s’appuie sur le Level of Engagement Score, une note donnée entre A et D, qui témoigne des 
+actions mises en place et de l’impact global des organismes.  
+2 https://www.greenly.earth/blog-fr/cdp-carbon-disclosure-project 
+
+=== PAGE 9 ===
+- 10 -
+Ce score d’engagement se base sur 4 critères qui témoignent des différents stades de prise de 
+conscience :  
+•
+Le leadership (A)
+•
+Le management, ou “gestion” en français (B)
+•
+L’awareness, ou “sensibilisation” (C)
+•
+Le disclosure, ou “divulgation” (D)
+4.
+A l’aide de l’annexe 8, commenter deux des axes de la stratégie de responsabilité sociale de
+Sopra Steria.
+Axe 1 : protection des données individuelles 
+La question de la protection des données individuelles se pose avec de plus en plus d'acuité dans la 
+mesure où de nombreuses entreprises n'ont pas suffisamment verrouillé leur base de données et se 
+font régulièrement voler les données de leurs clients, ce qui porte atteinte d'une part à la protection 
+des données individuelles, et d'autre part expose les clients à de potentielles fraudes. 
+Axe 2 : protection de l’emploi 
+Dans des économies développées caractérisées par un taux de chômage entre 6% et 12%, la question 
+de la protection de l'emploi face aux menaces de délocalisation se pose autant à l'échelle nationale 
+pour le gouvernement l'échelle locale pour chaque entreprise. Dans le cadre d'une politique RSE, 
+chaque entreprise doit donc s'efforcer de préserver au maximum les emplois sauf quand bien sûr elles 
+ne peuvent faire autrement. Cela signifie que la question de la rentabilité financière doit être 
+contrebalancée par la nécessité de préserver l'emploi. 
+5.
+La gouvernance de Sopra Steria (annexes 9, 10, 11 et 12)
+5.1 La composition du conseil d’administration de Sopra Steria respecte-t-elle les codes
+de bonne gouvernance ?
+La parité n'est pas respectée puisqu'elle devrait être théoriquement de 50% d'hommes et 50% de 
+femmes, même si le Conseil d'administration n'en est actuellement pas très éloigné. 
+Les salariés sont globalement peu représentés puisqu'ils n'ont que 2 représentants parmi les 14 
+membres. 
+La majeure partie des membres (2/3) sont présentés comme indépendants ce qui signifie qu'ils sont 
+théoriquement libres de tout conflit d'intérêts donc libres de voter ou de ne pas voter les décisions du 
+Conseil d'administration. Cela signifie à contrario que plus d'un tiers des membres peuvent être 
+concernés par des problèmes de conflit d'intérêt. 
+
+=== PAGE 10 ===
+- 11 -
+Le code Afep-Medef3 décrit des principes de bonne gouvernance à mettre en œuvre dans les 
+entreprises cotées en toute transparence. Ils visent à optimiser le fonctionnement et la gestion de ces 
+sociétés à travers les conseils d’administration et de surveillance. 
+Règles relatives à la composition du conseil d’adminsitration 
+Hommes/femmes 
+Chaque conseil s’interroge sur l’équilibre souhaitable de sa composition et de celle des comités qu’il 
+constitue en son sein, notamment en termes de diversité (représentation des femmes et des 
+hommes, nationalités, âge, qualifications et expériences professionnelles…). Il rend public dans le 
+rapport sur le gouvernement d’entreprise une description de la politique de diversité appliquée aux 
+membres du conseil d’administration ainsi qu’une description des objectifs de cette politique, de ses 
+modalités de mise en œuvre et des résultats obtenus au cours de l’exercice écoulé. 
+Représentants des salariés 
+Les administrateurs représentant les actionnaires salariés et les administrateurs représentant les 
+salariés ont, au même titre que les autres administrateurs, voix délibérative au conseil d’administration, 
+instance collégiale, à qui s’impose l’obligation d’agir en toute circonstance dans l’intérêt social de 
+l’entreprise. Comme tout administrateur, ils peuvent être désignés par le conseil pour participer à des 
+comités. 
+Administrateurs indépendants 
+La qualité du conseil d’administration ne saurait se résumer en un pourcentage d’administrateurs 
+indépendants, les administrateurs devant être avant tout intègres, compétents, actifs, présents et 
+impliqués, même s’il est important d'avoir au sein du conseil d’administration une proportion 
+significative d’administrateurs indépendants qui non seulement répond à une attente du marché, mais 
+est également de nature à améliorer la qualité des délibérations. 
+La part des administrateurs indépendants doit être de la moitié des membres du conseil dans les 
+sociétés au capital dispersé et dépourvues d’actionnaires de contrôle. Dans les sociétés contrôlées, la 
+part des administrateurs indépendants doit être d’au moins un tiers. Les administrateurs représentant 
+les actionnaires salariés ainsi que les administrateurs représentant les salariés ne sont pas 
+comptabilisés pour établir ces pourcentages. 
+En conclusion les recommandations semblent respectées, en particulier les seuils explicites définis par 
+le code. 
+3 https://afep.com/wp-content/uploads/2020/01/Code-Afep_Medef-r%C3%A9vision-janvier-2020_-002.pdf 
+
+=== PAGE 11 ===
+- 12 -
+5.2 En observant la structure actionnariale de Sopra Steria, expliquer pourquoi les intérêts 
+des parties peuvent diverger du point de vue de la théorie de l’agence (Jensen et Meckling, 
+1976). 
+Rappelons que cette théorie repose sur la distinction entre un principal et un agent dont les intérêts 
+peuvent potentiellement diverger, et qui se trouvent néanmoins dans une position telle qu'ils doivent 
+contractualiser leur relation. 
+L'enjeu pour le principal est de rédiger un contrat dont les closes permettront de faire en sorte de 
+s'assurer que l'agent agisse la plupart des cas dans l'intérêt du principal. 
+Le capital de la société est ici essentiellement constitué de 3 principaux actionnaires et d'une faible part 
+de capital flottant. Selon la théorie de l'agence, leurs intérêts peuvent diverger en supposant qu'ils 
+puissent se résumer succinctement de la manière suivante : 
+-
+L'actionnariat contrôlé pour le compte des salariés à plutôt comme intérêt la maximisation de la
+valeur financière du groupe puisque cela améliore les montants de l'épargne salariale des
+salariés ;
+-
+Les investisseurs institutionnels français recherchent davantage la capacité de contrôle lorsqu'il
+s'agit d'actifs stratégiques comme c'est le cas ici ;
+-
+Les investisseurs institutionnels étrangers recherchent avant tout l'accès à des données relatives
+aux actifs stratégiques dans le cadre par exemple de partenariat de recherche et
+développement ;
+-
+Les actionnaires individuels cherchent plutôt la maximisation de la valeur de l'entreprise qui
+permet de maximiser le rendement de leur épargne
+On constate donc que l'on peut résumer ces parties prenantes à 2 groupes principaux : le groupe 
+davantage intéressé par la rentabilité financière et un autre groupe davantage intéressé par le 
+développement industriel et la détention d'actifs stratégiques. Or, ce développement peut supposer 
+des investissements coûteux, pas toujours rentables, ce qui s'oppose potentiellement à l'intérêt des 
+groupes recherchant la maximisation financière. 
+5.3 Rappeler le rôle de la politique de dividendes pour une société cotée en Bourse. 
+On appelle politique de dividende l'ensemble des choix effectués par une entreprise en termes de taux 
+de distribution de dividendes annuel et de l'évolution de ce taux. On peut résumer grossièrement en 
+disant qu'un faible taux de dividende permet de conserver un maximum de bénéfices en réserve pour 
+financer le développement de l'entité, tandis qu'une augmentation de ce taux permet d'attirer 
+davantage d'actionnaires mais pèse sur les capacités de développement à long terme. 
+
+=== PAGE 12 ===
+- 13 -
+5.4 Commenter le positionnement en 2020 de la direction de Sopra Steria concernant la non-
+distribution de dividendes. Qu’en est-il pour l’année 2021 ? 
+La crise sanitaire rencontrée au début de l'année 2020 a plongé les groupes comme celui qui nous 
+concerne dans une situation de grande incertitude quant aux flux de revenus à venir. C'est pourquoi le 
+groupe a choisi la stratégie de la prudence en ne distribuant pas de dividendes au titre de l'exercice 
+2019, quitte à en distribuer éventuellement davantage au titre de l'exercice 2020 ou 2021 si la situation 
+venait à s'améliorer. 
+La stratégie de prudence permet donc au groupe de conserver davantage de liquidités ce qui lui 
+permettrait de faire face à une baisse significative de ses ventes donc de ses flux de revenus. 
+
+=== PAGE 13 ===
+- 14 -
+DOSSIER 3 – INGENIERIE FINANCIERE (8 POINTS) 
+Sopra Steria Group est l’un des acteurs les mieux positionnés sur les segments prometteurs du « cloud computing » 
+(nuage informatique) et du big data (gestion des volumes de données), ainsi que dans les projets de cybersécurité. 
+Pour cela, elle a intégré deux acquisitions qu’elle avait préalablement fait fusionner : EEGS Design et EVA Group. 
+Ainsi, il a été demandé aux dirigeants des sociétés EEGS Design et EVA Group de s’entendre pour opérer un 
+rapprochement en amont entre les deux sociétés.  
+Le bénéfice net du nouveau groupe fusionné avant l’acquisition par Sopra Steria est estimé à 110% de la somme 
+des bénéfices des deux sociétés du fait des gains en synergie. 
+Le capital de la société EEGS Design est composé de 500 000 actions, celui de la société EVA Group de 200 000 
+actions. Le bénéfice de la société EEGS Design s’élève à 3 300 000 €, celui-de la société EVA Group à 1 920 000 €. 
+Le cours en Bourse de l’action EEGS Design s’établit à 35 €, celui de l’action EVA Group à 88 €.  
+Concernant le montage, il est convenu que la société EEGS Design lancera une offre publique d’échange (OPE) 
+amicale sur les titres de la société EVA Group : cinq actions EEGS Design seront créées pour deux actions EVA 
+Group apportées (on supposera un taux de réponse de 100%).  
+Il est également entendu que cette parité doit représenter une prime d’échange de 25% pour les actionnaires de 
+la société cible EVA Group. C’est pourquoi préalablement à tout échange de titres, la société EVA Group distribuera 
+à ses actionnaires un dividende exceptionnel pour obtenir la parité et la prime d’échange souhaitées (sa situation 
+de trésorerie est suffisante pour garantir le versement de la somme totale).  
+1.
+Calculer le cours de la société EVA Group nécessaire pour obtenir une prime d’échange de 25%
+souhaitée par les actionnaires de EVA Group. Montrer que le cours doit être égal à 70€.
+EEGS 
+EVA 
+ Bénéfices 
+3 300 000,00 € 1 920 000,00 € 
+Capital 
+500 000 
+200 000 
+Cours bourse 
+35,00 € 
+88,00 € 
+Parité 
+5/2 
+Prime 
+25% 
+EEGS va émettre : 
+5
+2 ∗ 200 000 = 500 000  𝑛𝑜𝑢𝑣𝑒𝑙𝑙𝑒𝑠 𝑎𝑐𝑡𝑖𝑜𝑛𝑠. 
+
+=== PAGE 14 ===
+- 15 -
+On calcule le cours cible d’EVA en tenant compte de la parité et de la prime : 
+5 ∗𝐸𝐸𝐺𝑆
+2 ∗𝐸𝑉𝐴= 1.25 
+Puisque EEGS = 35€, cela donne : 
+ 5 ∗35
+2 ∗1.25 = 𝐸𝑉𝐴→𝐸𝑉𝐴= 70€ 
+2.
+Indiquer le lien existant entre dividende et cours d’une action et calculer le dividende exceptionnel
+versé aux actionnaires de la société EVA Group.
+Lorsqu’un dividende exceptionnel est versé, cela fait diminuer le cours de Bourse de la société car cela 
+fait d’autant diminuer la valeur boursière de l’entité. Donc si une action vaut 100€ et qu’un dividende 
+exceptionnel de 10€ est versé, elle vaudra 90€ juste après ce versement.  
+Pour cette entreprise, il faudra donc verser un dividende exceptionnel de 88-70 = 18€ par action. 
+3.
+Montrer que la valeur de l’action EEGS Design après l’OPE sera de 31,50€ compte tenu de la prime
+d’échange exigée.
+On calcule la nouvelle valeur mathématique des actions : 
+Nombre d’actions 
+Valeur unitaire 
+Valeur totale 
+500 000 (anciennes) 
+35 
+17 500 000 
+500 000 (nouvelles) 
+14 000 000 = 70*200 000 
+1 000 000 (total) 
+31.50 = 31 500 000/ 1 000 
+000 
+31 500 000 = 17 500 000+ 
+14 000 000 
+4.
+Indiquer l’impact de l’OPE sur la situation des actionnaires des deux sociétés EEGS Design et EVA
+Group en montrant le transfert de richesse au profit des actionnaires de la société EVA Group.
+Calcul des transferts de richesse : 
+Appauvrissement actionnaires EEGS : 
+500 000 ∗(31.50 −35) = −1 750 000 
+Enrichissement actionnaire EVA : 
+500 000 ∗31.50 −14 000 000 = 1 750 000 
+
+=== PAGE 15 ===
+- 16 -
+Ce raisonnement ne tient cependant pas compte de l’effet dilutif pour les actionnaires d’EEGS, qui est 
+demandé après.  
+5.
+Justifier les motivations de l’opération en précisant ce que sont les gains de synergie recherchés dans
+une opération de regroupement.
+Le rapprochement des 2 groupes permet de générer des synergies, c'est-à-dire des gains de 
+performance qui peuvent s'expliquer par le fait que certaines activités peuvent être mises en commun 
+(négociation commerciale, recherche et développement, etc.). 
+Les économies réalisées sur les coûts de même que la mise en commun des compétences permettront 
+à chacun des 2 groupes de réaliser des gains de performance par rapport à la situation actuelle. 
+6.
+Calculer les effets dilutif et/ou relutif sur les BPA (bénéfices par action) des actions EEGS et Eva Group.
+EEGS 
+EVA 
+Total avant 
+acquisition 
+Bénéfices nets 
+3 300 000,00 € 1 920 000,00 € 
+5 742 000,00 € 
+Capital 
+500000 
+200000 
+1000000 
+BNPA 
+6,60 € 
+9,60 € 
+5,74 € 
+On a donc une diminution du BNPA pour les deux groupes actionnaires (effet dilutif). 

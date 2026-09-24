@@ -1,0 +1,320 @@
+=== PAGE 1 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 1 / 6 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+SESSION 2021 
+Éléments indicatifs de corrigé 
+FICHEBEN 
+
+=== PAGE 2 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 2 / 6 
+DOSSIER 1 – SCHÉMA DIRECTEUR DU SYSTÈME D’INFORMATION 
+Q1 : Vous décrirez simplement 2 types d'organisations SI possibles pour supporter la future 
+Direction des Systèmes d’information en cohérence avec le contexte. 
+Les organisations les plus communes pour répondre au contexte de l'énoncé sont : 
+- 
+Un système d’Information fusionné entre les 3 organismes. Cela consiste à centraliser les 
+éléments du système d’information sur 1 site. Ces éléments sont principalement la fourniture des 
+services comme l’infrastructure, les progiciels et les membres de la DSI. Il faudra alors choisir 1 
+organisme qui héberge cette organisation et interconnecter le réseau vers le « siège » de la DSI. 
+Le projet de fusion consistera alors à sélectionner et à regrouper les solutions au sein d’un même 
+Système d’Information. 
+- 
+Un Système d’Information divisé entre les 3 organismes. Cela consiste à conserver une Direction 
+des Systèmes d’Information répartie entre les 3 organismes, mais avec un Système d’Information 
+unique. Les infrastructures restent interconnectées, les membres de la DSI ne sont pas 
+obligatoirement regroupés, mais les fournitures de services sont partiellement fusionnées 
+(certains outils métiers seront regroupés obligatoirement, d’autres pourront rester séparés comme 
+par exemple des serveurs d’impression). 
+- 
+Un Système d’Information indépendant entre les 3 organismes. Cela consiste à conserver des 
+Systèmes d’Information séparés entre les organismes. En effet, la loi Elan permet le 
+regroupement des organismes au sein d’une SAC et pas obligatoirement une fusion (cf. intitulé 
+du sujet). Chaque DSI reste alors indépendant et un service complémentaire de « reporting 
+groupe » peut être mis en œuvre au sein de la SAC pour les aspects réglementaires.      
+- 
+Un système d’information externalisé. Il peut être externalisé auprès d’un prestataire externe ou 
+d’un CSP : Centre de Service Partagé. Cette organisation permet de se libérer de certaines 
+contraintes d’investissement, car elle pourrait se matérialiser par du SaaS. Il oblige cependant à 
+une réorganisation profonde des membres de la DSI avec de nouveaux rôles plus axés sur la 
+« consommation des services ». Le Système d’information reste unique, un projet de fusion des 
+SI est donc nécessaire. Le choix d’un Centre de Service partagé pourrait être une solution qui 
+apporte des synergies avec d’autres bailleurs nationaux. Le choix de l’externalisation pourrait être 
+une solution de s’affranchir de l’infrastructure nécessaire au Système d’Information. 
+ 
+Q2 : Après avoir rappelé la définition d’un schéma directeur (SD), il vous est demandé d'établir 
+un schéma directeur de cette transformation dans un des cas présentés à la question 1. 
+Le schéma directeur du Système d’Information est un document de synthèse qui définit le Système 
+d’information actuel, le Système d’information cible, et les transformations à opérer pour répondre 
+aux objectifs fixés. Il est établi par la Direction informatique et validé par la Direction Générale. Il doit 
+permettre l’alignement de la stratégie du Système d’Information sur la stratégie de l’organisation. Un 
+Schéma directeur est nécessaire quand la DSI opère une transformation significative de son 
+organisation ou des composants internes de son SI. 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 3 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 3 / 6 
+Le schéma directeur ci-après appréhende les scénarios de transformation de la question 1 
+ 
+Phase 1 
+Phase 2 
+Phase 3 
+Phase 4 
+Période 
+3 mois 
+3 mois 
+4 mois 
+2 mois 
+Situation 
+SI Actuel 
+indépendant 
+Projet de transformation 
+Préparation à la bascule 
+vers le nouveau SI 
+Objectifs 
+Cadrage et démarrage 
+du projet 
+Choix des prestataires 
+et fournisseurs 
+Validation des 
+budgets 
+Audit des SI actuel 
+Définition des 
+besoins et des 
+fonctionnalités du 
+nouveau SI 
+Commande des 
+infrastructures ou des 
+services 
+Modélisation 
+(Design) du nouveau 
+SI 
+Paramétrage des 
+solutions 
+Recette technique 
+Recette fonctionnelle et 
+métier 
+Run à blanc de la bascule 
+Go/NoGo de la bascule 
+vers le nouveau SI 
+Acteurs 
+Les 3 DSI 
+L’équipe projet 
+L’équipe projet 
+L’équipe projet et 
+utilisateurs clés 
+Livrables 
+PAQ (Plan 
+d’assurance Qualité) 
+Présentation du projet 
+et réunion de 
+lancement 
+Contractualisation 
+avec les acteurs 
+externes 
+Bilan et synthèse des 
+audits 
+Cahier de 
+spécification 
+fonctionnelle 
+Contractualisation 
+pour l’acquisition des 
+produits et services 
+Installation des 
+nouvelles 
+infrastructures 
+Définition de la 
+nouvelle organisation 
+Paramétrage des 
+solutions du nouveau 
+SI 
+PV de recette (Validation 
+d’Aptitude) 
+Synthèse et validation du 
+Storyboard de bascule 
+Compte-rendu de la 
+bascule 
+ 
+Q3 : Vous proposerez deux 2 indicateurs de coût du Système d’Information que vous définirez 
+et caractériserez simplement. 
+- 
+Le « Coût des infrastructures SI » en € par période évalue le coût (interne ou externe) de la 
+fourniture d’infrastructure (serveurs, poste informatique, imprimante, réseaux, etc.) avec 
+également le coût récurrent de remplacement des infrastructures du SI en € par période. 
+- 
+Le « Coût de la maintenance du SI » en € par année évalue les montants de maintenance interne 
+et externe avec également celui des différents éditeurs et entreprises de services numériques 
+(ESN) qui facturent une maintenance évolutive et corrective. 
+- 
+Les « Coûts de disponibilité » peuvent être évalués en fonction du coût de perte de service sur 
+une période (à l’heure par exemple) ou du coût de garantie de disponibilité des services du 
+prestataire avant pénalité (en € par période). Il peut aussi représenter le coût du PCA/PRA (Plan 
+de Continuité/Reprise d’Activité) pour améliorer le taux de disponibilité du SI. 
+- 
+Les « Ressources humaines liées à la DSI » peuvent être évaluées en ETP (Equivalent Temps 
+Plein) par valeur moyenne de coût ou en € par année. Ce coût spécifique rassemble le coût de 
+l’ensemble des collaborateurs internes ou externes de la DSI. 
+- 
+Le coût de « Valorisation du SI » est l'estimation en € de la valeur du SI et peut être approximé 
+par le coût de remplacement total du Système d’Information en cas de sinistre. 
+- 
+La « Valeur d’amortissement du SI » en € par année ou en % de la valorisation du SI est la valeur 
+amortissable du SI c'est-à-dire celle qui est déduite dans le bilan annuellement. 
+- 
+A titre plutôt anecdotique, il est possible aussi de proposer le coût « d'opportunité du SI » c'est-à-
+dire le coût approximé par la substitution d'un produit ou d'un service par un autre et donc ici c'est 
+ce que vous auriez pu gagner en faisant un autre choix que le montant d'acquisition et 
+d'exploitation du SI (si le SI sur site « coûte » 1000 et qu’un SI équivalent, mais externalisé 
+« coûte » 800 alors le cout d'opportunité du SI sur site est de 200). 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 4 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 4 / 6 
+DOSSIER 2 – CADRAGE DU PROJET 
+Q4 : Vous définissez dans le contexte du projet de transformation un facteur clé de succès et 
+un risque identifié distinct. 
+Chaque élément ci-dessous peut être présenté comme un risque ou un facteur clé de succès en 
+fonction de la réponse du candidat. 
+- 
+Analyse et audit correctement menés : les analyses et les audits sont la base d’une bonne 
+définition du projet et d’identification des différentes transformations à mener au sein de la DSI. 
+- 
+Coopération des différentes DSI existantes : une bonne coopération est indispensable pour 
+travailler ensemble dans la nouvelle DSI. 
+- 
+Choix de la solution progiciel pour le nouveau SI : le choix de la solution doit remporter l’adhésion 
+des utilisateurs et permettre de fournir les services requis à la nouvelle organisation. 
+- 
+Qualité de prestation des intervenants : choix des membres du projet en fonction de leurs 
+expériences et compétences pour mener à bien ce projet. C’est aussi le choix des prestataires et 
+des fournisseurs de services du SI pour leur expérience et leur pertinence à répondre aux 
+nouveaux enjeux. 
+- 
+Coopération des utilisateurs : adhésion des utilisateurs finaux à la nouvelle organisation et aux 
+choix de la DSI sur les solutions métiers. C’est aussi la définition des nouveaux rôles dans la 
+gouvernance de la nouvelle DSI. 
+- 
+Respect du planning : le planning est avant tout réglementaire avec la date limite du 1er janvier 
+2021 pour la nouvelle organisation. Le planning projet doit aussi permettre d’éviter une coupure 
+de service dans la transformation. 
+- 
+Périmètre des tests : les tests doivent être pertinents sur les différentes fonctionnalités exploitées 
+par le métier et couvrir les grands domaines de la recette d’un projet informatique comme les 
+tests techniques ou unitaires, les tests d’intégration ou fonctionnels et les tests utilisateurs ou 
+métiers. 
+ 
+Q5 : Vous présenterez 2 méthodes de conduite de projet de votre choix, vous expliquerez 
+dans quelles mesures elles vous semblent ici adaptées à cette transformation ? 
+- 
+Méthode traditionnelle, cycle en V : c’est une méthode de projet qui enchainera analyse, 
+paramétrage, recette et mise en production. Elle est recommandée, car il y a 1 date de mise 
+en production et une équipe projet limitée auprès des organismes. Elle permet de planifier 
+efficacement le projet. 
+- 
+Méthode agile : c’est une méthode de projet itérative qui construit le nouveau SI avec 
+plusieurs mises en production successives. Elle n’est pas recommandée, car il y a peu de 
+disponibilité auprès des acteurs du projet ou des utilisateurs finaux qui doivent assurer 
+l’opérationnel. De plus, des mises en production partielle ne sont pas exploitables par les 
+utilisateurs qui sont dans un grand changement organisationnel. 
+- 
+Méthode adaptative et agile : c’est une méthode agile à utiliser quand la situation finale et les 
+différentes variables ne sont pas connues au début du projet. Elle permet de faire « au 
+mieux » avec les ressources, le budget disponible qui est variable dans le temps. Ce n’est pas 
+le cas dans cette transformation et cette méthode augmentera le risque et le coût du projet. 
+- 
+Méthode du chemin critique : c’est une méthode de gestion de projet qui se concentre sur les 
+tâches obligatoires et non déplaçables au sein du projet pour mutualiser un maximum de 
+tâches simultanément et pouvant être réalisées en parallèle pour limiter le risque. Elle n’est 
+pas recommandée, car dans notre contexte les ressources sont limitées et peu d’action peut 
+être faite simultanément. Il y a de plus une dépendance forte entre les tâches. 
+FICHEBEN 
+
+=== PAGE 5 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 5 / 6 
+- 
+Méthode Prince 2 : c’est une méthode de projet qui met l’accent sur l’organisation et les 
+livrables propres à la gestion. Elle est adaptée au très grand projet ou aux grandes 
+organisations, ce n’est pas le cas ici, elle ne respecterait pas l’organisation et le budget. 
+- 
+Méthode Lean management : c’est une méthode de gestion de projet qui vient du secteur 
+industriel et de la supply chain et qui met l’accent sur l’élimination des tâches à faible valeur 
+ajoutée et permet l’amélioration de l’efficience. Non adapté au secteur d’activité ici présent. 
+ 
+Q6 : Vous tracerez un diagramme de Gantt type d’un projet en 5 tâches et 40 semaines. 
+Voici un exemple typique de diagramme de Gantt respectant les 5 tâches usuelles d'un projet de 
+transformation numérique (conception, développement, paramétrage, test, déploiement)  avec une 
+graduation en semaines et des tâches 4 et 5 qui débutent simultanément, mais qui auraient pu tout 
+aussi bien être successives. 
+ 
+ 
+ 
+FICHEBEN 
+
+=== PAGE 6 ===
+21DSCG-UE5 
+Management des systèmes d’information CORRIGÉ 
+Page 6 / 6 
+DOSSIER 3 – SYSTÈME D’INFORMATION ACHATS 
+Q7 : Quelles sont les obligations légales de conservation des factures dans le SI Achat ? 
+L'administration demande de conserver durant 10 ans des documents de type factures avec les 
+pièces jointes qui les documentent, mais il est aussi recommandé de conserver l’exercice complet de 
+la 10e année.  
+ 
+Q8 : Quels sont les processus informatiques de traitement d’une facture après la saisie de 
+son entête dans un système d’information comptable ?  
+Il s'agit ici d'aborder la notion de Workflow de validation de la facture ce qui permet de la rapprocher 
+à son engagement ou de lui faire suivre un cycle de validation. Le processus doit aboutir à l'obtention 
+d'un « Bon à Payer ».  
+OU Le candidat peut aussi aborder la notion de cycle de paiement du fournisseur. 
+OU Le candidat peut proposer la notion d’enregistrement en comptabilité générale/comptabilité 
+analytique.  
+ 
+Q9 : Peut-on détruire l’original papier après numérisation d’une facture réceptionnée papier et 
+son enregistrement en comptabilité ? Argumenter la réponse.  
+Il s'agit ici d'aborder la valeur d'un document numérique par rapport à un document papier. La 
+destruction est désormais possible en effet à la condition que l’on puisse reproduire la facture en cas 
+de demande et sans en altérer sa valeur probante. Ceci signifie que les paramètres et outils de 
+numérisation ne doivent pas altérer la lisibilité du document ni en supprimer des éléments essentiels 
+comme les notes de bas de pages par exemple. Le correcteur acceptera aussi une réponse faisant 
+référence à la piste d’audit fiable ou qui évoque le certificat RGS 1 étoile dit « copie fiable ».  
+ 
+Q10 : Dans le cadre du RGPD y a-t-il une restriction particulière sur le traitement d’une facture 
+d’achat ? Argumenter la réponse. 
+Depuis mai 2018, le RGPD considère que, dès lors que le propriétaire des données sensibles est 
+informé et que les dispositions du RGPD sont respectées, il n'y a pas de problème à disposer des 
+données personnelles liées aux fournisseurs (noms, adresses, email, etc.) dès lors qu'elles sont 
+indispensables à la constitution et au traitement de la facture achat dans le cadre de l’exercice du 
+contrat.  
+ 
+Q11 : Quelles sont les améliorations recommandées sur le SI Achat pour conserver un service 
+opérationnel dans un contexte d’épidémie comme le Covid19 ? 
+Il sera ici attendu une réponse qui préconisera d'une part d'améliorer, de simplifier et de sécuriser 
+l'accès aux données achats numérisés par exemple en déployant des outils type GED (gestion 
+électronique des documents) avec des solutions hybrides qui seront déployées sur site (local) et/ou à 
+distance (cloud computing/informatique en nuage). Il faudra insister, notamment dans le cas d'une 
+solution externalisée, sur l'impératif de concevoir et rédiger d'un plan de continuité d'activité (PCA) 
+et/ou d'un plan de reprise d'activité (PRA) qui ne se substitueront pas – il faut bien le souligner -  à la  
+prudente vérification à la fois de la fiabilité du fournisseur cloud  en cas de sinistre – l'incendie d'un 
+des 4 datacenter strasbourgeois de OVH-Cloud le 10 mars 2021 peut être évoqué comme un risque 
+opérationnel significatif à envisager – ou de faillite voire de malveillance ou incompétence afin de 
+prévoir la réversibilité de l'externalisation et la récupération des données (back up, sauvegarde, etc.). 
+Une réponse sur la notion d’accès sécurisé au SI de l’entreprise avec l’usage de VPN est aussi une 
+réponse pertinente. Enfin l’utilisation d’outil de communication est aussi un complément de réponse 
+correcte. 
+FICHEBEN 

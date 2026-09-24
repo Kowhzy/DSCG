@@ -1,0 +1,2504 @@
+{
+ "ue": "UE2",
+ "genere_le": "2026-09-24",
+ "consignes_agent": [
+  "L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.",
+  "Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).",
+  "Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.",
+  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
+  "Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.",
+  "Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.",
+  "Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027."
+ ],
+ "epreuve": "Écrit de 3 heures, coefficient 1 ; calculatrice en mode examen autorisée ; 3 dossiers indépendants depuis 2020 (sujets 2023-2024 notés sur 20, 2025 sur 50) [DSCG UE2 2023-2025, page de garde]. Date 2026 : non vérifiée dans les sources consultées.",
+ "reference_programme": "Annexe II de l'arrêté du 13 février 2019 (BO ESR n°25 du 20 juin 2019), UE2 Finance, p. 6-10 de l'annexe",
+ "methode_ipr": {
+  "ponderations": {
+   "f_hist": 15,
+   "f_cur": 20,
+   "f_rec": 10,
+   "poids": 10,
+   "jury": 15,
+   "diff": 10,
+   "transv": 10,
+   "bo": 5,
+   "gap": 5
+  },
+  "seuils": {
+   "PRIORITÉ MAXIMALE": 60,
+   "PRIORITÉ TRÈS ÉLEVÉE": 45,
+   "PRIORITÉ ÉLEVÉE": 32,
+   "À MAÎTRISER": 20
+  },
+  "regle": "une rubrique signalée comme faiblesse par le jury 2025 est au minimum en PRIORITÉ TRÈS ÉLEVÉE",
+  "scenarios_sensibilite": [
+   "référence",
+   "égalitaire",
+   "fréquences seules",
+   "jury renforcé",
+   "récence renforcée",
+   "sans « gap »",
+   "poids du barème renforcé"
+  ]
+ },
+ "synthese": [
+  "Référentiel applicable : programme de l'arrêté du 13 février 2019 (1re session en 2020). La réforme du 4 août 2025 ne s'applique qu'à partir de la session 2027 : la session d'octobre 2026 est la dernière sur le programme 2019.",
+  "Socle calculatoire quasi systématique : « la valeur et le risque » (bêta, MEDAF, CMPC) est présent dans chacune des trois dernières sessions (2023, 2024, 2025) et dans 6 sessions sur 10 depuis 2016. En 2025, le coût du capital d'une société non cotée par comparables reprend exactement la mécanique du sujet 2016.",
+  "La gouvernance et l'extra-financier (RSE/ESG, parties prenantes, agence, Copé-Zimmermann, société à mission) sont la rubrique la plus présente depuis la réforme (4 sessions sur 6 en principal ; en 2025 seulement en toile de fond). Le jury 2024 en fait un attendu explicite : « la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique ».",
+  "Depuis 2020, la « question de réflexion » (25 % des points) a disparu : elle est remplacée par de petites questions de cours insérées dans le cas [Rapport du jury 2020, p. 7]. Chaque sujet combine désormais un dossier calculatoire et des questions de restitution argumentée.",
+  "Le jury 2025 rappelle que les acquis du DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) « peuvent légitimement faire l'objet de questions ». Il déplore la faible maîtrise du LBO et un dossier 3 (crowdfunding, dividende) sacrifié faute de temps.",
+  "Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le socle technique est discriminant."
+ ],
+ "surprises": [
+  "2022 : l'épreuve du 25 octobre 2022 a été annulée et repassée le 5 janvier 2023 (arrêté publié au BO ESR n°46 de 2022, référence ESRS2233990A, repérée par recherche web, non ouverte). Deux sujets 2022 figurent dans ton Drive (Sopra Steria, Energy+). Lequel a été annulé et lequel a été composé : non vérifié ; chacun compte donc pour ½ session dans les statistiques.",
+  "2023 : taux de réussite de 14,75 % et médiane de 6/20, les plus bas de la période [Rapport du jury 2024, p. 10 et 18]. Le sujet combinait options réelles (Black-Scholes), CMPC/covariance, DCF, multiples et swap de taux. Le rapport 2023 n'a pas été consulté : l'explication officielle n'est pas vérifiée.",
+  "Fraude et blanchiment (5.3) n'a jamais été interrogé en UE2 sur la période (le blanchiment est apparu en UE1 en 2024 [Rapport du jury 2024, p. 20]). La structure de financement (4.3) n'apparaît qu'en toile de fond (CMPC, levier)."
+ ],
+ "rubriques": [
+  {
+   "code": "2.2",
+   "partie": "2. Diagnostic approfondi (20 h)",
+   "intitule": "Analyse extra-financière",
+   "notions_officielles": "gouvernance d'entreprise, RSE et critères extra-financiers, création de valeur et sa répartition (EVA), notation et scoring",
+   "ipr": 67.0,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 1,
+    "rang_min": 1,
+    "rang_max": 3,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2020,
+    2022,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2019,
+    2025
+   ],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.667,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.298,
+   "dossiers": [
+    "2024 D2",
+    "2024 D3",
+    "2023 D2",
+    "2023 D3",
+    "2022-S1 D2",
+    "2022-S2 D2",
+    "2022-S2 D4",
+    "2020 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 7-8",
+     "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches synthétiques sur chacun de ces thèmes."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "Gouvernance après OPR : loi Copé-Zimmermann, théorie de l'agence ; D3 RSE/ESG, parties prenantes, société à mission, actionnariat salarié.",
+     "difficulte_candidats": false,
+     "consequence": "Gouvernance et RSE = tiers du sujet ou plus."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 23",
+     "observation": "Candidats sans connaissances de base « (FTD ; RSE/ESG, etc.) », réponses non contextualisées, concepts théoriques fondamentaux non maîtrisés.",
+     "difficulte_candidats": true,
+     "consequence": "Retravailler le calcul des FTD et les définitions RSE/ESG ; contextualiser."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 23-24",
+     "observation": "« la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique » ; articuler cours, théorie et exemples ; tableaux (TFT).",
+     "difficulte_candidats": false,
+     "consequence": "Intégrer systématiquement une dimension ESG dans les conseils."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F4 ch.2 p.38-49",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.2",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur et le risque",
+   "notions_officielles": "MEDAF (fondements, usage pratique, limites), modèle de Fama et French et dérivés, mesure des primes de risque",
+   "ipr": 63.0,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 2,
+    "rang_min": 1,
+    "rang_max": 2,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2021,
+    2023,
+    2024,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2019,
+    2020
+   ],
+   "frequence_2016_2025": 0.6,
+   "frequence_2020_2025": 0.667,
+   "frequence_2023_2025": 1.0,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.156,
+   "dossiers": [
+    "2025 D1",
+    "2024 D1",
+    "2023 D2",
+    "2021 D1",
+    "2018 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 7",
+     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+     "difficulte_candidats": false,
+     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "D1 « classique, essentiellement calculatoire » : MEDAF puis trois méthodes d'évaluation pour une fourchette de négociation (OPR Bel).",
+     "difficulte_candidats": false,
+     "consequence": "Savoir enchaîner MEDAF → DCF → multiples → fourchette."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 25",
+     "observation": "D1 : coût du capital d'une société non cotée par le MEDAF (comparables) ; VAN/TIR de projets exclusifs et divergences.",
+     "difficulte_candidats": false,
+     "consequence": "Maîtriser bêta désendetté/réendetté et conflit VAN/TRI."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F1 ch.3 IV p.84",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "6.3",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les fusions et acquisitions",
+   "notions_officielles": "synergies, holdings, opérations à effet de levier (LBO), offres publiques",
+   "ipr": 57.0,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 3,
+    "rang_min": 2,
+    "rang_max": 4,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2019,
+    2021,
+    2022,
+    2024,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.55,
+   "frequence_2020_2025": 0.583,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.236,
+   "dossiers": [
+    "2025 D2",
+    "2024 D2",
+    "2022-S1 D3",
+    "2021 D2",
+    "2019 D2",
+    "2016 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "D1 « classique, essentiellement calculatoire » : MEDAF puis trois méthodes d'évaluation pour une fourchette de négociation (OPR Bel).",
+     "difficulte_candidats": false,
+     "consequence": "Savoir enchaîner MEDAF → DCF → multiples → fourchette."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "Gouvernance après OPR : loi Copé-Zimmermann, théorie de l'agence ; D3 RSE/ESG, parties prenantes, société à mission, actionnariat salarié.",
+     "difficulte_candidats": false,
+     "consequence": "Gouvernance et RSE = tiers du sujet ou plus."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "« la faible maîtrise […] de certains mécanismes du LBO, en particulier le calcul des annuités constantes ».",
+     "difficulte_candidats": true,
+     "consequence": "Refaire un montage LBO complet (holding, dette senior/junior, remontée de dividendes)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F3 ch.3 p.61-70",
+    "statut_notion": "U (limité)"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Modalités de financement",
+   "notions_officielles": "fonds propres et quasi-fonds propres, financements bancaires, obligataires, court terme (euro PP), capital-investissement, financements publics",
+   "ipr": 50.6,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 4,
+    "rang_min": 4,
+    "rang_max": 6,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2017,
+    2018,
+    2020,
+    2021,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.144,
+   "dossiers": [
+    "2025 D3",
+    "2021 D1",
+    "2020 D1",
+    "2018 D2",
+    "2017 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "Questions de niveau DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) jugées légitimes : « les acquis du DCG constituent un préalable indispensable ».",
+     "difficulte_candidats": false,
+     "consequence": "Revoir les mathématiques financières du DCG."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "« la faible maîtrise […] de certains mécanismes du LBO, en particulier le calcul des annuités constantes ».",
+     "difficulte_candidats": true,
+     "consequence": "Refaire un montage LBO complet (holding, dette senior/junior, remontée de dividendes)."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+     "difficulte_candidats": true,
+     "consequence": "Réserver du temps au dernier dossier rédactionnel."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F2 ch.2 p.43-46",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.1",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur en finance",
+   "notions_officielles": "marchés financiers et financement de l'économie, efficience (hypothèse, formes), hypothèses des modèles, aspects psychologiques et humains (finance comportementale), regard critique sur la finance classique",
+   "ipr": 46.9,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 5,
+    "rang_min": 3,
+    "rang_max": 15,
+    "scenarios_premier_tiers": "4/7"
+   },
+   "sessions_principal": [
+    2022
+   ],
+   "sessions_toile_de_fond": [
+    2023,
+    2024,
+    2025
+   ],
+   "frequence_2016_2025": 0.05,
+   "frequence_2020_2025": 0.083,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.25,
+   "dossiers": [
+    "2022-S2 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 7-8",
+     "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches synthétiques sur chacun de ces thèmes."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 23",
+     "observation": "Candidats sans connaissances de base « (FTD ; RSE/ESG, etc.) », réponses non contextualisées, concepts théoriques fondamentaux non maîtrisés.",
+     "difficulte_candidats": true,
+     "consequence": "Retravailler le calcul des FTD et les définitions RSE/ESG ; contextualiser."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 23-24",
+     "observation": "« la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique » ; articuler cours, théorie et exemples ; tableaux (TFT).",
+     "difficulte_candidats": false,
+     "consequence": "Intégrer systématiquement une dimension ESG dans les conseils."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26-27",
+     "observation": "Méconnaissance des concepts théoriques fondamentaux « notamment en finance d'entreprise » ; posture d'analyste et de conseiller ; tableaux systématiques.",
+     "difficulte_candidats": true,
+     "consequence": "Fiches auteurs/théories (MM, agence, signal, Fama, Gordon)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F1 (INTEC Cours 1 « La valeur ») ch.4 p.98, 102",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Investissement et désinvestissement",
+   "notions_officielles": "critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation",
+   "ipr": 45.3,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 6,
+    "rang_min": 4,
+    "rang_max": 8,
+    "scenarios_premier_tiers": "6/7"
+   },
+   "sessions_principal": [
+    2021,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.189,
+   "dossiers": [
+    "2025 D1",
+    "2023 D1",
+    "2021 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 7",
+     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+     "difficulte_candidats": false,
+     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 25",
+     "observation": "D1 : coût du capital d'une société non cotée par le MEDAF (comparables) ; VAN/TIR de projets exclusifs et divergences.",
+     "difficulte_candidats": false,
+     "consequence": "Maîtriser bêta désendetté/réendetté et conflit VAN/TRI."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "Questions de niveau DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) jugées légitimes : « les acquis du DCG constituent un préalable indispensable ».",
+     "difficulte_candidats": false,
+     "consequence": "Revoir les mathématiques financières du DCG."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F2 ch.1 p.9-31",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "6.5",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les innovations financières",
+   "notions_officielles": "fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données",
+   "ipr": 45.1,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 7,
+    "rang_min": 6,
+    "rang_max": 9,
+    "scenarios_premier_tiers": "6/7"
+   },
+   "sessions_principal": [
+    2018,
+    2021,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2020
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.112,
+   "dossiers": [
+    "2025 D3",
+    "2021 D3",
+    "2018 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Seule vraie nouveauté du programme dans le sujet : la question sur la blockchain.",
+     "difficulte_candidats": false,
+     "consequence": "Connaître définitions et usages de la blockchain en finance/trésorerie."
+    },
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 7",
+     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+     "difficulte_candidats": false,
+     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 7-8",
+     "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches synthétiques sur chacun de ces thèmes."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+     "difficulte_candidats": true,
+     "consequence": "Réserver du temps au dernier dossier rédactionnel."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F3 ch.5 p.92-94",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Évaluation par les flux",
+   "notions_officielles": "flux revenant aux apporteurs de capitaux / aux actionnaires, business plan, rôle de l'actualisation",
+   "ipr": 41.4,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 8,
+    "rang_min": 5,
+    "rang_max": 9,
+    "scenarios_premier_tiers": "3/7"
+   },
+   "sessions_principal": [
+    2016,
+    2017,
+    2019,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.129,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2",
+    "2019 D1",
+    "2017 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "D1 « classique, essentiellement calculatoire » : MEDAF puis trois méthodes d'évaluation pour une fourchette de négociation (OPR Bel).",
+     "difficulte_candidats": false,
+     "consequence": "Savoir enchaîner MEDAF → DCF → multiples → fourchette."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 23",
+     "observation": "Candidats sans connaissances de base « (FTD ; RSE/ESG, etc.) », réponses non contextualisées, concepts théoriques fondamentaux non maîtrisés.",
+     "difficulte_candidats": true,
+     "consequence": "Retravailler le calcul des FTD et les définitions RSE/ESG ; contextualiser."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F2 (INTEC Cours 2) ch.2 p.67-74",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "6.1",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "La politique de dividende",
+   "notions_officielles": "théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux",
+   "ipr": 37.6,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 9,
+    "rang_min": 7,
+    "rang_max": 10,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2022,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2020
+   ],
+   "frequence_2016_2025": 0.15,
+   "frequence_2020_2025": 0.25,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.183,
+   "dossiers": [
+    "2025 D3",
+    "2022-S1 D2",
+    "2022-S1 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+     "difficulte_candidats": true,
+     "consequence": "Réserver du temps au dernier dossier rédactionnel."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26-27",
+     "observation": "Méconnaissance des concepts théoriques fondamentaux « notamment en finance d'entreprise » ; posture d'analyste et de conseiller ; tableaux systématiques.",
+     "difficulte_candidats": true,
+     "consequence": "Fiches auteurs/théories (MM, agence, signal, Fama, Gordon)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F3 (INTEC Cours 3) ch.1 p.9-24",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "5.2",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La gestion des risques",
+   "notions_officielles": "couverture change et taux (marchés organisés, gré à gré), options et Black-Scholes, swaps, forward, futures, structure des taux",
+   "ipr": 35.7,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 10,
+    "rang_min": 7,
+    "rang_max": 13,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2017,
+    2019,
+    2020,
+    2021,
+    2023
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2023,
+   "poids_bareme_quand_present": 0.133,
+   "dossiers": [
+    "2023 D3",
+    "2021 D3",
+    "2020 D2",
+    "2019 D1",
+    "2017 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 7",
+     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+     "difficulte_candidats": false,
+     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F4 partie 6 ch.2 p.64-95",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Évaluation par approche comparative",
+   "notions_officielles": "choix des inducteurs, échantillon de comparables, effets des paramètres sous-jacents, avantages et limites",
+   "ipr": 31.9,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 11,
+    "rang_min": 8,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2017
+   ],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.129,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2024,
+     "page": "p. 22",
+     "observation": "D1 « classique, essentiellement calculatoire » : MEDAF puis trois méthodes d'évaluation pour une fourchette de négociation (OPR Bel).",
+     "difficulte_candidats": false,
+     "consequence": "Savoir enchaîner MEDAF → DCF → multiples → fourchette."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F2 ch.3 p.76-78",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.3",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Autres évaluations particulières et spécifiques",
+   "notions_officielles": "ANR et goodwill, approche immobilière, start-up, approches sectorielles",
+   "ipr": 30.1,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 12,
+    "rang_min": 10,
+    "rang_max": 13,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2020
+   ],
+   "sessions_toile_de_fond": [
+    2021,
+    2023,
+    2024
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2020,
+   "poids_bareme_quand_present": 0.25,
+   "dossiers": [
+    "2020 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F2 ch.4 p.82-87, ch.5 p.90-91",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Start-up (2020), fonds de commerce (2023, en toile de fond) ; immobilier cité par les jurys 2019-2020 comme « nouveauté » (vu en investissement en 2021)."
+  },
+  {
+   "code": "1.3",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur et la performance",
+   "notions_officielles": "cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes",
+   "ipr": 26.9,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 13,
+    "rang_min": 12,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2020
+   ],
+   "sessions_toile_de_fond": [
+    2018,
+    2021
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2020,
+   "poids_bareme_quand_present": 0.167,
+   "dossiers": [
+    "2020 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F1 ch.2 p.50, ch.3 p.69 ; F2 p.74",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": "Obligations (duration, sensibilité) en 2020, EVA en 2020 ; gestion de portefeuille et patrimoine absents depuis 2018."
+  },
+  {
+   "code": "2.1",
+   "partie": "2. Diagnostic approfondi (20 h)",
+   "intitule": "Analyse financière des comptes consolidés",
+   "notions_officielles": "diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie",
+   "ipr": 25.6,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 14,
+    "rang_min": 11,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2019,
+    2022
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.275,
+   "dossiers": [
+    "2022-S1 D1",
+    "2022-S2 D1",
+    "2019 D1",
+    "2018 D1",
+    "2016 D1"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F4 (INTEC Cours 4) ch.1 p.9-33",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.3",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Le choix d'une structure de financement",
+   "notions_officielles": "arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement",
+   "ipr": 17.7,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 15,
+    "rang_min": 15,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [
+    2016,
+    2019,
+    2022,
+    2023,
+    2025
+   ],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F2 ch.2 III p.59",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé seul, mais sous-jacent à tout calcul de CMPC et de levier (2016, 2019, 2023, 2025). Théories de Modigliani-Miller, du compromis et du financement hiérarchique : mobilisables en question de réflexion."
+  },
+  {
+   "code": "5.1",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La gestion des flux de trésorerie au sein d'un groupe",
+   "notions_officielles": "centralisation de trésorerie, opérations intragroupe, supports de financement et de placement",
+   "ipr": 17.2,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 16,
+    "rang_min": 14,
+    "rang_max": 16,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2020
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2020,
+   "poids_bareme_quand_present": 0.125,
+   "dossiers": [
+    "2020 D2"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F4 partie 6 ch.1 p.53-61",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Seulement 2020 (netting). Centralisation de trésorerie et cash pooling à connaître."
+  },
+  {
+   "code": "6.2",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "La gestion de la valeur de l'action",
+   "notions_officielles": "rachats d'actions, opérations sur le nombre d'actions, restructurations (APA, scission), introductions en bourse",
+   "ipr": 11.8,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 17,
+    "rang_min": 16,
+    "rang_max": 17,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2017
+   ],
+   "sessions_toile_de_fond": [
+    2024
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2017,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2017 D1"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F3 ch.2 p.27-54",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "IPO en 2017 (ancien programme) ; l'OPR de 2024 relève des offres publiques (6.3). Rachats d'actions, opérations sur le nombre d'actions, APA et scission : jamais interrogés sur la période. Fiche mécanismes et effets (BPA, signal)."
+  },
+  {
+   "code": "6.4",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les opérations sur les dettes et sur les créances",
+   "notions_officielles": "defeasance, titrisation",
+   "ipr": 9.5,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 18,
+    "rang_min": 17,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2019
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2019,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2019 D2"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F3 ch.4 p.90-91",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Seulement dans la réflexion 2019 (ancien programme). Titrisation et défaisance : définitions, intérêts, risques."
+  },
+  {
+   "code": "5.3",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La fraude et le blanchiment des capitaux",
+   "notions_officielles": "réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie",
+   "ipr": 8.3,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 19,
+    "rang_min": 19,
+    "rang_max": 19,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F4 partie 6 ch.3 p.114-116",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé en UE2 depuis 2016. Rubrique courte : vigilance, TRACFIN, déclaration de soupçon, signaux d'alerte. Une question de cours de 1 à 2 points reste possible ; 30 min de fiche suffisent."
+  }
+ ],
+ "techniques": [
+  {
+   "technique": "gouvernance",
+   "libelle": "Gouvernance (codes, agence, administrateurs)",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 4.0,
+   "sessions_2023_2025": 3.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3",
+    "2024 D2",
+    "2023 D2",
+    "2022-S2 D2",
+    "2022-S1 D2"
+   ]
+  },
+  {
+   "technique": "MEDAF_beta",
+   "libelle": "MEDAF, bêta (désendetté/réendetté)",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2024 D1",
+    "2021 D1",
+    "2018 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "CMPC",
+   "libelle": "CMPC",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2023 D2",
+    "2020 D1",
+    "2019 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "RSE_ESG",
+   "libelle": "RSE / ESG / extra-financier",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3",
+    "2023 D3",
+    "2022-S2 D4",
+    "2022-S1 D2"
+   ]
+  },
+  {
+   "technique": "DCF_FTD",
+   "libelle": "DCF / flux de trésorerie disponibles",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2",
+    "2019 D1",
+    "2017 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "multiples",
+   "libelle": "Multiples (comparables)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2023 D2",
+    "2017 D1"
+   ]
+  },
+  {
+   "technique": "covariance_risque",
+   "libelle": "Covariance, variance, risque de portefeuille",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D2",
+    "2021 D1",
+    "2018 D1"
+   ]
+  },
+  {
+   "technique": "couverture_taux",
+   "libelle": "Couverture du risque de taux (swap, collar…)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2020 D2",
+    "2019 D1"
+   ]
+  },
+  {
+   "technique": "VAN_TRI",
+   "libelle": "VAN, TRI, conflits de critères",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "crowdfunding",
+   "libelle": "Crowdfunding",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3",
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "blockchain_crypto",
+   "libelle": "Blockchain, crypto-actifs",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3",
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "dividende_theories",
+   "libelle": "Politique de dividende (théories)",
+   "sessions_2016_2025": 1.5,
+   "sessions_2020_2025": 1.5,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3",
+    "2022-S1 D3",
+    "2022-S1 D2"
+   ]
+  },
+  {
+   "technique": "parties_prenantes",
+   "libelle": "Parties prenantes",
+   "sessions_2016_2025": 1.5,
+   "sessions_2020_2025": 1.5,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3",
+    "2022-S2 D4"
+   ]
+  },
+  {
+   "technique": "parite_fusion",
+   "libelle": "Parité d'échange, fusion",
+   "sessions_2016_2025": 1.5,
+   "sessions_2020_2025": 1.5,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022-S1 D3",
+    "2021 D2"
+   ]
+  },
+  {
+   "technique": "diagnostic_ratios",
+   "libelle": "Diagnostic par ratios (ROCE, ROE, gearing…)",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022-S2 D1",
+    "2022-S1 D1",
+    "2019 D1",
+    "2018 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "LBO",
+   "libelle": "Montage LBO",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2019 D2"
+   ]
+  },
+  {
+   "technique": "notation",
+   "libelle": "Notation (financière / extra-financière)",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2019 D1"
+   ]
+  },
+  {
+   "technique": "capital_investissement",
+   "libelle": "Capital-investissement",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1",
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "couverture_change",
+   "libelle": "Couverture du risque de change",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3",
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "obligations_duration",
+   "libelle": "Obligations (taux, duration, sensibilité)",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D1",
+    "2019 D1"
+   ]
+  },
+  {
+   "technique": "flux_projet",
+   "libelle": "Flux d'un projet (BFR, IS, valeur de reprise)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1"
+   ]
+  },
+  {
+   "technique": "tableau_amortissement",
+   "libelle": "Tableaux d'amortissement / annuités",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2"
+   ]
+  },
+  {
+   "technique": "prime_offre_publique",
+   "libelle": "Prime et fourchette d'une offre publique",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2",
+    "2024 D1"
+   ]
+  },
+  {
+   "technique": "droits_de_vote",
+   "libelle": "Structure d'actionnariat, droits de vote",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2"
+   ]
+  },
+  {
+   "technique": "societe_a_mission",
+   "libelle": "Société à mission",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3"
+   ]
+  },
+  {
+   "technique": "Black_Scholes",
+   "libelle": "Black-Scholes",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1"
+   ]
+  },
+  {
+   "technique": "option_reelle",
+   "libelle": "Options réelles",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1"
+   ]
+  },
+  {
+   "technique": "fonds_de_commerce",
+   "libelle": "Évaluation d'un fonds de commerce",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D2"
+   ]
+  },
+  {
+   "technique": "immobilier",
+   "libelle": "Finance immobilière",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "annuite_equivalente",
+   "libelle": "Annuité équivalente / horizon commun",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "EVA",
+   "libelle": "EVA / création de valeur",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "netting_cash_pooling",
+   "libelle": "Netting / centralisation de trésorerie",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "start_up_VC",
+   "libelle": "Évaluation de start-up (VC method)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D3"
+   ]
+  },
+  {
+   "technique": "BPA_relution",
+   "libelle": "BPA : relution / dilution",
+   "sessions_2016_2025": 0.5,
+   "sessions_2020_2025": 0.5,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022-S1 D3"
+   ]
+  },
+  {
+   "technique": "efficience_finance_comportementale",
+   "libelle": "Efficience et finance comportementale",
+   "sessions_2016_2025": 0.5,
+   "sessions_2020_2025": 0.5,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022-S2 D3"
+   ]
+  },
+  {
+   "technique": "dissertation",
+   "libelle": "Dissertation (format pré-2020)",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D2",
+    "2018 D2",
+    "2017 D2",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "TFT",
+   "libelle": "Tableau de flux de trésorerie",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D1"
+   ]
+  },
+  {
+   "technique": "IPO",
+   "libelle": "Introduction en bourse",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2017,
+   "dossiers": [
+    "2017 D1"
+   ]
+  },
+  {
+   "technique": "fusions_acquisitions",
+   "libelle": "Fusions-acquisitions (qualitatif)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2016,
+   "dossiers": [
+    "2016 D2"
+   ]
+  }
+ ],
+ "annales_recommandees": [
+  {
+   "annale": "2025 (sujet entier, 3 h)",
+   "interet": "À refaire absolument en conditions réelles : coût du capital d'une société non cotée par comparables, VAN/TIR et conflit de critères, LBO (holding, dettes senior/junior, annuités constantes), crowdfunding, neutralité du dividende. Couvre les trois faiblesses citées par le jury 2025."
+  },
+  {
+   "annale": "2024 D1 + D2",
+   "interet": "Enchaînement MEDAF → DCF (FTD) → multiples → prime et fourchette d'OPR ; gouvernance post-OPR (droits de vote, Copé-Zimmermann, signal). Le jury 2024 relève des lacunes sur les FTD."
+  },
+  {
+   "annale": "2024 D3 + 2022-S2 D4",
+   "interet": "RSE/ESG, parties prenantes (Freeman), société à mission, matérialité : rédaction courte et contextualisée."
+  },
+  {
+   "annale": "2023 D2",
+   "interet": "Gouvernance (mécanismes, administrateurs indépendants) + CMPC, covariance, DCF, multiples, fonds de commerce : le dossier le plus complet sur l'évaluation."
+  },
+  {
+   "annale": "2023 D1 + D3",
+   "interet": "Options réelles (Black-Scholes) et swap de taux : dossiers techniques de la session la plus difficile (14,75 % de réussite)."
+  },
+  {
+   "annale": "2022-S1 D3",
+   "interet": "OPE : parité, prime, dividende exceptionnel, transfert de richesse, BPA relutif/dilutif."
+  },
+  {
+   "annale": "2021 D1 + D3",
+   "interet": "Bêta/MEDAF, capital-investissement, VAN, annuité équivalente, horizon commun ; change (terme vs option) et crypto-actifs."
+  },
+  {
+   "annale": "2020 (sujet entier)",
+   "interet": "EVA, duration/sensibilité, crowdfunding, collar, netting, blockchain, Venture Capital Method : le panorama le plus large des « nouveautés » 2019."
+  },
+  {
+   "annale": "2016 Partie 1 (ancien programme)",
+   "interet": "Bêta d'activité de comparables → bêta des CP → CMPC → DCF : même mécanique que 2025 D1, excellent entraînement technique."
+  },
+  {
+   "annale": "2022-S2 D2 + D3",
+   "interet": "Efficience (Fama), finance comportementale, AFEP-MEDEF : théorie pure, en réponse à la critique « concepts théoriques fondamentaux » (jury 2024-2025)."
+  }
+ ],
+ "attendus_corriges": [
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q1 problème du MEDAF pour une non cotée",
+   "bareme": "n.c.",
+   "attendus": "Le bêta de Transvert n'est pas observable faute de cotation.",
+   "pieges": "Réponse courte mais indispensable avant tout calcul.",
+   "alerte": false,
+   "source": "Corrigé 2025 (copie FicheBEN, Drive UE 2 - 2025 Corrigé)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q2 coût du capital par comparables",
+   "bareme": "n.c.",
+   "attendus": "βactif = βCP×(CP/VGE) + βdette×(D/VGE) pour chaque comparable → moyenne 0,8083 → βCP Transvert = βA + (βA − βD)×D/CP = 1,6321 → kCP = 3,6 % + 1,6321×2,7 % = 8,01 % → CMPC = 8,01 %×0,4 + 4,3 %×(1−25 %)×0,6 = 5,14 %.",
+   "pieges": "Coût de la dette APRÈS impôt dans le CMPC · ne pas oublier le bêta de la dette dans la formule de réendettement · arrondis à 4 décimales imposés par l'annexe.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q3-Q4 flux et VAN de deux projets",
+   "bareme": "n.c.",
+   "attendus": "Tableau FTD : CA, charges variables et fixes, amortissement (projet A : par unités d'œuvre produites · B : linéaire), IS 25 %, CAF, investissement (prix + frais de mise en service), BFR = 6 % du CA avec récupération, cession de l'ancienne chaîne nette d'IS (30 000 × 75 % = 22 500 en t0). VAN A = 3 150 385 € · VAN B = 3 746 941 €.",
+   "pieges": "Amortissement non linéaire pour A · récupération du BFR en fin de projet · plus-value de cession nette d'IS (VNC nulle).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q5 note VAN vs TRI (10 lignes)",
+   "bareme": "n.c.",
+   "attendus": "Critères de sélection et non de classement · hypothèses de réinvestissement différentes (coût du capital vs TRI) · la VAN globale capitalise les flux à un taux de réinvestissement explicite puis actualise.",
+   "pieges": "Respecter le format imposé (10 lignes) · pas de calcul demandé.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q6 projet à VAN nulle, flux certains",
+   "bareme": "n.c.",
+   "attendus": "Couvre exactement la rentabilité exigée : ni création ni destruction de valeur · décision selon éléments stratégiques/extra-financiers (image, réglementation, apprentissage, options futures) · privilégier les VAN > 0.",
+   "pieges": "Argumenter, pas seulement définir.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q1-Q3 montage LBO, schéma, bilan de holding",
+   "bareme": "n.c.",
+   "attendus": "Prix des 25 % = 22 000 k€ · FP 40 % = 8 800 (fonds 2 800 · dirigeant + salariés 6 000) · dettes 60 % = 13 200 (senior 55 % = 7 260 · junior 45 % = 5 940) · bilan : titres 22 000 = CP 8 800 + dettes 13 200.",
+   "pieges": "Lire « 60 % de dettes » sur le financement de l'opération, pas sur la valeur de la cible.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q4 tableaux d'amortissement",
+   "bareme": "n.c.",
+   "attendus": "Senior : annuité constante = 7 260 × 0,05 / (1 − 1,05^−5) = 1 677 k€ · junior : intérêts 356 k€/an, capital in fine.",
+   "pieges": "Faiblesse relevée par le jury 2025 (annuités constantes) · présenter en tableau.",
+   "alerte": false,
+   "source": "idem + Rapport du jury 2025 p. 26"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q5 conditions de réussite du LBO",
+   "bareme": "n.c.",
+   "attendus": "Dividendes remontés (25 % du résultat distribuable) ≥ service de la dette (senior + intérêts junior, puis remboursement in fine) chaque année : 6 244 ≥ 2 033 … 8 651 ≥ 7 973 → conditions remplies.",
+   "pieges": "Comparer année par année, y compris l'année du remboursement in fine.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q1-Q3 choix de plateforme, investisseurs, coût",
+   "bareme": "n.c.",
+   "attendus": "Profil valorisé (88 M€) → plateforme d'investisseurs avisés · nombre d'investisseurs = montant / ticket moyen (1 600 vs 334) · coût = 5-10 % vs 6-10 % du montant levé.",
+   "pieges": "Justifier le choix par le profil de l'entreprise ET des investisseurs.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q4 gouvernance en equity crowdfunding",
+   "bareme": "n.c.",
+   "attendus": "Holding de regroupement gérée par la plateforme, un seul représentant au conseil · pacte d'actionnaires.",
+   "pieges": "Question de connaissance pure (restitution de cours).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q5 le dividende n'enrichit pas",
+   "bareme": "n.c.",
+   "attendus": "Modigliani-Miller (1961) : en marché parfait, le cours baisse du montant du dividende · le patrimoine change de structure, pas de valeur.",
+   "pieges": "Citer les auteurs et l'hypothèse de marché parfait (jury : « grands auteurs »).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Options réelles (Black-Scholes)",
+   "bareme": "20/100",
+   "attendus": "Hypothèses de B&S (temps continu, pas de dividende, taux sans risque et volatilité constants, absence d'arbitrage, ventes à découvert, mouvement brownien géométrique) · définitions option réelle/option d'expansion · r continu = ln(1,0425) · d1 = 0,57, d2 = −0,03 · call = 301 203 k€ · VAN stratégique = VAN (−30 069) + option > 0 → investir.",
+   "pieges": "Conversion taux discret → continu · valeur actuelle du sous-jacent · lecture de la table de la loi normale.",
+   "alerte": false,
+   "source": "Corrigé 2023 (copie FicheBEN)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Gouvernance (définition, mécanismes, géographie du capital, administrateurs indépendants)",
+   "bareme": "n.c. (dossier 50/100)",
+   "attendus": "Charreaux (1997) · mécanismes externes (marché financier, lois/codes, marché des dirigeants, endettement) et internes (comités, rémunération incitative, administrateurs indépendants) · géographie du capital → gouvernance « administrée » (État majoritaire) · AFEP-MEDEF : intègres, compétents, actifs, présents, impliqués.",
+   "pieges": "Relier rémunération croissante du dirigeant et dégradation des résultats (analyse critique attendue).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Évaluation : CMPC, covariance, DCF, multiples, fonds de commerce",
+   "bareme": "covariance : 6 pts (0,5 par ligne juste · 3 pts si non justifié)",
+   "attendus": "β = cov/var = 1,3 · kCP = 12 % · CMPC = 11,45 % · covariance en tableau (écarts à la moyenne, produit, somme/(n−1)) = 0,1214 % · DCF 5 ans + valeur terminale Gordon (g = 2 %) → VE 42 733 − dettes − provisions → 56,77 €/action · multiples VE/CA, VE/EBIT, PER · fonds de commerce : barème (% du CA) ou rentabilité (EBE/résultat).",
+   "pieges": "Tableau OBLIGATOIRE pour la covariance · déduire dettes ET provisions · un multiple peut donner une valeur nulle (à commenter).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "DPEF, notation extra-financière, swap de taux",
+   "bareme": "dossier 30/100",
+   "attendus": "DPEF : seuils (cotée : > 500 salariés et CA > 40 M€ ou bilan > 20 M€) · notation ESG = signal · agences (MSCI ESG, Vigeo-Eiris…) · risque de hausse de l'Euribor · swap → taux fixe · tableau avec/sans couverture pour 2 scénarios.",
+   "pieges": "ALERTE ACTUALITÉ : la DPEF est remplacée par le rapport de durabilité (CSRD) pour les exercices ouverts depuis 2024 (à vérifier dans ton cours) · présenter en tableau.",
+   "alerte": true,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "Q1 rentabilité exigée (MEDAF)",
+   "bareme": "n.c. (dossier 8/20)",
+   "attendus": "kc = rf + β × (Rm − rf) = 8,12 % + prime de risque pays 0,76 % = 8,88 %.",
+   "pieges": "Penser à la prime de risque pays si l'annexe la fournit.",
+   "alerte": false,
+   "source": "Corrigé 2024 (copie FicheBEN, scan lu en image)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "Q2 DCF (FTD) → VCP → valeur de l'action",
+   "bareme": "n.c.",
+   "attendus": "Tableau CA → EBIT → IS → RN + DAP = CAF − investissements − ΔBFR = FTD · valeur terminale Gordon-Shapiro = FTD2024 × (1+g)/(CMPC − g) · VGE 3 575 M€ − dettes financières 953 = VCP 2 622 M€ → 381,48 €/action.",
+   "pieges": "Actualiser la valeur terminale · soustraire l'endettement pour passer de la VGE aux capitaux propres.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "Q3 multiples VGE/EBIT (intérêt, limite)",
+   "bareme": "n.c.",
+   "attendus": "Intérêt : comparables cotés proches (taille, marges, intensité capitalistique) · limite : pas de comparable parfait · moyenne des multiples 13,87 × EBIT 203 = VGE 2 815,9 − dettes → 271,07 €/action.",
+   "pieges": "Présenter intérêt ET limite avant le calcul (consigne).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "question": "Q4-Q5 prime d'OPR et fourchette",
+   "bareme": "n.c.",
+   "attendus": "Prime = 550 / cours de référence − 1 (46 % à 124 % selon la référence) · fourchette FTD/multiples/cours → offre généreuse (prime ≥ 44 % sur le DCF).",
+   "pieges": "Commenter en tableau récapitulatif (méthode, prix, prime).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "OPR, retrait obligatoire, motifs, structure d'actionnariat",
+   "bareme": "n.c. (dossier 7/20)",
+   "attendus": "OPR (majoritaire rachète les minoritaires) · retrait obligatoire si flottant < seuil (5 % selon le corrigé · le seuil légal est de 10 % depuis la loi PACTE — à vérifier) · motifs : actionnariat concentré, faible liquidité, coûts de cotation · tableau actions / droits de vote théoriques / exerçables (auto-détention sans droit de vote).",
+   "pieges": "ALERTE : Distinguer droits de vote théoriques et exerçables · attention au seuil du retrait obligatoire (10 % du capital et des droits de vote depuis PACTE 2019).",
+   "alerte": true,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "question": "Intérêt du retrait pour la direction, Copé-Zimmermann, signal de bonne gouvernance",
+   "bareme": "n.c.",
+   "attendus": "Allègement des contraintes réglementaires · Copé-Zimmermann : ≥ 40 % de chaque sexe dans les CA des sociétés cotées (2/7 = 28,6 %) → obligation levée après retrait · Fama et Jensen : séparation fonctions de décision et de contrôle (dissociation PDG → DG + président).",
+   "pieges": "Citer l'auteur (Fama & Jensen 1983) · appliquer aux chiffres de l'annexe.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "3",
+   "question": "RSE vs ESG, indicateurs extra-financiers, Freeman, société à mission, actionnariat salarié",
+   "bareme": "n.c. (dossier 5/20)",
+   "attendus": "RSE = démarche globale · ESG = critères de mesure/notation · pilotage : risques, coûts, réputation, attractivité, financements verts · Freeman (1984) : parties prenantes internes/externes et valeur créée · société à mission : raison d'être statutaire + comité de mission (PACTE 2019).",
+   "pieges": "Réponses contextualisées au cas (jury 2024 : réponses non contextualisées).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "1",
+   "question": "Diagnostic financier consolidé",
+   "bareme": "30/100",
+   "attendus": "Marge opérationnelle (RO/CA), ROCE = EBIT / (CP + endettement net), ROE = RN/CP, gearing = endettement net/CP, capacité de remboursement = endettement net/EBITDA · analyse 2016-2020 en 2-3 paragraphes · comparaison sectorielle.",
+   "pieges": "Définir l'actif économique (CP + endettement net) · structurer l'analyse en paragraphes thématiques.",
+   "alerte": false,
+   "source": "Corrigé 2022 sujet 1 (Drive)"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "2",
+   "question": "ESG, DPEF, CDP, gouvernance AFEP-MEDEF, agence, dividende",
+   "bareme": "30/100",
+   "attendus": "Critères E/S/G avec exemples · DPEF (contenu, seuils) · CDP (notation A à D) · AFEP-MEDEF : ≥ 1/2 d'indépendants (capital dispersé) ou ≥ 1/3 (sociétés contrôlées), hors administrateurs salariés · agence (Jensen & Meckling 1976) : divergences entre catégories d'actionnaires · rôle et signal du dividende · prudence 2020.",
+   "pieges": "Seuils du code AFEP-MEDEF à connaître.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "3",
+   "question": "OPE : parité, prime, dividende exceptionnel, transfert de richesse, BPA",
+   "bareme": "40/100",
+   "attendus": "Cours cible EVA = 5 × 35 / (2 × 1,25) = 70 € · dividende exceptionnel = 88 − 70 = 18 € · valeur post-OPE = 31,5 M€ / 1 M actions = 31,50 € · transfert de richesse ± 1 750 000 € · synergies · BPA post-opération 5,74 €.",
+   "pieges": "ALERTE : le corrigé conclut à une dilution « pour les deux groupes » · pour un actionnaire d'EVA il faut comparer 9,60 € à 2,5 × 5,74 = 14,36 € (effet relutif). Vérifie ce point avec ton enseignant.",
+   "alerte": true,
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S2",
+   "dossier": "1-4",
+   "question": "Diagnostic, gouvernance/AFEP, efficience et finance comportementale, RSE (sujet Energy+)",
+   "bareme": "4 × 25/100",
+   "attendus": "Marge brute, EBITDA, EBIT, profitabilité · ROE vs ROCE (effet de levier négatif) · liquidité · gouvernance (Charreaux 1997), coûts d'agence (contrôle, dédouanement, perte résiduelle) · AFEP-MEDEF sur indemnités de départ (performance sur 2 ans, plafond 2 ans de rémunération) · Fama : efficience faible/semi-forte/forte (Euronext semi-forte) · Kahneman et Tversky (1979), biais, mimétisme · matrice de matérialité, approche partenariale (Charreaux 2020).",
+   "pieges": "Sujet entièrement rédactionnel : mobiliser auteurs et dates.",
+   "alerte": false,
+   "source": "Corrigé 2022 sujet 2 « éléments indicatifs de corrigé et barème national » (Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "question": "Bêta, MEDAF, capital-investissement, immobilier, VAN, horizon commun, annuité équivalente",
+   "bareme": "50/100",
+   "attendus": "E(R) pondérée par les probabilités · cov = Σ p(Ra − E)(Rm − E) · β = cov/var = 1,15 · E(Ri) = 6 % + 4,8 % × 1,15 = 11,51 % · capital-investissement (risque, développement, transmission/LBO avec leviers juridique, financier, fiscal, managérial, retournement) · caractéristiques et risques de l'immobilier · VAN de projets de durées différentes → horizon commun (renouvellement) et annuité équivalente = VAN × i / (1 − (1+i)^−n).",
+   "pieges": "Durées différentes : ne pas conclure sur les seules VAN.",
+   "alerte": false,
+   "source": "Corrigé 2021 (Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "question": "Fusion : motivations, parité, cours post-fusion, prime de contrôle",
+   "bareme": "25/100",
+   "attendus": "Motifs (synergies de volume, de ressources, de croissance · offensifs/défensifs) · parité sur moyenne valeur financière (dividende/taux) et ANCC → 3 pour 1 · cours du groupe = (valeurs + synergies)/nombre d'actions = 103,90 € · prime de contrôle.",
+   "pieges": "ANCC : intégrer toutes les plus-values latentes (y compris titres détenus).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "question": "Crypto-actifs et risque de change (terme vs option)",
+   "bareme": "25/100",
+   "attendus": "Bitcoin (pair à pair, sans autorité centrale), avantages/inconvénients · risque de baisse de la livre (créance en devise) · contrat à terme vs option (prime, exercice ou non) · choix argumenté.",
+   "pieges": "Identifier le sens du risque (créance ou dette en devise).",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "question": "EVA, obligations, crowdfunding",
+   "bareme": "50/100",
+   "attendus": "EVA = résultat opérationnel après IS − CMPC × actif économique (Stern Stewart) · β = cov/var · CMPC · duration et sensibilité · cours et taux évoluent en sens inverse · prix d'émission = valeur actuelle des coupons et du remboursement au TRAB · prime d'émission → TRAB > nominal · coupon couru (jours + 3 jours ouvrés) · crowdfunding en capital : 3 avantages/3 limites.",
+   "pieges": "Coût de la dette après IS dans le CMPC · décompte des jours du coupon couru.",
+   "alerte": false,
+   "source": "Corrigé 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "question": "Collar, netting, blockchain",
+   "bareme": "25/100",
+   "attendus": "Collar = achat d'un cap + vente d'un floor (tunnel) · différentiels d'intérêts et primes selon 3 hypothèses · netting multilatéral : conversion en €, soldes nets, économies de flux · blockchain : registre distribué infalsifiable.",
+   "pieges": "Présenter le netting en matrice créances/dettes.",
+   "alerte": false,
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "3",
+   "question": "Évaluation d'une start-up (VC method)",
+   "bareme": "25/100",
+   "attendus": "Faiblesses des ANCC/DCF/comparables · facteurs (équipe, produit-marché-technologie, business plan) · valeur de sortie = RN moyen × PER × décotes · valeur d'entrée = valeur de sortie / (1 + TRI exigé)^n = 7,34 M€.",
+   "pieges": "Taux cible élevé (32 %) : bien actualiser sur la durée de détention.",
+   "alerte": false,
+   "source": "idem"
+  }
+ ],
+ "dossiers_annales": [
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "intitule": "Investissement (coût du capital d'une société non cotée · choix d'investissement)",
+   "points": "20",
+   "total_points": "50",
+   "questions_resume": "Q1-2 bêta de l'actif des comparables, bêta des CP réendetté, MEDAF, CMPC · Q3-4 flux de trésorerie et VAN de deux projets exclusifs (BFR, valeur de reprise, IS) · Q5 note 10 lignes VAN vs TRI, VAN globale · Q6 projet à VAN nulle avec flux certains",
+   "rubriques_principales": "1.2|4.1",
+   "rubriques_secondaires": "4.3|1.1",
+   "techniques": "MEDAF_beta|CMPC|VAN_TRI|flux_projet",
+   "nature": "mixte (calcul dominant)",
+   "source": "Drive UE 2 - 2025 Sujet (id 1IPctJZNfuktw5xU5O93vvHZaZaWuFsnF)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "intitule": "Rachat des parts via un LBO",
+   "points": "15",
+   "total_points": "50",
+   "questions_resume": "Q1 montant de l'emprunt de la holding · Q2 schéma du montage · Q3 bilan simplifié de la holding · Q4 tableaux d'amortissement dette senior (annuités constantes) et junior (in fine) · Q5 conditions de réussite du LBO (capacité distributive)",
+   "rubriques_principales": "6.3",
+   "rubriques_secondaires": "4.2|4.3",
+   "techniques": "LBO|tableau_amortissement",
+   "nature": "mixte (calcul dominant)",
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "intitule": "Financement participatif (equity crowdfunding) et dividende",
+   "points": "15",
+   "total_points": "50",
+   "questions_resume": "Q1 choix de plateforme · Q2 nombre d'investisseurs selon le ticket moyen · Q3 fourchette de coût de la levée · Q4 gouvernance des actionnaires sur les plateformes · Q5 argumenter que le dividende n'enrichit pas l'actionnaire",
+   "rubriques_principales": "6.5|4.2|6.1",
+   "rubriques_secondaires": "2.2",
+   "techniques": "crowdfunding|dividende_theories|gouvernance",
+   "nature": "mixte (rédaction dominante)",
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "intitule": "Évaluation du groupe Bel",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "1.1 rentabilité exigée par le MEDAF · 1.2 valeur d'entreprise par les FTD 2021-2024 puis valeur des CP et valeur théorique de l'action · 1.3 multiples VGE/EBIT (intérêt et limite) · 1.4 prime offerte par rapport aux cours de bourse · 1.5 commenter la fourchette de négociation vs prix d'OPR (550 €)",
+   "rubriques_principales": "3.1|3.2|1.2",
+   "rubriques_secondaires": "6.3|3.3",
+   "techniques": "MEDAF_beta|DCF_FTD|multiples|prime_offre_publique",
+   "nature": "calcul dominant",
+   "source": "Drive UE 2 - 2024 Sujet (id 104sx5YzAUtqK24MerFtkuPjUE0oHfvzJ, scan lu en image)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "intitule": "Gouvernance et offre publique de retrait de Bel par Unibel",
+   "points": "7",
+   "total_points": "20",
+   "questions_resume": "2.1 définir OPR et retrait obligatoire · 2.2 motifs d'une OPR · 2.3 nouvelle structure d'actionnariat (actions, droits de vote théoriques et exerçables, droits de vote double) · 2.4 intérêt du retrait de la cote pour la direction · 2.5 conséquences en gouvernance au regard de la loi Copé-Zimmermann · 2.6 pourquoi la nomination d'une DG est un signal de bonne gouvernance (théorie)",
+   "rubriques_principales": "6.3|2.2",
+   "rubriques_secondaires": "6.2|1.1",
+   "techniques": "prime_offre_publique|droits_de_vote|gouvernance",
+   "nature": "mixte (rédaction dominante)",
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "3",
+   "intitule": "Responsabilité sociétale des entreprises",
+   "points": "5",
+   "total_points": "20",
+   "questions_resume": "3.1 différence RSE / ESG · 3.2 indicateurs extra-financiers et pilotage de la performance financière · 3.3 approche partenariale de Freeman, 4 parties prenantes et nature de la valeur créée · 3.4 société à mission vs approche actionnariale · 3.5 actionnariat salarié et création de valeur",
+   "rubriques_principales": "2.2",
+   "rubriques_secondaires": "1.1",
+   "techniques": "RSE_ESG|parties_prenantes|societe_a_mission",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "intitule": "Projet d'investissement avec options réelles",
+   "points": "4",
+   "total_points": "20",
+   "questions_resume": "1.1 hypothèses du modèle de Black et Scholes et utilité pour l'investissement · 1.2 définir option réelle et option d'expansion · 1.3 valeur de l'option (B&S) · 1.4 conclure sur l'opportunité d'investir",
+   "rubriques_principales": "4.1",
+   "rubriques_secondaires": "5.2|1.1",
+   "techniques": "Black_Scholes|option_reelle",
+   "nature": "mixte",
+   "source": "Drive UE 2 - 2023 Sujet (id 1vmELzVZlhy3QzHmb1OQrC_njX8ns2k9Y)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "intitule": "Gouvernance d'entreprise et évaluation",
+   "points": "10",
+   "total_points": "20",
+   "questions_resume": "P1 : 1.1 gouvernance et mécanismes internes/externes · 1.2 géographie du capital et mode de gouvernance · 1.3 analyse des éléments de gouvernance · 1.4 qualités d'un administrateur indépendant. P2 : 2.1 CMPC · 2.2 covariance (Ra,Rm) en tableau · 2.3 prix de l'action par DCF (FTD) · 2.4 prix par multiples (CA, EBIT, PER) · 2.5 méthodes applicables à un fonds de commerce ?",
+   "rubriques_principales": "2.2|3.1|3.2|1.2",
+   "rubriques_secondaires": "3.3|4.3",
+   "techniques": "gouvernance|CMPC|covariance_risque|DCF_FTD|multiples|fonds_de_commerce",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "intitule": "RSE et gestion du risque de taux",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "P1 : 1.1 DPEF, obligation ou non · 1.2 notation extra-financière, agences. P2 : 1.1 nature du risque de taux (emprunt à taux variable) · 1.2 intérêts avec/sans swap selon deux scénarios d'Euribor (tableau)",
+   "rubriques_principales": "2.2|5.2",
+   "rubriques_secondaires": "",
+   "techniques": "RSE_ESG|notation|couverture_taux",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "1",
+   "intitule": "Diagnostic financier (Sopra Steria, comptes consolidés IFRS)",
+   "points": "30",
+   "total_points": "100",
+   "questions_resume": "Q1 marge opérationnelle, ROCE (EBIT), ROE 2019-2020 · Q2 gearing, capacité de remboursement (EBITDA), structure financière · Q3 diagnostic 2016-2020 · Q4 comparaison sectorielle",
+   "rubriques_principales": "2.1",
+   "rubriques_secondaires": "4.3",
+   "techniques": "diagnostic_ratios",
+   "nature": "mixte",
+   "source": "Drive UE 2 - 2022 Sujet 1 (id 1Qr9Fd5saASC2L5ZWz5dUwUPTkVRpk90P)"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "2",
+   "intitule": "Diagnostic RSE et gouvernance",
+   "points": "30",
+   "total_points": "100",
+   "questions_resume": "Q1 critères ESG · Q2 communiqué, DPEF · Q3 CDP · Q4 axes de responsabilité sociale · Q5.1 CA et codes de gouvernance · Q5.2 théorie de l'agence (Jensen-Meckling) · Q5.3 rôle de la politique de dividende · Q5.4 non-distribution 2020",
+   "rubriques_principales": "2.2|6.1",
+   "rubriques_secondaires": "1.1",
+   "techniques": "RSE_ESG|gouvernance|dividende_theories",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S1",
+   "dossier": "3",
+   "intitule": "Ingénierie financière (OPE EEGS Design / EVA Group)",
+   "points": "40",
+   "total_points": "100",
+   "questions_resume": "Q1 cours nécessaire pour une prime de 25 % · Q2 lien dividende/cours, dividende exceptionnel · Q3 valeur de l'action après OPE · Q4 transfert de richesse · Q5 motivations, synergies · Q6 effets dilutif/relutif sur BPA",
+   "rubriques_principales": "6.3|6.1",
+   "rubriques_secondaires": "",
+   "techniques": "parite_fusion|BPA_relution|dividende_theories",
+   "nature": "calcul dominant",
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S2",
+   "dossier": "1",
+   "intitule": "Diagnostic financier (Energy+)",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 marges et profitabilité · Q2 rentabilité économique et financière · Q3 risques",
+   "rubriques_principales": "2.1",
+   "rubriques_secondaires": "",
+   "techniques": "diagnostic_ratios",
+   "nature": "mixte",
+   "source": "Drive UE 2 - 2022 Sujet 2 (id 1rtDWgUUkWy8xpzq-gL7qliR6c7h92uMj)"
+  },
+  {
+   "annee": "2022-S2",
+   "dossier": "2",
+   "intitule": "Gouvernance et turnover du dirigeant",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 gouvernance, objectif du dirigeant en approche actionnariale, réduction des conflits d'intérêts · Q2 code AFEP-MEDEF et protocole de départ de la dirigeante",
+   "rubriques_principales": "2.2",
+   "rubriques_secondaires": "1.1",
+   "techniques": "gouvernance",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S2",
+   "dossier": "3",
+   "intitule": "Réaction des marchés financiers",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 efficience informationnelle (Fama) · Q2 apports de la finance comportementale · Q3 expliquer l'évolution du cours selon les deux paradigmes",
+   "rubriques_principales": "1.1",
+   "rubriques_secondaires": "",
+   "techniques": "efficience_finance_comportementale",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2022-S2",
+   "dossier": "4",
+   "intitule": "RSE",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 approche partenariale vs actionnariale · Q2 parties prenantes d'un groupe en transition énergétique · Q3 matrice de matérialité (enjeux cruciaux)",
+   "rubriques_principales": "2.2",
+   "rubriques_secondaires": "",
+   "techniques": "RSE_ESG|parties_prenantes",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "intitule": "Projet d'investissement immobilier",
+   "points": "50",
+   "total_points": "100",
+   "questions_resume": "1.1-1.4 rendement espéré, covariance, bêta, MEDAF · 2.1-2.3 capital-investissement, formes, rôle de BPI · 3.1-3.2 marché immobilier et risques · 3.3 VAN de deux projets · 3.4-3.6 annuité équivalente, horizon commun, conclusion",
+   "rubriques_principales": "1.2|4.1|4.2",
+   "rubriques_secondaires": "1.3|3.3",
+   "techniques": "covariance_risque|MEDAF_beta|capital_investissement|immobilier|VAN_TRI|annuite_equivalente",
+   "nature": "mixte (calcul dominant)",
+   "source": "Drive UE 2 - 2021 Sujet (id 1-oQPs0WPlB63eNPDLA49tNnh4qgeGcXz)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "intitule": "Opération de restructuration",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "1.1 motivations d'un rapprochement · 1.2 parité d'échange · 1.3 cours théorique du groupe fusionné, création de valeur",
+   "rubriques_principales": "6.3",
+   "rubriques_secondaires": "",
+   "techniques": "parite_fusion",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "intitule": "Couverture du risque de change (et crypto-actifs)",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "1.1-1.2 crypto-actif le plus connu, avantages/inconvénients · 2.1 type de risque de change · 2.2 gains/pertes : contrat à terme vs option · 2.3 choix",
+   "rubriques_principales": "5.2|6.5",
+   "rubriques_secondaires": "",
+   "techniques": "blockchain_crypto|couverture_change",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "intitule": "Création de valeur et financement obligataire",
+   "points": "50",
+   "total_points": "100",
+   "questions_resume": "1.1-1.3 EVA (définition, calcul avec CMPC, dividendes) · 2.1-2.6 duration, sensibilité, prix d'émission, TRAB vs nominal, coupon couru, valeur de revente · 2.7-2.8 financement participatif en capital (plateforme), avantages/limites",
+   "rubriques_principales": "2.2|1.3|4.2",
+   "rubriques_secondaires": "1.2|6.5|6.1",
+   "techniques": "EVA|CMPC|obligations_duration|crowdfunding",
+   "nature": "mixte (calcul dominant)",
+   "source": "Drive UE 2 - 2020 Sujet (id 1Xmm-xydHTrtgCjO7lu1bFq_fgSNlJUBI)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "intitule": "Gestion du risque de taux et de la trésorerie",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "1.1-1.2 collar (définition, différentiels d'intérêts et primes) · 2.1-2.3 netting (intérêt, schéma, soldes) · 2.4 blockchain et trésorerie",
+   "rubriques_principales": "5.2|5.1",
+   "rubriques_secondaires": "6.5",
+   "techniques": "couverture_taux|netting_cash_pooling|blockchain_crypto",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "3",
+   "intitule": "Évaluation d'une start-up",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "1.1 limites des méthodes traditionnelles · 1.2 facteurs d'évaluation d'une start-up · 1.3 Venture Capital Method",
+   "rubriques_principales": "3.3",
+   "rubriques_secondaires": "4.2",
+   "techniques": "start_up_VC",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2019",
+   "dossier": "1",
+   "intitule": "Étude de cas Éditlivres (montage financier, notation, évaluation, risque de taux)",
+   "points": "75",
+   "total_points": "100",
+   "questions_resume": "Q1-4 performance, structure financière (gearing, capacité de remboursement), TFT, intérêt du montage · Q5 notation · Q6 coût de la dette, des CP, CMPC · Q7-8 DCF et limites · Q9-12 risque d'un portefeuille obligataire, sensibilité, couverture par contrats Euro Bund",
+   "rubriques_principales": "2.1|3.1|5.2",
+   "rubriques_secondaires": "1.2|4.3|6.4|2.2",
+   "techniques": "diagnostic_ratios|TFT|notation|CMPC|DCF_FTD|obligations_duration|couverture_taux",
+   "nature": "mixte (calcul dominant)",
+   "source": "Drive UE 2 - 2019 Sujet (id 1EMmWRPbDVAG5I3bZOBH_LOR25pQUlHNY)"
+  },
+  {
+   "annee": "2019",
+   "dossier": "2",
+   "intitule": "Réflexion : la gestion de la dette et le LBO",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "dissertation 4 pages : avantages/faiblesses des LBO et incidences sur la gestion de la dette",
+   "rubriques_principales": "6.3|6.4",
+   "rubriques_secondaires": "4.3",
+   "techniques": "LBO|dissertation",
+   "nature": "rédaction (réflexion)",
+   "source": "idem"
+  },
+  {
+   "annee": "2018",
+   "dossier": "1",
+   "intitule": "Étude de cas LVMH (risque de marché et diagnostic consolidé)",
+   "points": "75",
+   "total_points": "100",
+   "questions_resume": "A : rentabilités moyennes, variances, bêta, couple rentabilité-risque, risque spécifique/systématique, diversification · B : profitabilité, rentabilité économique et financière, endettement/solvabilité/liquidité, conclusion",
+   "rubriques_principales": "1.2|2.1",
+   "rubriques_secondaires": "1.3",
+   "techniques": "covariance_risque|MEDAF_beta|diagnostic_ratios",
+   "nature": "calcul dominant",
+   "source": "Drive UE 2 - 2018 Sujet (id 1MczojRte0WpBtcz1k-o6syDZrGNz7k2j)"
+  },
+  {
+   "annee": "2018",
+   "dossier": "2",
+   "intitule": "Réflexion : innovation et modes de financement",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "dissertation 4 pages : innovation, lien innovation-financement, modes de financement",
+   "rubriques_principales": "4.2|6.5",
+   "rubriques_secondaires": "",
+   "techniques": "capital_investissement|dissertation",
+   "nature": "rédaction (réflexion)",
+   "source": "idem"
+  },
+  {
+   "annee": "2017",
+   "dossier": "1",
+   "intitule": "Étude de cas CARBIOS (introduction en bourse, évaluation)",
+   "points": "75",
+   "total_points": "100",
+   "questions_resume": "Q1-4 avantages/inconvénients d'une IPO, objectifs, alternative, option de surallocation, dilution · Q5-8 refus des comparables, DCF, flottant, regroupement d'actions",
+   "rubriques_principales": "6.2|3.1|4.2",
+   "rubriques_secondaires": "3.2",
+   "techniques": "IPO|DCF_FTD|multiples",
+   "nature": "mixte",
+   "source": "Drive UE 2 - 2017 Sujet (id 1MgzbWuHD_0l1ZkffISpMYYBFqrDCsIpc)"
+  },
+  {
+   "annee": "2017",
+   "dossier": "2",
+   "intitule": "Réflexion : couverture des risques financiers",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "dissertation sur la couverture des risques financiers (change) à partir d'un article",
+   "rubriques_principales": "5.2",
+   "rubriques_secondaires": "",
+   "techniques": "couverture_change|dissertation",
+   "nature": "rédaction (réflexion)",
+   "source": "idem"
+  },
+  {
+   "annee": "2016",
+   "dossier": "1",
+   "intitule": "Étude de cas GLI (diagnostic, coût du capital, évaluation DCF)",
+   "points": "75",
+   "total_points": "100",
+   "questions_resume": "Q1-4 résultats, ROE, gearing, capacité de remboursement, diagnostic · Q5-7 coût de la dette, bêta d'activité des comparables, bêta des CP, CMPC · Q8-9 FTD prévisionnels, valeur des CP",
+   "rubriques_principales": "2.1|1.2|3.1",
+   "rubriques_secondaires": "4.3|6.3",
+   "techniques": "diagnostic_ratios|MEDAF_beta|CMPC|DCF_FTD",
+   "nature": "calcul dominant",
+   "source": "Drive UE 2 - 2016 Sujet (id 1VNy6oiftNIYFoTox6UcIJlwDCvyNax58)"
+  },
+  {
+   "annee": "2016",
+   "dossier": "2",
+   "intitule": "Réflexion : opérations de croissance externe",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "dissertation sur les opérations de croissance externe",
+   "rubriques_principales": "6.3",
+   "rubriques_secondaires": "",
+   "techniques": "fusions_acquisitions|dissertation",
+   "nature": "rédaction (réflexion)",
+   "source": "idem"
+  }
+ ],
+ "jury_toutes_observations": [
+  {
+   "annee": 2020,
+   "page": "p. 7",
+   "observation": "Format modifié : la question de réflexion (25 % des points) est remplacée par de petites questions de cours insérées dans le sujet.",
+   "rubriques": "",
+   "difficulte_candidats": false,
+   "consequence": "S'entraîner aux questions de cours courtes intégrées au cas, pas à la dissertation."
+  },
+  {
+   "annee": 2020,
+   "page": "p. 7",
+   "observation": "Seule vraie nouveauté du programme dans le sujet : la question sur la blockchain.",
+   "rubriques": "6.5",
+   "difficulte_candidats": false,
+   "consequence": "Connaître définitions et usages de la blockchain en finance/trésorerie."
+  },
+  {
+   "annee": 2020,
+   "page": "p. 7",
+   "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+   "rubriques": "2.2|6.5|1.3|3.3",
+   "difficulte_candidats": false,
+   "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 7",
+   "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+   "rubriques": "1.2|4.1|5.2|6.5",
+   "difficulte_candidats": false,
+   "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 7-8",
+   "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
+   "rubriques": "2.2|6.5|1.1",
+   "difficulte_candidats": false,
+   "consequence": "Fiches synthétiques sur chacun de ces thèmes."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 3-4",
+   "observation": "Taux de réussite UE2 = 23,86 % ; 30,1 % des copies < 6.",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "UE à fort taux d'élimination : sécuriser le socle calculatoire."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 22",
+   "observation": "D1 « classique, essentiellement calculatoire » : MEDAF puis trois méthodes d'évaluation pour une fourchette de négociation (OPR Bel).",
+   "rubriques": "1.2|3.1|3.2|6.3",
+   "difficulte_candidats": false,
+   "consequence": "Savoir enchaîner MEDAF → DCF → multiples → fourchette."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 22",
+   "observation": "Gouvernance après OPR : loi Copé-Zimmermann, théorie de l'agence ; D3 RSE/ESG, parties prenantes, société à mission, actionnariat salarié.",
+   "rubriques": "2.2|6.3",
+   "difficulte_candidats": false,
+   "consequence": "Gouvernance et RSE = tiers du sujet ou plus."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 23",
+   "observation": "Candidats sans connaissances de base « (FTD ; RSE/ESG, etc.) », réponses non contextualisées, concepts théoriques fondamentaux non maîtrisés.",
+   "rubriques": "3.1|2.2|1.1",
+   "difficulte_candidats": true,
+   "consequence": "Retravailler le calcul des FTD et les définitions RSE/ESG ; contextualiser."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 23-24",
+   "observation": "« la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique » ; articuler cours, théorie et exemples ; tableaux (TFT).",
+   "rubriques": "2.2|1.1",
+   "difficulte_candidats": false,
+   "consequence": "Intégrer systématiquement une dimension ESG dans les conseils."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 25",
+   "observation": "D1 : coût du capital d'une société non cotée par le MEDAF (comparables) ; VAN/TIR de projets exclusifs et divergences.",
+   "rubriques": "1.2|4.1",
+   "difficulte_candidats": false,
+   "consequence": "Maîtriser bêta désendetté/réendetté et conflit VAN/TRI."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 26",
+   "observation": "Questions de niveau DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) jugées légitimes : « les acquis du DCG constituent un préalable indispensable ».",
+   "rubriques": "4.1|4.2",
+   "difficulte_candidats": false,
+   "consequence": "Revoir les mathématiques financières du DCG."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 26",
+   "observation": "« la faible maîtrise […] de certains mécanismes du LBO, en particulier le calcul des annuités constantes ».",
+   "rubriques": "6.3|4.2",
+   "difficulte_candidats": true,
+   "consequence": "Refaire un montage LBO complet (holding, dette senior/junior, remontée de dividendes)."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 26",
+   "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+   "rubriques": "6.5|6.1|4.2",
+   "difficulte_candidats": true,
+   "consequence": "Réserver du temps au dernier dossier rédactionnel."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 26-27",
+   "observation": "Méconnaissance des concepts théoriques fondamentaux « notamment en finance d'entreprise » ; posture d'analyste et de conseiller ; tableaux systématiques.",
+   "rubriques": "1.1|6.1",
+   "difficulte_candidats": true,
+   "consequence": "Fiches auteurs/théories (MM, agence, signal, Fama, Gordon)."
+  }
+ ],
+ "programme_complet": [
+  {
+   "code": "1.1",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur en finance",
+   "notions": "marchés financiers et financement de l'économie, efficience (hypothèse, formes), hypothèses des modèles, aspects psychologiques et humains (finance comportementale), regard critique sur la finance classique"
+  },
+  {
+   "code": "1.2",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur et le risque",
+   "notions": "MEDAF (fondements, usage pratique, limites), modèle de Fama et French et dérivés, mesure des primes de risque"
+  },
+  {
+   "code": "1.3",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur et la performance",
+   "notions": "cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes"
+  },
+  {
+   "code": "2.1",
+   "partie": "2. Diagnostic approfondi (20 h)",
+   "intitule": "Analyse financière des comptes consolidés",
+   "notions": "diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie"
+  },
+  {
+   "code": "2.2",
+   "partie": "2. Diagnostic approfondi (20 h)",
+   "intitule": "Analyse extra-financière",
+   "notions": "gouvernance d'entreprise, RSE et critères extra-financiers, création de valeur et sa répartition (EVA), notation et scoring"
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Évaluation par les flux",
+   "notions": "flux revenant aux apporteurs de capitaux / aux actionnaires, business plan, rôle de l'actualisation"
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Évaluation par approche comparative",
+   "notions": "choix des inducteurs, échantillon de comparables, effets des paramètres sous-jacents, avantages et limites"
+  },
+  {
+   "code": "3.3",
+   "partie": "3. Évaluation de l'entreprise (20 h)",
+   "intitule": "Autres évaluations particulières et spécifiques",
+   "notions": "ANR et goodwill, approche immobilière, start-up, approches sectorielles"
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Investissement et désinvestissement",
+   "notions": "critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation"
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Modalités de financement",
+   "notions": "fonds propres et quasi-fonds propres, financements bancaires, obligataires, court terme (euro PP), capital-investissement, financements publics"
+  },
+  {
+   "code": "4.3",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Le choix d'une structure de financement",
+   "notions": "arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement"
+  },
+  {
+   "code": "5.1",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La gestion des flux de trésorerie au sein d'un groupe",
+   "notions": "centralisation de trésorerie, opérations intragroupe, supports de financement et de placement"
+  },
+  {
+   "code": "5.2",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La gestion des risques",
+   "notions": "couverture change et taux (marchés organisés, gré à gré), options et Black-Scholes, swaps, forward, futures, structure des taux"
+  },
+  {
+   "code": "5.3",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La fraude et le blanchiment des capitaux",
+   "notions": "réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie"
+  },
+  {
+   "code": "6.1",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "La politique de dividende",
+   "notions": "théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux"
+  },
+  {
+   "code": "6.2",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "La gestion de la valeur de l'action",
+   "notions": "rachats d'actions, opérations sur le nombre d'actions, restructurations (APA, scission), introductions en bourse"
+  },
+  {
+   "code": "6.3",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les fusions et acquisitions",
+   "notions": "synergies, holdings, opérations à effet de levier (LBO), offres publiques"
+  },
+  {
+   "code": "6.4",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les opérations sur les dettes et sur les créances",
+   "notions": "defeasance, titrisation"
+  },
+  {
+   "code": "6.5",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les innovations financières",
+   "notions": "fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données"
+  }
+ ]
+}

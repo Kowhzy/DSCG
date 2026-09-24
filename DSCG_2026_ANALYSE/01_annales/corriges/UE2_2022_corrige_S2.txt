@@ -1,0 +1,357 @@
+=== PAGE 1 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 1/7 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ 
+ET DE GESTION 
+ 
+ 
+UE2 – FINANCE 
+ 
+ 
+ 
+ 
+ 
+SESSION 2022 
+ 
+ 
+ 
+ 
+ 
+Éléments indicatifs de corrigé et barème national 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 2 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 2/7 
+DOSSIER 1 – DIAGNOSTIC FINANCIER 
+ 
+ 
+1. Faire le diagnostic de l’évolution des marges et de la profitabilité ;  
+ 
+1. La marge brute est un indicateur de positionnement sur un produit par rapport à un marché. Elle 
+permet de comprendre immédiatement le positionnement du groupe entre les achats et les ventes 
+et donc d’apprécier le pouvoir que le groupe peut avoir sur son secteur, ses fournisseurs, ses 
+clients, ses concurrents. La marge brute se détériore de manière significative entre 2019 et 2021 
+puisqu’elle perd 11,64 points. Cela préjuge de difficultés à venir.  
+2. L’EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) n’a pas de définition 
+officielle. Il ressemble à l’EBE. Il fournit une indication de la performance du groupe avant effet des 
+choix d’investissement, de financement et de l’impôt. Contrairement à la marge brute, l’EBITDA 
+progresse de 1,83 points sur la période étudiée. 
+3. De même, l’EBIT (Earnings Before Interest and Taxes), qui est un indicateur proche du REX ou 
+ROC, progresse de 0,34 points même si le taux reste faible en 2021 à 5,94%. Comparativement à 
+l’EBITDA, cet indicateur est affecté par le choix des méthodes et durées d’amortissement des 
+immobilisations. 
+4. La profitabilité de cette société est faible puisqu’elle s’élève en 2021 à 1,55 euros pour 100 euros 
+de chiffre d’affaires. De plus, elle se dégrade sur la période de 0,41 points.  
+ 
+2. Faire le diagnostic de la rentabilité financière et économique ; 
+ 
+1. Le ROE (Return on Equity) est le ratio qui mesure la rentabilité des capitaux propres. Cet 
+indicateur diminue durant la période pour passer de 3,13% en 2019 à 2,59% en 2021. Autrement 
+dit, en 2021 pour 100 euros de capitaux propres, Energy+ ne dégageait qu’un bénéfice de 2,59 
+euros.  
+2. Le ROCE (Return on Capital Employed) vise à mesurer la rentabilité et l’efficacité des 
+investissements en capital nécessaires à l’activité d’une firme. Comme pour le ROE, les ROCE 
+annuels sont bas et se dégradent pour atteindre 3% en 2021 au lieu de 3,42% en 2019. Notons que 
+les ROCE sont supérieurs au ROE, ce qui suppose un effet pénalisant lié à l’endettement trop 
+important de ce groupe, qui en vient à dégrader la rentabilité destinée aux actionnaires (ROE). 
+ 
+3. Faire le diagnostic des risques d’Energy+. 
+ 
+1. Le ratio de liquidité réduite est un indicateur qui permet d’apprécier la capacité de la firme à honorer 
+ses dettes à court terme (moins d’un an) avec ses actifs à moins d’un an réputés liquides donc sans 
+tenir compte des stocks dont l’éventualité d’une vente n’est pas certaine. Cet indicateur doit par 
+convention est supérieur à 80%. La liquidité d’Energy+ est excellente puisqu’elle est supérieure à 
+100% sur l’ensemble de la période. Elle diminue légèrement passant de 105,3% à 104,5%. 
+2. Le ratio de solvabilité appréhende la capacité de la firme à honorer ses engagements avec ses 
+dettes non exigibles à savoir ses capitaux propres. Cet indicateur fait le rapport entre les capitaux 
+propres et le total bilan. En l’occurrence pour Energy+, la solvabilité n’est pas assez bonne sur les 
+trois années mais surtout se dégrade pour passer de 28,06% en 2019 à 23,80% en 2021. Cette 
+dégradation suit elle les contreperformances identifiées précédemment ?  
+3. Le ratio d’endettement qui mesure le niveau d’endettement de la firme comparé à ses capitaux 
+propres ne doit pas être supérieur à 100%. En effet, les créanciers apportent un euro quand les 
+actionnaires fournissent le même euro. Dans ce cas, le niveau d’endettement d’Energy+ est trop 
+important et s’aggrave sur les trois années passant de 136% à 180% en 2021. Sur cet indicateur, 
+le niveau de risque pris par le groupe est trop important. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 3 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 3/7 
+DOSSIER 2 – GOUVERNANCE ET TURNOVER DU DIRIGEANT 
+ 
+1. Définir ce qu’est la gouvernance des entreprises. Quel est l’objectif du dirigeant dans le 
+cadre d’une approche actionnariale ? Comment réduit-on les divergences d’intérêt entre 
+le dirigeant et les actionnaires ? 
+ 
+La gouvernance des entreprises désigne l’ensemble des mécanismes qui ont pour effet de délimiter les 
+pouvoirs et d’influencer les décisions des dirigeants, autrement dit, qui « gouvernent » leur conduite et 
+définissent leur espace discrétionnaire, selon Charreaux (1997).  
+ 
+Si le dirigeant ne détient pas directement d’actions, il n’a pas d’incitation à maximiser la performance 
+de la firme, c’est à dire la rente des actionnaires. Le dirigeant a pour objectif de maximiser la création 
+de valeur actionnariale. 
+ 
+Des divergences d’intérêt entre les actionnaires et le dirigeant peuvent exister. Pour cela des coûts 
+d’agence sont mis en œuvre pour réduire ces divergences au travers des mécanismes de gouvernance : 
+des coûts de contrôle mis en œuvre par le conseil d’administration, des coûts de dédouanement mis en 
+œuvre par le dirigeant. Une perte résiduelle persiste malgré les coûts précédemment cités. 
+ 
+2. Quelles sont les dispositions prévues par le code AFEP-MEDEF et dans quelles mesures 
+le protocole d’accord (Annexe 3) conclut entre Energy+ et son ancienne dirigeante 
+respecte-t-il ces dispositions ?  
+ 
+- 
+Rôle majeur donné aux actionnaires : dans le protocole d’accord, chaque proposition est soumise 
+à l’approbation en AG des actionnaires. 
+ 
+- 
+Indemnités de départ soumises à des conditions de performance : dans le protocole d’accord, un 
+taux de réussite est imposé à hauteur de 94,5% pour l’exercice 2021. 
+ 
+- 
+Conditions de performance appréciées sur deux années au moins : dans le protocole d’accord, 
+seule l’année 2021 est mentionnée donc les deux exercices d’appréciation ne sont pas respectés. 
+ 
+- 
+Départ contraint du dirigeant : effectivement non-renouvellement des fonctions de Directeur Général 
+par le conseil d’administration (cf. introduction du cas) début 2022. 
+ 
+- 
+Indemnité de départ ne doit pas dépasser deux ans de rémunérations (fixe et variable) : dans le 
+protocole d’accord, indemnité de 672.736 euros bruts qui correspond à une valeur inférieure aux 
+montants fixes (1 000 000 euros, cf. annexe 4) et variables (661.500 euros bruts pour 2021). Ces 
+chiffres laissent supposer que l’indemnité de départ est dans la limite fixée par le code. 
+ 
+- 
+Indemnité de non-concurrence plafonnée avec l’indemnité de départ à deux années de 
+rémunérations : dans le protocole d’accord, indemnité de 1.231.320 euros bruts qui correspond bien 
+au montant plafond fixé par le code. 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 4 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 4/7 
+DOSSIER 3 – REACTION DES MARCHES FINANCIERS 
+ 
+1. Quels sont les enseignements de la théorie de l’efficience informationnelle des marchés 
+financiers développée par Eugène Fama ? Quels sont les postulats de départ de cette 
+théorie ? Quel est le degré d’efficience d’un marché comme Euronext ? 
+ 
+L’hypothèse des marchés financiers suggère que le prix des actions est « juste ». Le cours boursier 
+reflète la valeur de chaque action compte tenu de l’information disponible sur les marchés. L’hypothèse 
+des marchés financiers efficients suggère sur le long terme que les revenus générés sont positifs. Cette 
+hypothèse sous-entend que les investisseurs ne peuvent pas battre de manière répétée et régulière le 
+marché. 
+Les postulats de départ sont :  
+ 
+- 
+les individus sont rationnels : Un investisseur rationnel cherche à maximiser sa rentabilité pour un 
+niveau de risque donné. 
+ 
+- 
+le marché assure la liquidité des titres : l’efficacité informationnelle est possible car les marchés 
+sont bien organisés (efficacité organisationnelle) et très concurrentiels et les changements de prix 
+suivent une marche aléatoire (les évolutions futures sont impossibles à prévoir car elles sont 
+totalement aléatoires). 
+ 
+- 
+l’accès à l’information est libre pour tous ;  
+ 
+- 
+les coûts de transaction comme l’imposition sont faibles. 
+ 
+Le degré d’efficience d’un marché comme Euronext est a priori dit « semi fort ». Le prix des actions 
+reflète non seulement toute l’information contenue dans les mouvements de prix passés mais aussi 
+toute l’information publique disponible. Il n’y a donc pas de bénéfices dans l’analyse de l’information 
+existante (rapports annuels, annonces de dividendes, salaires des nouveaux dirigeants…) après que 
+l’information a été révélée. Le marché des actions a déjà répercuté cette information dans le prix actuels 
+des actions. 
+ 
+2. Quels les apports de la finance comportementale dans la compréhension de l’irrationalité 
+des investisseurs ? 
+ 
+- 
+La finance comportementale prend appui sur les travaux de psychologues comme Daniel 
+Khaneman et Amos Tversky (1979).  
+ 
+- 
+Elle mesure les écarts entre le processus décisionnel humain (homo sapiens) et le processus 
+décisionnel rationnel (homo economicus).  
+ 
+- 
+Elle permet de comprendre les anomalies sur les marchés des actions dont les sur réactions et 
+les sous-réactions, la formation des bulles et le pessimiste irrationnel.  
+ 
+- 
+Elle identifie les comportements irrationnels des individus comme l’aversion à la perte, l’hubris 
+(orgueil) se traduisant par sur optimisme ou de la sur-confiance doublée par une illusion de 
+contrôle.  
+ 
+- 
+Des biais de représentativité ou d’ancrage sont aussi identifiés ainsi que l’instinct grégaire ou 
+mimétisme qui explique la formation de bulle ou l’aggravation de crises.  
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 5/7 
+3.  Expliquez l’évolution du cours boursier d’Energy+ (annexe 5) selon ces deux paradigmes 
+de l’efficience et de la finance comportementale. Argumentez cette baisse du cours 
+boursier à partir de J.  
+ 
+En considérant l’hypothèses d’efficience les investisseurs craignent une diminution des performances 
+de l’entreprise et ne comprennent pas la validation économique de ce choix. En raisonnant en intégrant 
+les biais mis en évidence par la finance comportementale : les investisseurs se demandent comment 
+les autres investisseurs vont réagir et risquent d’accentuer un biais de sous-confiance initial dans la 
+société par des phénomènes de mimétisme  
+ 
+La chute du cours boursier d’Energy+ durant la journée d’annonce J du non-renouvellement du mandat 
+de la directrice générale (annexe 5) s’explique par l’adoption d’un raisonnement à court terme par les 
+investisseurs au détriment d’un investissement à long terme. En effet, les investissements dans la 
+transition énergétique réalisés par l’entreprise sont obérés par cette annonce qui laisse présager une 
+revente du titre de façon imminente. Ce raisonnement est en contradiction avec l’hypothèse d’efficience 
+des marchés financiers qui suppose que les investisseurs rationnels vont privilégier les investissements 
+à long terme puisqu’ils ont du sens économique. Ainsi, un comportement de court terme est jugé plutôt 
+de manière irrationnelle. Anticipant une vente du titre sur le marché, les investisseurs vont vendre pour 
+limiter leurs pertes à court terme créant une prophétie autoréalisatrice où la baisse sera effective suite 
+à ces premières ventes. Ce comportement est renforcé par le phénomène social de mimétisme où les 
+investisseurs vont vendre car d’autres dont les investisseurs institutionnels vendent en premier. 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 6 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 6/7 
+DOSSIER 4 – RSE 
+ 
+1. Qu’est que l’approche partenariale de la gouvernance ? Quelles sont les différences 
+entre l’approche partenariale et l’approche actionnariale de la gouvernance ?  
+ 
+L’entreprise évolue dans un écosystème complexe, en interaction avec un ensemble de partenaires.  
+Selon Charreaux (2020), la gouvernance partenariale est « un système institutionnel, qui en encadrant 
+les décisions des dirigeants, influence l’efficience des organisations dans l’utilisation qu’elles font des 
+ressources qui leur sont apportées par les différentes parties prenantes. Cette perspective est 
+partenariale en retenant l’ensemble des parties prenantes, elle permet d’intégrer la notion de 
+responsabilité sociale de l’organisation. » 
+ 
+Dans l’approche de la gouvernance partenariale, la création de valeur doit se faire en tenant compte 
+des multiples parties prenantes (pour une liste non exhaustive : investisseurs, dirigeants, salariés, 
+syndicats, clients/ utilisateurs, fournisseurs et associés de la chaine d’approvisionnement, partenaires 
+et alliés, communauté locale, gouvernement, autorités réglementaires, ONG, citoyens…).  
+ 
+Dans l’approche partenariale, l’entreprise :  
+- 
+Poursuit un objectif social plus large ; 
+- 
+Doit créer de la valeur pour la société. Elle a de multiples obligations notamment RSE ;  
+- 
+Doit prendre en considération toutes les parties prenantes.  
+ 
+Dans l’approche actionnariale, l’entreprise doit maximiser les profits pour les actionnaires (propriétaires 
+et créanciers résiduels). 
+ 
+2. Quelles sont les différentes parties prenantes pour un groupe en transition énergétique 
+comme Energy+ ? 
+ 
+Les différentes parties prenantes sont les actionnaires, les investisseurs, les agences de notation, les 
+clients privés et publics, les fournisseurs, le monde académique, les citoyens, les ONG, les salariés du 
+groupe, les syndicats.  
+ 
+3. Classez les enjeux cruciaux pour le groupe et pour les parties prenantes selon six 
+items. Comparez les enjeux les plus cruciaux pour les parties prenantes et 
+l’engagement RSE d’Energy+ dans la création de valeur  
+ 
+Social :  
+- 
+Santé et sécurité au travail 
+- 
+Dialogue social 
+- 
+Motivation des salariés 
+- 
+Droits humains 
+Sociétal : 
+- 
+Sécurité des installations 
+- 
+Chaîne d’approvisionnement responsable (achats) 
+- 
+Communautés  
+Environnement : 
+- 
+Lutte contre le changement climatique (climat) 
+- 
+Préservation de l’environnement 
+ 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+2022 DSCG-UE2 
+FINANCE 
+Page 7/7 
+Affaires : 
+- 
+Innovation et adaptation 
+- 
+Relations et satisfaction clients 
+- 
+Efficacité énergétique 
+- 
+Sécurité et utilisation des données (cybersécurité) 
+Gouvernance : 
+- 
+Éthique et conformité 
+- 
+Réputation et transparence (transparence) 
+- 
+Management des risques (risques) 
+Finance : 
+- 
+Solidité financière 
+- 
+Croissance à long terme (croissance durable) 
+L’enjeu le plus crucial partagé par le groupe et par les parties prenantes concerne l’enjeu sociétal de la 
+sécurité des installations.  
+ 
+Les enjeux les plus cruciaux, en haut du graphique, pour les parties prenantes concernent 
+l’environnement avec la lutte pour le climat et contre le changement climatique et dans une moindre 
+mesure la préservation de l’environnement. Parmi les enjeux globaux, les communautés (ONG, 
+collectivités, etc.) sont un enjeu sociétal crucial. Les enjeux internes au groupe les plus appréciés par 
+les parties prenantes sont l’innovation en tant qu’enjeu des affaires, l’éthique et la conformité en tant 
+qu’enjeu de gouvernance et la santé au travail pour ce qui concerne les enjeux sociaux. Les enjeux 
+financiers sont moins importants pour les parties prenantes. 
+ 
+En revanche, pour Energy+ les enjeux financiers - comme la croissance durable et dans une moindre 
+mesure la solidité financière - sont importants. Dans les enjeux sociaux, contrairement aux parties 
+prenantes, la motivation des salariés prime sur la santé et la sécurité au travail, s. Les enjeux d’affaires 
+sont importants comme l’innovation, la satisfaction des clients et l’efficacité énergétique. L’enjeu de 
+l’environnement avec le climat est également une préoccupation.  
+ 
+Cette comparaison des enjeux cruciaux montre que le groupe reste focalisé sur la pérennité et sur la 
+viabilité financière et business de son revirement stratégique de transition écologique, là où les parties 
+prenantes s’attachent plus aisément à des enjeux plus globaux comme la protection de l’environnement, 
+sociétaux et sociaux. 
+FICHEBEN

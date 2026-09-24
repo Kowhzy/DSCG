@@ -1,0 +1,172 @@
+UE 3. Management et contrôle de gestion
+Niveau M – 180 heures – 20 ECTS
+Les compétences à acquérir doivent permettre de réaliser une étude liant le manage- ment et le contrôle de gestion, c’est pourquoi il est nécessaire d’avoir une approche qui intègre ces deux domaines dans une vision globale.
+1\. Modèles d’organisation et contrôle de gestion (30 heures)
+Dans une vision de management et de choix stratégiques, le contrôle de gestion devient support à l’analyse stratégique. Il s’agit alors de privilégier une approche « contrôle stra- tégique » et de construire les liens existants entre performance économique, perfor- mance financière et performance sociale et sociétale.
+1.1. Évolution des modèles d’organisation
+Sens et portée de l’étude Compétences Notions et contenus
+Approfondir les éléments de théorie des organisations, en particulier l’évolution des formes organisationnelles
+• Identifier les différentes formes structurelles
+• Caractériser les avantages et les inconvénients de chaque forme structurelle
+• Relier les contextes économiques et les formes organisationnelles
+• Évolution des formes structurelles et nouvelles formes d’organisations : structures par projet, réseaux
+• Transversalité et gestion par les processus
+• Entreprise virtuelle et nouvelles technologies de l’information et de la communication
+• Hybridation des structures organisationnelles (public/privé)
+1.2. Le positionnement du contrôle de gestion et l’identification du métier
+comme aide à la stratégie
+Sens et portée de l’étude Compétences Notions et contenus
+Le contrôle de gestion doit être appréhendé comme un apport à la stratégie, sans occulter ses limites, ses insuffisances par rapport à une démarche stratégique. Il doit vérifier l’adéquation des méthodes et des outils mis en œuvre, au regard de la stratégie puis des critères de performance globale et de création de valeur retenus.
+• Identifier le rôle de la fonction contrôle de gestion selon les organisations
+• Analyser la place du contrôle de gestion dans la mise en œuvre du développement durable et de la responsabilité sociale de l’entreprise
+• Le contrôle de gestion : son rôle et sa place dans les organisations en fonction des choix structurels
+• Le contrôleur de gestion, son travail d’information et de communication dans et pour l’entreprise
+• En lien avec l’éthique des affaires : la position éthique des individus et des managers, la responsabilité sociale de l’entreprise et le développement durable, l’éthique et la déontologie du contrôle de gestion
+1.3. Le contrôle de gestion et les systèmes d’information et de communication
+Sens et portée de l’étude Compétences Notions et contenus
+• Montrer comment et pourquoi les technologies de l’information et de la communication influencent l’approche puis la mise en œuvre du contrôle de gestion.
+• Identifier le rôle des nouvelles technologies utiles au contrôle de gestion
+• Caractériser ces technologies de l’information
+• Le contrôle de gestion et les progiciels de gestion intégrés
+• Le contrôle de gestion et les modes de transmission électronique de l’information
+• Le contrôle de gestion et les mégadonnées (Big Data)
+2\. Management stratégique (80 heures)
+Donner une vision stratégique permettant de comprendre l’environnement concurren- tiel dans lequel évolue l’organisation. Repérer les facteurs qui sous-tendent la capacité stratégique de l’entreprise et qui per- mettent aux managers de formuler des choix stratégiques.
+2.1. Analyse et choix stratégiques
+Sens et portée de l’étude Compétences Notions et contenus
+• Apporter les éléments essentiels de l’analyse stratégique et replacer l’organisation dans son environnement pour parvenir à la formulation de choix stratégiques.
+• Identifier les différentes étapes d’un diagnostic stratégique.
+• Mettre en œuvre des méthodes d’analyse des environnements externe et interne de l’entité.
+• Repérer les différentes stratégies d’une organisation.
+• Caractériser les différentes modalités de développement.
+• Rappel des principaux éléments de diagnostic stratégique et concept de chaîne de valeur
+• La notion de business model
+• Les risques stratégiques, organisationnels et opérationnels
+• Les critères de performance économique, financière, sociale, environnementale
+• Les choix stratégiques : – la segmentation stratégique et l’identification des domaines d’activité stratégique – les stratégies génériques : stratégie
+de coût et effet d’expérience, stratégie de différenciation, stratégie de focalisation – la compétition et la collaboration – le recentrage et la diversification
+• Les modalités de développement : – croissance interne, croissance externe – stratégies relationnelles et alliances
+2.2. Place et rôle du contrôle de gestion stratégique
+Sens et portée de l’étude Compétences Notions et contenus
+• Il s’agit de positionner le contrôle de gestion par rapport à l’audit et au contrôle interne en dégageant leurs similitudes et leurs nécessaires complémentarités.
+• L’accent est mis sur le rôle du contrôle de gestion dans la communication interne et externe.
+• Identifier les risques de l’entité.
+• Différencier les différents types d’audit et de contrôle.
+• Déterminer la contribution du contrôle de gestion à la maitrise des risques.
+• Le contrôle de gestion comme aide à la communication financière à destination des institutionnels et des partenaires
+• Les formes d’audit : interne et externe, légal et contractuel
+• Les champs de l’audit : opérationnel, stratégique, social, organisationnel
+• Le contrôle interne
+• Les relations de l’audit et du contrôle interne avec le contrôle de gestion
+• La dimension culturelle des outils de gestion
+2.3. Approche du marketing stratégique
+Sens et portée de l’étude Compétences Notions et contenus
+Appréhender le marché comme un processus de construction collective dans lequel parties prenantes et producteurs participent à la création de la valeur.
+• Distinguer les différents modes de communication
+• Caractériser les différents types de relations clients
+• Repérer et qualifier l’offre de valeur de l’organisation
+• Apprécier la pertinence de la politique marketing de l’entité
+• Les leviers d’action du marketing
+• La communication multicanale : gestion de communautés de marques et de l’e-réputation
+• Digitalisation et fidélisation du client
+• L’évolution du B to B : du produit à la solution par la définition d’un cahier des charges
+• L’évolution du B to C : du service à l’expérience client, de la valeur offerte à la valeur proposée, de la tarification dynamique (yield management) aux systèmes adaptatifs complexes (enchères en ligne)
+• Le rôle du big data : fluidité et densité des informations
+2.4. La gestion du périmètre de l’entité
+Sens et portée de l’étude Compétences Notions et contenus
+Appréhender les différentes modalités de gestion du périmètre de l’entité
+• Identifier les différentes politiques de gestion du périmètre
+• Distinguer les avantages et les inconvénients de chaque politique
+• Apprécier la politique de prix de cession interne
+• Le contrôle de gestion dans la mise en œuvre des politiques : – d’extension du périmètre
+(acquisitions, fusions) – de réduction du périmètre
+ou réorganisation au sein du groupe – de coopération (mise en commun d’activités dans les groupements d’intérêt économique, sociétés en participation, gestion déléguée) – de coordination (entreprise en réseau)
+• Les prix de cession interne et de transfert
+2.5. La planification et le diagnostic stratégique
+Sens et portée de l’étude Compétences Notions et contenus
+Analyser le contrôle de gestion comme aide au diagnostic et au choix de la stratégie
+• Traduire en plans prévisionnels les choix découlant des diagnostics stratégiques
+• Analyser un business model
+• Le contrôle de gestion et le diagnostic stratégique (analyse concurrentielle, technologique, organisationnelle)
+• Le contrôle de gestion et la planification
+• Le contrôle de gestion et les plans prévisionnels : plan d’activité, plan de financement, plan d’entreprise (business plan)
+• Intérêts et limites de la gestion budgétaire
+2.6. Analyse des parties prenantes et structures de gouvernance
+Sens et portée de l’étude Compétences Notions et contenus
+Aborder la problématique de la gouvernance des organisations en soulignant la cohérence souhaitable entre les structures de gouvernance et l’analyse des parties prenantes
+• Cartographier les parties prenantes et leurs attentes.
+• Identifier les enjeux contradictoires
+• Qualifier les types de gouvernance
+• Cartographie des grandes parties prenantes de l’organisation : les actionnaires et la « gouvernance de l’entité » ; les créanciers ; les clients et les usagers ; les salariés ; les fournisseurs et les pouvoirs publics
+• Les attentes des parties prenantes : les objectifs contradictoires et les jeux de pouvoir
+• Le contrôle de gestion et la communication en direction des différentes parties prenantes
+2.7. Contrôle de gestion et changement organisationnel
+Sens et portée de l’étude Compétences Notions et contenus
+Le contrôle de gestion doit appréhender les conséquences organisationnelles des stratégies de développement national et international d’une entité aux frontières floues qu’elle soit industrielle, commerciale ou de services, marchande ou non marchande (associations, collectivités publiques).
+• Identifier les enjeux du changement.
+• Apprécier les connexions entre stratégie et organisation.
+• Repérer les leviers du changement.
+• Le contrôle de gestion comme interface entre la stratégie et l’organisation
+• Le contrôle de gestion, aide à l’évolution de la structure
+3\. Conduite du changement (40 heures)
+Le changement implique souvent des bouleversements, des instabilités, voire des crises. Quels sont les processus à l’œuvre ? Comment les gérer ? Par ailleurs, la conduite d’un changement suppose un certain nombre d’opérations. Dans cette perspective, l’atten- tion est portée sur la gestion opérationnelle des projets de changement.
+3.1. Le management du changement
+Sens et portée de l’étude Compétences Notions et contenus
+Méthodologie de conduite de changement.
+• Différencier les différents types de changement.
+• Apprécier les leviers mobilisés dans la conduite du changement.
+• Distinguer les différents styles de conduite de changement.
+• Mettre en œuvre les outils de suivi : gestion des projets, ordonnancement.
+• Le diagnostic de la situation de changement, les types de changement
+• Les styles de conduite du changement
+• Les leviers du changement
+• Management en mode projet et innovation
+• Suivi et gestion opérationnelle des projets de changements
+3.2. Management et pilotage par les processus
+Sens et portée de l’étude Compétences Notions et contenus
+Utiliser le contrôle de gestion pour faire évoluer les processus
+• Distinguer processus et projet
+• Cartographier les différents processus
+• Mettre en œuvre des démarches de progrès continu
+• Analyser les coûts cibles
+• Analyser la valeur
+• Analyse des dysfonctionnements organisationnels
+• Diagnostic des processus existants : l’usage des rapports d’audit et/ou de contrôle interne
+• Le management par les processus
+• Le contrôle de gestion et les processus
+• Amélioration des processus : démarches de progrès continu
+• Les coûts cibles et l’analyse de la valeur
+3.3. Le contrôle de gestion et le pilotage stratégique
+Sens et portée de l’étude Compétences Notions et contenus
+Analyser comment le contrôle de gestion participe au pilotage stratégique
+• Identifier les indicateurs clés de performance
+• Analyser la performance globale d’une organisation
+• Contrôle de gestion et pilotage de la performance globale
+• Les facteurs clés de succès d’une organisation, les indicateurs clés de performance (KPI)
+• Les tableaux de bord stratégiques
+4\. Management des ressources humaines et des compétences (30 heures)
+Le changement ne peut être appréhendé sans intégrer le facteur humain, élément cen- tral des évolutions stratégiques à moyen et long terme.
+4.1. La gestion des ressources humaines
+Sens et portée de l’étude Compétences Notions et contenus
+Prendre en compte l’importance grandissante des ressources humaines dans la création de valeur
+• Définir et analyser des tableaux de bord sociaux
+• Calculer les écarts et les effets de la masse salariale
+• Définir et analyser une politique de GPEC
+• Caractériser les différentes situations de gestion de crise
+• Les outils du contrôle de gestion pour gérer les ressources humaines : suivi de la masse salariale, bilan social, tableaux de bord sociaux, indicateurs de gestion sociale
+• Le contrôle de gestion et la gestion prévisionnelle des emplois et des compétences
+• Les situations de gestion de crise : négociation, conciliation, médiation, arbitrage
+4.2. La gestion des compétences
+Sens et portée de l’étude Compétences Notions et contenus
+Former à la gestion de l’évolution, de l’évaluation et du maintien des compétences
+• Identifier les différents niveaux de gestion des compétences
+• Caractériser une politique de rémunération
+• Apprécier un mode de rémunération et de valorisation des compétences
+• Déterminer les enjeux de la gestion des connaissances pour l’organisation
+• Les approches d’identification des compétences : connaissances professionnelles, potentiel estimé, savoir-faire opérationnel
+• La contribution du concept de compétence à la gestion de l’emploi
+• Gestion stratégique des compétences : gestion de la formation, gestion des carrières, rémunérations et valorisation des compétences individuelles et collectives (enjeux pour l’organisation et pour le salarié)
+• Le contrôle de gestion et la gestion des connaissances et des savoirs
+• Le contrôle de gestion et l’apprentissage organisationnel
+INDICATIONS COMPLÉMENTAIRES
+Au-delà des organisations industrielles, il convient de prendre en compte les spécificités des entre- prises de services, des organisations marchandes ou non marchandes, des organisations publiques ou parapubliques, des structures à but non lucratifs (associations, fondations…) pour analyser la pertinence des outils du contrôle de gestion. Cette étude de pertinence doit envisager les outils utiles au pilotage stratégique.

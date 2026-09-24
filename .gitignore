@@ -2,3 +2,6 @@
 DSCG_2026_ANALYSE/01_annales/**/*.pdf
 __pycache__/
 *.pyc
+
+# extraits intégraux de manuels (droits d'auteur) : conservés localement uniquement
+DSCG_2026_ANALYSE/07_ressources/

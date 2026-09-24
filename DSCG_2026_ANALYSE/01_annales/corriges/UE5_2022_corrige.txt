@@ -1,0 +1,363 @@
+=== PAGE 1 ===
+2022 DSCG-UE5 
+Management des systèmes d’information 
+Page 1 / 5 
+ 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+ 
+ 
+UE5 – MANAGEMENT DES SYSTÈMES 
+D’INFORMATION 
+ 
+ 
+ 
+SESSION 2022 
+ 
+ 
+ 
+Éléments indicatifs de corrigé 
+ 
+ 
+ 
+ 
+FICHEBEN
+
+=== PAGE 2 ===
+2022 DSCG-UE5 
+Management des systèmes d’information 
+Page 2 / 5 
+DOSSIER 1 – CONSTRUCTION DU SYSTÈME D’INFORMATION 
+ 
+1. 
+Définir la notion de gouvernance des systèmes d’information et préciser pourquoi il est important de 
+la redéfinir dans ce contexte. 
+Nous pouvons démarrer par définir le terme « gouvernance » qui désigne "l'art ou la manière de gouverner" un 
+système. Le terme « gouvernance des systèmes d'information » fait référence aux moyens de gestion et de 
+régulation des Systèmes d’information mis en place dans une organisation pour atteindre ses objectifs stratégiques. 
+La gouvernance du SI précise et définis les rôles et les responsabilités (droits et devoirs) des différents acteurs afin 
+de créer davantage de synergies. De plus, elle apporte une connaissance approfondie des processus et de 
+l'organisation du SI pour rendre le tout moins complexe. Dans ce sens, elle aide à la prise de décision en ce qui 
+concerne l’ensemble du SI afin de le rendre plus efficace. 
+Il est important de redéfinir la Gouvernance des Systèmes d’information dans toute transformation ou changement 
+des organisations qui impactent le SI. Dans notre contexte, nous avons des changements en termes d’acteurs, de 
+responsabilité, d’infrastructure, d’objectifs stratégiques des nouvelles organisations, … 
+ 
+2. 
+Modéliser le nouveau schéma d’architecture que les trois sociétés doivent atteindre fin 2022.  
+ 
+Liste des modifications sur la partie droite du schéma :  
+- 
+iTrace Espagne ne change pas 
+- 
+Les solutions Cloud sont en SaaS, elles ne changent pas, car ce type de distribution a une facturation au 
+« service » et peut facilement être cloisonnée par l’administrateur. On pourra accepter 2 Groupes Cloud / 
+SaaS en bonne réponse. 
+ 
+Liste des modifications sur le siège de SD3I – Software Intelligence :  
+- 
+Suppression de la GED de Digital Integration 
+- 
+Suppression de la Base de données de SD3i France 
+- 
+Suppression du lien VPN avec Digital Integration 
+- 
+Les autres solutions groupes ne changent pas 
+ 
+Liste des modifications sur Digital Integration 
+- 
+Ajout du serveur de sauvegarde 
+- 
+Ajout de la GED et de l’ERP 
+- 
+Ajout de la Base de données pour l’ERP et la GED 
+- 
+Ajout d’un annuaire Active Directory (optionnel) 
+- 
+Suppression du VPN 
+- 
+Conservation du modem/routeur pour le CRM et la messagerie 
+FICHEBEN
+
+=== PAGE 3 ===
+2022 DSCG-UE5 
+Management des systèmes d’information 
+Page 3 / 5 
+ 
+ 
+3. 
+Définir pour ce projet deux facteurs clés de succès pour réussir cette transformation. 
+- 
+Gouvernance bien définie et validée par les différentes directions générales. On pourra aussi évoquer la 
+définition d’un nouveau schéma directeur pour les différentes DSI 
+- 
+Analyse et audit correctement menés : Les analyses et les audits sont la base d’une bonne définition d’un projet 
+de transformation du Système d’Information 
+- 
+Coopération des différentes entités du groupe SD3I : Une bonne coopération est indispensable pour réussir les 
+changements sans perte de valeur 
+- 
+Communication à l’ensemble des acteurs pour anticiper les conduites de changement au sein des procédures. 
+- 
+Qualité de prestation des intervenants : choix des membres du projet en fonction de leurs expériences et 
+compétences pour mener à bien ce projet. C’est aussi le choix des prestataires et des fournisseurs de services 
+du SI s’il y a lieu 
+- 
+Adhésion des utilisateurs finaux à la nouvelle organisation du SI. C’est aussi la définition des nouveaux rôles au 
+sein de Digital Intégration 
+- 
+Respect du planning donné par la direction de SD3I pour accomplir la transformation.  
+- 
+Suivre les bonnes pratiques de projets et des référentiels comme ITIL pour assurer les changements au sein du 
+SI et éviter les risques de sécurité ou de perte de données  
+ 
+ 
+Siège SD3i – Software Intelligence - 
+Luxembourg 
+Digital Integration - France 
+iTrace - Espagne 
+Cloud - SaaS 
+CRM + Messagerie 
+Annuaire
+Active 
+Directory 
+Groupe 
+SD3i 
+Modem / 
+Routeur 
+Modem / 
+Routeur 
+Modem / 
+Routeur 
+Serveurs de 
+Conception 
+produits  
+Software 
+Intelligence 
+Serveurs de 
+Sauvegarde 
+Groupe SD3i 
+Bases de 
+données 
+SD3i Lux + 
+Espagne 
+ERP 
+SD3i 
+GED       
+GED        
+Software 
+Intelligence 
+Serveur de 
+Sauvegarde 
+Annuaire
+Active 
+Directory 
+D.I. France 
+Bases de 
+données 
+ERP 
+FICHEBEN
+
+=== PAGE 4 ===
+2022 DSCG-UE5 
+Management des systèmes d’information 
+Page 4 / 5 
+DOSSIER 2 – MISE EN ŒUVRE D’UN WORKFLOW FACTURE DURANT L’ANNÉE DE 
+TRANSITION EN 2022 
+1. 
+Énoncer au minimum 4 typologies différentes de factures d’achat fournisseur qui doivent être 
+classifiées dans l’outil de Workflow. 
+- 
+Quittance de loyer : Traité séparément des factures d’achat 
+- 
+Notes de frais : Traité séparément des factures d’achat 
+- 
+Facture Engagée : Désigne toute facture qui fait suite à une commande, devis, marché, contrat… 
+- 
+Facture Non Engagée : Désigne toute facture qui n’a pas préalablement fait l’objet d’un engagement validé 
+- 
+Facture de Frais Généraux : En général non-engagé 
+- 
+Facture de Consommation (variante de Frais Généraux) 
+- 
+Facture d’Immobilisation : On pourra aussi nommer les factures immobilisables engagées et les factures 
+immobilisables non-engagées 
+- 
+Facture Non Immobilisable : On pourra aussi faire les 2 variantes avec ou sans engagement 
+- 
+Facture d’exploitation : Facture lié à l’activité, peu avoir différent nom 
+- 
+Facture de sous-traitance : (généralement engagée) 
+ 
+2. 
+Définir de manière optimisée le tableau des circuits de validation des factures pour l’outil de Workflow. 
+Organisation 
+Types de facture 
+Valideur niveau 1 
+Valideur niveau 2 
+Valideur niveau 3 
+ 
+Notes de frais 
+Mylène 
+ 
+ 
+Espagne 
+ 
+Inès 
+ 
+ 
+France 
+Facture Engagée (tous types) 
+Christophe 
+Nicolas 
+ 
+France 
+Facture Frais Généraux 
+Christophe 
+Michelle 
+Eric 
+France 
+Facture Immobilisation non engagée 
+Christophe 
+Nicolas 
+Eric 
+France 
+Facture d’exploitation 
+Christophe 
+Michelle 
+ 
+France 
+Facture Non immobilisable non engagée 
+Christophe 
+Michelle 
+Eric 
+Luxembourg 
+Facture Engagée 
+Arnaud 
+Nicolas 
+ 
+Luxembourg 
+Facture Frais Généraux 
+Arnaud 
+Michelle 
+Eric 
+Luxembourg 
+Facture Immobilisation non engagé 
+Arnaud 
+Nicolas 
+Eric 
+Luxembourg 
+Facture d’exploitation 
+Arnaud 
+Michelle 
+ 
+Luxembourg 
+Facture Non immobilisable non engagée 
+Arnaud 
+Michelle 
+Eric 
+ 
+3. 
+Décrire les étapes de mise en œuvre d’un Workflow Facture en précisant la méthodologie de projet 
+employée. 
+Les étapes de mise en œuvre d’un Workflow Facture sont celles de tout projet informatique à savoir au minimum 
+une phase d’analyse, une phase de paramétrage ou de développement, une phase de recette (technique, 
+fonctionnelle, métier…), une phase de formation et d’accompagnement à la mise en production 
+La méthodologie de projets employée pour mettre en œuvre un Workflow Facture est en général la méthode 
+traditionnelle (en cascade) ou cycle en V. Elle décrit les étapes du projet type ci-dessus. Elle est recommandée, car 
+il y a en général 1 date de mise en production pour toutes les factures. Elle permet de planifier efficacement le projet 
+sur une date de bascule. 
+La méthodologie Agile peut aussi être employée si on considère une mise en production successive par typologie 
+de facture par exemple. Cette méthode de projet est itérative, elle enchaine plusieurs « sprint » ou mini-projet qui 
+mettent en œuvre une partie de la solution.  
+Les autres méthodologies comme celle du chemin critique, Prince2, adaptatives, ou du Lean management ne sont 
+pas adaptées et ne peuvent pas décrire ce projet dans notre contexte.  
+ 
+4. 
+Donner la définition de la Factur-X et exposer un avantage de sa mise en œuvre pour les organisations. 
+La Factur-X est le nouveau standard européen de facture électronique répondant aux évolutions légales et 
+techniques issues de l’électronique. Ce modèle de facture électronique dit « mixte » ou « hybride » combine 
+obligatoirement deux types de documents : La facture au format PDF pour l’archivage et un fichier de données XML 
+qui permet d’automatiser le traitement de la facture au sein des logiciels destinataires. 
+Les avantages sont multiples comme :  
+- 
+Eviter de saisir manuellement les données de la facture et donc éviter les erreurs. Elle permet aussi 
+d’automatiser son intégration dans les flux de factures entrantes 
+- 
+Limiter le risque de falsification des données comptables et fiscales tout au long de la chaine de traitement 
+- 
+Réduire les délais de transmission et de traitement entre les organisations 
+- 
+Améliorer les échanges entre entreprises européennes au sein d’une même norme 
+ 
+FICHEBEN
+
+=== PAGE 5 ===
+2022 DSCG-UE5 
+Management des systèmes d’information 
+Page 5 / 5 
+DOSSIER 3 – ÉQUIPEMENT DE NOUVEAUX SYSTÈMES D’INFORMATION 
+1. 
+Définir les deux modes de distribution (SaaS et On Premise) et proposer des arguments permettant de 
+ 
+choisir un type de distribution pour chaque application. 
+On-Premise : Traduction de « sur site », les infrastructures informatiques et logicielles sont appelées « on-premise 
+» lorsque celles-ci sont hébergées et maintenues par le propre service informatique de l’entreprise. Elles sont 
+acquises sous forme d’un investissement en licence auprès de l’éditeur de la solution. 
+SaaS : Définition de “Software as a Service” ou en français : « logiciel en tant que service », est une solution logicielle 
+applicative hébergée dans le cloud et exploitée en dehors de l’organisation ou de l’entreprise par un tiers, aussi 
+appelé fournisseur de service. La solution SaaS est accessible à la demande via une connexion Internet et s’utilise 
+depuis un navigateur web. L’utilisation de la solution est généralement facturée sous forme d’un abonnement 
+mensuel selon le nombre d’utilisateurs ou au service consommé. 
+CRM : Ils sont en général proposés en distribution SaaS sur le marché. Ils permettent la souplesse de s’adapter au 
+nombre d’utilisateurs et aux fonctionnalités recherchées souhaitées par les organisations. Le CRM doit aussi être 
+facilement accessible (par mobile, depuis un accès web public…), l’hébergement dans le Cloud est alors un 
+avantage. 
+ERP : La plupart sont proposés en On premise pour les grandes organisations, mais certains éditeurs proposent 
+des ERP spécifiques en SaaS. On retiendra que l’ERP est au cœur de la production et de la gestion financière des 
+entreprises et l’héberger au sein de son SI est une maîtrise supplémentaire pour la sécurité  
+GED : Elles sont en général proposées en On Premise sur le marché pour des arguments de sécurités d’accès et 
+de maîtrise du stockage de documents qui peut être plus économique quand il est internalisé dans l’entreprise.  
+ 
+2. 
+Citer un avantage et un inconvénient distinct d’une solution « tout en un ». 
+Chaque élément ci-dessous peut être exprimé comme un avantage ou un inconvénient, certains reprennent les 2 à 
+la fois, ce ne sont pas des réponses distinctes, vous trouverez donc ci-dessous les arguments qui peuvent être 
+avancés :  
+- 
+Assurer la relation avec un prestataire unique : La solution tout en un est édité ou distribué par un unique 
+fournisseur, cela simplifie la relation client-fournisseur et administrative. Mais la dépendance de 3 solutions 
+envers un fournisseur unique augmente le risque en cas de défaut de ce prestataire. 
+- 
+Interopérabilité des applications au sein du Système d’Information : La solution tout-en-un sera nativement « 
+interconnectée » pour disposer de référentiels unique et commun. C’est un gain en valeur pour l’organisation et 
+évite de faire des interfaces entre les 3 applications pour transférer des données ou faciliter la navigation de 
+l’utilisateur. 
+- 
+Avantage au niveau des coûts et de la simplification du Système d’information, car l’architecture applicative 
+d’une solution tout-en-un diminue les coûts d’exploitation et simplifie l’administration en ayant tout sur une même 
+plateforme. 
+- 
+Inconvénient de ne pas pouvoir choisir « la meilleure » solution de chaque domaine d’application. Une solution 
+CRM + ERP + GED n’est sans doute pas la meilleure pour l’organisation que si elles étaient choisies 
+individuellement. 
+- 
+Devoir choisir la solution tout en un en SaaS ou en On Premise, car des solutions mixtes amèneraient de la 
+complexité en termes d’architecture. Il faut donc choisir un mode de distribution qui n’est peut-être pas adapté 
+à chaque application  
+ 
+3. 
+Dans le cadre du RGPD, est-ce que le DPO actuel du groupe SD3i peut devenir le DPO de la société 
+DIGITAL INTEGRATION après le 1er janvier 2022, tout en conservant sa position de DPO pour les 2 autres 
+sociétés ? Expliquer votre réponse. 
+La réponse est Oui, car un DPO peut être mutualisé et exercer son rôle pour plusieurs entités. Il peut aussi être 
+externe à l’organisation et assurer ce rôle pour plusieurs sociétés, dont celle qui ne fait plus partie du groupe SD3i. 
+L’article 37 du RGPD ouvre la voie à la nomination d’un unique DPO pour les groupes d’entreprise : Un groupe 
+d’entreprises peut désigner un seul délégué à la protection des données à condition qu’un délégué à la protection 
+des données soit facilement joignable à partir de chaque lieu d’établissement. 
+L’article 37 du règlement général sur la protection des données personnelles (RGPD) dispose que le DPO « peut 
+être un membre du personnel du responsable du traitement ou du sous-traitant, ou exercer ses missions sur la base 
+d’un contrat de service ». 
+Le RGPD permet donc la nomination d’un même DPO pour différentes entités juridiques distinctes. Cette possibilité 
+est particulièrement intéressante pour les groupes d’entreprises constituées de plusieurs entités morales distinctes. 
+FICHEBEN

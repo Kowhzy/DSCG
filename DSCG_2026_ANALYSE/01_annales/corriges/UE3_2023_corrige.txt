@@ -1,0 +1,871 @@
+=== PAGE 1 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 1 / 13 
+DIPLÔME SUPÉRIEUR DE COMPTABILITÉ ET DE 
+GESTION 
+UE3 – MANAGEMENT ET CONTRÔLE 
+DE GESTION 
+SESSION 2023 
+Éléments indicatifs de corrigé
+FICHEBEN
+
+=== PAGE 2 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 2 / 13 
+ 
+Entreprise TECH’INNOV 
+ 
+DOSSIER 1 – ANALYSE DE LA STRATÉGIE COMMERCIALE (30 points) 
+ 
+ANALYSE DE LA GAMME BRISE 
+ 
+1. À partir de l’annexe 10, identifier les opportunités et les menaces associées à la gamme 
+BRISE, à l’aide d’un modèle PESTEL. Quels éléments peuvent le plus peser dans l’avenir 
+du secteur, et quels sont les scénarios possibles 
+ 
+Le modèle PESTEL est composé de 6 dimensions contextuelles qui peuvent influer, en faveur ou en 
+défaveur, sur les perspectives de développement de l’activité de l’entreprise : Politique, Economique, Socio-
+culturel, Technologique, Environnemental, Légal.  Cette méthode simple de prospective doit être maîtrisée. 
+Les quelques éléments de diagnostic fournis ici sont indicatifs mais devront être largement mentionnés par 
+les étudiants. D’autres dimensions peuvent ou non ne pas être mentionnées. On peut considérer que la 
+construction du PESTEL peut se faire par une forme de réflexion assez libre consistant à poser les 
+dimensions qui viennent à l’esprit. 
+L’essentiel de cette question réside dans deux points : 
+1/ que le candidat sache mobiliser le PESTEL ;  
+2/ que le candidat ne se contente pas de faire une liste « à la Prévert », mais qu’il soit capable d’en tirer une 
+analyse (facteurs pivots, scénarios) et des conclusions. 
+Un certain nombre d’éléments peuvent être tirés des ANNEXES V et X. 
+ 
+Quelques facteurs, indicatifs : 
+ 
+Politique :  
+Volonté (ou non) des pouvoirs publics (UE, État, Régions) de valoriser l’éolien comme énergie renouvelable 
+(fiscalité attractive, soutien à une filière européenne, aides à l’installation, etc.) 
+En lien, poids des Lobbies pro et anti-éolien, et des partisans d’autres approches énergétiques (nucléaire, 
+etc.) : résistances locales, recours administratifs, etc. 
+Géopolitique de la filière, associée par exemple aux tensions actuelles (Russie, Chine), accès à une 
+production extra-européenne, capacités d’importation/d’exportation. 
+ 
+Économique :  
+Développement de la filière en France et en Europe, et niveau de compétitivité par rapport à d’autres pays 
+producteurs   
+Évolution des coûts d’approvisionnement en matériaux (hausse de prix de l’acier, difficultés logistiques et 
+pénuries de matières) et de production 
+Évolution des coûts de fonctionnement par rapport aux énergies alternatives 
+Évolution des besoins de consommation d’énergie, liée par exemple au niveau d’activité économique 
+Coûts croissants de l’extraction de ressources fossiles, avec conséquences sur le prix des produits pétroliers 
+et gaziers 
+Marché orienté sur un positionnement par les prix, défavorable à la filière en Europe (coûts sociaux plus 
+élevés) 
+Dépendance à certains composants 
+ 
+Socio-culturel : 
+Prise de conscience/acceptation des élus, des citoyens sur la nécessité de développer un parc éolien versus 
+refus de ce type d’installations 
+Acceptation ou non de l’apport d’autres types d’installations (centrales nucléaires) 
+FICHEBEN
+
+=== PAGE 3 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 3 / 13 
+Poids des résistances locales, ou recours administratifs liés à la pollution sonore et à l’impact esthétique sur 
+les paysages 
+Impact perçu des coûts de construction et du démantèlement des parcs éoliens en fin de vie : économie 
+circulaire, chaîne d’approvisionnement, etc. 
+ 
+Technologique :  
+Innovations sur l’éolien (meilleur rapport entre production électrique/ coût de production/ qualité et durée 
+d’usage) 
+Innovations sur les autres modalités de production d’énergie renouvelable 
+ 
+Environnementale :  
+Conséquences du dérèglement climatique sur la présence de vent, sur la disponibilité d’autres énergies 
+renouvelables (par ex., moindre disponibilité des barrages hydrauliques ou des centrales nucléaires en raison 
+de la baisse des disponibilités en eau)  
+ 
+Légal :  
+Adaptation de la législation sur la fixation des prix de vente de l’énergie électrique produite (dérèglementation) 
+Règles liées aux appels d’offres de fournitures d’équipement (prix tirés à la baisse par les mécanismes 
+d’attribution, pression des producteurs d’énergie sur les fabricants de matériels) 
+ 
+Les variables centrales (« pivot ») semblent être les suivantes : 
+- 
+Le niveau d’acceptabilité des installations éoliennes par les citoyens notamment en comparaison 
+d’autres types d’énergie renouvelable (nucléaire), qui permet un développement de la filière en 
+France et en Europe. Cette acceptabilité sera d’autant plus aisée que la filière repose sur des 
+entreprises localisées en France ou en Europe, que la R&D permet de déployer des installations 
+silencieuses, esthétiques, et bien intégrées aux territoires, si des questions de sécurité se posent (sur 
+le nucléaire notamment, un seul incident pouvant provoquer un rejet de la population). L’acceptabilité 
+sera d’autant moins aisée si d’autres modalités s’imposent et font la preuve de leur pertinence, et, 
+notamment, si les prix de l’énergie fossile diminuent de nouveau durablement, pour des raisons 
+géopolitiques 
+ 
+- 
+L’évolution du dérèglement climatique. L’aggravation de la situation (que tous les rapports 
+annoncent) pourrait accélérer la prise de conscience citoyenne et les prises de décision politiques en 
+faveur des technologies d’énergies renouvelables. L’affaiblissement des ressources en eau, 
+impactant potentiellement d’autres sources d’énergies (hydraulique, nucléaire) peut agir comme un 
+facteur favorisant le recours à l’éolien. Contrairement à d’autres éléments mis en avant dans ce 
+PESTEL, la probabilité d’occurrence de cette dimension peut (malheureusement) être considérée 
+comme « très probable ou certaine » pour bâtir la stratégie de l’entreprise.  
+ 
+- 
+Le soutien par les pouvoirs publics au développement d’une filière de qualité aux niveaux français 
+et européens, permettant :  
+1/ de limiter une dépendance aux pays producteurs (Chine, Amérique du Sud),  
+2/ de générer des créations d’emplois significatives,  
+3/ une évolution de la législation plus favorable aux producteurs locaux  
+4/ d’accompagner les collectivités qui souhaitent s’équiper ; de faciliter l’acceptation par les citoyens 
+par des dispositifs légaux, fiscaux, financiers adaptés.  
+ 
+ 
+Ces éléments-clés conduisent tous à évoquer, très schématiquement, deux scénarii possibles pour l’avenir 
+du marché de l’éolien, en fonction de l’évolution des facteurs majeurs.   
+ 
+- 
+Un scénario favorable au marché de l’éolien, qui repose sur une aggravation des conséquences 
+du dérèglement climatique, une dégradation du prix de l’énergie fossile, enclenchant un cercle 
+« vertueux » : accompagnement des pouvoirs publics vers l’éolien, acceptabilité des citoyens liée à 
+une prise de conscience des enjeux climatiques et des aides (fiscales, financières), développement 
+d’une filière relocalisée en France et en Europe qui nourrit des créations d’emplois et accentue 
+l’acceptabilité sociale   
+ 
+- 
+Un scénario défavorable au marché de l’éolien, et ce en dépit de l’aggravation des conséquences 
+du dérèglement climatique qui vont amener à privilégier les énergies renouvelables à l’avenir. 
+FICHEBEN
+
+=== PAGE 4 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 4 / 13 
+L’ANNEXE X évoque le cercle « vicieux » qui peut survenir : départ de l’industrie éolienne 
+européenne dans des pays à bas coûts, arrivée massive de concurrents asiatiques, dépendance à 
+des fournisseurs de matériaux asiatiques et à la conjoncture impactant les chaînes logistiques. 
+ 
+Idéalement, le candidat peut à ce niveau fournir une première analyse. Il n’y a pas une réponse unique à 
+partir du moment où le candidat justifie son raisonnement par des arguments. Mais il semble tout de même 
+qu’une réponse type peut consister à relever la très grande incertitude qui pèse sur l’avenir de l’éolien, qu’un 
+investissement massif sur ce domaine relève donc d’une forme de pari qui ne peut sans doute être envisagé 
+que comme une activité d’exploration très risquée, complémentaire à un portefeuille d’autres activités 
+rentables. On pourrait conseiller à Tech’Innov, dès ce stade de l’analyse, de n’investir dans l’éolien que sur 
+des bases d’activités solides par ailleurs. 
+ 
+2. À partir de l’analyse de la concurrence en ANNEXE V, établir le modèle des “5 forces” 
+de Porter 
+ 
+Selon les cas, les candidats auront pu étudier le modèle des « 5 forces » ou des « 5 +1 forces » proposé par 
+Michael Porter. La seconde présentation est une forme plus aboutie de ce modèle, mais les deux 
+présentations sont enseignées, et par conséquent, tout à fait acceptables. 
+ 
+Le candidat a le choix en termes de présentation : soit par une représentation graphique, soit en listant à la 
+suite les 5 (ou 5+1) forces et en indiquant pour chacune les « forces qui pèsent » sur le secteur d’activité 
+étudié, c’est-à-dire le secteur de l’éolien. Si le candidat choisit la représentation graphique, il est alors 
+important que celle-ci soit conforme à la présentation originale de l’auteur, c’est-à-dire avec la relation 
+« fournisseurs » - « concurrents » - « distributeurs et clients » sur la partie horizontale du schéma (puisque 
+pour rappel, cela correspond à la chaîne de valeur du secteur d’activité considéré). La relation « nouveaux 
+entrants » - « concurrents » (en haut) et « substituts » (en bas) correspond à la partie verticale du schéma. 
+Le tout peut être complété par la 6ème force que représentent les pouvoirs publics (force « politique »). 
+ 
+De la même manière que l’analyse PESTEL, il n’y a pas de réponse qui soit formellement exacte ou inexacte, 
+mais les candidats ne peuvent pas passer à côté de « forces » essentielles qui expliquent le fonctionnement 
+actuel du marché. 
+ 
+N.B. Certains candidats ont peut-être appris à quantifier la “force” par une “note”, sur 5 ou sur 10. Cette 
+quantification éventuelle est acceptable, mais n’est pas impérative : elle est en réalité très subjective et peu 
+étayée par des éléments factuels ; par ailleurs, elle ne constitue pas une fin en soi, et relève d’une 
+appréciation qualitative à des fins de diagnostic d’une situation. Nous indiquons ci-dessous ce qui pourrait 
+être une note pour chacune des forces. 
+ 
+Forces de la concurrence 
+Le cas souligne l’atomicité de la concurrence, et son caractère mondialisé. Il laisse entendre qu’il n’y a pas 
+véritablement de concurrents majeurs et que les concurrents sont de taille et de poids relativement 
+équivalents. Parmi les éléments importants figurent la mention d’un risque de concentration du secteur ou 
+de rachats par les clients, soucieux de gérer au mieux les problématiques d’approvisionnement et de prix, 
+notion d’intégration verticale. Une telle évolution ne resterait pas sans conséquences pour Tech’Innov, qui 
+se retrouverait soit dans la position d’être elle-même rachetée (en tout cas sur son activité BRISE), soit dans 
+celle de rester indépendante mais avec un accès limité à certains clients. 
+Un autre élément à souligner est la faible spécificité des produits : la logique de prix prévaut, justifiant sa 
+présence en Turquie plutôt qu’en France pour sa chaîne de production.  
+Le pouvoir de la concurrence peut être qualifié de moyen, par rapport à d’autres forces.  “Note” (quantification) 
+correspondante suggérée : 5/10  
+ 
+Forces des distributeurs/clients 
+Les clients de Tech’Innov sont les grands opérateurs du marché mondialisé de l’éolien. Le cas cite 
+notamment l’entreprise Danoise Vestas, les allemands Siemens Gamesa, Nordex et Enercon, les coréens 
+Doosan et Hyundai, et des concurrents chinois imposants et très présents. 
+ 
+On comprend donc que le marché est composé d’un nombre relativement restreint (structure oligopolistique) 
+d’entreprises de grande taille et disposant de l’essentiel des parts de marché. Même si le marché est récent, 
+il semble déjà relativement structuré autour de ces grands opérateurs, qui disposent de la capacité de 
+FICHEBEN
+
+=== PAGE 5 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 5 / 13 
+répondre aux appels d’offre imposants lancés par les producteurs d’énergie pour l’installation de parcs 
+d’éoliennes. 
+Ces fabricants et installateurs d’éoliennes subissent une concurrence importante, et font donc face à de très 
+fortes incertitudes et tensions quant à l’avenir du marché, pour des raisons géopolitiques, économiques, 
+environnementales, légales. L’éolien connaîtra-t-il le développement auquel il semble promis ? Si l’analyse 
+macro-économique semble montrer le caractère inévitable de ce développement à venir, la question relève 
+cependant encore du pari de l’entrepreneur.  
+En tout état de cause, ces enjeux se répercutent directement sur les fournisseurs, tel que Tech’Innov, 
+notamment sur la question des tensions sur les prix. Or, ces fournisseurs sont déjà sous pression pour leurs 
+propres approvisionnements : il existe donc pour eux un risque de se retrouver “coincés entre le marteau et 
+l’enclume”.  Surtout que, à court ou moyen terme, ces grands clients pourraient avoir besoin de sécuriser 
+leurs approvisionnements, et envisager des opérations d’intégration de certains de leurs fournisseurs 
+stratégiques.  
+ 
+La force des clients est donc très importante et constitue le point de vigilance majeure. Note indicative : 9/10 
+ 
+Forces des fournisseurs 
+Le cas évoque peu la question des fournisseurs de Tech’Innov et de ses concurrents. Il peut être mentionné 
+cependant que l’approvisionnement en métaux (acier ou aluminium) rencontre des difficultés et des hausses 
+de coûts dans le contexte géopolitique et énergétique actuel. Mais Tech’Innov a fait le choix de matières 
+plastiques : la question se pose alors de la pertinence de ce choix dans le contexte actuel, avec un point 
+d’interrogation qui concerne l’avenir des filières de plasturgie au regard de l’impact carbone potentiel (pas 
+d’information dans le cas sur ce point : nous proposons de valoriser les commentaires des candidats qui 
+tenteraient néanmoins une analyse pertinente). La question centrale est néanmoins celle du coût 
+d’approvisionnement, victime d’un effet en cascade puisque les clients finaux eux-mêmes sont dépendants 
+d’appels d’offres et répercutent les prix qui leur sont imposés. 
+ 
+Sur l’aspect prix et potentiel d’approvisionnement, la force des fournisseurs est relativement importante, 
+même si la concurrence relativement éclatée permet d’envisager une tenue raisonnable du marché. Note 
+indicative : 6/10. 
+ 
+Forces des nouveaux entrants 
+Rien n’est dit sur les nouveaux entrants potentiels. Deux tendances semblent pouvoir s’affronter : 
+- 
+Un énorme potentiel de développement du marché qui pourrait attirer de nouveaux concurrents si le 
+marché se développe fortement 
+- 
+Mais un marché très “encadré” sur les prix, avec une concurrence déjà mondiale et forte, qui laisse 
+entrevoir des marges assez faibles, peu attractives pour de nouveaux entrants. Par ailleurs, le poids 
+de nouveaux entrants ne semble pas être en mesure de modifier radicalement la structure du marché. 
+ 
+En définitive, la “force” des nouveaux entrants est modérée. Note indicative : 5/10. 
+ 
+Forces des substituts 
+Le cas ne permet pas d’identifier des produits substituts à l’existant, sur ces pièces techniques qui constituent 
+des composants de pales d’éoliennes. Deux modalités techniques semblent exister : une offre de produits 
+métalliques ; une offre de produits en plastique. Avec chacune leurs atouts et inconvénients.  Si substitution 
+il y a, elle porte sur les modalités alternatives à l’éolienne en matière de production d’énergies renouvelables 
+(panneaux photovoltaïques, centrales nucléaires, etc.), mais les 5 forces portent ici sur le marché de 
+Tech’Innov, et pas sur le marché de la fabrication/ installation d’éoliennes, qui est le marché des clients de 
+Tech’Innov. 
+ 
+Les substituts éventuels ne semblent pas constituer une force particulière. Note suggérée : 1/10. 
+ 
+(Force de l’Etat et des Pouvoirs Publics) 
+Les commentaires à fournir pour ces éventuelles 6ème force sont redondants avec l’analyse PESTEL. Il est 
+toutefois possible de souligner que le pouvoir de l’Etat sur ce marché concerne indirectement Tech’Innov et 
+ses concurrents : en effet, les pouvoirs publics pèsent considérablement et très directement sur les clients 
+de Tech’Innov, par exemple en matière politique (lobbying, traitement des recours administratifs); légale 
+(législation européenne); économique (fiscalité et aides à l’installation et la maintenance de parcs).  
+ 
+FICHEBEN
+
+=== PAGE 6 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 6 / 13 
+Même si elle est indirecte, la force est importante : de la volonté des Etats, de l’Union européenne d’imposer 
+l’éolien comme solution à la production d’énergies dépend le développement à venir du marché. Force : 8/10. 
+ 
+=> À ce niveau, les candidats peuvent proposer une première synthèse de ces forces et les conclusions 
+qu’ils en retirent. Mais ce point fait l’objet de la question suivante, où il leur est demandé de combiner les 
+analyses du PESTEL avec l’analyse des Forces de Porter.   
+ 
+3. À partir de vos réponses aux questions 1 et 2, formuler une analyse de l’environnement 
+général et concurrentiel de l’entreprise, pour sa gamme BRISE en une demi-page maximum. 
+ 
+Il s’agit ici de proposer une synthèse du travail effectué lors des deux questions précédentes (PESTEL et 
+modèle des 5 forces). 
+ 
+L’analyse des deux modèles fait apparaître de façon synthétique : 
+ 
+- 
+Deux scénarios envisageables (un très favorable, un très défavorable) pour l’avenir du marché de 
+l’éolien, et globalement une assez grande incertitude sur les orientations possibles. Si la question du 
+dérèglement climatique et de ses conséquences semble, malheureusement, un facteur certain, les 
+autres éléments permettent difficilement d’affirmer avec certitude que :  
+- 1/ le marché de l’éolien va connaître une croissance importante ;  
+- 2/ que Tech’Innov sera en capacité stratégique d’en bénéficier. Le PESTEL nous conduit plutôt 
+à considérer la grande incertitude qui entoure un investissement dans la gamme BRISE, qui 
+ressemble plus à un pari (probabilité équivalente de gain très élevé ou de perte très élevée). 
+ 
+- 
+Sur le marché en lui-même, les forces principales proviennent des clients majeurs et du pouvoir 
+politique. Le rôle des décisions politiques est essentiel pour plusieurs raisons : instabilités 
+géopolitiques et législation, mais aussi appels d’offres de fourniture d’éoliennes. Par conséquence, 
+ces éléments macro-économiques seront déterminants dans l’avenir des éoliennes, au-delà des 
+questions de concurrence habituelles.  
+Si le marché se développe fortement, il y aura du potentiel pour beaucoup de concurrents. Mais 
+sinon ? Et pour combien de temps ? Comment Tech’Innov peut-elle se positionner sur ce marché 
+pour tirer son épingle du jeu ? Avec quelles compétences ? Autant de questions qui ajoutent à 
+l’incertitude de ce segment stratégique, qui devront être prises en compte dans une analyse 
+stratégique globale de l’entreprise. 
+ 
+FICHEBEN
+
+=== PAGE 7 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 7 / 13 
+DOSSIER 2 – ANALYSE STRATEGIQUE (35 points) 
+Travail à faire 
+1.  À partir de l’analyse des marges sur coûts variables de chaque gamme en ANNEXE 4, rédiger 
+une note de synthèse d’une demi-page environ à destination du COPIL. En particulier, faites 
+ressortir les écarts volume et prix/coût entre 2021 et 2022. Quelles sont les évolutions 
+favorables et défavorables par gamme ? 
+L’analyse des marges sur coûts variables demandée dans ce dossier doit permettre de faire ressortir les 
+situations contrastées de chacun des produits en discernant si l’évolution en € de la marge sur coûts variables 
+de chaque produit est induite principalement par une variation sur les volumes de vente ou par les prix de 
+vente / coûts variables de la société.  
+Si l’on reprend les données de l’ANNEXE 4, on peut tirer les écarts suivants sur volumes et prix/coûts : 
+Ciel'Ouvert Full'Speed 
+Brise 
+White 
+Control Routard 
+  
+  
+  
+  
+  
+  
+Volumes (pièces) 
+  
+  
+  
+  
+  
+  
+2022 
+947 177 
+487 940 373 130 354 498 289 845 417 644 
+2021 
+895 545 
+422 206 563 916 254 498 222 398 563 280 
+Prix de vente €/pc 
+  
+  
+  
+  
+  
+  
+2022 
+21,06 € 
+13,74 € 
+15,32 € 18,07 € 
+8,23 € 
+0,69 € 
+2021 
+21,76 € 
+13,21 € 
+16,02 € 18,03 € 
+8,98 € 
+0,59 € 
+Marge sur coûts variables €/pc 
+  
+  
+  
+  
+  
+  
+2022 
+4,88 € 
+3,93 € 
+5,57 € 
+8,31 € 
+1,10 € 
+0,21 € 
+2021 
+5,88 € 
+3,40 € 
+6,03 € 
+8,28 € 
+0,29 € 
+0,13 € 
+Écarts sur chiffres d'affaires k€ 
+  
+  
+  
+  
+  
+  
+Total 
+460 
+1 127 
+-3 318 
+1 817 
+388 
+-44 
+Volumes 
+1 124 
+868 
+-3 056 
+1 803 
+606 
+-86 
+Prix 
+-663 
+259 
+-261 
+14 
+-217 
+42 
+Écarts de marges sur coûts 
+variables k€ 
+  
+  
+  
+  
+  
+  
+Total 
+-642 
+483 
+-1 322 
+840 
+255 
+11 
+Volumes 
+303 
+223 
+-1 151 
+828 
+19 
+-20 
+Coûts 
+-945 
+260 
+-172 
+12 
+236 
+30 
+ 
+La note à destination du COPIL doit d’abord partir du constat que l’augmentation du chiffre d’affaires de 2021 
+à 2022 (+432 k€) ne s’est pas traduite par une amélioration de la marge sur coûts variables mais le contraire 
+(-376 k€). 
+Du point de vue du chiffre d’affaires : Tech’Innov a bénéficié de la progression du chiffre d’affaires de presque 
+toutes les gammes à l’exception de Brise (-3,3 m€) et de manière plus limitée, de Routard (-44 k€). Brise 
+souffre de la diminution combinée des volumes (impact -3,1 m€) et des prix de vente (impact -261 k€). Il faut 
+signaler la belle performance de Full Speed et de White, pour lesquelles la progression de chiffre d’affaires 
+est le résultat de la progression combinée des volumes et des prix de vente. Enfin, Ciel’ouvert et Control 
+montrent une situation contrastée, avec une augmentation des volumes et une diminution des prix, même si 
+cela n’entache pas la progression favorable de ces gammes. 
+Du point de vue de la marge sur coûts variables : Brise et Ciel’Ouvert tirent Tech’Innov vers le bas même si 
+ceci s’explique par l’impact des volumes pour Brise évoqué dans l’analyse de chiffre d’affaires (-1,151 k€) et 
+par celui des coûts pour Ciel’Ouvert (-945 k€). Brise souffre également d’une dégradation liée aux couts à 
+hauteur de -172 k€. En parallèle, on constate que des efforts de gains de productivité sur toutes les autres 
+gammes viennent se conjuguer avec l’évolution favorable des volumes évoquée précédemment et 
+contribuent à une amélioration de la marge sur coûts variable de chacun d’entre elles. 
+À ce stade, l’analyse pousse à se concentrer sur deux gammes problématiques : Ciel’Ouvert (évolution de 
+marge défavorable malgré des volumes plus importants) et Brise (dégradation de la marge liée aux volumes 
+principalement). 
+FICHEBEN
+
+=== PAGE 8 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 8 / 13 
+2. Proposer une cartographie des différentes parties prenantes impliquées par une éventuelle 
+décision de relocalisation 
+La question fait ici référence aux travaux menés par Ed Freeman autour des questions de parties prenantes 
+(Théorie des parties prenantes/ Stakeholders Theory), à prendre en compte au-delà des seuls intérêts des 
+propriétaires/actionnaires de l’entreprise. Il n’est pas demandé aux candidats de faire références à ces 
+travaux mais de comprendre l’importance de prendre en compte dans une réflexion stratégique que 
+l’entreprise génère des externalités (positives et négatives) et impacte un ensemble d’acteurs par ses 
+activités, et qu’il est nécessaire de prendre en compte au-delà du seul calcul économique de la relocalisation. 
+Qui peut être impacté par la décision de relocalisation ? 
+- 
+Les pouvoirs publics français et turcs : Etats, Régions concernées. À noter que les pouvoirs publics 
+français peuvent décider d’accompagner la relocalisation (aides spécifiques, ingénierie 
+d’implantation), alors que le territoire Turc peut être gêné par ce départ et tenté de retenir l’entreprise 
+- 
+La direction de l’entreprise française elle-même, en termes d’organisation. Qui gère cette implantation 
+en Turquie ? Comment va se passer le transfert ? Quels impacts en termes d’organisation ? La 
+décision de relocalisation peut impliquer de nombreux changements dans le fonctionnement de 
+l’entreprise 
+- 
+La direction de l’entreprise turque : que deviennent les collaborateurs dédiés à la production 
+Tech’Innov ? Sont-ils formés, reclassés ? Quel impact sur la survie de l’entreprise elle-même ? 
+- 
+La relation contractuelle avec le fournisseur : quel délai pour transférer la production ? Comment 
+récupérer l’outillage actuellement en Turquie ? Quelle mise au point faut-il réaliser ? Comment 
+assurer la continuité des livraisons clients pendant cette phase ? 
+- 
+La commune d’implantation de l’entreprise en France et de son site : quel impact sur la population 
+locale ? Cela va-t-il générer une attractivité supplémentaire ? Générer des emplois et des richesses ? 
+Ou des nuisances (bruit, pollution, « bétonisation ») ? Quelles conséquences sur la vie de la 
+commune (écoles, services publics, etc.) ? Quelle est la position des élus, des habitants ? L’activité 
+de l’entreprise est-elle en « symbiose » avec la vie de la localité ? 
+- 
+Les collaborateurs du site français, y compris organisations syndicales : y a-t-il un impact sur les 
+collaborateurs actuellement présents sur le site ? Y aura-t-il des créations d’emplois ? Faudra-t-il 
+générer des éléments d’attractivité pour attirer de nouveaux collaborateurs à venir travailler ?  
+- 
+La relation contractuelle avec les nouveaux fournisseurs chargés de livrer la matière première 
+qu’utilisera Tech’Innov et éventuellement de nouvelles machines. 
+Il n’est pas demandé une liste exhaustive de parties prenantes aux candidats. Il est néanmoins demandé à 
+ceux-ci qu’ils montrent une capacité à prendre en compte des dimensions extra-comptables, et d’éventuels 
+coûts cachés, dans leurs raisonnements. Par ailleurs la question se prête très bien à la présentation de 
+l’analyse cartographique sous forme matricielle.  
+ 
+ 
+FICHEBEN
+
+=== PAGE 9 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 9 / 13 
+3. Calculer le gain économique potentiel d’une relocalisation et le mettre en regard des coûts de 
+lancement de la première année. Qu’en conclure quant à la pertinence économique d’une telle 
+décision ? 
+Sur la base de l’ANNEXE 8, il est possible de reconstituer le tableau comparatif suivant : 
+Objectif 
+31/12/22 
+Ciel'Ouvert 
+Volumes 
+1 000 000   
+947 177   
+Chiffre d'affaires k€ 
+21 300   
+19 948   
+Matières premières k€ 
+11 000   
+14 844   
+Transports sur Achats k€ 
+20   
+233   
+Emballages k€ 
+140   
+0   
+Personnel direct k€ 
+3 824   
+137   
+Transports sur ventes k€ 
+120   
+114   
+Marge sur coûts variables k€ 
+6 196   
+4 620   
+Marge sur coûts variables % 
+29%   
+23%   
+Prix de vente €/pc 
+21,30 €   
+21,06 €   
+Matières premières €/pc 
+11,00 €   
+15,67 €   
+Transports sur Achats €/pc 
+0,02 €   
+0,25 €   
+Emballages €/pc 
+0,00 €   
+0,00 €   
+Personnel direct €/pc 
+3,82 €   
+0,15 €   
+Transports sur ventes €/pc 
+0,12 €   
+0,12 €   
+Marge sur coûts variables €/pc 
+6,34 €   
+4,88 €   
+Taux horaire 
+36,23 €   
+34,84 €   
+Temps de cycle s 
+380   
+15   
+Gain économique 
+1 576 k€ 
+Amélioration de la marge sur coûts variables 
+Frais de mise au point : 25% des coûts matière et personnel sur 3 mois 
+Matière 
+688 k€ 
+Personnel 
+239 k€ 
+Total 
+927 k€ 
+Gain éco net première année 
+650 k€ 
+La conclusion est nette : économiquement la décision de relocalisation est très pertinente. 
+4. À partir de la question précédente, et des annexes 6, 8 et 9, identifier les raisons (économiques, 
+humaines, opérationnelles, politiques ou institutionnelles) qui peuvent inciter Tech’ Innov à 
+internaliser la production de la gamme Ciel’Ouvert sur son site historique, en France 
+Il est ici demandé aux candidats d’extraire des informations dont ils disposent et de leurs calculs et réflexions 
+des questions précédentes pour établir un bilan d’une éventuelle opération de relocalisation de production 
+en France. Ils peuvent être ainsi amenés à mobiliser deux types de critères complémentaires : 
+- 
+Un critère économique évident, basé sur le résultat des calculs de coûts et de gains potentiels 
+- 
+Des critères extra-économiques, assez larges, qui peuvent intégrer un certain nombre de 
+considérations plus “qualitatives” et non exhaustives : effet de réputation d’une relocalisation (image 
+véhiculée par le Made In France) qui peut avoir un effet positif sur le recrutement, le management et 
+la fidélisation des collaborateurs, le positionnement de l’entreprise, les clients ; accentuation de 
+l’accompagnement par les pouvoirs publics (collectivités ; parties prenantes locales) ; meilleure 
+maîtrise de la logistique et de la qualité des produits, moindre dépendance à des considérations 
+géopolitiques (souveraineté stratégique), etc. 
+ 
+FICHEBEN
+
+=== PAGE 10 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 10 / 13 
+DOSSIER 3 – ORGANISATION ET MANAGEMENT DES RESSOURCES HUMAINES 
+(35 points) 
+1. Au regard du virage stratégique engagé par l’entreprise, définir le terme de « compétence ». 
+Proposer une méthodologie d’évaluation des compétences des salariés de Tech’Innov pour 
+repérer ses forces et ses vulnérabilités en la matière. 
+La compétence est classiquement définie par l’alliance d’un savoir, d’un savoir-faire et d’un savoir-être 
+(comportement) pour réaliser une opération donnée. Certains spécialistes de la compétence distinguent la 
+compétence (savoir et savoir-faire) du comportement (savoir-être) et la définition de la compétence pourra 
+être acceptée également dans ce cas. 
+Une compétence d’un collaborateur pour réaliser une opération donnée sera considérée comme acquise, à 
+la différence d’un potentiel, lorsque le manager du collaborateur aura évalué que la réalisation est 
+satisfaisante au regard des critères de l’entreprise. Il en résulte qu’une compétence est toujours relative à 
+une opération à réaliser et que son évaluation dépend de l’appréciation d’un tiers (le manager et/ou le 
+dirigeant). Dans le cas ou l’opération visée n’est pas réalisée selon le niveau de qualité requis dans 
+l’entreprise – soit par manque de savoir, de pratique et/ou de comportement approprié - la compétence sera 
+considérée comme vulnérable. L’évaluation des compétences d’un collaborateur vise donc de la part du 
+management à évaluer si les savoirs, les savoir-faire et les savoir-être de ce collaborateur sont au niveau 
+attendu au regard des différentes opérations que recouvre son poste. 
+L’évaluation des compétences relève de la responsabilité d’un manager de proximité capable d’observer la 
+réalisation des opérations. Elle fait idéalement l’objet d’une discussion entre le manager et chacun de ses 
+équipiers lors de l’entretien annuel d’évaluation ou bien d’un RDV had hoc. Par consolidation au niveau de 
+la DRH de l’évaluation des compétences réalisées dans chaque équipe, l’entreprise est alors capable 
+d’établir une cartographie de ses forces et de ses vulnérabilités en termes de compétences. Il existe différents 
+outils-méthodes possibles d’évaluation des compétences des salariés d’une entreprise. Chacun est 
+acceptable s’il est d’une part en cohérence avec la définition de base de la compétence. D’autre part s’il 
+semble applicable au cas proposé Tech’Innov qui est une PME industrielle. La qualité des explications du 
+candidat permettra au correcteur d’apprécier cette pertinence de la méthodologie-outil proposée à 
+l’entreprise Tech’Innov (sa faisabilité). 
+Dans le cas proposé de l’entreprise Tech’Innov, l’outil « grille de compétences » proposé et expérimenté par 
+Henri Savall et Véronique Zardet (1987, 2008, 2020) serait une solution possible. Ce n’est bien entendu pas 
+la seule et nous la rappelons dans ce corrigé à titre d’exemple de réponse possible. Les principes d’utilisation 
+de cet outil peuvent en effet servir de guide pour cartographier simplement des compétences dans une 
+entreprise telle que Tech’Innov. Les opérations réalisées dans une équipe sont identifiées par le manager de 
+l’équipe. Puis, par observation et lors d’un entretien, le manager évalue la compétence de ses équipiers sur 
+chacune des opérations repérées de la façon suivante : 
+- 
+carré noir : la personne maîtrise l’opération. Elle est compétente. 
+- 
+carré semi noir : la personne ne maîtrise pas suffisamment l’opération. Elle n’est pas pleinement 
+compétente par manque de pratique et/ou de savoir. 
+- 
+carré blanc : la personne ne pratique pas l’opération mais elle a été formée sur l’opération. Elle n’est 
+pas compétente mais elle a une base. 
+- 
+tiré (aucun carré) : la personne est incompétente (ni savoir, ni pratique) 
+ 
+L’avantage de cette méthodologie d’évaluation des compétences est d’être simple et appliquée, bien adaptée 
+à une PME industrielle du type Tech’Innov. D’autre part, visuellement, elle permet de distinguer facilement 
+les opérations vulnérables (zones avec une majorité de blanc et/ou semi noir) des opérations non vulnérables 
+(zones avec une majorité de noir). Dans l’exemple présenté ci-dessous, l’opération 2 ou chacun des 
+contributeurs est évalué compétent apparait ainsi comme une force. En revanche l’opération 1 ou un seul 
+collaborateur B est évalué compétent et a fortiori l’opération 6 ou aucun des collaborateurs ne l’est, sont 
+vulnérables. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 11 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 11 / 13 
+Grille de compétences d’une équipe (extrait) 
+Collaborateurs 
+Opération 1 
+Opération 2 
+Opération 3 
+Opération 4 
+Opération 5 
+Opération 6 
+A 
+◪ 
+■ 
+◪ 
+■ 
+■ 
+□ 
+B 
+■ 
+■ 
+■ 
+■ 
+■ 
+□ 
+C 
+◪ 
+■ 
+■ 
+■ 
+■ 
+- 
+D 
+◪ 
+■ 
+◪ 
+□ 
+□ 
+- 
+ 
+2. 
+Montrer l’importance de la formation pour combler les vulnérabilités en compétences actuelles 
+et pour préparer les compétences de demain puis expliquer comment bâtir un plan de formation 
+en conséquence. 
+Appliquée à Tech’Innov, une méthodologie possible d’évaluation des compétences consisterait donc au sein 
+de chaque équipe via le manager, en utilisant une outil pertinent – par exemple la grille de compétence – à 
+évaluer les compétences de chacun des équipiers au regard des opérations réalisées par l’entreprise – qu’il 
+s’agisse d’opérations de type support (qualité, finance, RH, etc.), production ou bien vente-marketing - afin 
+d’identifier les zones de forces et de vulnérabilités en termes de compétences. Permettant ainsi au DRH par 
+consolidation de l’ensemble des grilles de compétences de repérer les forces et les vulnérabilités majeures 
+en compétences et de bâtir des plans de formation pour les collaborateurs impliqués sur des opérations 
+jugées vulnérables.  
+Au regard des opérations à réaliser par l’entreprise – c’est-à-dire d’opérations que l’entreprise ne réalise pas 
+encore mais qu’elle va réaliser à l’avenir - comme typiquement les opérations liées aux activités que 
+Tech’Innov compte relocaliser, l’entreprise via sa DRH concertée avec les managers doit construire une grille 
+de compétences prospectives des opérations à développer : Quelles sont ces opérations à développer liées 
+à la relocalisation ? Qui va les faire ? Est-ce que des salariés de l’entreprise ont les savoirs suffisants pour 
+réaliser ces opérations et quels compléments de formation sont à envisager pour leur faire atteindre un 
+niveau satisfaisant de maîtrise ? Est-ce que l’entreprise va devoir recruter des nouveaux salariés compétents 
+sur ces opérations de demain car elle ne dispose pas des savoirs suffisants, et/ou bien que ses salariés 
+actuels soient déjà tous très chargés et/ou bien que l’effort de formation à prévoir vers des salariés actuels 
+serait trop lourd à mettre en œuvre. 
+En effet, lorsque Tech’Innov aura cartographié ses compétences – actuelles et de demain – elle va disposer 
+de deux solutions, internes et externes, pour les développer.  
+D’une part elle pourra s’appuyer sur ses ressources humaines actuelles pour développer son portefeuille de 
+compétences, en recourant à des actions de mobilité interne et d’échange de bonnes pratiques. L’entreprise 
+pourra également bâtir des plans de formation pour développer les compétences. Le plan de formation est 
+idéalement construit par la direction des ressources humaines, en s’appuyant sur les entretiens d’évaluation 
+réalisés par les managers. La formation suivie par un salarié, pour être pertinente, doit en effet correspondre 
+à des vulnérabilités à combler et résulter d’un consensus entre le salarié et l’entreprise réalisé lors d’un 
+entretien. En résumé, l’élaboration d’un plan de formation fait par une DRH doit résulter d’une négociation 
+entre des managers, qui déclinent la stratégie de l’entreprise, et leurs collaborateurs qui expriment des 
+attentes d’évolution. Également les échanges de bonnes pratiques qualifient les dispositifs d’échange et 
+d’acquisition de connaissances et de compétences entre les salariés. Ces dispositifs peuvent être formels et 
+prendre la forme de réunions de « communauté de pratiques ». Dans ces réunions, les salariés exposent et 
+discutent de leurs pratiques sur un thème défini à l’avance. Ces dispositifs peuvent être également informels 
+et prendre la forme d’apprentissage et de formation sur le tas. Dans tous les cas, les échanges de bonnes 
+pratiques, s’ils contribuent directement à la transmission de connaissances, ne contribuent au 
+développement des compétences que s’ils sont suivis de mise en pratique. 
+D’autre part lorsque Tech’Innov va estimer qu’elle ne dispose pas du potentiel humain suffisant, en qualité 
+et/ou en quantité, pour développer des compétences manquantes, notamment pour réaliser la relocation 
+d’activités envisagées, elle va devoir engager un plan de recrutement. On peut raisonnablement penser à la 
+lecture du cas Tech’Innov et des annexes que pour relocaliser les activités envisagées, l’entreprise doive 
+panacher le développement interne des compétences avec des recrutements externes pour vivifier son 
+potentiel de compétences. 
+ 
+ 
+FICHEBEN
+
+=== PAGE 12 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 12 / 13 
+3. L’un des facteurs clés de succès d’une stratégie de relocalisation/internalisation repose sur 
+l’attractivité de l’entreprise pour attirer, motiver et fidéliser les talents nécessaires. Décrire 
+six grands domaines qui forgent la qualité de vie au travail et d’attractivité de l’entreprise pour 
+ses talents. 
+Le succès de la stratégie de relocalisation de Tech’Innov repose grandement sur sa capacité à fidéliser et 
+motiver ses compétences actuelles et, pour celles qui seront recrutées, à les attirer puis les fidéliser/motiver 
+durablement. L’enjeu est de taille pour cette entreprise qui se situe sur un territoire, est d’une taille modeste 
+et cela sur un secteur industriel qui peine à attirer. Beaucoup va se jouer donc sur l’attractivité de Tech’Innov 
+pour attirer et fidéliser les talents. 
+Les travaux contemporains en management des ressources humaines et contrôle de gestion sociale 
+montrent que l’attractivité du travail, la satisfaction sociale qu’il procure et la productivité qu’il secrète sont 
+intimement liées. Il est possible d’améliorer de façon significative les trois au travers d’un mode de 
+management de proximité en rupture avec celui anachronique de type taylorien qui affecte les domaines de 
+la satisfaction au travail ou qualité de la vie au travail (QVT) et qui forgent l’attractivité d’une entreprise telle 
+que Tech’Innov. Ces travaux contemporains en RH et contrôle de gestion (par exemple ceux de Laurent 
+Cappelletti, 2022, 2023) font ressortir 6 grands domaines sans que cette liste soit totalement exhaustive. 
+1. les conditions de travail tant physiques que psychologiques 
+2. l’organisation du travail (par exemple répartition travail en présence versus travail à distance) 
+3. la communication-coordination-concertation et le sens donné au travail 
+4. la gestion du temps (par exemple organisation de la semaine de travail sur 4 jours ou 5 jours) 
+5. la formation et l’évolution professionnelles 
+6. les valeurs, les stratégies et leur mise en œuvre (en particulier la stratégie de rémunérations et de 
+répartition de la valeur économique créée).  
+Ces six domaines de la satisfaction au travail se révèlent être également ceux de la productivité durable et 
+de l’attractivité du travail. Ces domaines doivent faire l'objet de négociations régulières en proximité entre le 
+dirigeant et ses salariés dans les petites entreprises, le manager et les membres de son équipe dans les plus 
+grandes, pour les adapter périodiquement au niveau recherché de satisfaction sociale.  
+À ces domaines « internes » (maîtrisables par l’entreprise) s’ajoutent également des domaines « externes » 
+(moins maîtrisables par l’entreprise mais qu’elle peut tenter de négocier), par exemple la qualité de vie du 
+territoire (sport, culture, mobilité, services publics, etc.) de résidence de l’entreprise.  
+Ces domaines externes ou bien d’autres internes que les 6 principaux proposés sont acceptables comme 
+réponse à partir du moment ou leur rôle dans l’attractivité de l’entreprise aura été justifié par le candidat. 
+ 
+4. Les défauts de qualité de vie au travail engendrent de l’insatisfaction sociale source de 
+dysfonctionnements aux coûts cachés conséquents. Définir le concept de « coûts cachés » et 
+proposer trois indicateurs clés permettant de les piloter. 
+L’amélioration continue ou périodique des leviers de l’attractivité permet la réduction des coûts cachés – 
+« cachés » dans le sens non pris en compte ou très imparfaitement par les systèmes d’information comptable 
+(budgets, comptes de résultats, bilans). Cette réduction permet d’autofinancer les investissements faits en la 
+matière. Les travaux contemporains en management des ressources humaines et contrôle de gestion sociale 
+montrent qu’un euro investi en qualité du management (formation, organisation du travail, etc.) en rapporte 
+quatre, en moyenne, en surcroit de productivité. Les défauts d’attractivité du travail et de QVT engendrent 
+des coûts cachés qui s’expriment en termes de surtemps, sursalaires, non-productions, surconsommations 
+et risques relativement à 5 grands domaines de dysfonctionnements qu’ils provoquent : 
+- 
+L’absentéisme au travail 
+- 
+Les maladies professionnelles et les accidents du travail 
+- 
+La rotation non maîtrisée du personnel (difficultés à recruter et à fidéliser) 
+- 
+Les défauts de qualité du travail 
+- 
+Les écarts de productivité directe liée à la démotivation et au manque d’engagement des salariés 
+Les indicateurs de pilotage des coûts cachés sont donc à choisir dans ces grands domaines dont les trois 
+premiers font l’objet de mesure dans le cadre du bilan social qui s’imposent aux entreprises de plus de 300 
+salariés. Il serait souhaitable donc que Tec’Innov dans le cadre d’un tableau de bord social suive 
+FICHEBEN
+
+=== PAGE 13 ===
+23DSCG-UE3 
+Management et contrôle de gestion 
+Page 13 / 13 
+régulièrement ces indicateurs pour mieux apprécier son attractivité et sa QVT et l’ajuste si elle n’était pas au 
+bon niveau par des actions managériales pertinentes. 
+Les 3 indicateurs demandés sont à trouver dans cette liste de 5. Mais une réponse justifiée au-delà cette 
+liste sera acceptable à l’appréciation du correcteur. 
+ 
+5. 
+Construire un Tableau de Bord Social (TBS) qui permettrait de piloter des actions d’amélioration 
+de la qualité de vie au travail et d’attractivité sources de performance sociale pour l’entreprise 
+Tech’Innov. 
+Un modèle possible de TBS pour Tec’Innov consisterait à suivre en permanence des indicateurs de résultats 
+des performances sociales, au plan qualitatif (via des enquêtes des satisfactions), quantitatif (via des calculs 
+de taux) et financiers (au travers des coûts cachés et leur variation sur une période), singulièrement les cinq 
+suivants : 
+- 
+L’absentéisme au travail 
+- 
+Les maladies professionnelles et les accidents du travail 
+- 
+La rotation du personnel 
+- 
+Les défauts de qualité du travail 
+- 
+Les écarts de productivité directe ou sous productivité 
+Les trois premiers directement par la DRH, le quatrième par la direction qualité et le cinquième par la direction 
+finance et contrôle de gestion. Les trois directions étant déjà constituées au niveau de Tec’Innov le suivi de 
+ces indicateurs ne poseraient pas de problème de mise en œuvre. Le TBS serait idéalement à présenter 
+régulièrement en comité de direction au vu de l’importance stratégique du critère d’attractivité du travail pour 
+l’entreprise que ces cinq indicateurs permettent de piloter. 
+Par ailleurs, au-delà ces cinq indicateurs de résultats, des indicateurs plus ponctuels portant sur les actions 
+périodiques d’amélioration de la qualité de vie au travail et d’attractivité doivent venir compléter le TBS. 
+Singulièrement sur la période qui s’annonce des indicateurs portant sur les compétences à développer pour 
+intégrer au mieux les activités relocalisées et sur les plans de formation voire sur les recrutements élaborés 
+en conséquence.  
+FICHEBEN

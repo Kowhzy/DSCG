@@ -1,0 +1,2539 @@
+{
+ "ue": "UE3",
+ "genere_le": "2026-09-24",
+ "consignes_agent": [
+  "L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.",
+  "Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).",
+  "Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.",
+  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
+  "Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.",
+  "Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.",
+  "Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027."
+ ],
+ "epreuve": "Écrit de 4 heures (coefficient 1,5 en 2019 selon la page de garde du sujet ; coefficient 2026 : non vérifié) ; 2 à 4 dossiers ; 2025 : 3 dossiers sur 20 points (8/6/6) [DSCG UE3 2025, page de garde]. Date 2026 : non vérifiée.",
+ "reference_programme": "Annexe II de l'arrêté du 13 février 2019 (BO ESR n°25 du 20 juin 2019), UE3 Management et contrôle de gestion, p. 10-15 de l'annexe",
+ "methode_ipr": {
+  "ponderations": {
+   "f_hist": 15,
+   "f_cur": 20,
+   "f_rec": 10,
+   "poids": 10,
+   "jury": 15,
+   "diff": 10,
+   "transv": 10,
+   "bo": 5,
+   "gap": 5
+  },
+  "seuils": {
+   "PRIORITÉ MAXIMALE": 60,
+   "PRIORITÉ TRÈS ÉLEVÉE": 45,
+   "PRIORITÉ ÉLEVÉE": 32,
+   "À MAÎTRISER": 20
+  },
+  "regle": "une rubrique signalée comme faiblesse par le jury 2025 est au minimum en PRIORITÉ TRÈS ÉLEVÉE",
+  "scenarios_sensibilite": [
+   "référence",
+   "égalitaire",
+   "fréquences seules",
+   "jury renforcé",
+   "récence renforcée",
+   "sans « gap »",
+   "poids du barème renforcé"
+  ]
+ },
+ "synthese": [
+  "Référentiel applicable : programme de 2019 (1re session en 2020 ; selon le jury, le contenu de l'UE3 « n'a pas été profondément modifié avec la réforme ») ; la réforme de 2025 ne vaut qu'à partir de 2027.",
+  "Le diagnostic stratégique (PESTEL, Porter, SWOT, ressources/compétences, business model) est présent dans 9 sessions sur 10 depuis 2016 (en toile de fond seulement en 2025). Le jury 2024 relève cependant des erreurs de choix d'outil : PESTEL ou SWOT au lieu des 5 forces pour le micro-environnement.",
+  "Rupture 2024-2025 : le contrôle de gestion « fait part égale avec le management » [Rapport du jury 2024, p. 24 ; confirmé en 2025, p. 28]. Les calculs (écarts, facteur rare, masse salariale, prix de cession interne) sont redevenus centraux.",
+  "Faiblesse n°1 signalée par le jury 2025 : « la décomposition des écarts et [l]es différents effets de la masse salariale ». Les écarts figurent dans chacune des trois dernières sessions (2023, 2024, 2025) ; la masse salariale est calculée en 2017, 2022 et 2025 et la gestion des RH est en principal dans 5 sessions sur 10.",
+  "Pilotage et performance : les techniques sont fréquentes (coûts cachés dans 4 sessions : 2018, 2020, 2022, 2023 ; tableau de bord social en 2022 et 2023), mais le programme les range en 3.2 (dysfonctionnements) et 4.1 (TBS). La rubrique 3.3 (KPI, tableaux de bord stratégiques, performance globale) n'est en principal qu'en 2020.",
+  "Correction par rapport à la 1re version de cette étude : selon le texte officiel, la rubrique 2.2 porte sur l'audit, le contrôle interne et les risques ; elle n'a jamais été interrogée en principal. Les calculs de coûts (facteur rare en 2024 ; coûts, marges et seuil en 2019-2020) sont des techniques du DCG mobilisées au service de 2.5 (planification, choix de programme) et de 2.3 (tarification). Ils restent à maîtriser : voir le tableau des techniques (section 5.6).",
+  "Chute du taux de réussite : de 50,14 % en 2024 à 17,28 % en 2025, avec une moyenne de 7,08 [Rapport du jury 2025, p. 10 et 19]. Le niveau technique et la contextualisation sont devenus discriminants."
+ ],
+ "surprises": [
+  "Rubriques jamais interrogées en principal sur 10 ans : 1.3 (contrôle de gestion et systèmes d'information), 2.2 (contrôle de gestion face à l'audit, au contrôle interne et aux risques) et 2.7 (contrôle de gestion et changement organisationnel). Le management du changement (3.1) n'est plus apparu depuis 2018, alors que les jurys 2020 et 2021 en font un « point majeur ».",
+  "2025 : format resserré à 20 points (8/6/6) et sujet jugé « court » ; le candidat est placé dans l'entreprise, et non plus en cabinet comme en 2024.",
+  "La rubrique « gestion du périmètre » (internalisation/relocalisation, franchise, marketplace, prix de transfert) est présente dans chacune des 3 dernières sessions."
+ ],
+ "rubriques": [
+  {
+   "code": "2.5",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "La planification et le diagnostic stratégique",
+   "notions_officielles": "CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire",
+   "ipr": 77.7,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 1,
+    "rang_min": 1,
+    "rang_max": 1,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.7,
+   "frequence_2020_2025": 0.833,
+   "frequence_2023_2025": 1.0,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.198,
+   "dossiers": [
+    "2023 D2",
+    "2021 D2",
+    "2021 D4",
+    "2025 D1",
+    "2020 D1",
+    "2019 D3",
+    "2016 D2",
+    "2024 D1",
+    "2024 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 24",
+     "observation": "« le contrôle de gestion fait part égale avec le management » ; compétences de haut niveau (analyser, évaluer, créer).",
+     "difficulte_candidats": false,
+     "consequence": "Le contrôle de gestion chiffré pèse désormais la moitié du barème."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 26",
+     "observation": "« peu de candidats ont compris qu'il fallait utiliser la méthode du facteur rare ».",
+     "difficulte_candidats": true,
+     "consequence": "Refaire des exercices d'optimisation sous contrainte."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 28",
+     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+     "difficulte_candidats": false,
+     "consequence": "Savoir construire soi-même une décomposition d'écarts."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 29-30",
+     "observation": "« De nombreux candidats ne maîtrisent pas les techniques de base, qu'il s'agisse de la décomposition des écarts et des différents effets de la masse salariale » ; calcul d'une redevance à partir d'une formule simple raté.",
+     "difficulte_candidats": true,
+     "consequence": "PRIORITÉ : écarts (y compris réinterprétés) et effets niveau/masse/report."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 30",
+     "observation": "Conseils 2026 : maîtriser et réinterpréter les techniques ; exploiter calculs et concepts dans une argumentation ; articuler management et CG.",
+     "difficulte_candidats": false,
+     "consequence": "Chaque calcul doit déboucher sur une analyse et une préconisation."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.9 p.234",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.1",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Analyse et choix stratégiques",
+   "notions_officielles": "diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances",
+   "ipr": 68.3,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 2,
+    "rang_min": 2,
+    "rang_max": 2,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2025
+   ],
+   "frequence_2016_2025": 0.9,
+   "frequence_2020_2025": 0.833,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.245,
+   "dossiers": [
+    "2023 D1",
+    "2022 D1",
+    "2021 D1",
+    "2021 D2",
+    "2020 D1",
+    "2019 D2",
+    "2018 D1",
+    "2017 D1",
+    "2017 D2",
+    "2016 D1",
+    "2024 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 26",
+     "observation": "« de nombreux candidats ont utilisé le PESTEL ou SWOT au lieu des forces de Porter pour analyser le micro-environnement ».",
+     "difficulte_candidats": true,
+     "consequence": "Choisir l'outil selon le niveau d'analyse (macro vs micro)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.4 p.112, ch.5 p.134",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Management des ressources humaines et des compétences (30 h)",
+   "intitule": "La gestion des ressources humaines",
+   "notions_officielles": "tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…)",
+   "ipr": 59.8,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 3,
+    "rang_min": 3,
+    "rang_max": 4,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2017,
+    2021,
+    2022,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.667,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.143,
+   "dossiers": [
+    "2023 D3",
+    "2022 D2",
+    "2021 D3",
+    "2025 D2",
+    "2017 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 28",
+     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+     "difficulte_candidats": false,
+     "consequence": "Savoir construire soi-même une décomposition d'écarts."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 29-30",
+     "observation": "« De nombreux candidats ne maîtrisent pas les techniques de base, qu'il s'agisse de la décomposition des écarts et des différents effets de la masse salariale » ; calcul d'une redevance à partir d'une formule simple raté.",
+     "difficulte_candidats": true,
+     "consequence": "PRIORITÉ : écarts (y compris réinterprétés) et effets niveau/masse/report."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.14 p.372",
+    "statut_notion": "U (limité)"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Management des ressources humaines et des compétences (30 h)",
+   "intitule": "La gestion des compétences",
+   "notions_officielles": "identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel",
+   "ipr": 48.6,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 4,
+    "rang_min": 4,
+    "rang_max": 5,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2019,
+    2021,
+    2022,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2018
+   ],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.667,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.165,
+   "dossiers": [
+    "2023 D3",
+    "2022 D2",
+    "2021 D3",
+    "2021 D4",
+    "2025 D2",
+    "2019 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.15 p.398",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.4",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "La gestion du périmètre de l'entité",
+   "notions_officielles": "extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert",
+   "ipr": 45.4,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 5,
+    "rang_min": 3,
+    "rang_max": 5,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2019,
+    2023,
+    2024,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2017
+   ],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 1.0,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.194,
+   "dossiers": [
+    "2023 D2",
+    "2025 D3",
+    "2019 D3",
+    "2024 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 28",
+     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+     "difficulte_candidats": false,
+     "consequence": "Savoir construire soi-même une décomposition d'écarts."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 30",
+     "observation": "Conseils 2026 : maîtriser et réinterpréter les techniques ; exploiter calculs et concepts dans une argumentation ; articuler management et CG.",
+     "difficulte_candidats": false,
+     "consequence": "Chaque calcul doit déboucher sur une analyse et une préconisation."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.8 p.211",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.6",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Analyse des parties prenantes et structures de gouvernance",
+   "notions_officielles": "cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes",
+   "ipr": 38.0,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 6,
+    "rang_min": 6,
+    "rang_max": 8,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2022,
+    2023,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2019
+   ],
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.167,
+   "dossiers": [
+    "2023 D2",
+    "2022 D3",
+    "2025 D1",
+    "2018 D1",
+    "2016 D1"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "M ch.10 p.253 ; séance 6",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.3",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Approche du marketing stratégique",
+   "notions_officielles": "leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data",
+   "ipr": 36.0,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 7,
+    "rang_min": 6,
+    "rang_max": 8,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2020,
+    2022,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2021
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.244,
+   "dossiers": [
+    "2022 D1",
+    "2020 D1",
+    "2024 D1",
+    "2024 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.7 p.188",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.2",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie",
+   "notions_officielles": "rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie",
+   "ipr": 34.5,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 8,
+    "rang_min": 6,
+    "rang_max": 9,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2019,
+    2021,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2016,
+    2018,
+    2022
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.11,
+   "dossiers": [
+    "2021 D4",
+    "2025 D1",
+    "2019 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 28",
+     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+     "difficulte_candidats": false,
+     "consequence": "Savoir construire soi-même une décomposition d'écarts."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.2 p.32 ; séances 1/5",
+    "statut_notion": "I/A"
+   },
+   "zone_a_ne_pas_negliger": "En principal en 2019 D1 (RSE), 2021 D4 (rôle du contrôleur en start-up) et 2025 D1 (RSE et redevance de pollution) : la RSE vue par le contrôle de gestion est revenue en 2025."
+  },
+  {
+   "code": "3.3",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Le contrôle de gestion et le pilotage stratégique",
+   "notions_officielles": "performance globale, FCS, KPI, tableaux de bord stratégiques",
+   "ipr": 33.3,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 9,
+    "rang_min": 6,
+    "rang_max": 10,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2020
+   ],
+   "sessions_toile_de_fond": [
+    2016,
+    2018,
+    2019,
+    2021,
+    2024,
+    2025
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2020,
+   "poids_bareme_quand_present": 0.2,
+   "dossiers": [
+    "2020 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.13 p.345",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Management et pilotage par les processus",
+   "notions_officielles": "cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit",
+   "ipr": 28.8,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 10,
+    "rang_min": 9,
+    "rang_max": 10,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2018,
+    2020,
+    2023
+   ],
+   "sessions_toile_de_fond": [
+    2016,
+    2022
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2023,
+   "poids_bareme_quand_present": 0.158,
+   "dossiers": [
+    "2023 D3",
+    "2020 D2",
+    "2018 D1",
+    "2018 D2"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "M ch.11 p.290",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": "Coûts cachés et dysfonctionnements : 2018 D1, 2020 D2, 2023 D3 (et 2022 D2 en toile de fond). Coûts cibles et analyse de la valeur, pourtant cités par le programme, n'ont jamais été interrogés sur la période."
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Le management du changement",
+   "notions_officielles": "types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement",
+   "ipr": 20.8,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 11,
+    "rang_min": 11,
+    "rang_max": 12,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018
+   ],
+   "sessions_toile_de_fond": [
+    2020
+   ],
+   "frequence_2016_2025": 0.2,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2018,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2018 D2",
+    "2016 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.12 p.318",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Absent depuis 2018 (conduite du changement, styles, résistances, progrès continu vs projet). Les annales 2016 D2 et 2018 D2 sont les meilleures ressources."
+  },
+  {
+   "code": "1.1",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Évolution des modèles d'organisation",
+   "notions_officielles": "formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé",
+   "ipr": 16.2,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 12,
+    "rang_min": 11,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2017,
+    2019
+   ],
+   "sessions_toile_de_fond": [
+    2021,
+    2022
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2019,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [
+    "2019 D1",
+    "2017 D2",
+    "2016 D1"
+   ],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "M (Dunod MCG) ch.1 p.1 ; cours prof. séance 3",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.2",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Place et rôle du contrôle de gestion stratégique",
+   "notions_officielles": "CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils",
+   "ipr": 15.5,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 13,
+    "rang_min": 12,
+    "rang_max": 14,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [
+    2019,
+    2020,
+    2025
+   ],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "M ch.6 p.158 ; séance 4",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Jamais en principal : positionner le contrôle de gestion face à l'audit (interne/externe, légal/contractuel) et au contrôle interne, identifier les risques de l'entité, communication financière. Seulement en toile de fond (2019 D2-D3 : risques ; 2020 D2 : audit vs diagnostic ; 2025 D3 : risque fiscal). Fiche de définitions et de liens CG/audit/CI."
+  },
+  {
+   "code": "2.7",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Contrôle de gestion et changement organisationnel",
+   "notions_officielles": "CG interface stratégie/organisation, aide à l'évolution de la structure",
+   "ipr": 13.8,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 14,
+    "rang_min": 12,
+    "rang_max": 15,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [
+    2017,
+    2018
+   ],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7-8",
+     "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.12 p.318",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé en principal, alors que les jurys 2020-2021 citent « la mise en œuvre stratégique et la gestion du changement et des transformations »."
+  },
+  {
+   "code": "1.3",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Le contrôle de gestion et les systèmes d'information et de communication",
+   "notions_officielles": "PGI, transmission électronique de l'information, mégadonnées",
+   "ipr": 8.3,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 15,
+    "rang_min": 13,
+    "rang_max": 15,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "M ch.3 p.63",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé : ERP, mégadonnées, circulation de l'information au service du contrôle de gestion."
+  }
+ ],
+ "techniques": [
+  {
+   "technique": "ecarts",
+   "libelle": "Analyse d'écarts",
+   "sessions_2016_2025": 6.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 3.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2024 D2",
+    "2023 D2",
+    "2019 D3",
+    "2017 D3",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "parties_prenantes",
+   "libelle": "Parties prenantes",
+   "sessions_2016_2025": 5.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2023 D2",
+    "2022 D3",
+    "2018 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "couts_caches",
+   "libelle": "Coûts cachés (Savall-Zardet)",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2022 D2",
+    "2020 D2",
+    "2018 D1"
+   ]
+  },
+  {
+   "technique": "note_synthese",
+   "libelle": "Note de synthèse",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2023 D2",
+    "2023 D1",
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "Porter_5F",
+   "libelle": "5 (+1) forces de Porter",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 3.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2023 D1",
+    "2022 D1"
+   ]
+  },
+  {
+   "technique": "RSE",
+   "libelle": "RSE / DD",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D1",
+    "2022 D3",
+    "2019 D1",
+    "2018 D1"
+   ]
+  },
+  {
+   "technique": "competences",
+   "libelle": "Gestion des compétences",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 2.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2023 D3",
+    "2019 D2"
+   ]
+  },
+  {
+   "technique": "masse_salariale",
+   "libelle": "Masse salariale (effets niveau/masse/report)",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2022 D2",
+    "2017 D3"
+   ]
+  },
+  {
+   "technique": "PESTEL",
+   "libelle": "PESTEL",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1",
+    "2022 D1",
+    "2017 D1"
+   ]
+  },
+  {
+   "technique": "digital",
+   "libelle": "Marketing digital",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2",
+    "2022 D1"
+   ]
+  },
+  {
+   "technique": "previsions_resultat",
+   "libelle": "Prévisions de CA / résultat",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2021 D4"
+   ]
+  },
+  {
+   "technique": "tarification",
+   "libelle": "Tarification / grille de prix",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D1",
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "TBS",
+   "libelle": "Tableau de bord social",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3",
+    "2022 D2"
+   ]
+  },
+  {
+   "technique": "strategies_generiques",
+   "libelle": "Stratégies génériques",
+   "sessions_2016_2025": 4.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D1",
+    "2019 D2",
+    "2018 D1",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "diagnostic_ressources_competences",
+   "libelle": "Diagnostic ressources / compétences",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D2",
+    "2019 D2",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "franchise_plateforme",
+   "libelle": "Franchise / plateforme",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2",
+    "2019 D3"
+   ]
+  },
+  {
+   "technique": "SWOT",
+   "libelle": "SWOT",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1",
+    "2017 D1"
+   ]
+  },
+  {
+   "technique": "outils_CG",
+   "libelle": "Outils de contrôle de gestion",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D4",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "couts_marges_seuil",
+   "libelle": "Coûts, marges, seuil de rentabilité",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D1",
+    "2019 D3"
+   ]
+  },
+  {
+   "technique": "conduite_projet",
+   "libelle": "Conduite de projet",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D2",
+    "2016 D2"
+   ]
+  },
+  {
+   "technique": "PCI",
+   "libelle": "Prix de cession interne / de transfert",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3"
+   ]
+  },
+  {
+   "technique": "integration_verticale",
+   "libelle": "Intégration verticale",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3"
+   ]
+  },
+  {
+   "technique": "couts_transaction",
+   "libelle": "Coûts de transaction",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3"
+   ]
+  },
+  {
+   "technique": "facteur_rare",
+   "libelle": "Optimisation sous contrainte (facteur rare)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D2"
+   ]
+  },
+  {
+   "technique": "scenarios",
+   "libelle": "Scénarios",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D1"
+   ]
+  },
+  {
+   "technique": "faire_faire_faire",
+   "libelle": "Faire ou faire-faire (relocalisation)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D2"
+   ]
+  },
+  {
+   "technique": "formation",
+   "libelle": "Plan de formation",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3"
+   ]
+  },
+  {
+   "technique": "QVT_attractivite",
+   "libelle": "QVT, attractivité",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2023,
+   "dossiers": [
+    "2023 D3"
+   ]
+  },
+  {
+   "technique": "marketing",
+   "libelle": "Marketing stratégique / mix",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D1"
+   ]
+  },
+  {
+   "technique": "GEPP",
+   "libelle": "GEPP / GPEC",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D2"
+   ]
+  },
+  {
+   "technique": "KM",
+   "libelle": "Knowledge management (SECI)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D2"
+   ]
+  },
+  {
+   "technique": "gouvernance",
+   "libelle": "Gouvernance (codes, agence, administrateurs)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022 D3"
+   ]
+  },
+  {
+   "technique": "ocean_bleu",
+   "libelle": "Océan bleu",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D1"
+   ]
+  },
+  {
+   "technique": "business_model",
+   "libelle": "Business model (canvas)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D2"
+   ]
+  },
+  {
+   "technique": "integration_fidelisation",
+   "libelle": "Intégration, fidélisation",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "cout_turnover",
+   "libelle": "Coût du turnover",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "seuil_rentabilite",
+   "libelle": "Seuil de rentabilité d'une décision",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D3"
+   ]
+  },
+  {
+   "technique": "remuneration",
+   "libelle": "Rémunération (dont BSPCE)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D4"
+   ]
+  },
+  {
+   "technique": "diagnostic_strategique",
+   "libelle": "Diagnostic stratégique (démarche)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "valeur_client",
+   "libelle": "Valeur client / offre",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D1"
+   ]
+  },
+  {
+   "technique": "diagnostic_processus",
+   "libelle": "Diagnostic des processus",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "tableau_de_bord",
+   "libelle": "Tableau de bord de pilotage",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "performance_globale",
+   "libelle": "Performance globale",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2020,
+   "dossiers": [
+    "2020 D2"
+   ]
+  },
+  {
+   "technique": "Mintzberg",
+   "libelle": "Configurations de Mintzberg",
+   "sessions_2016_2025": 3.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D1",
+    "2017 D2",
+    "2016 D1"
+   ]
+  },
+  {
+   "technique": "modes_developpement",
+   "libelle": "Modes de développement",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D3",
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "entreprise_liberee",
+   "libelle": "Entreprise libérée",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D1"
+   ]
+  },
+  {
+   "technique": "chaine_valeur",
+   "libelle": "Chaîne de valeur",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D2"
+   ]
+  },
+  {
+   "technique": "risques",
+   "libelle": "Risques",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2019,
+   "dossiers": [
+    "2019 D2"
+   ]
+  },
+  {
+   "technique": "conduite_changement",
+   "libelle": "Conduite du changement",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "progres_continu",
+   "libelle": "Progrès continu",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "apprentissage_organisationnel",
+   "libelle": "Apprentissage organisationnel",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "rentabilite_actions",
+   "libelle": "Rentabilité d'un plan d'actions",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2018,
+   "dossiers": [
+    "2018 D2"
+   ]
+  },
+  {
+   "technique": "Greiner",
+   "libelle": "Modèle de Greiner",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2017,
+   "dossiers": [
+    "2017 D2"
+   ]
+  },
+  {
+   "technique": "valeur_acquise",
+   "libelle": "Valeur acquise (projet)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 0.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2016,
+   "dossiers": [
+    "2016 D2"
+   ]
+  }
+ ],
+ "annales_recommandees": [
+  {
+   "annale": "2025 (sujet entier, 4 h)",
+   "interet": "À refaire absolument : schéma d'écarts à construire (redevance), effets sur la masse salariale, compétences distinctives, prix de transfert, parties prenantes. Ce sont les faiblesses n°1 du jury 2025."
+  },
+  {
+   "annale": "2024 (sujet entier)",
+   "interet": "Porter pour le micro-environnement (et non PESTEL), grille tarifaire, écarts de CA, facteur rare, marketing digital, marketplace, franchise ; TPE de services."
+  },
+  {
+   "annale": "2023 D2",
+   "interet": "Écarts sur marge (volume, prix/coût), gain d'une relocalisation (analyse différentielle), cartographie des parties prenantes."
+  },
+  {
+   "annale": "2023 D3 + 2022 D2",
+   "interet": "Compétences, formation, GEPP, knowledge management, coûts cachés, tableau de bord social, masse salariale."
+  },
+  {
+   "annale": "2017 D3 (ancien programme)",
+   "interet": "Masse salariale : variation par catégorie, écarts de salaire/composition/effectif, effets de niveau, de masse et de report. La référence technique sur les effets."
+  },
+  {
+   "annale": "2019 D3 (ancien programme)",
+   "interet": "Décomposition des écarts de marge de production, contributions par canal, franchise."
+  },
+  {
+   "annale": "2020 D2 + D1 partie B",
+   "interet": "Diagnostic des processus, coût des dysfonctionnements, tableau de bord et indicateurs de performance globale ; coûts, seuil, valeur client."
+  },
+  {
+   "annale": "2018 D2 + 2016 D2",
+   "interet": "Conduite du changement, styles, progrès continu ; pilotage de projet par la valeur acquise et les écarts. Zones peu interrogées récemment."
+  },
+  {
+   "annale": "2021 D2 + D4",
+   "interet": "Business model canvas, outils de contrôle de gestion en start-up (rôle du contrôleur)."
+  }
+ ],
+ "attendus_corriges": [
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q1 définir la RSE et ses axes",
+   "bareme": "n.c.",
+   "attendus": "Définition de la Commission européenne (intégration volontaire des préoccupations sociales et environnementales). Trois axes : social, environnemental, sociétal.",
+   "pieges": "Une définition sourcée est attendue, pas une paraphrase vague.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q2 calcul et analyse des écarts sur la redevance pollution",
+   "bareme": "n.c.",
+   "attendus": "Redevance 2024 = 2,10 × 53 270 × 3,2000208 = 357 976,73 € · 2023 = 1,97 × 55 509 × 3,1073267 = 339 794,66 € · écart global 18 182,07 € défavorable. Décomposition : écart sur redevance unitaire (Ru24 − Ru23) × V24 × Cp24 = 22 160,46 € D · écart sur pollution totale (V24·Cp24 − V23·Cp23) × Ru23 = −3 978,40 € F, lui-même = écart volume (V24 − V23) × Cp24 × Ru23 = −14 114,75 + écart concentration (Cp24 − Cp23) × V23 × Ru23 = 10 136,35. Autre schéma de décomposition accepté.",
+   "pieges": "Transposer la logique des écarts budgétaires (prix × quantité × composition) à un coût NON financier : c'est le cœur de la surprise 2025. Vérifier que la somme des sous-écarts redonne l'écart global. Qualifier chaque écart (F/D) et l'interpréter.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q3 analyse mensuelle (mois atypiques)",
+   "bareme": "n.c.",
+   "attendus": "Choisir et justifier trois mois (mai, novembre, décembre dans le corrigé) et relier les écarts à des causes opérationnelles.",
+   "pieges": "Justifier le choix des mois à partir des données, pas au hasard.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "question": "Q4 parties prenantes et note de synthèse",
+   "bareme": "n.c.",
+   "attendus": "Freeman (1984). Salariés, actionnaires, fournisseurs, riverains, agriculteurs, collectivités · enjeux contradictoires à expliciter · note de synthèse structurée.",
+   "pieges": "Montrer les CONFLITS d'intérêts, pas seulement une liste. Respecter la forme « note ».",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q1 diagnostic interne ressources et compétences",
+   "bareme": "n.c.",
+   "attendus": "Approche ressources/compétences : compétences managériales, fonctionnelles, transversales. Compétences distinctives (Hamel et Prahalad) : valeur, rareté, inimitabilité, non-substituabilité.",
+   "pieges": "Citer le modèle ET l'appliquer au cas.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q2 masse salariale : effets niveau, masse, report",
+   "bareme": "n.c.",
+   "attendus": "Effet niveau = 1,005 × 1,015 − 1 = 2,01 % · effet masse = 1 211,04 / 1 200 − 1 = 0,92 % · effet report = 1,0201 / 1,0092 − 1 = 1,08 % · contrôle : (1 + niveau) = (1 + masse) × (1 + report).",
+   "pieges": "Relation MULTIPLICATIVE, pas additive. Base 100 × 12 = 1 200. Les dates d'augmentation déterminent l'indice.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "question": "Q3 comparer deux calendriers d augmentation",
+   "bareme": "n.c.",
+   "attendus": "Proposition de la direction +117 056 € contre +132 680 € pour celle des représentants du personnel : économie de 15 624 € · lien avec compétences et motivation.",
+   "pieges": "Chiffrer puis argumenter socialement (le moins coûteux n'est pas forcément retenu).",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q1 intégration verticale amont",
+   "bareme": "n.c.",
+   "attendus": "Intégration verticale amont par croissance externe · coûts de transaction (Coase, Williamson).",
+   "pieges": "Nommer la théorie et l'appliquer.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q2 résultats des entités avec le PCI actuel",
+   "bareme": "n.c.",
+   "attendus": "Montesquieu : 9 900 € avant IS (7 425 € net) · Athéna : 106 812 000 € (90 790 200 € net). PCI de 1 599 € ≈ coût variable : transfert du bénéfice vers l'Irlande (IS 15 %) · taux de MCV 0,13 % contre 12,60 %.",
+   "pieges": "Calculer chaque entité séparément puis le groupe. Identifier l'effet fiscal du prix de transfert.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q3 nouveau PCI coût complet + marge",
+   "bareme": "n.c.",
+   "attendus": "PCI = coût complet 1 644,83 + 10 % = 1 809,31 € · résultat avant impôt du GROUPE inchangé, impôt total plus élevé.",
+   "pieges": "Un PCI déplace le résultat entre entités sans changer le résultat consolidé avant impôt : seul l'impôt change.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "question": "Q4 arguments pour réviser le PCI",
+   "bareme": "n.c.",
+   "attendus": "Quatre registres : financier, fiscal (risque de redressement, principe de pleine concurrence), social (participation des salariés), sociétal (citoyenneté fiscale).",
+   "pieges": "Structurer par registre.",
+   "alerte": false,
+   "source": "Corrigé UE3 2025 (copie FicheBEN, Drive « UE 3 - 2025 Corrigé »)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1-2",
+   "question": "Toutes questions",
+   "bareme": "n.c.",
+   "attendus": "Non vérifié : corrigé 2024 non exploitable (fichier Drive > 10 Mo, téléchargement impossible).",
+   "pieges": "À compléter dès réception d'une version légère.",
+   "alerte": false,
+   "source": "Non vérifié"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Q1 PESTEL opportunités/menaces, facteurs pivots, scénarios",
+   "bareme": "n.c. (dossier 30 pts)",
+   "attendus": "PESTEL appliqué à l'éolien · identifier les variables pivots (acceptabilité, dérèglement climatique, soutien public) · construire deux scénarios (favorable, défavorable) · conclure sur l'incertitude (investissement = pari, activité d'exploration).",
+   "pieges": "Le corrigé sanctionne la liste « à la Prévert » : il faut hiérarchiser et conclure.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Q2 5 (+1) forces de Porter",
+   "bareme": "n.c.",
+   "attendus": "5 forces ou 5+1 acceptées · schéma conforme à Porter (axe horizontal fournisseurs-concurrents-clients) · clients très puissants (oligopole, 9/10), État 8/10, fournisseurs 6/10, concurrence et entrants 5/10, substituts 1/10 (notes facultatives).",
+   "pieges": "Analyser le marché de l'entreprise (composants) et non celui de ses clients. Ne pas oublier une force essentielle.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "question": "Q3 synthèse environnement général et concurrentiel",
+   "bareme": "n.c.",
+   "attendus": "Demi-page combinant PESTEL et Porter : forte incertitude, forces principales = clients et pouvoir politique.",
+   "pieges": "Respecter la longueur imposée.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q1 écarts sur CA et sur MCV par gamme (volume, prix/coût)",
+   "bareme": "n.c. (dossier 35 pts)",
+   "attendus": "Écart CA total ≈ +432 k€ mais MCV −376 k€ · Ciel'Ouvert : écart volume CA +1 124, prix −663 · MCV volume +303, coût −945 · Brise : volume −3 056 (CA) et −1 151 (MCV) · conclusion : deux gammes problématiques (Ciel'Ouvert par les coûts, Brise par les volumes).",
+   "pieges": "Écart volume = ΔQ × marge (ou prix) de référence · écart prix/coût = ΔP × Q réelle. Conclure en note au COPIL.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q2 cartographie des parties prenantes",
+   "bareme": "n.c.",
+   "attendus": "Freeman · pouvoirs publics FR/TR, direction, sous-traitant turc, commune, salariés et syndicats, nouveaux fournisseurs · présentation matricielle conseillée.",
+   "pieges": "Intégrer les dimensions extra-comptables et coûts cachés.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q3 gain économique de la relocalisation",
+   "bareme": "n.c.",
+   "attendus": "MCV objectif 6 196 k€ contre 4 620 k€ réalisés : gain 1 576 k€ · frais de mise au point (25 % matière + personnel sur 3 mois) 927 k€ · gain net 1re année ≈ 650 k€ · décision pertinente.",
+   "pieges": "Le gain du corrigé compare un objectif à 1 000 000 pièces au réalisé à 947 177 : il inclut donc un effet volume. Le signaler dans la copie.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "question": "Q4 raisons de l internalisation",
+   "bareme": "n.c.",
+   "attendus": "Critère économique (question 3) + critères extra-économiques : image Made in France, recrutement, soutien public, maîtrise logistique et qualité, souveraineté.",
+   "pieges": "Faire/faire-faire : croiser chiffré et qualitatif.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q1 définir la compétence et méthode d évaluation",
+   "bareme": "n.c. (dossier 35 pts)",
+   "attendus": "Savoir + savoir-faire + savoir-être · évaluation par le manager de proximité · grille de compétences Savall-Zardet (carré noir/semi-noir/blanc/tiret) · repérer forces et vulnérabilités.",
+   "pieges": "Méthode adaptée à une PME industrielle.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q2 formation et plan de formation",
+   "bareme": "n.c.",
+   "attendus": "Grille prospective des compétences de demain · plan de formation négocié managers/salariés · mobilité interne, communautés de pratiques, recrutement externe.",
+   "pieges": "Distinguer compétences actuelles et futures.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q3 six domaines de QVT et attractivité",
+   "bareme": "n.c.",
+   "attendus": "Conditions de travail · organisation du travail · 3C (communication-coordination-concertation) · gestion du temps · formation · mise en œuvre stratégique (dont rémunération).",
+   "pieges": "Six domaines du diagnostic socio-économique (ISEOR).",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q4 coûts cachés et 3 indicateurs",
+   "bareme": "n.c.",
+   "attendus": "Coûts non pris en compte par le SI comptable · composantes : surtemps, sursalaires, non-production, surconsommations, risques · 5 dysfonctionnements : absentéisme, AT/MP, rotation, défauts de qualité, écarts de productivité directe.",
+   "pieges": "Les 3 indicateurs sont à choisir parmi ces 5 domaines.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "question": "Q5 construire un TBS",
+   "bareme": "n.c.",
+   "attendus": "Indicateurs de résultat qualitatifs, quantitatifs, financiers (coûts cachés) sur les 5 domaines + indicateurs d'action (compétences, formation, recrutement) · responsables et périodicité.",
+   "pieges": "Présentation tableau : objectif, indicateur, cible, réalisé, écart, responsable.",
+   "alerte": false,
+   "source": "Corrigé UE3 2023 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "question": "Q1-Q2 PESTEL et 5+1 forces (Gant Maille)",
+   "bareme": "n.c. (dossier 40 pts selon sujet)",
+   "attendus": "PESTEL (plan de relance, Covid, délocalisations, pénurie de couturières) · 5+1 forces · synthèse opportunités/menaces.",
+   "pieges": "Toujours conclure sur O/M.",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "question": "Q3 stratégie générique",
+   "bareme": "n.c.",
+   "attendus": "Différenciation vers le haut (Made in France, qualité) · matrice de Porter 2×2.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "question": "Q4-Q6 B to B / B to C, marketing stratégique, leviers",
+   "bareme": "n.c.",
+   "attendus": "Enjeux B to C · étapes du marketing stratégique (analyse, objectifs SMART, segmentation-ciblage-positionnement) · 4P puis 7P (people, process, physical evidence) · e-réputation.",
+   "pieges": "Leviers « modernes » = digital et fidélisation.",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q1 enjeux de la GEPP",
+   "bareme": "n.c. (dossier 35 pts selon sujet)",
+   "attendus": "Définition · enjeux stratégiques, économiques, sociaux, légaux (négociation triennale ≥ 300 salariés).",
+   "pieges": "Gant Maille n'est pas soumise à l'obligation : le dire.",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q2-Q3 diagnostic RH et knowledge management",
+   "bareme": "n.c.",
+   "attendus": "Pyramide des âges (champignon), sous-effectif de couturières, manque de modéliste et de marketing · formation, tutorat, recrutement · modèle SECI de Nonaka et Takeuchi (socialisation, extériorisation, combinaison, intériorisation).",
+   "pieges": "Appliquer chaque étape SECI au cas.",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q4 construire un TBS",
+   "bareme": "n.c.",
+   "attendus": "Tableau problème RH / moyen d'action / indicateur / cible / réalisé / écart · turnover, recrutements, départs en retraite < 5 ans, formation.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q6 masse salariale 2022 (méthode indiciaire)",
+   "bareme": "n.c.",
+   "attendus": "Indices : 1 221 (hausse 3 % au 1/6) et 1 242 (hausse 6 %) pour base 1 200. Masse 2021 = 516 900 €. Corrigé : 529 707,75 € et coût visible 12 807 €. RECALCUL : 1 242 / 1 200 = 1,035 (et non 1,034) et 46 800 × 1,0175 = 47 619 (et non 47 419) → masse 2022 = 529 935,75 € · coût visible ≈ 13 035,75 €.",
+   "pieges": "ALERTE : erreur de coefficient dans le corrigé (1,034 au lieu de 1,035) et total incohérent avec ses propres lignes. Retenir le raisonnement, pas le chiffre.",
+   "alerte": true,
+   "source": "Corrigé UE3 2022 (Drive) + recalcul"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "question": "Q7 coûts cachés et décision d augmenter les salaires",
+   "bareme": "n.c.",
+   "attendus": "Dysfonctionnements (démotivation, absentéisme, rotation, qualité, recrutement) → surtemps, sursalaires, non-production, surconsommations · décision justifiée si coûts cachés > coût visible de l'augmentation (sécurité : ≥ 2 × ≈ 25 000 €).",
+   "pieges": "Raisonnement « balance économique » réutilisable.",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "question": "Q1 parties prenantes, objectifs contradictoires",
+   "bareme": "n.c. (dossier 25 pts selon sujet)",
+   "attendus": "Freeman, Carroll · primaires/secondaires, internes/externes · tableau PP/attentes · conflits (client qualité vs prix, etc.) · gouvernance partenariale.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "question": "Q2 gouvernance familiale",
+   "bareme": "n.c.",
+   "attendus": "Avantages/inconvénients (longévité, stabilité vs conflits, succession) · évolutions : holding familiale, dirigeant externe, pacte d'associés, actionnariat salarié, investisseurs.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "question": "Q3 RSE, DD et processus RSE",
+   "bareme": "n.c.",
+   "attendus": "Livre vert UE 2001 · rapport Brundtland 1987 · dialogue interne/externe · ISO 26000 · objectifs SMART.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2022 (Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "question": "Q1 SWOT et FCS",
+   "bareme": "24 pts (dossier)",
+   "attendus": "Intérêt de la SWOT · tableau forces/faiblesses/opportunités/menaces · FCS : tiers de confiance, grades de qualité, sélection des reconditionneurs.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "question": "Q2-Q3 stratégie océan bleu et durabilité",
+   "bareme": "n.c.",
+   "attendus": "Innovation de valeur centrée sur la relation client · exemples (Tediber, Emma, Nespresso) · risque de basculer en océan rouge (Fnac, Cdiscount, Apple).",
+   "pieges": "Fournir au moins deux exemples.",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "question": "Q1-Q3 business model canvas",
+   "bareme": "24 pts (dossier)",
+   "attendus": "Vocation du BM · canvas en 9 blocs complété (annexe à rendre) · pierre angulaire : tiers de confiance et algorithme de sélection · risques : défaillance des reconditionneurs.",
+   "pieges": "L'annexe complétée doit être rendue avec la copie.",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "question": "Q1-Q3 intégration, communication interne, happiness manager",
+   "bareme": "26 pts (dossier)",
+   "attendus": "Intégration présentielle et à distance · générations X/Y, motivations intrinsèques · rôle du happiness manager.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "question": "Q4 seuil de rentabilité du happiness manager",
+   "bareme": "n.c.",
+   "attendus": "Coût 85 000 € (50 000 + 40 % + 15 000) · coût de renouvellement 7 600 €/départ (recrutement 10 % + intégration 10 % de 38 000) · seuil 85 000 / 7 600 = 11,18 → 12 départs évités · turnover de 15 % à 11 %.",
+   "pieges": "Arrondir au nombre entier supérieur.",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "4",
+   "question": "Q1 BSPCE et fidélisation",
+   "bareme": "26 pts (dossier)",
+   "attendus": "Bons attribués gratuitement, exercice à prix privilégié, dilution, gain en capital, liquidité à l'introduction en bourse.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "4",
+   "question": "Q2 évolution du CA et rentabilité 2016-2021",
+   "bareme": "n.c.",
+   "attendus": "+220 % = coefficient 3,2 (736 000 = 230 000 × 3,2) · CA = taux de commission × volume d'affaires · masse salariale = effectif × salaire × 1,40 × 12. ALERTE : dans le tableau du corrigé, les marges 2020 (−26 296) et 2021 (+28 460) ne correspondent pas à la somme des lignes affichées (−28 400 et −47 620).",
+   "pieges": "ALERTE : Piège « +220 % ≠ ×2,2 ». Refaire l'addition : incohérence interne du corrigé, non vérifiée contre le sujet.",
+   "alerte": true,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive) + recalcul"
+  },
+  {
+   "annee": "2021",
+   "dossier": "4",
+   "question": "Q3-Q4 résultats de start-up et outils de CG",
+   "bareme": "n.c.",
+   "attendus": "Pertes normales en phase de croissance · choisir ≥ 3 outils parmi 7 avec nature, périodicité, justification (trésorerie, TB commercial, budget, BSC…).",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2021 (copie FicheBEN, Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "question": "Q1-Q3 diagnostic stratégique (SER-START)",
+   "bareme": "60 pts (dossier)",
+   "attendus": "Démarche : outil (5+1 forces, SWOT, PESTEL), forces/faiblesses, positionnement · note de synthèse.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "question": "Q4 coûts, marges, seuils de rentabilité par activité",
+   "bareme": "n.c.",
+   "attendus": "Coûts unitaires selon deux clés (ex. location 8,16 €/h gestionnaire ou 31,48 €/place) · MCV globale 89 000, CF 82 000, résultat 7 000 · SR global = 82 × 117 / 89 ≈ 107 k€ · marge sur coûts spécifiques : service I&D −7 600 €.",
+   "pieges": "Discuter la pertinence des clés de répartition et des inducteurs.",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "question": "Q5-Q11 tarification, valeur, packs, préconisations",
+   "bareme": "n.c.",
+   "attendus": "Valeur pour le client : pack 1 gain 200 €, pack 2 perte 3 000 € (non viable) · tarification dynamique · nouveau pack (ex. 3 mois + 3 prestations à 3 000 € contre 3 600 €) · ≥ 3 préconisations justifiées.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "question": "Q1-Q3 diagnostic des processus et coûts des dysfonctionnements",
+   "bareme": "40 pts (dossier)",
+   "attendus": "Audit interne vs diagnostic interne · 6 thèmes socio-économiques · effet-miroir · ≥ 5 dysfonctionnements · coûts cachés (surtemps, sursalaires, surconsommations, non-production, non-création de potentiel, risques).",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "question": "Q4-Q5 groupe de projet et balance économique",
+   "bareme": "n.c.",
+   "attendus": "Groupe restreint + plénier · plans d'actions · balance économique : coût des solutions < coût des dysfonctionnements · surcoût annuel chiffré 60 200 €.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "question": "Q6-Q8 tableau de bord de pilotage et performance globale",
+   "bareme": "n.c.",
+   "attendus": "Définitions TB et indicateur · domaines économique, social, environnemental · un indicateur par domaine justifié.",
+   "pieges": "",
+   "alerte": false,
+   "source": "Corrigé UE3 2020 (Drive)"
+  }
+ ],
+ "dossiers_annales": [
+  {
+   "annee": "2023",
+   "dossier": "1",
+   "intitule": "Analyse de la stratégie commerciale (gamme Brise)",
+   "points": "30",
+   "total_points": "100",
+   "questions_resume": "Q1 PESTEL, opportunités/menaces, scénarios · Q2 5 forces de Porter · Q3 synthèse de l'environnement général et concurrentiel (1/2 page)",
+   "rubriques_principales": "2.1",
+   "rubriques_secondaires": "",
+   "techniques": "PESTEL|Porter_5F|scenarios|note_synthese",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2023 Sujet (id 1xMT0NniBLoc_bpI7EfuUnzKtD-pAJVa_)"
+  },
+  {
+   "annee": "2023",
+   "dossier": "2",
+   "intitule": "Analyse stratégique (relocalisation/internalisation Ciel'Ouvert)",
+   "points": "35",
+   "total_points": "100",
+   "questions_resume": "Q1 note au COPIL sur les marges sur coûts variables, écarts volume et prix/coût 2021-2022 · Q2 cartographie des parties prenantes · Q3 gain économique d'une relocalisation vs coûts de lancement · Q4 raisons (économiques, humaines, opérationnelles, politiques) de relocaliser",
+   "rubriques_principales": "2.5|2.4|2.6",
+   "rubriques_secondaires": "",
+   "techniques": "ecarts|faire_faire_faire|parties_prenantes|note_synthese",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2023",
+   "dossier": "3",
+   "intitule": "Organisation et management des ressources humaines",
+   "points": "35",
+   "total_points": "100",
+   "questions_resume": "Q1 définir la compétence · Q2 formation et plan de développement des compétences · Q3 attractivité, motivation, fidélisation des talents · Q4 coûts cachés liés à la QVT (Savall) · Q5 construire un tableau de bord social",
+   "rubriques_principales": "4.2|4.1|3.2",
+   "rubriques_secondaires": "",
+   "techniques": "competences|formation|QVT_attractivite|couts_caches|TBS",
+   "nature": "rédaction (outil à construire)",
+   "source": "idem"
+  },
+  {
+   "annee": "2022",
+   "dossier": "1",
+   "intitule": "Stratégie et marketing (Gant Maille)",
+   "points": "40",
+   "total_points": "100",
+   "questions_resume": "Q1 PESTEL · Q2 5 forces, opportunités/menaces du DAS · Q3 stratégie générique de Porter · Q4 enjeux B2B / B2C · Q5 marketing stratégique (objectifs, étapes) · Q6 leviers marketing classiques et digitaux, fidélisation",
+   "rubriques_principales": "2.1|2.3",
+   "rubriques_secondaires": "",
+   "techniques": "PESTEL|Porter_5F|strategies_generiques|marketing|digital",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2022 Sujet (id 1teKOeoXO-2gnAE5GYna38WdRHMRUfKgB)"
+  },
+  {
+   "annee": "2022",
+   "dossier": "2",
+   "intitule": "Ressources humaines et compétences",
+   "points": "35",
+   "total_points": "100",
+   "questions_resume": "Q1 enjeux de la GEPP · Q2 diagnostic RH et préconisations · Q3 knowledge management (Nonaka-Takeuchi) · Q4 tableau de bord social · Q5 statut de gantière à domicile · Q6 masse salariale au 31/12 · Q7 rémunération, dysfonctionnements, coûts cachés, seuil de décision",
+   "rubriques_principales": "4.1|4.2",
+   "rubriques_secondaires": "3.2|1.1",
+   "techniques": "GEPP|KM|TBS|masse_salariale|couts_caches",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2022",
+   "dossier": "3",
+   "intitule": "Gouvernance et RSE",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 parties prenantes, attentes, jeux de pouvoir · Q2 gouvernance familiale (avantages, limites, évolutions) · Q3 RSE et développement durable, amélioration de la performance globale en petite structure",
+   "rubriques_principales": "2.6",
+   "rubriques_secondaires": "1.2",
+   "techniques": "parties_prenantes|gouvernance|RSE",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "1",
+   "intitule": "Diagnostic stratégique (Back Market)",
+   "points": "24",
+   "total_points": "100",
+   "questions_resume": "Q1 SWOT et note sur les facteurs clés de succès · Q2 stratégie Océan bleu · Q3 tenabilité de l'Océan bleu, risques concurrentiels",
+   "rubriques_principales": "2.1",
+   "rubriques_secondaires": "",
+   "techniques": "SWOT|ocean_bleu",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2021 Sujet (id 1VWk1i_Asi9F06sJHkYJzqUMhT5M7qJOT)"
+  },
+  {
+   "annee": "2021",
+   "dossier": "2",
+   "intitule": "Présentation et analyse du business model",
+   "points": "24",
+   "total_points": "100",
+   "questions_resume": "Q1 vocation du business model canvas · Q2 compléter un BMC · Q3 pierre angulaire de l'écosystème, FCS, risques",
+   "rubriques_principales": "2.1|2.5",
+   "rubriques_secondaires": "2.3",
+   "techniques": "business_model",
+   "nature": "rédaction (outil à compléter)",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "3",
+   "intitule": "Ressources humaines et modélisation des équipes",
+   "points": "26",
+   "total_points": "100",
+   "questions_resume": "Q1 intégration et fidélisation des recrues (télétravail) · Q2 communication interne, management libéré · Q3 happiness manager et génération Y · Q4 coût chiffré du poste, avis, turnover",
+   "rubriques_principales": "4.1|4.2",
+   "rubriques_secondaires": "1.1",
+   "techniques": "integration_fidelisation|cout_turnover|seuil_rentabilite",
+   "nature": "mixte (rédaction dominante)",
+   "source": "idem"
+  },
+  {
+   "annee": "2021",
+   "dossier": "4",
+   "intitule": "Opportunité pour un contrôleur de gestion d'intégrer Back Market",
+   "points": "26",
+   "total_points": "100",
+   "questions_resume": "Q1 BSPCE et fidélisation · Q2 évolution du CA et de la rentabilité 2016-2021 · Q3 commenter (profil start-up) · Q4 outils de contrôle de gestion en start-up (Meyssonnier), nature, périodicité",
+   "rubriques_principales": "1.2|2.5|4.2",
+   "rubriques_secondaires": "3.3",
+   "techniques": "remuneration|previsions_resultat|outils_CG",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "1",
+   "intitule": "Incidence de la RSE et coût de la pollution (Tanneries Montesquieu)",
+   "points": "8",
+   "total_points": "20",
+   "questions_resume": "Q1 enjeux RSE · Q2 calcul de la redevance d'assainissement 2023/2024 et écart total · Q3 concevoir un schéma de décomposition de l'écart (sous-écarts, formules) puis le calculer · Q4 trois parties prenantes et attentes · Q5 note de synthèse (20 lignes)",
+   "rubriques_principales": "2.5|2.6|1.2",
+   "rubriques_secondaires": "3.3",
+   "techniques": "RSE|ecarts|parties_prenantes|note_synthese",
+   "nature": "mixte",
+   "source": "Drive UE 3 - 2025 Sujet (id 19NSaWmap1ZVZ1vPk7vJtBqimkrjaceNT, ajouté le 24/09/2026)"
+  },
+  {
+   "annee": "2025",
+   "dossier": "2",
+   "intitule": "Gestion des compétences et des ressources humaines",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 diagnostic stratégique interne des compétences · Q2 compétences distinctives · Q3 conséquences sur la masse salariale (effets) · Q4 calendriers d'augmentation (calculs) · Q5 analyse au regard des compétences",
+   "rubriques_principales": "4.1|4.2",
+   "rubriques_secondaires": "2.1",
+   "techniques": "diagnostic_ressources_competences|competences|masse_salariale",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2025",
+   "dossier": "3",
+   "intitule": "Gestion des prix de transfert",
+   "points": "6",
+   "total_points": "20",
+   "questions_resume": "Q1 politique de gestion du périmètre lors du rachat, objectifs · Q2 résultats avant/après impôt des deux entités et impact groupe · Q3 conséquences d'un changement de méthode de prix de transfert · Q4 trois arguments pour une hausse du prix de transfert",
+   "rubriques_principales": "2.4",
+   "rubriques_secondaires": "2.1|2.2|2.6",
+   "techniques": "PCI|integration_verticale|couts_transaction",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2020",
+   "dossier": "1",
+   "intitule": "Diagnostic stratégique et préconisations (SER-START, crise Covid)",
+   "points": "60",
+   "total_points": "100",
+   "questions_resume": "A : éléments d'un diagnostic, démarche choisie (forces concurrentielles), note · B : coût unitaire, marge, seuil de rentabilité par activité, politique tarifaire, attentes clients, valeur différenciatrice · C : valeur client/valeur entreprise de packs, positionnement, préconisations, nouveau pack",
+   "rubriques_principales": "2.1|2.3|2.5",
+   "rubriques_secondaires": "",
+   "techniques": "diagnostic_strategique|couts_marges_seuil|tarification|valeur_client|note_synthese",
+   "nature": "mixte",
+   "source": "Drive UE 3 - 2020 Sujet (id 1RCexDxjtqu84jmNeWZRjoY8ok8XkRaHq)"
+  },
+  {
+   "annee": "2020",
+   "dossier": "2",
+   "intitule": "Amélioration des processus et de leur pilotage",
+   "points": "40",
+   "total_points": "100",
+   "questions_resume": "A : audit vs diagnostic interne, diagnostic des processus, dysfonctionnements, coûts des dysfonctionnements, groupe de projet, solutions · B : tableau de bord de pilotage, indicateurs économiques, sociaux, environnementaux",
+   "rubriques_principales": "3.2|3.3",
+   "rubriques_secondaires": "3.1|2.2",
+   "techniques": "diagnostic_processus|couts_caches|conduite_projet|tableau_de_bord|performance_globale",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2019",
+   "dossier": "1",
+   "intitule": "Structure et engagement sociétal (Picture Organic Clothing)",
+   "points": "31",
+   "total_points": "100",
+   "questions_resume": "Q1-2 adhocratie et organisation missionnaire (Mintzberg) · Q3 entreprise libérée · Q4-5 actions RSE et ISO 26000",
+   "rubriques_principales": "1.1|1.2",
+   "rubriques_secondaires": "3.3|2.6",
+   "techniques": "Mintzberg|entreprise_liberee|RSE",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2019 Sujet (id 1JwbVXVxj0D8e5MjPelBHFpAMJmHzciIi)"
+  },
+  {
+   "annee": "2019",
+   "dossier": "2",
+   "intitule": "Analyse stratégique",
+   "points": "44",
+   "total_points": "100",
+   "questions_resume": "Q1 stratégie d'ensemble et générique, FCS · Q2 chaîne de valeur · Q3 approche ressources · Q4 compétences stratégiques · Q5-6 risques managériaux et prévention",
+   "rubriques_principales": "2.1|4.2",
+   "rubriques_secondaires": "2.2",
+   "techniques": "strategies_generiques|chaine_valeur|diagnostic_ressources_competences|competences|risques",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2019",
+   "dossier": "3",
+   "intitule": "Analyse des marges et prospective",
+   "points": "25",
+   "total_points": "100",
+   "questions_resume": "Q1 modes de développement · Q2 franchise · Q3 marge globale et contribution des canaux · Q4 écarts de marge de production · Q5 marge sur coûts spécifiques par canal, préconisations",
+   "rubriques_principales": "2.4|2.5",
+   "rubriques_secondaires": "2.1",
+   "techniques": "modes_developpement|franchise_plateforme|ecarts|couts_marges_seuil",
+   "nature": "mixte (calcul dominant)",
+   "source": "idem"
+  },
+  {
+   "annee": "2018",
+   "dossier": "1",
+   "intitule": "Gouvernance, stratégie et diagnostic de la situation de changement (ESO)",
+   "points": "60",
+   "total_points": "100",
+   "questions_resume": "Q1-2 stratégies génériques de Porter · Q3 gouvernance, cartographie des parties prenantes · Q4 RSE, éthique · Q5 diagnostic interne participatif · Q6 leviers de performance durable · Q7-9 coût des dysfonctionnements (coûts cachés)",
+   "rubriques_principales": "2.1|2.6|3.2",
+   "rubriques_secondaires": "1.2|3.3|3.1",
+   "techniques": "strategies_generiques|parties_prenantes|RSE|couts_caches",
+   "nature": "mixte",
+   "source": "Drive UE 3 - 2018 Sujet (id 1gqZDKcVmy14wM9qheGRF6CuEKwIqFLnw)"
+  },
+  {
+   "annee": "2018",
+   "dossier": "2",
+   "intitule": "Conduite du changement et amélioration de la productivité",
+   "points": "40",
+   "total_points": "100",
+   "questions_resume": "Q1 conduite du changement en mode projet · Q2 styles de conduite du changement · Q3 progrès continu vs projet · Q4 apprentissage organisationnel · Q5-6 coût complet, gain et rentabilité d'un panier d'actions · Q7 plan d'actions",
+   "rubriques_principales": "3.1|3.2",
+   "rubriques_secondaires": "4.2|2.7",
+   "techniques": "conduite_changement|progres_continu|apprentissage_organisationnel|rentabilite_actions",
+   "nature": "mixte",
+   "source": "idem"
+  },
+  {
+   "annee": "2017",
+   "dossier": "1",
+   "intitule": "Analyse stratégique de BlaBlaCar",
+   "points": "20",
+   "total_points": "100",
+   "questions_resume": "Q1 PESTEL · Q2 SWOT",
+   "rubriques_principales": "2.1",
+   "rubriques_secondaires": "",
+   "techniques": "PESTEL|SWOT",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2017 Sujet (id 1msvQYlucRB_wk5U38Nc9W9KlMlDNBWp7)"
+  },
+  {
+   "annee": "2017",
+   "dossier": "2",
+   "intitule": "Organisation et développement de BlaBlaCar",
+   "points": "30",
+   "total_points": "100",
+   "questions_resume": "Q1-2 mécanismes de coordination et configurations de Mintzberg · Q3-4 modèle de Greiner, crises · mode de croissance internationale et risques",
+   "rubriques_principales": "1.1|2.1",
+   "rubriques_secondaires": "2.4|2.7",
+   "techniques": "Mintzberg|Greiner|modes_developpement",
+   "nature": "rédaction",
+   "source": "idem"
+  },
+  {
+   "annee": "2017",
+   "dossier": "3",
+   "intitule": "Politique RH et maîtrise de la masse salariale",
+   "points": "50",
+   "total_points": "100",
+   "questions_resume": "Q1 enjeux de la masse salariale · Q2 masse salariale 2016 · Q3 variation globale et par catégorie, écarts de salaire/composition/effectif · Q4 effets de niveau, masse, report · Q5 politique RH",
+   "rubriques_principales": "4.1",
+   "rubriques_secondaires": "",
+   "techniques": "masse_salariale|ecarts",
+   "nature": "calcul dominant",
+   "source": "idem"
+  },
+  {
+   "annee": "2016",
+   "dossier": "1",
+   "intitule": "Stratégie, structure et responsabilité sociétale (CRFCK, association)",
+   "points": "58",
+   "total_points": "100",
+   "questions_resume": "Q1 diagnostic ressources/compétences, menaces · Q2 stratégie d'ensemble et générique · Q3 structure de Mintzberg, organisation agile · Q4 confiance · Q5 identité organisationnelle · Q6 attentes des parties prenantes · Q7 plan d'action accessibilité",
+   "rubriques_principales": "2.1|1.1|2.6",
+   "rubriques_secondaires": "3.3",
+   "techniques": "diagnostic_ressources_competences|strategies_generiques|Mintzberg|parties_prenantes",
+   "nature": "rédaction",
+   "source": "Drive UE 3 - 2016 Sujet (id 17uiMfpF3-rzA1susvYQu2xurmFoy7FdN)"
+  },
+  {
+   "annee": "2016",
+   "dossier": "2",
+   "intitule": "Gestion de projet de changement",
+   "points": "42",
+   "total_points": "100",
+   "questions_resume": "Q1 projet vs processus, projet à coûts contrôlés · Q2 compétences du chef de projet · Q3 outils de gestion de projet · Q4-6 coût encouru vs budget, valeur acquise, écarts délai/coût, reste à faire · Q7 rôle du contrôle de gestion",
+   "rubriques_principales": "3.1|2.5",
+   "rubriques_secondaires": "1.2|3.2",
+   "techniques": "conduite_projet|valeur_acquise|ecarts|outils_CG",
+   "nature": "mixte (calcul dominant)",
+   "source": "idem"
+  },
+  {
+   "annee": "2024",
+   "dossier": "1",
+   "intitule": "Situation initiale : diagnostic et nouvelle grille de prix (école de yoga, TPE de services)",
+   "points": "",
+   "total_points": "",
+   "questions_resume": "1.1 diagnostic du micro-environnement (5 forces attendues) · 1.2-1.5 nouvelle grille tarifaire, prévisions de CA/résultat, note sur les options stratégiques",
+   "rubriques_principales": "2.1|2.3|2.5",
+   "rubriques_secondaires": "",
+   "techniques": "Porter_5F|tarification|previsions_resultat",
+   "nature": "mixte",
+   "source": "Rapport du jury 2024 p. 24-25 + page Notion « UE3 2024 — apprendre » (PDF Drive = scan non exploitable ici)"
+  },
+  {
+   "annee": "2024",
+   "dossier": "2",
+   "intitule": "Année suivante : suivi, révision et décisions (écarts, facteur rare, marketing digital, marketplace, franchise)",
+   "points": "",
+   "total_points": "",
+   "questions_resume": "2.1 analyse d'écarts sur CA (fournis) · 2.2 programme optimal sous contrainte (méthode du facteur rare = week-ends) · 2.3 marketing digital · 2.4-2.5 marketplace, réseau de franchise, effets sur la rentabilité",
+   "rubriques_principales": "2.5|2.3|2.4",
+   "rubriques_secondaires": "3.3",
+   "techniques": "ecarts|facteur_rare|digital|franchise_plateforme",
+   "nature": "mixte",
+   "source": "idem"
+  }
+ ],
+ "jury_toutes_observations": [
+  {
+   "annee": 2020,
+   "page": "p. 7",
+   "observation": "Sujet long : « Le critère de bonne gestion du temps des analyses est devenu récurrent sur le sujet UE3 ».",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "S'entraîner en temps réel (4 h) avec beaucoup d'annexes."
+  },
+  {
+   "annee": 2020,
+   "page": "p. 7-8",
+   "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
+   "rubriques": "3.3|4.1|4.2|3.1|2.7|2.5",
+   "difficulte_candidats": false,
+   "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+  },
+  {
+   "annee": 2020,
+   "page": "p. 8",
+   "observation": "Épreuve « plus axée sur une réflexion ancrée sur des cas réels […] que sur des calculs bruts et des définitions non contextualisées ».",
+   "rubriques": "",
+   "difficulte_candidats": false,
+   "consequence": "Toujours appliquer l'outil au cas."
+  },
+  {
+   "annee": 2021,
+   "page": "p. 8",
+   "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+   "rubriques": "2.1|2.3|4.1|1.2",
+   "difficulte_candidats": false,
+   "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 24",
+   "observation": "« le contrôle de gestion fait part égale avec le management » ; compétences de haut niveau (analyser, évaluer, créer).",
+   "rubriques": "2.5",
+   "difficulte_candidats": false,
+   "consequence": "Le contrôle de gestion chiffré pèse désormais la moitié du barème."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 25",
+   "observation": "Réponses descriptives, récitation, « fréquent manque de contextualisation » ; méconnaissance des TPE et des services.",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "Contextualiser ; s'entraîner sur des TPE et des services."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 26",
+   "observation": "« de nombreux candidats ont utilisé le PESTEL ou SWOT au lieu des forces de Porter pour analyser le micro-environnement ».",
+   "rubriques": "2.1",
+   "difficulte_candidats": true,
+   "consequence": "Choisir l'outil selon le niveau d'analyse (macro vs micro)."
+  },
+  {
+   "annee": 2024,
+   "page": "p. 26",
+   "observation": "« peu de candidats ont compris qu'il fallait utiliser la méthode du facteur rare ».",
+   "rubriques": "2.5",
+   "difficulte_candidats": true,
+   "consequence": "Refaire des exercices d'optimisation sous contrainte."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 28",
+   "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+   "rubriques": "2.5|4.1|2.4|1.2",
+   "difficulte_candidats": false,
+   "consequence": "Savoir construire soi-même une décomposition d'écarts."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 29",
+   "observation": "Consignes non respectées (concepts non définis alors que demandé) ; récitation « comme en 2024 ».",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "Définir chaque concept demandé avant de l'appliquer."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 29-30",
+   "observation": "« De nombreux candidats ne maîtrisent pas les techniques de base, qu'il s'agisse de la décomposition des écarts et des différents effets de la masse salariale » ; calcul d'une redevance à partir d'une formule simple raté.",
+   "rubriques": "2.5|4.1",
+   "difficulte_candidats": true,
+   "consequence": "PRIORITÉ : écarts (y compris réinterprétés) et effets niveau/masse/report."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 30",
+   "observation": "Conseils 2026 : maîtriser et réinterpréter les techniques ; exploiter calculs et concepts dans une argumentation ; articuler management et CG.",
+   "rubriques": "2.5|2.4",
+   "difficulte_candidats": false,
+   "consequence": "Chaque calcul doit déboucher sur une analyse et une préconisation."
+  },
+  {
+   "annee": 2025,
+   "page": "p. 18-19",
+   "observation": "Taux de réussite UE3 : 50,14 % (2024) → 17,28 % (2025) ; moyenne 9,65 → 7,08.",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "Session 2025 très sélective : le niveau technique est discriminant."
+  }
+ ],
+ "programme_complet": [
+  {
+   "code": "1.1",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Évolution des modèles d'organisation",
+   "notions": "formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé"
+  },
+  {
+   "code": "1.2",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie",
+   "notions": "rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie"
+  },
+  {
+   "code": "1.3",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Le contrôle de gestion et les systèmes d'information et de communication",
+   "notions": "PGI, transmission électronique de l'information, mégadonnées"
+  },
+  {
+   "code": "2.1",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Analyse et choix stratégiques",
+   "notions": "diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances"
+  },
+  {
+   "code": "2.2",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Place et rôle du contrôle de gestion stratégique",
+   "notions": "CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils"
+  },
+  {
+   "code": "2.3",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Approche du marketing stratégique",
+   "notions": "leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data"
+  },
+  {
+   "code": "2.4",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "La gestion du périmètre de l'entité",
+   "notions": "extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert"
+  },
+  {
+   "code": "2.5",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "La planification et le diagnostic stratégique",
+   "notions": "CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire"
+  },
+  {
+   "code": "2.6",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Analyse des parties prenantes et structures de gouvernance",
+   "notions": "cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes"
+  },
+  {
+   "code": "2.7",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Contrôle de gestion et changement organisationnel",
+   "notions": "CG interface stratégie/organisation, aide à l'évolution de la structure"
+  },
+  {
+   "code": "3.1",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Le management du changement",
+   "notions": "types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement"
+  },
+  {
+   "code": "3.2",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Management et pilotage par les processus",
+   "notions": "cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit"
+  },
+  {
+   "code": "3.3",
+   "partie": "3. Conduite du changement (40 h)",
+   "intitule": "Le contrôle de gestion et le pilotage stratégique",
+   "notions": "performance globale, FCS, KPI, tableaux de bord stratégiques"
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Management des ressources humaines et des compétences (30 h)",
+   "intitule": "La gestion des ressources humaines",
+   "notions": "tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…)"
+  },
+  {
+   "code": "4.2",
+   "partie": "4. Management des ressources humaines et des compétences (30 h)",
+   "intitule": "La gestion des compétences",
+   "notions": "identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel"
+  }
+ ]
+}

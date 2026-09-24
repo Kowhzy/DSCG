@@ -131,10 +131,74 @@ def write(ue, rows, res):
         for r in res:
             w.writerow([r['code']] + [('P' if r['years'][y] >= 1 else 'P½' if r['years'][y] > 0 else 's' if r['yearsA'][y] > 0 else '') for y in YEARS])
 
+# ---------------------------------------------------------------------------------------------------------------
+# Passe 2 : statistiques par technique et test de sensibilité de l'IPR
+# ---------------------------------------------------------------------------------------------------------------
+def techniques(ue):
+    """Fréquence de chaque technique (colonne « techniques ») : sessions où elle apparaît, dernière apparition."""
+    from reclassement import LABELS
+    rows = load(ue)
+    occ = defaultdict(lambda: defaultdict(float)); where = defaultdict(list)
+    for r in rows:
+        for t in [x for x in r.get('techniques', '').split('|') if x]:
+            occ[t][r['annee']] = r['w_subject']            # une fois par sujet
+            where[t].append(f"{r['annee']} D{r['dossier']}")
+    out = []
+    for t, d in occ.items():
+        per_year = defaultdict(float)
+        for a, w in d.items(): per_year[year_of(a)] = min(1.0, per_year[year_of(a)] + w)
+        out.append(dict(tech=t, label=LABELS.get(t, t), s10=sum(per_year[y] for y in YEARS), scur=sum(per_year[y] for y in CUR),
+                        s3=sum(per_year[y] for y in LAST3), last=max(y for y, v in per_year.items() if v > 0), years=dict(per_year), dossiers=where[t]))
+    out.sort(key=lambda x: (-x['scur'], -x['s10'], -x['last']))
+    with open(os.path.join(BASE, '03_analyses', f'{ue}_techniques.csv'), 'w', newline='', encoding='utf-8') as f:
+        w = csv.writer(f, delimiter=';')
+        w.writerow(['technique', 'libelle', 'sessions_2016_2025', 'sessions_2020_2025', 'sessions_2023_2025', 'derniere_apparition'] + YEARS + ['dossiers'])
+        for x in out:
+            w.writerow([x['tech'], x['label'], f"{x['s10']:g}", f"{x['scur']:g}", f"{x['s3']:g}", x['last']] +
+                       [('X' if x['years'].get(y, 0) >= 1 else '½' if x['years'].get(y, 0) > 0 else '') for y in YEARS] + [', '.join(x['dossiers'])])
+    return out
+
+# Jeux de pondérations alternatifs (somme 100) — sert à vérifier que le classement ne dépend pas d'un choix arbitraire
+SCENARIOS = {
+    'référence': W,
+    'égalitaire': {k: 100 / len(W) for k in W},
+    'fréquences seules': dict(f_hist=30, f_cur=40, f_rec=30, poids=0, jury=0, diff=0, transv=0, bo=0, gap=0),
+    'jury renforcé': dict(f_hist=10, f_cur=15, f_rec=10, poids=10, jury=25, diff=20, transv=5, bo=5, gap=0),
+    'récence renforcée': dict(f_hist=5, f_cur=20, f_rec=25, poids=10, jury=15, diff=15, transv=5, bo=5, gap=0),
+    'sans « gap »': {**W, 'gap': 0, 'f_cur': 25},
+    'poids du barème renforcé': dict(f_hist=10, f_cur=20, f_rec=10, poids=25, jury=10, diff=10, transv=5, bo=5, gap=5),
+}
+
+def sensitivity(ue, res):
+    """Rang de chaque rubrique sous chaque scénario → rang min/max et nombre de scénarios où elle est dans le premier tiers."""
+    ranks = defaultdict(dict); scores = defaultdict(dict)
+    for name, wt in SCENARIOS.items():
+        tot = sum(wt.values())
+        sc = {r['code']: sum(wt[k] * r['comp'][k] for k in wt) * 100 / tot for r in res}
+        for i, c in enumerate(sorted(sc, key=lambda c: -sc[c]), 1):
+            ranks[c][name] = i; scores[c][name] = sc[c]
+    n = len(res); tiers = -(-n // 3)
+    out = []
+    for r in res:
+        rk = ranks[r['code']]
+        out.append(dict(code=r['code'], titre=r['titre'], ipr=r['ipr'], rank_ref=rk['référence'], rmin=min(rk.values()), rmax=max(rk.values()),
+                        top_tiers=sum(1 for v in rk.values() if v <= tiers), n_scen=len(SCENARIOS), ranks=rk, scores=scores[r['code']]))
+    out.sort(key=lambda x: x['rank_ref'])
+    with open(os.path.join(BASE, '03_analyses', f'{ue}_sensibilite.csv'), 'w', newline='', encoding='utf-8') as f:
+        w = csv.writer(f, delimiter=';')
+        w.writerow(['rubrique', 'intitule', 'IPR_reference', 'rang_reference', 'rang_min', 'rang_max', f'nb_scenarios_premier_tiers_(rang<={tiers})'] +
+                   [f'rang_{k}' for k in SCENARIOS])
+        for x in out:
+            w.writerow([x['code'], x['titre'], f"{x['ipr']:.1f}", x['rank_ref'], x['rmin'], x['rmax'], f"{x['top_tiers']}/{x['n_scen']}"] +
+                       [x['ranks'][k] for k in SCENARIOS])
+    return out
+
 if __name__ == '__main__':
     for ue in ('UE2', 'UE3', 'UE5'):
         rows, res = compute(ue)
         write(ue, rows, res)
+        techniques(ue); sensitivity(ue, res)
         print(ue, len(rows), 'dossiers')
         for r in sorted(res, key=lambda r: -r['ipr']):
             print(f"  {r['code']:4} {r['ipr']:5.1f} {r['cat']:22} f10={r['f10']:.2f} fcur={r['fcur']:.2f} f3={r['f3']:.2f} last={r['last']} jury={r['jury_n']} diff={r['diff_n']} tr={r['transv']} w={r['w_when']:.2f}  {r['titre'][:45]}")
+
