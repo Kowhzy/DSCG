@@ -17,7 +17,7 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 00_sources_officielles/
   bulletin_officiel/README_BO.md     statut du programme applicable (arrêté 13/02/2019) et de la réforme 2027
   bulletin_officiel/programme_*.txt  texte officiel des 3 programmes (via Dunod UE2/UE3 et « Programme MSI 19-20 » UE5)
-  rapports_jury/                     extraits annotés 2020, 2021, 2024, 2025 + texte intégral 2024 et 2025
+  rapports_jury/                     extraits annotés 2020, 2021, 2022, 2024, 2025 + texte intégral 2022, 2024 et 2025
 01_annales/UE2|UE3|UE5/              texte extrait des sujets (.txt) ; PDF non versionnés (.gitignore)
 01_annales/corriges/                 texte extrait des corrigés 2020-2025 (UE5 2024 : résumé de lecture du scan)
 02_data/UE2|UE3|UE5_dossiers.csv     base de données : 1 ligne = 1 dossier (points, questions, rubriques P/s, compétences, techniques, source)
@@ -31,23 +31,23 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 ```
 
 ## Sources
-- **Niveau 1 (officiel)** : rapports du jury DSCG 2020, 2021, 2024, 2025 (lus intégralement, copies Google Drive) ; sujets 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, Drive) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction Dunod UE2/UE3 et « Programme MSI 19-20 » UE5) ; éléments indicatifs de corrigé 2020-2025 (sauf UE3 2024).
+- **Niveau 1 (officiel)** : rapports du jury DSCG 2020, 2021, 2022, 2024, 2025 (lus intégralement, copies Google Drive) ; sujets 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, Drive) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction Dunod UE2/UE3 et « Programme MSI 19-20 » UE5) ; éléments indicatifs de corrigé 2020-2025 (sauf UE3 2024).
 - **Niveau 2 (contrôle)** : Compta Online (extraits de recherche : pronostics UE2/UE3/UE5, réforme 2027), notes Drive UE5-01 à UE5-07, base Notion (index uniquement, car héritée d'un modèle).
-- Recoupements réalisés : la structure des sujets 2020, 2021, 2024 et 2025 concorde avec la description du rapport du jury correspondant.
+- Recoupements réalisés : la structure des sujets 2020, 2021, 2022, 2024 et 2025 concorde avec la description du rapport du jury correspondant.
 
 ## Méthodologie (résumé)
 - 10 sessions (2016-2025). Rupture de programme en 2020 : les sessions 2016-2019 sont projetées sur les rubriques actuelles et pèsent moins.
-- Chaque dossier est rattaché à des rubriques officielles, en « principal » ou « secondaire ». Une session compte une fois par rubrique. UE2 2022 : deux sujets (épreuve du 25/10/2022 annulée, nouvelle épreuve le 05/01/2023), pondérés ½ chacun.
+- Chaque dossier est rattaché à des rubriques officielles, en « principal » ou « secondaire ». Une session compte une fois par rubrique. UE2 2022 : l'épreuve initiale a été annulée ; seul le sujet de secours composé (2022-S2) compte [Rapport du jury 2022, p. 9], le sujet annulé reste une annale d'entraînement.
 - **Indice de priorité de révision (IPR, 0-100)** : fréquence 2016-25 (15), fréquence 2020-25 (20), fréquence 2023-25 (10), poids dans le barème (10), citations du jury (15), difficultés signalées par le jury (10), transversalité (10), heures au programme (5), absence récente (5). L'IPR n'est pas une probabilité de tomber.
 - Catégories : ≥ 60 maximale ; 45-60 très élevée ; 32-45 élevée ; 20-32 à maîtriser ; < 20 complément. Toute rubrique signalée comme faiblesse par le jury 2025 est classée au moins « très élevée ».
 
 ## Limites
-- Rapports du jury 2022 et 2023 non consultés : absents du Drive, et sites officiels inaccessibles depuis l'environnement d'analyse (politique réseau).
+- Rapport du jury 2023 non consulté : absent du Drive, et sites officiels inaccessibles depuis l'environnement d'analyse (politique réseau).
 - Annexe du BO non ouverte directement (domaine bloqué) ; son texte a été relu dans les reproductions citées. Les notions affichées en sont un résumé fidèle.
 - UE2 2024, UE3 2024 et UE5 2024 : PDF scannés. UE2 2024 a été lu en image ; UE3 2024 a été reconstitué d'après le rapport du jury et la page Notion (points non vérifiés) ; UE5 2024 d'après une transcription Drive.
 - Le Mac n'était pas accessible (session cloud) : les ressources locales ont été repérées via Notion et Google Drive.
 - Les rattachements aux rubriques relèvent d'un jugement d'analyste ; tous sont traçables dans `02_data`, et les 30 corrections de la passe 2 dans `03_analyses/reclassement_journal.csv`.
-- Rapports du jury 2022-2023 et sujet/corrigé UE3 2024 toujours manquants (voir ci-dessous).
+- Rapport du jury 2023 et sujet/corrigé UE3 2024 toujours manquants. Le fichier Drive « 2023 corrigé UE3 dscg.php.pdf » (21 Mo, id 1vu6X1uiyZ0pHs7cSut6-0BmqdELFDg9p) est un corrigé commenté UE3 **2023** (Sup Expertise / Compta Online, pages en image) : source secondaire, non exploitée car le corrigé officiel 2023 est déjà intégré.
 
 ## Passe 2 (24/09/2026) — ce qui a changé
 - Programmes officiels relus : notions réécrites, volumes horaires par partie (critère « programme » de l'IPR).

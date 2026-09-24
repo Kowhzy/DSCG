@@ -5,7 +5,7 @@
   "L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.",
   "Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).",
   "Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.",
-  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
+  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2022, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
   "Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.",
   "Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.",
   "Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027."
@@ -47,10 +47,10 @@
   "La gouvernance et l'extra-financier (RSE/ESG, parties prenantes, agence, Copé-Zimmermann, société à mission) sont la rubrique la plus présente depuis la réforme (4 sessions sur 6 en principal ; en 2025 seulement en toile de fond). Le jury 2024 en fait un attendu explicite : « la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique ».",
   "Depuis 2020, la « question de réflexion » (25 % des points) a disparu : elle est remplacée par de petites questions de cours insérées dans le cas [Rapport du jury 2020, p. 7]. Chaque sujet combine désormais un dossier calculatoire et des questions de restitution argumentée.",
   "Le jury 2025 rappelle que les acquis du DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) « peuvent légitimement faire l'objet de questions ». Il déplore la faible maîtrise du LBO et un dossier 3 (crowdfunding, dividende) sacrifié faute de temps.",
-  "Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le socle technique est discriminant."
+  "Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le pic de 2022 s'explique par le sujet de secours « conçu sans besoin de faire de calculs », une « exception » selon le jury [Rapport du jury 2022, p. 9]. Le socle technique est discriminant."
  ],
  "surprises": [
-  "2022 : l'épreuve du 25 octobre 2022 a été annulée et repassée le 5 janvier 2023 (arrêté publié au BO ESR n°46 de 2022, référence ESRS2233990A, repérée par recherche web, non ouverte). Deux sujets 2022 figurent dans ton Drive (Sopra Steria, Energy+). Lequel a été annulé et lequel a été composé : non vérifié ; chacun compte donc pour ½ session dans les statistiques.",
+  "2022 : l'épreuve du 25 octobre 2022 a été annulée et repassée le 5 janvier 2023 (arrêté publié au BO ESR n°46 de 2022, référence ESRS2233990A, repérée par recherche web, non ouverte). Le rapport du jury 2022 (p. 9) tranche : « le sujet de secours a été activé » ; c'est le sujet Energy+ en 4 parties égales, « conçu sans besoin de faire de calculs » par exception. C'est lui qui compte pour la session 2022 ; le sujet initial (Sopra Steria, 2022-S1) reste une annale d'entraînement, exclue des statistiques.",
   "2023 : taux de réussite de 14,75 % et médiane de 6/20, les plus bas de la période [Rapport du jury 2024, p. 10 et 18]. Le sujet combinait options réelles (Black-Scholes), CMPC/covariance, DCF, multiples et swap de taux. Le rapport 2023 n'a pas été consulté : l'explication officielle n'est pas vérifiée.",
   "Fraude et blanchiment (5.3) n'a jamais été interrogé en UE2 sur la période (le blanchiment est apparu en UE1 en 2024 [Rapport du jury 2024, p. 20]). La structure de financement (4.3) n'apparaît qu'en toile de fond (CMPC, levier)."
  ],
@@ -60,13 +60,13 @@
    "partie": "2. Diagnostic approfondi (20 h)",
    "intitule": "Analyse extra-financière",
    "notions_officielles": "gouvernance d'entreprise, RSE et critères extra-financiers, création de valeur et sa répartition (EVA), notation et scoring",
-   "ipr": 67.0,
+   "ipr": 67.8,
    "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 1,
     "rang_min": 1,
-    "rang_max": 3,
+    "rang_max": 2,
     "scenarios_premier_tiers": "7/7"
    },
    "sessions_principal": [
@@ -83,13 +83,12 @@
    "frequence_2020_2025": 0.667,
    "frequence_2023_2025": 0.667,
    "derniere_apparition": 2024,
-   "poids_bareme_quand_present": 0.298,
+   "poids_bareme_quand_present": 0.342,
    "dossiers": [
     "2024 D2",
     "2024 D3",
     "2023 D2",
     "2023 D3",
-    "2022-S1 D2",
     "2022-S2 D2",
     "2022-S2 D4",
     "2020 D1"
@@ -101,6 +100,20 @@
      "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
      "difficulte_candidats": false,
      "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Épreuve initiale annulée : « Le sujet de secours a été activé » (4 parties égales : analyse financière simple, gouvernance et dirigeant, finance comportementale, RSE/approche partenariale), « conçu sans besoin de faire de calculs » à titre d'« exception ».",
+     "difficulte_candidats": false,
+     "consequence": "Le sujet 2022 réellement composé est le sujet Energy+ ; son absence de calcul est une exception, pas une tendance."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3)."
     },
     {
      "annee": 2021,
@@ -142,13 +155,13 @@
    "partie": "1. La valeur (20 h)",
    "intitule": "La valeur et le risque",
    "notions_officielles": "MEDAF (fondements, usage pratique, limites), modèle de Fama et French et dérivés, mesure des primes de risque",
-   "ipr": 63.0,
-   "categorie": "PRIORITÉ MAXIMALE",
+   "ipr": 59.3,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 2,
     "rang_min": 1,
-    "rang_max": 2,
+    "rang_max": 3,
     "scenarios_premier_tiers": "7/7"
    },
    "sessions_principal": [
@@ -210,33 +223,31 @@
    "partie": "6. Ingénierie financière (30 h)",
    "intitule": "Les fusions et acquisitions",
    "notions_officielles": "synergies, holdings, opérations à effet de levier (LBO), offres publiques",
-   "ipr": 57.0,
+   "ipr": 51.4,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 3,
-    "rang_min": 2,
-    "rang_max": 4,
+    "rang_min": 3,
+    "rang_max": 6,
     "scenarios_premier_tiers": "7/7"
    },
    "sessions_principal": [
     2016,
     2019,
     2021,
-    2022,
     2024,
     2025
    ],
    "sessions_toile_de_fond": [],
-   "frequence_2016_2025": 0.55,
-   "frequence_2020_2025": 0.583,
+   "frequence_2016_2025": 0.5,
+   "frequence_2020_2025": 0.5,
    "frequence_2023_2025": 0.667,
    "derniere_apparition": 2025,
-   "poids_bareme_quand_present": 0.236,
+   "poids_bareme_quand_present": 0.242,
    "dossiers": [
     "2025 D2",
     "2024 D2",
-    "2022-S1 D3",
     "2021 D2",
     "2019 D2",
     "2016 D2"
@@ -275,7 +286,7 @@
    "partie": "4. Investissement et financement (30 h)",
    "intitule": "Modalités de financement",
    "notions_officielles": "fonds propres et quasi-fonds propres, financements bancaires, obligataires, court terme (euro PP), capital-investissement, financements publics",
-   "ipr": 50.6,
+   "ipr": 49.4,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -338,14 +349,14 @@
    "partie": "1. La valeur (20 h)",
    "intitule": "La valeur en finance",
    "notions_officielles": "marchés financiers et financement de l'économie, efficience (hypothèse, formes), hypothèses des modèles, aspects psychologiques et humains (finance comportementale), regard critique sur la finance classique",
-   "ipr": 46.9,
+   "ipr": 48.6,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 5,
-    "rang_min": 3,
-    "rang_max": 15,
-    "scenarios_premier_tiers": "4/7"
+    "rang_min": 2,
+    "rang_max": 12,
+    "scenarios_premier_tiers": "5/7"
    },
    "sessions_principal": [
     2022
@@ -355,8 +366,8 @@
     2024,
     2025
    ],
-   "frequence_2016_2025": 0.05,
-   "frequence_2020_2025": 0.083,
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
    "frequence_2023_2025": 0.0,
    "derniere_apparition": 2022,
    "poids_bareme_quand_present": 0.25,
@@ -364,6 +375,20 @@
     "2022-S2 D3"
    ],
    "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Épreuve initiale annulée : « Le sujet de secours a été activé » (4 parties égales : analyse financière simple, gouvernance et dirigeant, finance comportementale, RSE/approche partenariale), « conçu sans besoin de faire de calculs » à titre d'« exception ».",
+     "difficulte_candidats": false,
+     "consequence": "Le sujet 2022 réellement composé est le sujet Energy+ ; son absence de calcul est une exception, pas une tendance."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3)."
+    },
     {
      "annee": 2021,
      "page": "p. 7-8",
@@ -400,15 +425,97 @@
    "zone_a_ne_pas_negliger": null
   },
   {
-   "code": "4.1",
-   "partie": "4. Investissement et financement (30 h)",
-   "intitule": "Investissement et désinvestissement",
-   "notions_officielles": "critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation",
-   "ipr": 45.3,
+   "code": "6.5",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "Les innovations financières",
+   "notions_officielles": "fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données",
+   "ipr": 45.1,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 6,
+    "rang_min": 4,
+    "rang_max": 9,
+    "scenarios_premier_tiers": "6/7"
+   },
+   "sessions_principal": [
+    2018,
+    2021,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2020
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.112,
+   "dossiers": [
+    "2025 D3",
+    "2021 D3",
+    "2018 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Seule vraie nouveauté du programme dans le sujet : la question sur la blockchain.",
+     "difficulte_candidats": false,
+     "consequence": "Connaître définitions et usages de la blockchain en finance/trésorerie."
+    },
+    {
+     "annee": 2020,
+     "page": "p. 7",
+     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
+     "difficulte_candidats": false,
+     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3)."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 7",
+     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
+     "difficulte_candidats": false,
+     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 7-8",
+     "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches synthétiques sur chacun de ces thèmes."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+     "difficulte_candidats": true,
+     "consequence": "Réserver du temps au dernier dossier rédactionnel."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F3 ch.5 p.92-94",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "4.1",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Investissement et désinvestissement",
+   "notions_officielles": "critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation",
+   "ipr": 42.8,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 7,
     "rang_min": 4,
     "rang_max": 8,
     "scenarios_premier_tiers": "6/7"
@@ -459,92 +566,17 @@
    "zone_a_ne_pas_negliger": null
   },
   {
-   "code": "6.5",
-   "partie": "6. Ingénierie financière (30 h)",
-   "intitule": "Les innovations financières",
-   "notions_officielles": "fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données",
-   "ipr": 45.1,
-   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 7,
-    "rang_min": 6,
-    "rang_max": 9,
-    "scenarios_premier_tiers": "6/7"
-   },
-   "sessions_principal": [
-    2018,
-    2021,
-    2025
-   ],
-   "sessions_toile_de_fond": [
-    2020
-   ],
-   "frequence_2016_2025": 0.3,
-   "frequence_2020_2025": 0.333,
-   "frequence_2023_2025": 0.333,
-   "derniere_apparition": 2025,
-   "poids_bareme_quand_present": 0.112,
-   "dossiers": [
-    "2025 D3",
-    "2021 D3",
-    "2018 D2"
-   ],
-   "jury": [
-    {
-     "annee": 2020,
-     "page": "p. 7",
-     "observation": "Seule vraie nouveauté du programme dans le sujet : la question sur la blockchain.",
-     "difficulte_candidats": false,
-     "consequence": "Connaître définitions et usages de la blockchain en finance/trésorerie."
-    },
-    {
-     "annee": 2020,
-     "page": "p. 7",
-     "observation": "Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ».",
-     "difficulte_candidats": false,
-     "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
-    },
-    {
-     "annee": 2021,
-     "page": "p. 7",
-     "observation": "Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs).",
-     "difficulte_candidats": false,
-     "consequence": "Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points."
-    },
-    {
-     "annee": 2021,
-     "page": "p. 7-8",
-     "observation": "Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale.",
-     "difficulte_candidats": false,
-     "consequence": "Fiches synthétiques sur chacun de ces thèmes."
-    },
-    {
-     "annee": 2025,
-     "page": "p. 26",
-     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
-     "difficulte_candidats": true,
-     "consequence": "Réserver du temps au dernier dossier rédactionnel."
-    }
-   ],
-   "ressources_personnelles": {
-    "support": "F3 ch.5 p.92-94",
-    "statut_notion": "I"
-   },
-   "zone_a_ne_pas_negliger": null
-  },
-  {
    "code": "3.1",
    "partie": "3. Évaluation de l'entreprise (20 h)",
    "intitule": "Évaluation par les flux",
    "notions_officielles": "flux revenant aux apporteurs de capitaux / aux actionnaires, business plan, rôle de l'actualisation",
-   "ipr": 41.4,
+   "ipr": 40.1,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 8,
     "rang_min": 5,
-    "rang_max": 9,
+    "rang_max": 8,
     "scenarios_premier_tiers": "3/7"
    },
    "sessions_principal": [
@@ -590,68 +622,15 @@
    "zone_a_ne_pas_negliger": null
   },
   {
-   "code": "6.1",
-   "partie": "6. Ingénierie financière (30 h)",
-   "intitule": "La politique de dividende",
-   "notions_officielles": "théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux",
-   "ipr": 37.6,
-   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
-   "regle_jury_2025": true,
-   "robustesse": {
-    "rang_reference": 9,
-    "rang_min": 7,
-    "rang_max": 10,
-    "scenarios_premier_tiers": "1/7"
-   },
-   "sessions_principal": [
-    2022,
-    2025
-   ],
-   "sessions_toile_de_fond": [
-    2020
-   ],
-   "frequence_2016_2025": 0.15,
-   "frequence_2020_2025": 0.25,
-   "frequence_2023_2025": 0.333,
-   "derniere_apparition": 2025,
-   "poids_bareme_quand_present": 0.183,
-   "dossiers": [
-    "2025 D3",
-    "2022-S1 D2",
-    "2022-S1 D3"
-   ],
-   "jury": [
-    {
-     "annee": 2025,
-     "page": "p. 26",
-     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
-     "difficulte_candidats": true,
-     "consequence": "Réserver du temps au dernier dossier rédactionnel."
-    },
-    {
-     "annee": 2025,
-     "page": "p. 26-27",
-     "observation": "Méconnaissance des concepts théoriques fondamentaux « notamment en finance d'entreprise » ; posture d'analyste et de conseiller ; tableaux systématiques.",
-     "difficulte_candidats": true,
-     "consequence": "Fiches auteurs/théories (MM, agence, signal, Fama, Gordon)."
-    }
-   ],
-   "ressources_personnelles": {
-    "support": "F3 (INTEC Cours 3) ch.1 p.9-24",
-    "statut_notion": "I"
-   },
-   "zone_a_ne_pas_negliger": null
-  },
-  {
    "code": "5.2",
    "partie": "5. La trésorerie (20 h)",
    "intitule": "La gestion des risques",
    "notions_officielles": "couverture change et taux (marchés organisés, gré à gré), options et Black-Scholes, swaps, forward, futures, structure des taux",
-   "ipr": 35.7,
+   "ipr": 34.4,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
-    "rang_reference": 10,
+    "rang_reference": 9,
     "rang_min": 7,
     "rang_max": 13,
     "scenarios_premier_tiers": "1/7"
@@ -692,11 +671,61 @@
    "zone_a_ne_pas_negliger": null
   },
   {
+   "code": "6.1",
+   "partie": "6. Ingénierie financière (30 h)",
+   "intitule": "La politique de dividende",
+   "notions_officielles": "théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux",
+   "ipr": 30.8,
+   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "regle_jury_2025": true,
+   "robustesse": {
+    "rang_reference": 10,
+    "rang_min": 9,
+    "rang_max": 12,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2020
+   ],
+   "frequence_2016_2025": 0.1,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.1,
+   "dossiers": [
+    "2025 D3"
+   ],
+   "jury": [
+    {
+     "annee": 2025,
+     "page": "p. 26",
+     "observation": "D3 (crowdfunding, dividende, grands auteurs) insuffisamment traité par mauvaise gestion du temps malgré un barème élevé.",
+     "difficulte_candidats": true,
+     "consequence": "Réserver du temps au dernier dossier rédactionnel."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 26-27",
+     "observation": "Méconnaissance des concepts théoriques fondamentaux « notamment en finance d'entreprise » ; posture d'analyste et de conseiller ; tableaux systématiques.",
+     "difficulte_candidats": true,
+     "consequence": "Fiches auteurs/théories (MM, agence, signal, Fama, Gordon)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F3 (INTEC Cours 3) ch.1 p.9-24",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
    "code": "3.2",
    "partie": "3. Évaluation de l'entreprise (20 h)",
    "intitule": "Évaluation par approche comparative",
    "notions_officielles": "choix des inducteurs, échantillon de comparables, effets des paramètres sous-jacents, avantages et limites",
-   "ipr": 31.9,
+   "ipr": 30.6,
    "categorie": "À MAÎTRISER",
    "regle_jury_2025": false,
    "robustesse": {
@@ -741,13 +770,13 @@
    "partie": "3. Évaluation de l'entreprise (20 h)",
    "intitule": "Autres évaluations particulières et spécifiques",
    "notions_officielles": "ANR et goodwill, approche immobilière, start-up, approches sectorielles",
-   "ipr": 30.1,
+   "ipr": 28.8,
    "categorie": "À MAÎTRISER",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 12,
-    "rang_min": 10,
-    "rang_max": 13,
+    "rang_min": 9,
+    "rang_max": 14,
     "scenarios_premier_tiers": "0/7"
    },
    "sessions_principal": [
@@ -782,16 +811,63 @@
    "zone_a_ne_pas_negliger": "Start-up (2020), fonds de commerce (2023, en toile de fond) ; immobilier cité par les jurys 2019-2020 comme « nouveauté » (vu en investissement en 2021)."
   },
   {
-   "code": "1.3",
-   "partie": "1. La valeur (20 h)",
-   "intitule": "La valeur et la performance",
-   "notions_officielles": "cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes",
-   "ipr": 26.9,
+   "code": "2.1",
+   "partie": "2. Diagnostic approfondi (20 h)",
+   "intitule": "Analyse financière des comptes consolidés",
+   "notions_officielles": "diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie",
+   "ipr": 28.1,
    "categorie": "À MAÎTRISER",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 13,
-    "rang_min": 12,
+    "rang_min": 10,
+    "rang_max": 13,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [
+    2016,
+    2018,
+    2019,
+    2022
+   ],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.4,
+   "frequence_2020_2025": 0.167,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": 2022,
+   "poids_bareme_quand_present": 0.25,
+   "dossiers": [
+    "2022-S2 D1",
+    "2019 D1",
+    "2018 D1",
+    "2016 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Épreuve initiale annulée : « Le sujet de secours a été activé » (4 parties égales : analyse financière simple, gouvernance et dirigeant, finance comportementale, RSE/approche partenariale), « conçu sans besoin de faire de calculs » à titre d'« exception ».",
+     "difficulte_candidats": false,
+     "consequence": "Le sujet 2022 réellement composé est le sujet Energy+ ; son absence de calcul est une exception, pas une tendance."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F4 (INTEC Cours 4) ch.1 p.9-33",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.3",
+   "partie": "1. La valeur (20 h)",
+   "intitule": "La valeur et la performance",
+   "notions_officielles": "cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes",
+   "ipr": 25.6,
+   "categorie": "À MAÎTRISER",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 14,
+    "rang_min": 11,
     "rang_max": 14,
     "scenarios_premier_tiers": "0/7"
    },
@@ -826,81 +902,6 @@
    "zone_a_ne_pas_negliger": "Obligations (duration, sensibilité) en 2020, EVA en 2020 ; gestion de portefeuille et patrimoine absents depuis 2018."
   },
   {
-   "code": "2.1",
-   "partie": "2. Diagnostic approfondi (20 h)",
-   "intitule": "Analyse financière des comptes consolidés",
-   "notions_officielles": "diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie",
-   "ipr": 25.6,
-   "categorie": "À MAÎTRISER",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 14,
-    "rang_min": 11,
-    "rang_max": 14,
-    "scenarios_premier_tiers": "0/7"
-   },
-   "sessions_principal": [
-    2016,
-    2018,
-    2019,
-    2022
-   ],
-   "sessions_toile_de_fond": [],
-   "frequence_2016_2025": 0.4,
-   "frequence_2020_2025": 0.167,
-   "frequence_2023_2025": 0.0,
-   "derniere_apparition": 2022,
-   "poids_bareme_quand_present": 0.275,
-   "dossiers": [
-    "2022-S1 D1",
-    "2022-S2 D1",
-    "2019 D1",
-    "2018 D1",
-    "2016 D1"
-   ],
-   "jury": [],
-   "ressources_personnelles": {
-    "support": "F4 (INTEC Cours 4) ch.1 p.9-33",
-    "statut_notion": "A"
-   },
-   "zone_a_ne_pas_negliger": null
-  },
-  {
-   "code": "4.3",
-   "partie": "4. Investissement et financement (30 h)",
-   "intitule": "Le choix d'une structure de financement",
-   "notions_officielles": "arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement",
-   "ipr": 17.7,
-   "categorie": "COMPLÉMENT",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 15,
-    "rang_min": 15,
-    "rang_max": 18,
-    "scenarios_premier_tiers": "0/7"
-   },
-   "sessions_principal": [],
-   "sessions_toile_de_fond": [
-    2016,
-    2019,
-    2022,
-    2023,
-    2025
-   ],
-   "frequence_2016_2025": 0.0,
-   "frequence_2020_2025": 0.0,
-   "frequence_2023_2025": 0.0,
-   "derniere_apparition": null,
-   "poids_bareme_quand_present": 0,
-   "dossiers": [],
-   "jury": [],
-   "ressources_personnelles": {
-    "support": "F2 ch.2 III p.59",
-    "statut_notion": "A"
-   },
-   "zone_a_ne_pas_negliger": "Jamais interrogé seul, mais sous-jacent à tout calcul de CMPC et de levier (2016, 2019, 2023, 2025). Théories de Modigliani-Miller, du compromis et du financement hiérarchique : mobilisables en question de réflexion."
-  },
-  {
    "code": "5.1",
    "partie": "5. La trésorerie (20 h)",
    "intitule": "La gestion des flux de trésorerie au sein d'un groupe",
@@ -909,8 +910,8 @@
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
-    "rang_reference": 16,
-    "rang_min": 14,
+    "rang_reference": 15,
+    "rang_min": 15,
     "rang_max": 16,
     "scenarios_premier_tiers": "0/7"
    },
@@ -934,6 +935,77 @@
    "zone_a_ne_pas_negliger": "Seulement 2020 (netting). Centralisation de trésorerie et cash pooling à connaître."
   },
   {
+   "code": "4.3",
+   "partie": "4. Investissement et financement (30 h)",
+   "intitule": "Le choix d'une structure de financement",
+   "notions_officielles": "arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement",
+   "ipr": 16.9,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 16,
+    "rang_min": 15,
+    "rang_max": 18,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [
+    2016,
+    2019,
+    2023,
+    2025
+   ],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [],
+   "ressources_personnelles": {
+    "support": "F2 ch.2 III p.59",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé seul, mais sous-jacent à tout calcul de CMPC et de levier (2016, 2019, 2023, 2025). Théories de Modigliani-Miller, du compromis et du financement hiérarchique : mobilisables en question de réflexion."
+  },
+  {
+   "code": "5.3",
+   "partie": "5. La trésorerie (20 h)",
+   "intitule": "La fraude et le blanchiment des capitaux",
+   "notions_officielles": "réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie",
+   "ipr": 12.1,
+   "categorie": "COMPLÉMENT",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 17,
+    "rang_min": 16,
+    "rang_max": 19,
+    "scenarios_premier_tiers": "0/7"
+   },
+   "sessions_principal": [],
+   "sessions_toile_de_fond": [],
+   "frequence_2016_2025": 0.0,
+   "frequence_2020_2025": 0.0,
+   "frequence_2023_2025": 0.0,
+   "derniere_apparition": null,
+   "poids_bareme_quand_present": 0,
+   "dossiers": [],
+   "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux.",
+     "difficulte_candidats": false,
+     "consequence": "Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "F4 partie 6 ch.3 p.114-116",
+    "statut_notion": "I"
+   },
+   "zone_a_ne_pas_negliger": "Jamais interrogé en UE2 depuis 2016. Rubrique courte : vigilance, TRACFIN, déclaration de soupçon, signaux d'alerte. Une question de cours de 1 à 2 points reste possible ; 30 min de fiche suffisent."
+  },
+  {
    "code": "6.2",
    "partie": "6. Ingénierie financière (30 h)",
    "intitule": "La gestion de la valeur de l'action",
@@ -942,9 +1014,9 @@
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
-    "rang_reference": 17,
+    "rang_reference": 18,
     "rang_min": 16,
-    "rang_max": 17,
+    "rang_max": 18,
     "scenarios_premier_tiers": "0/7"
    },
    "sessions_principal": [
@@ -977,9 +1049,9 @@
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
-    "rang_reference": 18,
+    "rang_reference": 19,
     "rang_min": 17,
-    "rang_max": 18,
+    "rang_max": 19,
     "scenarios_premier_tiers": "0/7"
    },
    "sessions_principal": [
@@ -1000,35 +1072,6 @@
     "statut_notion": "I"
    },
    "zone_a_ne_pas_negliger": "Seulement dans la réflexion 2019 (ancien programme). Titrisation et défaisance : définitions, intérêts, risques."
-  },
-  {
-   "code": "5.3",
-   "partie": "5. La trésorerie (20 h)",
-   "intitule": "La fraude et le blanchiment des capitaux",
-   "notions_officielles": "réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie",
-   "ipr": 8.3,
-   "categorie": "COMPLÉMENT",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 19,
-    "rang_min": 19,
-    "rang_max": 19,
-    "scenarios_premier_tiers": "0/7"
-   },
-   "sessions_principal": [],
-   "sessions_toile_de_fond": [],
-   "frequence_2016_2025": 0.0,
-   "frequence_2020_2025": 0.0,
-   "frequence_2023_2025": 0.0,
-   "derniere_apparition": null,
-   "poids_bareme_quand_present": 0,
-   "dossiers": [],
-   "jury": [],
-   "ressources_personnelles": {
-    "support": "F4 partie 6 ch.3 p.114-116",
-    "statut_notion": "I"
-   },
-   "zone_a_ne_pas_negliger": "Jamais interrogé en UE2 depuis 2016. Rubrique courte : vigilance, TRACFIN, déclaration de soupçon, signaux d'alerte. Une question de cours de 1 à 2 points reste possible ; 30 min de fiche suffisent."
   }
  ],
  "techniques": [
@@ -1043,8 +1086,7 @@
     "2025 D3",
     "2024 D2",
     "2023 D2",
-    "2022-S2 D2",
-    "2022-S1 D2"
+    "2022-S2 D2"
    ]
   },
   {
@@ -1087,8 +1129,7 @@
    "dossiers": [
     "2024 D3",
     "2023 D3",
-    "2022-S2 D4",
-    "2022-S1 D2"
+    "2022-S2 D4"
    ]
   },
   {
@@ -1170,6 +1211,18 @@
    ]
   },
   {
+   "technique": "parties_prenantes",
+   "libelle": "Parties prenantes",
+   "sessions_2016_2025": 2.0,
+   "sessions_2020_2025": 2.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2024,
+   "dossiers": [
+    "2024 D3",
+    "2022-S2 D4"
+   ]
+  },
+  {
    "technique": "blockchain_crypto",
    "libelle": "Blockchain, crypto-actifs",
    "sessions_2016_2025": 2.0,
@@ -1182,43 +1235,6 @@
    ]
   },
   {
-   "technique": "dividende_theories",
-   "libelle": "Politique de dividende (théories)",
-   "sessions_2016_2025": 1.5,
-   "sessions_2020_2025": 1.5,
-   "sessions_2023_2025": 1.0,
-   "derniere": 2025,
-   "dossiers": [
-    "2025 D3",
-    "2022-S1 D3",
-    "2022-S1 D2"
-   ]
-  },
-  {
-   "technique": "parties_prenantes",
-   "libelle": "Parties prenantes",
-   "sessions_2016_2025": 1.5,
-   "sessions_2020_2025": 1.5,
-   "sessions_2023_2025": 1.0,
-   "derniere": 2024,
-   "dossiers": [
-    "2024 D3",
-    "2022-S2 D4"
-   ]
-  },
-  {
-   "technique": "parite_fusion",
-   "libelle": "Parité d'échange, fusion",
-   "sessions_2016_2025": 1.5,
-   "sessions_2020_2025": 1.5,
-   "sessions_2023_2025": 0.0,
-   "derniere": 2022,
-   "dossiers": [
-    "2022-S1 D3",
-    "2021 D2"
-   ]
-  },
-  {
    "technique": "diagnostic_ratios",
    "libelle": "Diagnostic par ratios (ROCE, ROE, gearing…)",
    "sessions_2016_2025": 4.0,
@@ -1227,7 +1243,6 @@
    "derniere": 2022,
    "dossiers": [
     "2022-S2 D1",
-    "2022-S1 D1",
     "2019 D1",
     "2018 D1",
     "2016 D1"
@@ -1316,6 +1331,17 @@
    ]
   },
   {
+   "technique": "dividende_theories",
+   "libelle": "Politique de dividende (théories)",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 1.0,
+   "derniere": 2025,
+   "dossiers": [
+    "2025 D3"
+   ]
+  },
+  {
    "technique": "prime_offre_publique",
    "libelle": "Prime et fourchette d'une offre publique",
    "sessions_2016_2025": 1.0,
@@ -1383,6 +1409,17 @@
    ]
   },
   {
+   "technique": "efficience_finance_comportementale",
+   "libelle": "Efficience et finance comportementale",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2022,
+   "dossiers": [
+    "2022-S2 D3"
+   ]
+  },
+  {
    "technique": "immobilier",
    "libelle": "Finance immobilière",
    "sessions_2016_2025": 1.0,
@@ -1402,6 +1439,17 @@
    "derniere": 2021,
    "dossiers": [
     "2021 D1"
+   ]
+  },
+  {
+   "technique": "parite_fusion",
+   "libelle": "Parité d'échange, fusion",
+   "sessions_2016_2025": 1.0,
+   "sessions_2020_2025": 1.0,
+   "sessions_2023_2025": 0.0,
+   "derniere": 2021,
+   "dossiers": [
+    "2021 D2"
    ]
   },
   {
@@ -1435,28 +1483,6 @@
    "derniere": 2020,
    "dossiers": [
     "2020 D3"
-   ]
-  },
-  {
-   "technique": "BPA_relution",
-   "libelle": "BPA : relution / dilution",
-   "sessions_2016_2025": 0.5,
-   "sessions_2020_2025": 0.5,
-   "sessions_2023_2025": 0.0,
-   "derniere": 2022,
-   "dossiers": [
-    "2022-S1 D3"
-   ]
-  },
-  {
-   "technique": "efficience_finance_comportementale",
-   "libelle": "Efficience et finance comportementale",
-   "sessions_2016_2025": 0.5,
-   "sessions_2020_2025": 0.5,
-   "sessions_2023_2025": 0.0,
-   "derniere": 2022,
-   "dossiers": [
-    "2022-S2 D3"
    ]
   },
   {
@@ -1529,7 +1555,7 @@
    "interet": "Options réelles (Black-Scholes) et swap de taux : dossiers techniques de la session la plus difficile (14,75 % de réussite)."
   },
   {
-   "annale": "2022-S1 D3",
+   "annale": "2022-S1 D3 (sujet annulé, entraînement)",
    "interet": "OPE : parité, prime, dividende exceptionnel, transfert de richesse, BPA relutif/dilutif."
   },
   {
@@ -1992,7 +2018,7 @@
   {
    "annee": "2022-S1",
    "dossier": "1",
-   "intitule": "Diagnostic financier (Sopra Steria, comptes consolidés IFRS)",
+   "intitule": "Diagnostic financier (Sopra Steria, comptes consolidés IFRS) [sujet annulé — hors statistiques]",
    "points": "30",
    "total_points": "100",
    "questions_resume": "Q1 marge opérationnelle, ROCE (EBIT), ROE 2019-2020 · Q2 gearing, capacité de remboursement (EBITDA), structure financière · Q3 diagnostic 2016-2020 · Q4 comparaison sectorielle",
@@ -2005,7 +2031,7 @@
   {
    "annee": "2022-S1",
    "dossier": "2",
-   "intitule": "Diagnostic RSE et gouvernance",
+   "intitule": "Diagnostic RSE et gouvernance [sujet annulé — hors statistiques]",
    "points": "30",
    "total_points": "100",
    "questions_resume": "Q1 critères ESG · Q2 communiqué, DPEF · Q3 CDP · Q4 axes de responsabilité sociale · Q5.1 CA et codes de gouvernance · Q5.2 théorie de l'agence (Jensen-Meckling) · Q5.3 rôle de la politique de dividende · Q5.4 non-distribution 2020",
@@ -2018,7 +2044,7 @@
   {
    "annee": "2022-S1",
    "dossier": "3",
-   "intitule": "Ingénierie financière (OPE EEGS Design / EVA Group)",
+   "intitule": "Ingénierie financière (OPE EEGS Design / EVA Group) [sujet annulé — hors statistiques]",
    "points": "40",
    "total_points": "100",
    "questions_resume": "Q1 cours nécessaire pour une prime de 25 % · Q2 lien dividende/cours, dividende exceptionnel · Q3 valeur de l'action après OPE · Q4 transfert de richesse · Q5 motivations, synergies · Q6 effets dilutif/relutif sur BPA",
@@ -2287,6 +2313,30 @@
    "rubriques": "2.2|6.5|1.3|3.3",
    "difficulte_candidats": false,
    "consequence": "Couvrir les « nouveautés » 2019 même hors calcul."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 9",
+   "observation": "Épreuve initiale annulée : « Le sujet de secours a été activé » (4 parties égales : analyse financière simple, gouvernance et dirigeant, finance comportementale, RSE/approche partenariale), « conçu sans besoin de faire de calculs » à titre d'« exception ».",
+   "rubriques": "2.1|2.2|1.1",
+   "difficulte_candidats": false,
+   "consequence": "Le sujet 2022 réellement composé est le sujet Energy+ ; son absence de calcul est une exception, pas une tendance."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 9",
+   "observation": "Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux.",
+   "rubriques": "2.2|6.5|1.1|5.3",
+   "difficulte_candidats": false,
+   "consequence": "Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3)."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 5",
+   "observation": "Taux de réussite UE2 = 52,49 % (moyenne 9,73, médiane 10), contre 23,86 % en 2021.",
+   "rubriques": "",
+   "difficulte_candidats": false,
+   "consequence": "Taux atypique lié au sujet de secours sans calcul."
   },
   {
    "annee": 2021,

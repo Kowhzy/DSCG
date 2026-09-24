@@ -14,18 +14,21 @@ LAST3 = [y for y in YEARS if y >= 2023]
 # Pondérations de l'IPR (somme = 100) — voir méthodologie
 W = dict(f_hist=15, f_cur=20, f_rec=10, poids=10, jury=15, diff=10, transv=10, bo=5, gap=5)
 
+SUBJECT_W = {'2022-S1': 0.0, '2022-S2': 1.0}
+
 def year_of(a):
     return int(str(a)[:4])
 
 def load(ue):
     rows = list(csv.DictReader(open(os.path.join(BASE, '02_data', f'{ue}_dossiers.csv'), encoding='utf-8'), delimiter=';'))
-    # poids de sujet : 2022-S1 / 2022-S2 (UE2) = 0,5 chacun (lequel a été composé : non vérifié)
+    # UE2 2022 : le sujet initial (2022-S1) a été annulé ; le sujet de secours (2022-S2, 4 parties) a été composé
+    # [Rapport du jury 2022, p. 9]. 2022-S1 reste dans la base comme annale d'entraînement mais pèse 0.
     subj = defaultdict(set)
     for r in rows:
         subj[year_of(r['annee'])].add(r['annee'])
     for r in rows:
         y = year_of(r['annee']); r['y'] = y
-        r['w_subject'] = 1 / len(subj[y])
+        r['w_subject'] = SUBJECT_W.get(r['annee'], 1 / len(subj[y]))
         r['P'] = [c for c in r['rubriques_principales'].split('|') if c]
         r['S'] = [c for c in r['rubriques_secondaires'].split('|') if c]
     # part des points de chaque dossier dans son sujet
@@ -48,6 +51,7 @@ def compute(ue):
     ndos = defaultdict(int); cooc = defaultdict(set); dossiers = defaultdict(list)
     for r in rows:
         y, w = r['y'], r['w_subject']
+        if w == 0: continue
         for c in set(r['P']):
             sessP[c][y] = min(1.0, sessP[c][y] + w) if sessP[c][y] < w * 2 else sessP[c][y]
             weight[c][y] += w * r['share'] / len(r['P'])
@@ -140,6 +144,7 @@ def techniques(ue):
     rows = load(ue)
     occ = defaultdict(lambda: defaultdict(float)); where = defaultdict(list)
     for r in rows:
+        if r['w_subject'] == 0: continue
         for t in [x for x in r.get('techniques', '').split('|') if x]:
             occ[t][r['annee']] = r['w_subject']            # une fois par sujet
             where[t].append(f"{r['annee']} D{r['dossier']}")

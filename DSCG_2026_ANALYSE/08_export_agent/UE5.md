@@ -4,7 +4,7 @@
 - L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.
 - Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).
 - Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.
-- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
+- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2022, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
 - Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.
 - Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.
 - Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027.
@@ -23,21 +23,21 @@
 ## Priorités (IPR décroissant)
 | Rubrique | Catégorie | IPR | Robustesse (rang min-max, 1er tiers) | Dernière | Notions officielles |
 |---|---|---|---|---|---|
-| 5.2 Mise en place d'une architecture de confiance | PRIORITÉ MAXIMALE | 63.9 | 1-2, 7/7 | 2025 | PKI, certificat, signature électronique, droit de l'information (RGPD, conservation, dématérialisation) |
-| 2.2 La mise en œuvre d'un projet | PRIORITÉ MAXIMALE | 60.3 | 1-4, 7/7 | 2024 | cahier des charges, parties prenantes, cycle de vie, planification et ordonnancement, qualité (ISO, CMMI), suivi des coûts et délais (écarts), tests et recette, déploiement, formation |
-| 1.2 La stratégie SI | PRIORITÉ TRÈS ÉLEVÉE | 59.6 | 1-3, 7/7 | 2025 | alignement stratégique, schéma directeur, agilité |
-| 5.3 Surveillance et prévention | PRIORITÉ TRÈS ÉLEVÉE | 54.7 | 3-5, 7/7 | 2025 | surveillance des processus, prévention, continuité, protection juridique, assurances et garanties |
-| 1.3 Évolution des systèmes d'information | PRIORITÉ TRÈS ÉLEVÉE | 47.5 | 5-7, 7/7 | 2024 | urbanisation et cartographie, SI inter-organisationnels, open data/innovation, BYOD, référentiels (ITIL, COBIT, ISO) |
+| 5.2 Mise en place d'une architecture de confiance | PRIORITÉ MAXIMALE | 67.6 | 1-2, 7/7 | 2025 | PKI, certificat, signature électronique, droit de l'information (RGPD, conservation, dématérialisation) |
+| 2.2 La mise en œuvre d'un projet | PRIORITÉ MAXIMALE | 60.3 | 1-5, 7/7 | 2024 | cahier des charges, parties prenantes, cycle de vie, planification et ordonnancement, qualité (ISO, CMMI), suivi des coûts et délais (écarts), tests et recette, déploiement, formation |
+| 1.2 La stratégie SI | PRIORITÉ TRÈS ÉLEVÉE | 59.6 | 2-3, 7/7 | 2025 | alignement stratégique, schéma directeur, agilité |
+| 5.3 Surveillance et prévention | PRIORITÉ TRÈS ÉLEVÉE | 54.7 | 3-6, 7/7 | 2025 | surveillance des processus, prévention, continuité, protection juridique, assurances et garanties |
+| 1.3 Évolution des systèmes d'information | PRIORITÉ TRÈS ÉLEVÉE | 51.2 | 4-7, 7/7 | 2024 | urbanisation et cartographie, SI inter-organisationnels, open data/innovation, BYOD, référentiels (ITIL, COBIT, ISO) |
+| 3.1 La place des systèmes d'entreprise (SE) | PRIORITÉ TRÈS ÉLEVÉE | 47.1 | 6-9, 6/7 | 2023 | intégration, PGI-ERP, couverture fonctionnelle, open source, SaaS, évolutions réglementaires |
 | 3.2 Le cycle de vie des systèmes d'entreprise (SE) | PRIORITÉ TRÈS ÉLEVÉE | 46.8 | 4-7, 7/7 | 2024 | mise en place, déploiement, renouvellement, exploitation et évaluation |
-| 3.1 La place des systèmes d'entreprise (SE) | PRIORITÉ ÉLEVÉE | 43.3 | 6-9, 6/7 | 2023 | intégration, PGI-ERP, couverture fonctionnelle, open source, SaaS, évolutions réglementaires |
-| 1.1 Position de la fonction SI au sein de l'organisation | PRIORITÉ TRÈS ÉLEVÉE | 40.6 | 6-12, 5/7 | 2022 | DSI : missions, fonctions, rôles, ressources, types d'organisation, tableau de bord de la DSI |
-| 2.1 Les enjeux d'un projet | PRIORITÉ ÉLEVÉE | 36.9 | 8-15, 1/7 | 2022 | place du projet dans la stratégie, agilité, organisation du projet, MOA/MOE, faire/faire-faire face au cloud (SaaS, IaaS, PaaS), régie/forfait |
+| 1.1 Position de la fonction SI au sein de l'organisation | PRIORITÉ TRÈS ÉLEVÉE | 44.3 | 5-12, 6/7 | 2022 | DSI : missions, fonctions, rôles, ressources, types d'organisation, tableau de bord de la DSI |
+| 2.1 Les enjeux d'un projet | PRIORITÉ ÉLEVÉE | 40.7 | 8-13, 1/7 | 2022 | place du projet dans la stratégie, agilité, organisation du projet, MOA/MOE, faire/faire-faire face au cloud (SaaS, IaaS, PaaS), régie/forfait |
 | 2.4 Gestion des risques du projet | À MAÎTRISER | 28.1 | 8-16, 1/7 | 2024 | analyse et gestion des risques, intégration des risques dans les contrats |
-| 4.1 Définition d'indicateurs | À MAÎTRISER | 27.7 | 8-13, 1/7 | 2024 | indicateurs de performance et de qualité (données, sécurité, fiabilité…) |
-| 6.2 Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil | PRIORITÉ TRÈS ÉLEVÉE | 26.4 | 10-16, 0/7 | 2025 | normes professionnelles, comptes d'entités informatisées, risques d'audit et de conseil, ITIL, COBIT, cartographie applicative, obligations légales |
-| 1.4 Management stratégique des données (Big Data-Mégadonnées) | PRIORITÉ TRÈS ÉLEVÉE | 26.2 | 9-14, 0/7 | 2025 | big data, analyse et sécurité des données, plateformes, datacenter et cloud computing |
+| 4.1 Définition d'indicateurs | À MAÎTRISER | 27.7 | 9-13, 0/7 | 2024 | indicateurs de performance et de qualité (données, sécurité, fiabilité…) |
+| 6.2 Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil | PRIORITÉ TRÈS ÉLEVÉE | 26.4 | 11-16, 0/7 | 2025 | normes professionnelles, comptes d'entités informatisées, risques d'audit et de conseil, ITIL, COBIT, cartographie applicative, obligations légales |
+| 1.4 Management stratégique des données (Big Data-Mégadonnées) | PRIORITÉ TRÈS ÉLEVÉE | 26.2 | 10-14, 0/7 | 2025 | big data, analyse et sécurité des données, plateformes, datacenter et cloud computing |
 | 4.2 Le contrat de services | PRIORITÉ TRÈS ÉLEVÉE | 25.3 | 10-18, 0/7 | 2017 | niveaux de service (SLA), infogérance, facturation interne, responsabilité du prestataire, plan de continuité d'activité |
-| 6.1 Audit du système d'information | PRIORITÉ TRÈS ÉLEVÉE | 24.9 | 12-17, 0/7 | 2025 | missions d'audit (interne, externe, stratégique), documentation d'audit, conseils et recommandations |
+| 6.1 Audit du système d'information | PRIORITÉ TRÈS ÉLEVÉE | 24.9 | 13-17, 0/7 | 2025 | missions d'audit (interne, externe, stratégique), documentation d'audit, conseils et recommandations |
 | 4.3 Les coûts | À MAÎTRISER | 23.8 | 11-17, 0/7 | 2021 | coûts de la fonction SI, TCO, coût d'opportunité, externalisation, open source, mutualisation, tarifications du cloud |
 | 6.4 Contrôle et reporting | PRIORITÉ TRÈS ÉLEVÉE | 23.1 | 14-18, 0/7 | 2025 | projets de reporting, entrepôt de données, visualisation, qualité et intégration des données |
 | 5.1 Architecture technique | À MAÎTRISER | 22.0 | 12-18, 0/7 | 2022 | client-serveur, middleware, transactionnel, intégration, portail |
@@ -135,6 +135,8 @@
 ## Observations du jury
 - [2020, p. 9] Nouvelle maquette : cas en cabinet, ~20 questions de 0,5 à 2 points ; sécurité, DPO, RGPD, migration vers un ERP en SaaS ; « tendance qui devrait être celle des épreuves à venir ». → RGPD/sécurité et ERP en contexte cabinet.
 - [2020, p. 9] Environnement : télétravail, continuité de service, externalisation et cloud, contractualisation des prestataires ; plutôt que « la conception ex nihilo ». → Prestataires, cloud, continuité.
+- [2022, p. 11] Cession d'une ESN : schéma directeur, workflow facture (typologies, circuits de validation), Factur-X, SaaS vs On Premise, tout-en-un, DPO mutualisé (RGPD) ; ne pas confondre « définir » et « modéliser ». → Respecter le verbe de consigne : définir, décrire, caractériser, analyser, modéliser, schématiser.
+- [2022, p. 11] « Ce sujet préfigure les sujets et études de cas qui vont suivre c'est-à-dire à la fois factuels, actuels et analytiques avec une forte dimension managériale » ; qualité rédactionnelle médiocre dans une partie des copies. → Posture managériale et rédaction soignée.
 - [2021, p. 9] D1 schéma directeur « assez technique » ; indicateurs de coût ; D2 FCS, risques, deux méthodes, Gantt ; D3 RGPD et SI achats, résilience. → Schéma directeur, indicateurs de coût, méthodes et Gantt.
 - [2021, p. 10] « Cette UE5 continue sa transformation vers de moins en moins de questions liées aux techniques et à l'informatique ». → Posture de manager/conseil plutôt que technicien.
 - [2024, p. 29] D1 : décision CRM après acquisition, accompagnement du changement ; le jury regrette des « morceaux de cours » non reliés au contexte. → Argumenter en situation.

@@ -64,7 +64,7 @@ def charts(ue, res, rows):
     ax.text(4.05, -0.25, 'programme 2019 →', fontsize=7, color=INK2, va='bottom')
     ax.text(3.95, -0.25, '← ancien programme', fontsize=7, color=MUTED, va='bottom', ha='right')
     ax.tick_params(length=0); [s.set_visible(False) for s in ax.spines.values()]
-    hd = [Patch(color=SEQ[550], label='principal')] + ([Patch(color=SEQ[350], label='principal dans ½ session (UE2 2022)')] if ue == 'UE2' else []) + [Patch(color=SEQ[100], label='secondaire / toile de fond')]
+    hd = [Patch(color=SEQ[550], label='principal')] + [Patch(color=SEQ[100], label='secondaire / toile de fond')]
     ax.legend(handles=hd, loc='upper center',
               bbox_to_anchor=(.45, -0.035 * 20 / len(order)), ncol=3, frameon=False, fontsize=7)
     fig.tight_layout(); p = os.path.join(G, f'{ue}_heatmap.png'); fig.savefig(p, dpi=200); plt.close(fig); out['heatmap'] = p
@@ -234,7 +234,7 @@ def annales_rubrique(ue, r, rows):
     items = []
     for row in sorted(rows, key=lambda x: x['annee'], reverse=True):
         if r['code'] in row['P']:
-            tag = '' if row['y'] >= 2020 else ' (ancien programme)'
+            tag = ' (sujet annulé, entraînement)' if row['w_subject'] == 0 else '' if row['y'] >= 2020 else ' (ancien programme)'
             items.append(f"<b>{row['annee']} D{row['dossier']}</b>{tag} — {row['intitule']}")
     return items[:5]
 
@@ -252,7 +252,7 @@ def build(ue):
           P(f"Étude documentaire et statistique — sessions 2016 à 2025 — préparée pour Sacha, le {DATE}.", 'sub'), Spacer(1, 6 * mm),
           box("<b>Question directrice.</b> Compte tenu du programme officiel, des attentes du jury, des annales et de tes ressources, "
               "quelles compétences maîtriser en priorité pour être prêt au mieux en 2026 ? <br/><b>Avertissement.</b> Cet indice hiérarchise un effort de révision : "
-              "il ne prédit pas le sujet. Le jury le rappelle : « aucun point du programme du DSCG ne peut être considéré comme mineur » [Rapports du jury 2020, 2021, 2024, 2025]."),
+              "il ne prédit pas le sujet. Le jury le rappelle : « aucun point du programme du DSCG ne peut être considéré comme mineur » [Rapports du jury 2020, 2021, 2022, 2024, 2025]."),
           Spacer(1, 4 * mm), P(f"<b>Épreuve.</b> {EPREUVE[ue]}", 'p'), Spacer(1, 6 * mm), P('Sommaire', 'h2n')]
     toc = TableOfContents(); toc.levelStyles = [st['toc1'], st['toc2']]; toc.dotsMinLevel = 0
     S += [toc, PageBreak()]
@@ -291,9 +291,9 @@ def build(ue):
     for t, x in METHODE_COMMUNE:
         S.append(P(f"<b>{t}.</b> {x}"))
     S.append(P('Hiérarchie des sources utilisées', 'h2'))
-    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction en tête des manuels Dunod UE2/UE3 et dans le document « Programme MSI 19-20 » pour l'UE5) ; éléments indicatifs de corrigé 2020-2025 (lus question par question, sauf UE3 2024 indisponible)."),
+    S += [B("Niveau 1 : rapports du jury DSCG 2020, 2021, 2022, 2024 et 2025 (lus intégralement) ; sujets des sessions 2016-2025 (PDF officiels ou copies FicheBEN des sujets officiels, lus question par question) ; programme de l'arrêté du 13 février 2019 (texte relu dans sa reproduction en tête des manuels Dunod UE2/UE3 et dans le document « Programme MSI 19-20 » pour l'UE5) ; éléments indicatifs de corrigé 2020-2025 (lus question par question, sauf UE3 2024 indisponible)."),
           B("Niveau 2 (contrôle) : Compta Online (articles « Pronostic DSCG … thèmes récurrents », « réforme ») via les extraits de moteur de recherche, le site étant inaccessible ; tes notes Drive (UE5-01 à UE5-07) ; ta base Notion (héritée d'un modèle, donc utilisée comme index et non comme preuve)."),
-          B("Contrôle croisé : les structures des sujets 2020, 2021, 2024 et 2025 ont été vérifiées contre la description qu'en donne le rapport du jury correspondant (concordance constatée).")]
+          B("Contrôle croisé : les structures des sujets 2020, 2021, 2022, 2024 et 2025 ont été vérifiées contre la description qu'en donne le rapport du jury correspondant (concordance constatée).")]
     S.append(CondPageBreak(170 * mm))
     # --- 3. programme
     S.append(P('3. Programme officiel applicable', 'h1'))
@@ -356,11 +356,11 @@ def build(ue):
         data.append([x['label'], fr(x['s10'], 1).replace(',0', ''), fr(x['scur'], 1).replace(',0', ''), fr(x['s3'], 1).replace(',0', ''), str(x['last']),
                      ', '.join(sorted(x['dossiers'], reverse=True)[:6]) + (' …' if len(x['dossiers']) > 6 else '')])
     S.append(tbl(data, [56 * mm, 18 * mm, 16 * mm, 15 * mm, 15 * mm, 58 * mm]))
-    S.append(P(f"Liste complète ({len(tech)} techniques) : 03_analyses/{ue}_techniques.csv." + (" Sessions pondérées ½ pour les deux sujets 2022." if ue == 'UE2' else ''), 'small'))
+    S.append(P(f"Liste complète ({len(tech)} techniques) : 03_analyses/{ue}_techniques.csv." + (" Le sujet 2022-S1 (annulé) est exclu des comptages." if ue == 'UE2' else ''), 'small'))
     S.append(CondPageBreak(170 * mm))
     # --- 6. jury
     S.append(P('6. Analyse des rapports du jury', 'h1'))
-    S.append(P("Rapports lus : sessions 2020, 2021, 2024, 2025 (les rapports 2022 et 2023 n'ont pas pu être consultés). Observations en paraphrase fidèle ; les citations entre guillemets sont verbatim. Pages = pagination imprimée."))
+    S.append(P("Rapports lus : sessions 2020, 2021, 2022, 2024, 2025 (le rapport 2023 n'a pas pu être consulté). Observations en paraphrase fidèle ; les citations entre guillemets sont verbatim. Pages = pagination imprimée."))
     data = [['Année', 'Page', 'Observation du jury', 'Rubriques', 'Pb candidats', 'Conséquence pour ta révision']]
     for (an, pg, o, rub, pb, cons) in JURY[ue]:
         data.append([str(an), pg, o, rub.replace('|', ' ') or 'général', 'oui' if pb else '—', cons])
@@ -507,6 +507,7 @@ def SOURCES(ue, rows):
     d = 'https://drive.google.com/file/d/'
     s = [
      ["Rapport du jury du DSCG — session 2020", "Jury national DSCG (MESR)", "2020", link(d + '1QwiqmpNS9gU9UQja4WPZ8D7fiL9fDxw2/view', 'Drive : Rapport_jury_DSCG_2020.pdf')],
+     ["Rapport du jury du DSCG — session 2022", "Jury national DSCG (MESR)", "2023", link(d + '1xJNRdr0s2NEAtMP24U0rJaI8el5WsmiS/view', 'Drive : rapport-du-jury-sur-la-session-2022-du-dscg-39080.pdf')],
      ["Rapport du jury du DSCG — session 2021", "Jury national DSCG (MESR)", "2021", link(d + '1Op95l3PKyXaIgv_fjIO_1GZItCaDUKzU/view', 'Drive : Rapport_jury_DSCG_2021.pdf') + ' ; ' + link('https://www.ac-strasbourg.fr/media/15311/download', 'ac-strasbourg')],
      ["Rapport du jury national du DSCG — session 2024", "Jury national DSCG (MESR)", "2025", link('https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2025-03/rapport-du-jury-national-du-dscg---2024-36344.pdf', 'enseignementsup-recherche.gouv.fr') + ' ; ' + link(d + '163LAI9oQuAkTwVgxUHy6yB_mDZcfLttA/view', 'copie Drive')],
      ["Rapport du jury national du DSCG — session 2025", "Jury national DSCG (MESR)", "2026", link('https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2026-03/rapport-du-jury-national-du-dscg---2025-39591.pdf', 'enseignementsup-recherche.gouv.fr') + ' ; ' + link(d + '16PrV4HSQGDYq5aY9_nYwl9-_lsRB2Old/view', 'copie Drive')],

@@ -4,7 +4,7 @@
 - L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.
 - Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).
 - Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.
-- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
+- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2022, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
 - Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.
 - Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.
 - Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027.
@@ -18,30 +18,30 @@
 - La gouvernance et l'extra-financier (RSE/ESG, parties prenantes, agence, Copé-Zimmermann, société à mission) sont la rubrique la plus présente depuis la réforme (4 sessions sur 6 en principal ; en 2025 seulement en toile de fond). Le jury 2024 en fait un attendu explicite : « la performance durable de l'entreprise est autant à prendre en considération que les performances financière et économique ».
 - Depuis 2020, la « question de réflexion » (25 % des points) a disparu : elle est remplacée par de petites questions de cours insérées dans le cas [Rapport du jury 2020, p. 7]. Chaque sujet combine désormais un dossier calculatoire et des questions de restitution argumentée.
 - Le jury 2025 rappelle que les acquis du DCG (VAN, TRI, annuités constantes, tableaux d'amortissement) « peuvent légitimement faire l'objet de questions ». Il déplore la faible maîtrise du LBO et un dossier 3 (crowdfunding, dividende) sacrifié faute de temps.
-- Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le socle technique est discriminant.
+- Session très volatile : taux de réussite de 14,75 % (2023) à 52,49 % (2022), et 43,00 % en 2025 [Rapports du jury 2024 et 2025, p. 18-19]. Le pic de 2022 s'explique par le sujet de secours « conçu sans besoin de faire de calculs », une « exception » selon le jury [Rapport du jury 2022, p. 9]. Le socle technique est discriminant.
 
 ## Priorités (IPR décroissant)
 | Rubrique | Catégorie | IPR | Robustesse (rang min-max, 1er tiers) | Dernière | Notions officielles |
 |---|---|---|---|---|---|
-| 2.2 Analyse extra-financière | PRIORITÉ MAXIMALE | 67.0 | 1-3, 7/7 | 2024 | gouvernance d'entreprise, RSE et critères extra-financiers, création de valeur et sa répartition (EVA), notation et scoring |
-| 1.2 La valeur et le risque | PRIORITÉ MAXIMALE | 63.0 | 1-2, 7/7 | 2025 | MEDAF (fondements, usage pratique, limites), modèle de Fama et French et dérivés, mesure des primes de risque |
-| 6.3 Les fusions et acquisitions | PRIORITÉ TRÈS ÉLEVÉE | 57.0 | 2-4, 7/7 | 2025 | synergies, holdings, opérations à effet de levier (LBO), offres publiques |
-| 4.2 Modalités de financement | PRIORITÉ TRÈS ÉLEVÉE | 50.6 | 4-6, 7/7 | 2025 | fonds propres et quasi-fonds propres, financements bancaires, obligataires, court terme (euro PP), capital-investissement, financements publics |
-| 1.1 La valeur en finance | PRIORITÉ TRÈS ÉLEVÉE | 46.9 | 3-15, 4/7 | 2022 | marchés financiers et financement de l'économie, efficience (hypothèse, formes), hypothèses des modèles, aspects psychologiques et humains (finance comportementale), regard critique sur la finance classique |
-| 4.1 Investissement et désinvestissement | PRIORITÉ TRÈS ÉLEVÉE | 45.3 | 4-8, 6/7 | 2025 | critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation |
-| 6.5 Les innovations financières | PRIORITÉ TRÈS ÉLEVÉE | 45.1 | 6-9, 6/7 | 2025 | fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données |
-| 3.1 Évaluation par les flux | PRIORITÉ ÉLEVÉE | 41.4 | 5-9, 3/7 | 2024 | flux revenant aux apporteurs de capitaux / aux actionnaires, business plan, rôle de l'actualisation |
-| 6.1 La politique de dividende | PRIORITÉ TRÈS ÉLEVÉE | 37.6 | 7-10, 1/7 | 2025 | théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux |
-| 5.2 La gestion des risques | PRIORITÉ ÉLEVÉE | 35.7 | 7-13, 1/7 | 2023 | couverture change et taux (marchés organisés, gré à gré), options et Black-Scholes, swaps, forward, futures, structure des taux |
-| 3.2 Évaluation par approche comparative | À MAÎTRISER | 31.9 | 8-14, 0/7 | 2024 | choix des inducteurs, échantillon de comparables, effets des paramètres sous-jacents, avantages et limites |
-| 3.3 Autres évaluations particulières et spécifiques | À MAÎTRISER | 30.1 | 10-13, 0/7 | 2020 | ANR et goodwill, approche immobilière, start-up, approches sectorielles |
-| 1.3 La valeur et la performance | À MAÎTRISER | 26.9 | 12-14, 0/7 | 2020 | cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes |
-| 2.1 Analyse financière des comptes consolidés | À MAÎTRISER | 25.6 | 11-14, 0/7 | 2022 | diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie |
-| 4.3 Le choix d'une structure de financement | COMPLÉMENT | 17.7 | 15-18, 0/7 | jamais | arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement |
-| 5.1 La gestion des flux de trésorerie au sein d'un groupe | COMPLÉMENT | 17.2 | 14-16, 0/7 | 2020 | centralisation de trésorerie, opérations intragroupe, supports de financement et de placement |
-| 6.2 La gestion de la valeur de l'action | COMPLÉMENT | 11.8 | 16-17, 0/7 | 2017 | rachats d'actions, opérations sur le nombre d'actions, restructurations (APA, scission), introductions en bourse |
-| 6.4 Les opérations sur les dettes et sur les créances | COMPLÉMENT | 9.5 | 17-18, 0/7 | 2019 | defeasance, titrisation |
-| 5.3 La fraude et le blanchiment des capitaux | COMPLÉMENT | 8.3 | 19-19, 0/7 | jamais | réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie |
+| 2.2 Analyse extra-financière | PRIORITÉ MAXIMALE | 67.8 | 1-2, 7/7 | 2024 | gouvernance d'entreprise, RSE et critères extra-financiers, création de valeur et sa répartition (EVA), notation et scoring |
+| 1.2 La valeur et le risque | PRIORITÉ TRÈS ÉLEVÉE | 59.3 | 1-3, 7/7 | 2025 | MEDAF (fondements, usage pratique, limites), modèle de Fama et French et dérivés, mesure des primes de risque |
+| 6.3 Les fusions et acquisitions | PRIORITÉ TRÈS ÉLEVÉE | 51.4 | 3-6, 7/7 | 2025 | synergies, holdings, opérations à effet de levier (LBO), offres publiques |
+| 4.2 Modalités de financement | PRIORITÉ TRÈS ÉLEVÉE | 49.4 | 4-6, 7/7 | 2025 | fonds propres et quasi-fonds propres, financements bancaires, obligataires, court terme (euro PP), capital-investissement, financements publics |
+| 1.1 La valeur en finance | PRIORITÉ TRÈS ÉLEVÉE | 48.6 | 2-12, 5/7 | 2022 | marchés financiers et financement de l'économie, efficience (hypothèse, formes), hypothèses des modèles, aspects psychologiques et humains (finance comportementale), regard critique sur la finance classique |
+| 6.5 Les innovations financières | PRIORITÉ TRÈS ÉLEVÉE | 45.1 | 4-9, 6/7 | 2025 | fintechs, crowdfunding, systèmes privés d'échange de titres, blockchains, cryptomonnaies, analyse par les réseaux et les données |
+| 4.1 Investissement et désinvestissement | PRIORITÉ ÉLEVÉE | 42.8 | 4-8, 6/7 | 2025 | critères de sélection (projets exclusifs, liés), rationnement du capital, désinvestissement, défaillance et liquidation |
+| 3.1 Évaluation par les flux | PRIORITÉ ÉLEVÉE | 40.1 | 5-8, 3/7 | 2024 | flux revenant aux apporteurs de capitaux / aux actionnaires, business plan, rôle de l'actualisation |
+| 5.2 La gestion des risques | PRIORITÉ ÉLEVÉE | 34.4 | 7-13, 1/7 | 2023 | couverture change et taux (marchés organisés, gré à gré), options et Black-Scholes, swaps, forward, futures, structure des taux |
+| 6.1 La politique de dividende | PRIORITÉ TRÈS ÉLEVÉE | 30.8 | 9-12, 0/7 | 2025 | théories et déterminants de la politique de dividende, effets informationnels, impacts fiscaux |
+| 3.2 Évaluation par approche comparative | À MAÎTRISER | 30.6 | 8-14, 0/7 | 2024 | choix des inducteurs, échantillon de comparables, effets des paramètres sous-jacents, avantages et limites |
+| 3.3 Autres évaluations particulières et spécifiques | À MAÎTRISER | 28.8 | 9-14, 0/7 | 2020 | ANR et goodwill, approche immobilière, start-up, approches sectorielles |
+| 2.1 Analyse financière des comptes consolidés | À MAÎTRISER | 28.1 | 10-13, 0/7 | 2022 | diagnostic selon le modèle économique, comptes consolidés/combinés, activité, structure financière, rentabilité économique et des capitaux propres, flux de trésorerie |
+| 1.3 La valeur et la performance | À MAÎTRISER | 25.6 | 11-14, 0/7 | 2020 | cours boursiers et gestion de portefeuille, placements financiers et gestion patrimoniale, introduction à la finance immobilière, performance boursière, modèles d'actualisation des dividendes |
+| 5.1 La gestion des flux de trésorerie au sein d'un groupe | COMPLÉMENT | 17.2 | 15-16, 0/7 | 2020 | centralisation de trésorerie, opérations intragroupe, supports de financement et de placement |
+| 4.3 Le choix d'une structure de financement | COMPLÉMENT | 16.9 | 15-18, 0/7 | jamais | arbitrage capitaux propres / dettes, déterminants de la structure financière, théories du choix de financement |
+| 5.3 La fraude et le blanchiment des capitaux | COMPLÉMENT | 12.1 | 16-19, 0/7 | jamais | réglementation financière, fraude comptable et financière, Tracfin, éthique et déontologie |
+| 6.2 La gestion de la valeur de l'action | COMPLÉMENT | 11.8 | 16-18, 0/7 | 2017 | rachats d'actions, opérations sur le nombre d'actions, restructurations (APA, scission), introductions en bourse |
+| 6.4 Les opérations sur les dettes et sur les créances | COMPLÉMENT | 9.5 | 17-19, 0/7 | 2019 | defeasance, titrisation |
 
 ## Techniques les plus mobilisées
 | Technique | Sessions 2016-25 | Depuis 2020 | Dernière |
@@ -56,10 +56,8 @@
 | Couverture du risque de taux (swap, collar…) | 3 | 2 | 2023 |
 | VAN, TRI, conflits de critères | 2 | 2 | 2025 |
 | Crowdfunding | 2 | 2 | 2025 |
+| Parties prenantes | 2 | 2 | 2024 |
 | Blockchain, crypto-actifs | 2 | 2 | 2021 |
-| Politique de dividende (théories) | 1.5 | 1.5 | 2025 |
-| Parties prenantes | 1.5 | 1.5 | 2024 |
-| Parité d'échange, fusion | 1.5 | 1.5 | 2022 |
 | Diagnostic par ratios (ROCE, ROE, gearing…) | 4 | 1 | 2022 |
 | Montage LBO | 2 | 1 | 2025 |
 | Notation (financière / extra-financière) | 2 | 1 | 2023 |
@@ -68,19 +66,20 @@
 | Obligations (taux, duration, sensibilité) | 2 | 1 | 2020 |
 | Flux d'un projet (BFR, IS, valeur de reprise) | 1 | 1 | 2025 |
 | Tableaux d'amortissement / annuités | 1 | 1 | 2025 |
+| Politique de dividende (théories) | 1 | 1 | 2025 |
 | Prime et fourchette d'une offre publique | 1 | 1 | 2024 |
 | Structure d'actionnariat, droits de vote | 1 | 1 | 2024 |
 | Société à mission | 1 | 1 | 2024 |
 | Black-Scholes | 1 | 1 | 2023 |
 | Options réelles | 1 | 1 | 2023 |
 | Évaluation d'un fonds de commerce | 1 | 1 | 2023 |
+| Efficience et finance comportementale | 1 | 1 | 2022 |
 | Finance immobilière | 1 | 1 | 2021 |
 | Annuité équivalente / horizon commun | 1 | 1 | 2021 |
+| Parité d'échange, fusion | 1 | 1 | 2021 |
 | EVA / création de valeur | 1 | 1 | 2020 |
 | Netting / centralisation de trésorerie | 1 | 1 | 2020 |
 | Évaluation de start-up (VC method) | 1 | 1 | 2020 |
-| BPA : relution / dilution | 0.5 | 0.5 | 2022 |
-| Efficience et finance comportementale | 0.5 | 0.5 | 2022 |
 | Dissertation (format pré-2020) | 4 | 0 | 2019 |
 | Tableau de flux de trésorerie | 1 | 0 | 2019 |
 | Introduction en bourse | 1 | 0 | 2017 |
@@ -133,6 +132,9 @@
 - [2020, p. 7] Format modifié : la question de réflexion (25 % des points) est remplacée par de petites questions de cours insérées dans le sujet. → S'entraîner aux questions de cours courtes intégrées au cas, pas à la dissertation.
 - [2020, p. 7] Seule vraie nouveauté du programme dans le sujet : la question sur la blockchain. → Connaître définitions et usages de la blockchain en finance/trésorerie.
 - [2020, p. 7] Rappel du rapport 2019 : extra-financier et gouvernance, innovations financières (blockchain, fintech, ICO), réglementation financière, évaluation des patrimoines/immobilier sont « des points majeurs » ; « il n'est plus envisageable d'en faire l'impasse ». → Couvrir les « nouveautés » 2019 même hors calcul.
+- [2022, p. 9] Épreuve initiale annulée : « Le sujet de secours a été activé » (4 parties égales : analyse financière simple, gouvernance et dirigeant, finance comportementale, RSE/approche partenariale), « conçu sans besoin de faire de calculs » à titre d'« exception ». → Le sujet 2022 réellement composé est le sujet Energy+ ; son absence de calcul est une exception, pas une tendance.
+- [2022, p. 9] Conseils 2023 : les nouveaux points du programme « constituent des thèmes clés pour les examens des années à venir » : finance verte/durable, gouvernance, réglementations et régulations, reporting extra-financier, fintech et IA, aspects comportementaux. → Fiches sur chacun de ces thèmes, y compris la réglementation financière (5.3).
+- [2022, p. 5] Taux de réussite UE2 = 52,49 % (moyenne 9,73, médiane 10), contre 23,86 % en 2021. → Taux atypique lié au sujet de secours sans calcul.
 - [2021, p. 7] Sujet « complet » : bêta, VAN, option de change / contrat à terme + questions de restitution du cours (immobilier, crypto-actifs). → Les fondamentaux calculatoires restent le socle ; la restitution de cours rapporte des points.
 - [2021, p. 7-8] Nouveautés à maîtriser : finance environnementale, gouvernance, régulation, indicateurs extra-financiers, fintech, finance comportementale. → Fiches synthétiques sur chacun de ces thèmes.
 - [2021, p. 3-4] Taux de réussite UE2 = 23,86 % ; 30,1 % des copies < 6. → UE à fort taux d'élimination : sécuriser le socle calculatoire.
@@ -152,7 +154,7 @@
 - **2024 D3 + 2022-S2 D4** — RSE/ESG, parties prenantes (Freeman), société à mission, matérialité : rédaction courte et contextualisée.
 - **2023 D2** — Gouvernance (mécanismes, administrateurs indépendants) + CMPC, covariance, DCF, multiples, fonds de commerce : le dossier le plus complet sur l'évaluation.
 - **2023 D1 + D3** — Options réelles (Black-Scholes) et swap de taux : dossiers techniques de la session la plus difficile (14,75 % de réussite).
-- **2022-S1 D3** — OPE : parité, prime, dividende exceptionnel, transfert de richesse, BPA relutif/dilutif.
+- **2022-S1 D3 (sujet annulé, entraînement)** — OPE : parité, prime, dividende exceptionnel, transfert de richesse, BPA relutif/dilutif.
 - **2021 D1 + D3** — Bêta/MEDAF, capital-investissement, VAN, annuité équivalente, horizon commun ; change (terme vs option) et crypto-actifs.
 - **2020 (sujet entier)** — EVA, duration/sensibilité, crowdfunding, collar, netting, blockchain, Venture Capital Method : le panorama le plus large des « nouveautés » 2019.
 - **2016 Partie 1 (ancien programme)** — Bêta d'activité de comparables → bêta des CP → CMPC → DCF : même mécanique que 2025 D1, excellent entraînement technique.
@@ -174,9 +176,9 @@
 | 2022-S2 | 2 | Gouvernance et turnover du dirigeant | 25/100 | 2.2 | 1.1 | gouvernance |
 | 2022-S2 | 3 | Réaction des marchés financiers | 25/100 | 1.1 |  | efficience_finance_comportementale |
 | 2022-S2 | 4 | RSE | 25/100 | 2.2 |  | RSE_ESG|parties_prenantes |
-| 2022-S1 | 1 | Diagnostic financier (Sopra Steria, comptes consolidés IFRS) | 30/100 | 2.1 | 4.3 | diagnostic_ratios |
-| 2022-S1 | 2 | Diagnostic RSE et gouvernance | 30/100 | 2.2|6.1 | 1.1 | RSE_ESG|gouvernance|dividende_theories |
-| 2022-S1 | 3 | Ingénierie financière (OPE EEGS Design / EVA Group) | 40/100 | 6.3|6.1 |  | parite_fusion|BPA_relution|dividende_theories |
+| 2022-S1 | 1 | Diagnostic financier (Sopra Steria, comptes consolidés IFRS) [sujet annulé — hors statistiques] | 30/100 | 2.1 | 4.3 | diagnostic_ratios |
+| 2022-S1 | 2 | Diagnostic RSE et gouvernance [sujet annulé — hors statistiques] | 30/100 | 2.2|6.1 | 1.1 | RSE_ESG|gouvernance|dividende_theories |
+| 2022-S1 | 3 | Ingénierie financière (OPE EEGS Design / EVA Group) [sujet annulé — hors statistiques] | 40/100 | 6.3|6.1 |  | parite_fusion|BPA_relution|dividende_theories |
 | 2021 | 1 | Projet d'investissement immobilier | 50/100 | 1.2|4.1|4.2 | 1.3|3.3 | covariance_risque|MEDAF_beta|capital_investissement|immobilier|VAN_TRI|annuite_equivalente |
 | 2021 | 2 | Opération de restructuration | 25/100 | 6.3 |  | parite_fusion |
 | 2021 | 3 | Couverture du risque de change (et crypto-actifs) | 25/100 | 5.2|6.5 |  | blockchain_crypto|couverture_change |

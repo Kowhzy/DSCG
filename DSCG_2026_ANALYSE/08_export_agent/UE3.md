@@ -4,7 +4,7 @@
 - L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.
 - Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).
 - Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.
-- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
+- Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2022, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.
 - Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.
 - Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.
 - Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027.
@@ -16,28 +16,29 @@
 - Référentiel applicable : programme de 2019 (1re session en 2020 ; selon le jury, le contenu de l'UE3 « n'a pas été profondément modifié avec la réforme ») ; la réforme de 2025 ne vaut qu'à partir de 2027.
 - Le diagnostic stratégique (PESTEL, Porter, SWOT, ressources/compétences, business model) est présent dans 9 sessions sur 10 depuis 2016 (en toile de fond seulement en 2025). Le jury 2024 relève cependant des erreurs de choix d'outil : PESTEL ou SWOT au lieu des 5 forces pour le micro-environnement.
 - Rupture 2024-2025 : le contrôle de gestion « fait part égale avec le management » [Rapport du jury 2024, p. 24 ; confirmé en 2025, p. 28]. Les calculs (écarts, facteur rare, masse salariale, prix de cession interne) sont redevenus centraux.
-- Faiblesse n°1 signalée par le jury 2025 : « la décomposition des écarts et [l]es différents effets de la masse salariale ». Les écarts figurent dans chacune des trois dernières sessions (2023, 2024, 2025) ; la masse salariale est calculée en 2017, 2022 et 2025 et la gestion des RH est en principal dans 5 sessions sur 10.
+- Faiblesse n°1 signalée par le jury 2025 : « la décomposition des écarts et [l]es différents effets de la masse salariale ». La masse salariale était déjà ratée en 2022 : « pas compliqué mais peu de candidat[s] ont réussi » [Rapport du jury 2022, p. 10]. Les écarts figurent dans chacune des trois dernières sessions (2023, 2024, 2025) ; la masse salariale est calculée en 2017, 2022 et 2025 et la gestion des RH est en principal dans 5 sessions sur 10.
 - Pilotage et performance : les techniques sont fréquentes (coûts cachés dans 4 sessions : 2018, 2020, 2022, 2023 ; tableau de bord social en 2022 et 2023), mais le programme les range en 3.2 (dysfonctionnements) et 4.1 (TBS). La rubrique 3.3 (KPI, tableaux de bord stratégiques, performance globale) n'est en principal qu'en 2020.
 - Correction par rapport à la 1re version de cette étude : selon le texte officiel, la rubrique 2.2 porte sur l'audit, le contrôle interne et les risques ; elle n'a jamais été interrogée en principal. Les calculs de coûts (facteur rare en 2024 ; coûts, marges et seuil en 2019-2020) sont des techniques du DCG mobilisées au service de 2.5 (planification, choix de programme) et de 2.3 (tarification). Ils restent à maîtriser : voir le tableau des techniques (section 5.6).
+- Le marketing (notamment digital) est la partie la plus abandonnée selon le jury 2022 : « La partie marketing n'est pas maîtrisée et souvent abandonnée » [Rapport du jury 2022, p. 10]. La rubrique 2.3 est en principal en 2020, 2022 et 2024 (en toile de fond en 2021).
 - Chute du taux de réussite : de 50,14 % en 2024 à 17,28 % en 2025, avec une moyenne de 7,08 [Rapport du jury 2025, p. 10 et 19]. Le niveau technique et la contextualisation sont devenus discriminants.
 
 ## Priorités (IPR décroissant)
 | Rubrique | Catégorie | IPR | Robustesse (rang min-max, 1er tiers) | Dernière | Notions officielles |
 |---|---|---|---|---|---|
-| 2.5 La planification et le diagnostic stratégique | PRIORITÉ MAXIMALE | 77.7 | 1-1, 7/7 | 2025 | CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire |
-| 2.1 Analyse et choix stratégiques | PRIORITÉ MAXIMALE | 68.3 | 2-2, 7/7 | 2024 | diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances |
-| 4.1 La gestion des ressources humaines | PRIORITÉ TRÈS ÉLEVÉE | 59.8 | 3-4, 7/7 | 2025 | tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…) |
-| 4.2 La gestion des compétences | PRIORITÉ TRÈS ÉLEVÉE | 48.6 | 4-5, 7/7 | 2025 | identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel |
-| 2.4 La gestion du périmètre de l'entité | PRIORITÉ TRÈS ÉLEVÉE | 45.4 | 3-5, 7/7 | 2025 | extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert |
-| 2.6 Analyse des parties prenantes et structures de gouvernance | PRIORITÉ ÉLEVÉE | 38.0 | 6-8, 0/7 | 2025 | cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes |
-| 2.3 Approche du marketing stratégique | PRIORITÉ ÉLEVÉE | 36.0 | 6-8, 0/7 | 2024 | leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data |
-| 1.2 Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie | PRIORITÉ ÉLEVÉE | 34.5 | 6-9, 0/7 | 2025 | rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie |
-| 3.3 Le contrôle de gestion et le pilotage stratégique | PRIORITÉ ÉLEVÉE | 33.3 | 6-10, 0/7 | 2020 | performance globale, FCS, KPI, tableaux de bord stratégiques |
+| 2.1 Analyse et choix stratégiques | PRIORITÉ MAXIMALE | 74.6 | 1-2, 7/7 | 2024 | diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances |
+| 2.5 La planification et le diagnostic stratégique | PRIORITÉ MAXIMALE | 74.0 | 1-2, 7/7 | 2025 | CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire |
+| 4.1 La gestion des ressources humaines | PRIORITÉ MAXIMALE | 64.8 | 3-4, 7/7 | 2025 | tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…) |
+| 4.2 La gestion des compétences | PRIORITÉ TRÈS ÉLEVÉE | 56.1 | 4-5, 7/7 | 2025 | identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel |
+| 2.4 La gestion du périmètre de l'entité | PRIORITÉ ÉLEVÉE | 44.1 | 3-7, 5/7 | 2025 | extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert |
+| 2.3 Approche du marketing stratégique | PRIORITÉ ÉLEVÉE | 43.5 | 5-7, 1/7 | 2024 | leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data |
+| 1.2 Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie | PRIORITÉ ÉLEVÉE | 40.7 | 5-8, 1/7 | 2025 | rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie |
+| 2.6 Analyse des parties prenantes et structures de gouvernance | PRIORITÉ ÉLEVÉE | 38.0 | 6-9, 0/7 | 2025 | cartographie des parties prenantes, attentes et jeux de pouvoir, types de gouvernance, communication vers les parties prenantes |
+| 3.3 Le contrôle de gestion et le pilotage stratégique | PRIORITÉ ÉLEVÉE | 32.0 | 7-10, 0/7 | 2020 | performance globale, FCS, KPI, tableaux de bord stratégiques |
 | 3.2 Management et pilotage par les processus | À MAÎTRISER | 28.8 | 9-10, 0/7 | 2023 | cartographie des processus, progrès continu, coûts cibles, analyse de la valeur, dysfonctionnements organisationnels, usage des rapports d'audit |
-| 3.1 Le management du changement | À MAÎTRISER | 20.8 | 11-12, 0/7 | 2018 | types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement |
+| 3.1 Le management du changement | COMPLÉMENT | 19.5 | 11-12, 0/7 | 2018 | types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement |
 | 1.1 Évolution des modèles d'organisation | COMPLÉMENT | 16.2 | 11-14, 0/7 | 2019 | formes structurelles, structures par projet, réseaux, transversalité et processus, entreprise virtuelle, hybridation public/privé |
 | 2.2 Place et rôle du contrôle de gestion stratégique | COMPLÉMENT | 15.5 | 12-14, 0/7 | jamais | CG face à l'audit et au contrôle interne, risques de l'entité, formes et champs de l'audit, communication financière, dimension culturelle des outils |
-| 2.7 Contrôle de gestion et changement organisationnel | COMPLÉMENT | 13.8 | 12-15, 0/7 | jamais | CG interface stratégie/organisation, aide à l'évolution de la structure |
+| 2.7 Contrôle de gestion et changement organisationnel | COMPLÉMENT | 12.6 | 12-15, 0/7 | jamais | CG interface stratégie/organisation, aide à l'évolution de la structure |
 | 1.3 Le contrôle de gestion et les systèmes d'information et de communication | COMPLÉMENT | 8.3 | 13-15, 0/7 | jamais | PGI, transmission électronique de l'information, mégadonnées |
 
 ## Techniques les plus mobilisées
@@ -161,6 +162,10 @@
 - [2020, p. 7] Sujet long : « Le critère de bonne gestion du temps des analyses est devenu récurrent sur le sujet UE3 ». → S'entraîner en temps réel (4 h) avec beaucoup d'annexes.
 - [2020, p. 7-8] Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios. → Couvrir changement + RH + calculs de coûts ; raisonner en scénarios.
 - [2020, p. 8] Épreuve « plus axée sur une réflexion ancrée sur des cas réels […] que sur des calculs bruts et des définitions non contextualisées ». → Toujours appliquer l'outil au cas.
+- [2022, p. 9] Sujet accessible (stratégie, GRH, enjeux contemporains) ; un volet marketing, notamment digital, « qu'il convient d'intégrer dans son programme de révision ». → Intégrer le marketing digital aux révisions.
+- [2022, p. 9] « l'épreuve constitue une étude de cas et pas des questions de cours » : contextualiser, ne pas paraphraser les annexes, être analytique et non descriptif. → S'entraîner à la démarche d'étude de cas.
+- [2022, p. 10] « La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ». → Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas.
+- [2022, p. 10] « Le calcul de la masse salariale n'était pas compliqué mais peu de candidat[s] ont réussi par manque de maîtrise ». → Masse salariale : faiblesse signalée en 2022 puis de nouveau en 2025.
 - [2021, p. 8] Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ». → Les annales antérieures à 2020 restent exploitables en UE3.
 - [2024, p. 24] « le contrôle de gestion fait part égale avec le management » ; compétences de haut niveau (analyser, évaluer, créer). → Le contrôle de gestion chiffré pèse désormais la moitié du barème.
 - [2024, p. 25] Réponses descriptives, récitation, « fréquent manque de contextualisation » ; méconnaissance des TPE et des services. → Contextualiser ; s'entraîner sur des TPE et des services.

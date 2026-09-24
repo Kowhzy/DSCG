@@ -1,21 +1,21 @@
 rubrique;intitule;IPR_reference;rang_reference;rang_min;rang_max;nb_scenarios_premier_tiers_(rang<=8);rang_référence;rang_égalitaire;rang_fréquences seules;rang_jury renforcé;rang_récence renforcée;rang_sans « gap »;rang_poids du barème renforcé
-5.2;Mise en place d'une architecture de confiance;63.9;1;1;2;7/7;1;2;2;2;2;1;1
-2.2;La mise en œuvre d'un projet;60.3;2;1;4;7/7;2;3;1;4;3;2;3
-1.2;La stratégie SI;59.6;3;1;3;7/7;3;1;3;1;1;3;2
-5.3;Surveillance et prévention;54.7;4;3;5;7/7;4;4;5;3;4;4;4
-1.3;Évolution des systèmes d'information;47.5;5;5;7;7/7;5;5;7;5;6;6;5
-3.2;Le cycle de vie des systèmes d'entreprise (SE);46.8;6;4;7;7/7;6;7;4;6;5;5;6
-3.1;La place des systèmes d'entreprise (SE);43.3;7;6;9;6/7;7;9;6;7;7;7;7
-1.1;Position de la fonction SI au sein de l'organisation;40.6;8;6;12;5/7;8;6;12;8;11;8;8
-2.1;Les enjeux d'un projet;36.9;9;8;15;1/7;9;8;13;9;15;9;9
-2.4;Gestion des risques du projet;28.1;10;8;16;1/7;10;15;8;16;13;10;13
-4.1;Définition d'indicateurs;27.7;11;8;13;1/7;11;13;9;10;8;11;10
-6.2;Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil;26.4;12;10;16;0/7;12;16;11;12;10;12;11
-1.4;Management stratégique des données (Big Data-Mégadonnées);26.2;13;9;14;0/7;13;14;10;11;9;13;12
+5.2;Mise en place d'une architecture de confiance;67.6;1;1;2;7/7;1;1;2;1;1;1;1
+2.2;La mise en œuvre d'un projet;60.3;2;1;5;7/7;2;3;1;5;3;2;3
+1.2;La stratégie SI;59.6;3;2;3;7/7;3;2;3;2;2;3;2
+5.3;Surveillance et prévention;54.7;4;3;6;7/7;4;6;5;3;4;4;4
+1.3;Évolution des systèmes d'information;51.2;5;4;7;7/7;5;4;7;4;6;5;5
+3.1;La place des systèmes d'entreprise (SE);47.1;6;6;9;6/7;6;9;6;7;7;6;6
+3.2;Le cycle de vie des systèmes d'entreprise (SE);46.8;7;4;7;7/7;7;7;4;6;5;7;7
+1.1;Position de la fonction SI au sein de l'organisation;44.3;8;5;12;6/7;8;5;12;8;8;8;8
+2.1;Les enjeux d'un projet;40.7;9;8;13;1/7;9;8;13;9;12;9;9
+2.4;Gestion des risques du projet;28.1;10;8;16;1/7;10;15;8;16;14;10;13
+4.1;Définition d'indicateurs;27.7;11;9;13;0/7;11;13;9;10;9;11;10
+6.2;Gouvernance d'entreprise et environnement spécifique pour l'auditeur ou le conseil;26.4;12;11;16;0/7;12;16;11;12;11;12;11
+1.4;Management stratégique des données (Big Data-Mégadonnées);26.2;13;10;14;0/7;13;14;10;11;10;13;12
 4.2;Le contrat de services;25.3;14;10;18;0/7;14;10;18;15;16;16;18
-6.1;Audit du système d'information;24.9;15;12;17;0/7;15;17;14;13;12;14;14
+6.1;Audit du système d'information;24.9;15;13;17;0/7;15;17;14;13;13;14;14
 4.3;Les coûts;23.8;16;11;17;0/7;16;11;16;17;17;17;15
-6.4;Contrôle et reporting;23.1;17;14;18;0/7;17;18;15;14;14;15;16
+6.4;Contrôle et reporting;23.1;17;14;18;0/7;17;18;15;14;15;15;16
 5.1;Architecture technique;22.0;18;12;18;0/7;18;12;17;18;18;18;17
 4.5;Évaluation des projets de SI;13.2;19;19;20;0/7;19;20;19;19;20;19;19
 2.5;Gestion des connaissances;13.0;20;19;22;0/7;20;19;22;20;19;20;20

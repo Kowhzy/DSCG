@@ -5,7 +5,7 @@
   "L'indice de priorité de révision (IPR, 0-100) hiérarchise l'effort de révision ; ce n'est PAS une probabilité que le thème tombe.",
   "Ne jamais raisonner « tombé en 2025 donc pas en 2026 » : le jury 2025 écrit qu'un point faible peut être réinterrogé dès l'année suivante (rapport 2025, p. 21).",
   "Ne jamais raisonner « absent depuis 5 ans donc il va tomber » : les zones peu interrogées sont signalées comme « à ne pas négliger », sans prédiction.",
-  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
+  "Aucun point du programme n'est mineur (rapports du jury 2020, 2021, 2022, 2024, 2025) : les catégories basses indiquent un effort minimal, pas une impasse.",
   "Les corrigés sont « indicatifs ». Les entrées marquées ALERTE signalent un corrigé probablement erroné ou dépassé : ne pas faire apprendre ce chiffre ou cette règle sans vérification.",
   "Les valeurs « Non vérifié » ou « n.c. » sont des trous assumés : ne pas les combler par une invention.",
   "Session 2026 = dernière session sur le programme de l'arrêté du 13 février 2019 ; la réforme (arrêté du 4 août 2025) s'applique à partir de 2027."
@@ -45,9 +45,10 @@
   "Référentiel applicable : programme de 2019 (1re session en 2020 ; selon le jury, le contenu de l'UE3 « n'a pas été profondément modifié avec la réforme ») ; la réforme de 2025 ne vaut qu'à partir de 2027.",
   "Le diagnostic stratégique (PESTEL, Porter, SWOT, ressources/compétences, business model) est présent dans 9 sessions sur 10 depuis 2016 (en toile de fond seulement en 2025). Le jury 2024 relève cependant des erreurs de choix d'outil : PESTEL ou SWOT au lieu des 5 forces pour le micro-environnement.",
   "Rupture 2024-2025 : le contrôle de gestion « fait part égale avec le management » [Rapport du jury 2024, p. 24 ; confirmé en 2025, p. 28]. Les calculs (écarts, facteur rare, masse salariale, prix de cession interne) sont redevenus centraux.",
-  "Faiblesse n°1 signalée par le jury 2025 : « la décomposition des écarts et [l]es différents effets de la masse salariale ». Les écarts figurent dans chacune des trois dernières sessions (2023, 2024, 2025) ; la masse salariale est calculée en 2017, 2022 et 2025 et la gestion des RH est en principal dans 5 sessions sur 10.",
+  "Faiblesse n°1 signalée par le jury 2025 : « la décomposition des écarts et [l]es différents effets de la masse salariale ». La masse salariale était déjà ratée en 2022 : « pas compliqué mais peu de candidat[s] ont réussi » [Rapport du jury 2022, p. 10]. Les écarts figurent dans chacune des trois dernières sessions (2023, 2024, 2025) ; la masse salariale est calculée en 2017, 2022 et 2025 et la gestion des RH est en principal dans 5 sessions sur 10.",
   "Pilotage et performance : les techniques sont fréquentes (coûts cachés dans 4 sessions : 2018, 2020, 2022, 2023 ; tableau de bord social en 2022 et 2023), mais le programme les range en 3.2 (dysfonctionnements) et 4.1 (TBS). La rubrique 3.3 (KPI, tableaux de bord stratégiques, performance globale) n'est en principal qu'en 2020.",
   "Correction par rapport à la 1re version de cette étude : selon le texte officiel, la rubrique 2.2 porte sur l'audit, le contrôle interne et les risques ; elle n'a jamais été interrogée en principal. Les calculs de coûts (facteur rare en 2024 ; coûts, marges et seuil en 2019-2020) sont des techniques du DCG mobilisées au service de 2.5 (planification, choix de programme) et de 2.3 (tarification). Ils restent à maîtriser : voir le tableau des techniques (section 5.6).",
+  "Le marketing (notamment digital) est la partie la plus abandonnée selon le jury 2022 : « La partie marketing n'est pas maîtrisée et souvent abandonnée » [Rapport du jury 2022, p. 10]. La rubrique 2.3 est en principal en 2020, 2022 et 2024 (en toile de fond en 2021).",
   "Chute du taux de réussite : de 50,14 % en 2024 à 17,28 % en 2025, avec une moyenne de 7,08 [Rapport du jury 2025, p. 10 et 19]. Le niveau technique et la contextualisation sont devenus discriminants."
  ],
  "surprises": [
@@ -57,17 +58,99 @@
  ],
  "rubriques": [
   {
-   "code": "2.5",
+   "code": "2.1",
    "partie": "2. Management stratégique (80 h)",
-   "intitule": "La planification et le diagnostic stratégique",
-   "notions_officielles": "CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire",
-   "ipr": 77.7,
+   "intitule": "Analyse et choix stratégiques",
+   "notions_officielles": "diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances",
+   "ipr": 74.6,
    "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 1,
     "rang_min": 1,
-    "rang_max": 1,
+    "rang_max": 2,
+    "scenarios_premier_tiers": "7/7"
+   },
+   "sessions_principal": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2025
+   ],
+   "frequence_2016_2025": 0.9,
+   "frequence_2020_2025": 0.833,
+   "frequence_2023_2025": 0.667,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.245,
+   "dossiers": [
+    "2023 D1",
+    "2022 D1",
+    "2021 D1",
+    "2021 D2",
+    "2020 D1",
+    "2019 D2",
+    "2018 D1",
+    "2017 D1",
+    "2017 D2",
+    "2016 D1",
+    "2024 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Sujet accessible (stratégie, GRH, enjeux contemporains) ; un volet marketing, notamment digital, « qu'il convient d'intégrer dans son programme de révision ».",
+     "difficulte_candidats": false,
+     "consequence": "Intégrer le marketing digital aux révisions."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 10",
+     "observation": "« La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ».",
+     "difficulte_candidats": true,
+     "consequence": "Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    },
+    {
+     "annee": 2024,
+     "page": "p. 26",
+     "observation": "« de nombreux candidats ont utilisé le PESTEL ou SWOT au lieu des forces de Porter pour analyser le micro-environnement ».",
+     "difficulte_candidats": true,
+     "consequence": "Choisir l'outil selon le niveau d'analyse (macro vs micro)."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.4 p.112, ch.5 p.134",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "2.5",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "La planification et le diagnostic stratégique",
+   "notions_officielles": "CG et diagnostic, planification, plans prévisionnels (activité, financement, business plan), analyse d'un business model, intérêts et limites de la gestion budgétaire",
+   "ipr": 74.0,
+   "categorie": "PRIORITÉ MAXIMALE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 2,
+    "rang_min": 1,
+    "rang_max": 2,
     "scenarios_premier_tiers": "7/7"
    },
    "sessions_principal": [
@@ -147,80 +230,12 @@
    "zone_a_ne_pas_negliger": null
   },
   {
-   "code": "2.1",
-   "partie": "2. Management stratégique (80 h)",
-   "intitule": "Analyse et choix stratégiques",
-   "notions_officielles": "diagnostic et chaîne de valeur, business model, risques, critères de performance, segmentation/DAS, stratégies génériques, recentrage/diversification, croissance interne/externe, alliances",
-   "ipr": 68.3,
-   "categorie": "PRIORITÉ MAXIMALE",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 2,
-    "rang_min": 2,
-    "rang_max": 2,
-    "scenarios_premier_tiers": "7/7"
-   },
-   "sessions_principal": [
-    2016,
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023,
-    2024
-   ],
-   "sessions_toile_de_fond": [
-    2025
-   ],
-   "frequence_2016_2025": 0.9,
-   "frequence_2020_2025": 0.833,
-   "frequence_2023_2025": 0.667,
-   "derniere_apparition": 2024,
-   "poids_bareme_quand_present": 0.245,
-   "dossiers": [
-    "2023 D1",
-    "2022 D1",
-    "2021 D1",
-    "2021 D2",
-    "2020 D1",
-    "2019 D2",
-    "2018 D1",
-    "2017 D1",
-    "2017 D2",
-    "2016 D1",
-    "2024 D1"
-   ],
-   "jury": [
-    {
-     "annee": 2021,
-     "page": "p. 8",
-     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
-     "difficulte_candidats": false,
-     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
-    },
-    {
-     "annee": 2024,
-     "page": "p. 26",
-     "observation": "« de nombreux candidats ont utilisé le PESTEL ou SWOT au lieu des forces de Porter pour analyser le micro-environnement ».",
-     "difficulte_candidats": true,
-     "consequence": "Choisir l'outil selon le niveau d'analyse (macro vs micro)."
-    }
-   ],
-   "ressources_personnelles": {
-    "support": "M ch.4 p.112, ch.5 p.134",
-    "statut_notion": "A"
-   },
-   "zone_a_ne_pas_negliger": null
-  },
-  {
    "code": "4.1",
    "partie": "4. Management des ressources humaines et des compétences (30 h)",
    "intitule": "La gestion des ressources humaines",
    "notions_officielles": "tableaux de bord sociaux, bilan social, écarts et effets de la masse salariale, GPEC, gestion de crise (négociation, médiation…)",
-   "ipr": 59.8,
-   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "ipr": 64.8,
+   "categorie": "PRIORITÉ MAXIMALE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 3,
@@ -257,6 +272,20 @@
      "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
     },
     {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Sujet accessible (stratégie, GRH, enjeux contemporains) ; un volet marketing, notamment digital, « qu'il convient d'intégrer dans son programme de révision ».",
+     "difficulte_candidats": false,
+     "consequence": "Intégrer le marketing digital aux révisions."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 10",
+     "observation": "« Le calcul de la masse salariale n'était pas compliqué mais peu de candidat[s] ont réussi par manque de maîtrise ».",
+     "difficulte_candidats": true,
+     "consequence": "Masse salariale : faiblesse signalée en 2022 puis de nouveau en 2025."
+    },
+    {
      "annee": 2021,
      "page": "p. 8",
      "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
@@ -289,7 +318,7 @@
    "partie": "4. Management des ressources humaines et des compétences (30 h)",
    "intitule": "La gestion des compétences",
    "notions_officielles": "identification des compétences, formation, carrières, politique de rémunération, gestion des connaissances, apprentissage organisationnel",
-   "ipr": 48.6,
+   "ipr": 56.1,
    "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
@@ -328,6 +357,13 @@
      "observation": "Points majeurs : extra-financier, investissements immatériels et humains, mise en œuvre stratégique, gestion du changement, « calculs de coûts/performances fondamentaux », incertitude, choix entre options, scénarios.",
      "difficulte_candidats": false,
      "consequence": "Couvrir changement + RH + calculs de coûts ; raisonner en scénarios."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 10",
+     "observation": "« La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ».",
+     "difficulte_candidats": true,
+     "consequence": "Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas."
     }
    ],
    "ressources_personnelles": {
@@ -341,14 +377,14 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "La gestion du périmètre de l'entité",
    "notions_officielles": "extension (acquisitions, fusions), réduction, coopération, réseau, prix de cession interne et de transfert",
-   "ipr": 45.4,
-   "categorie": "PRIORITÉ TRÈS ÉLEVÉE",
+   "ipr": 44.1,
+   "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 5,
     "rang_min": 3,
-    "rang_max": 5,
-    "scenarios_premier_tiers": "7/7"
+    "rang_max": 7,
+    "scenarios_premier_tiers": "5/7"
    },
    "sessions_principal": [
     2019,
@@ -393,6 +429,131 @@
    "zone_a_ne_pas_negliger": null
   },
   {
+   "code": "2.3",
+   "partie": "2. Management stratégique (80 h)",
+   "intitule": "Approche du marketing stratégique",
+   "notions_officielles": "leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data",
+   "ipr": 43.5,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 6,
+    "rang_min": 5,
+    "rang_max": 7,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2020,
+    2022,
+    2024
+   ],
+   "sessions_toile_de_fond": [
+    2021
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.5,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2024,
+   "poids_bareme_quand_present": 0.244,
+   "dossiers": [
+    "2022 D1",
+    "2020 D1",
+    "2024 D1",
+    "2024 D2"
+   ],
+   "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 9",
+     "observation": "Sujet accessible (stratégie, GRH, enjeux contemporains) ; un volet marketing, notamment digital, « qu'il convient d'intégrer dans son programme de révision ».",
+     "difficulte_candidats": false,
+     "consequence": "Intégrer le marketing digital aux révisions."
+    },
+    {
+     "annee": 2022,
+     "page": "p. 10",
+     "observation": "« La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ».",
+     "difficulte_candidats": true,
+     "consequence": "Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.7 p.188",
+    "statut_notion": "A"
+   },
+   "zone_a_ne_pas_negliger": null
+  },
+  {
+   "code": "1.2",
+   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
+   "intitule": "Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie",
+   "notions_officielles": "rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie",
+   "ipr": 40.7,
+   "categorie": "PRIORITÉ ÉLEVÉE",
+   "regle_jury_2025": false,
+   "robustesse": {
+    "rang_reference": 7,
+    "rang_min": 5,
+    "rang_max": 8,
+    "scenarios_premier_tiers": "1/7"
+   },
+   "sessions_principal": [
+    2019,
+    2021,
+    2025
+   ],
+   "sessions_toile_de_fond": [
+    2016,
+    2018,
+    2022
+   ],
+   "frequence_2016_2025": 0.3,
+   "frequence_2020_2025": 0.333,
+   "frequence_2023_2025": 0.333,
+   "derniere_apparition": 2025,
+   "poids_bareme_quand_present": 0.11,
+   "dossiers": [
+    "2021 D4",
+    "2025 D1",
+    "2019 D1"
+   ],
+   "jury": [
+    {
+     "annee": 2022,
+     "page": "p. 10",
+     "observation": "« La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ».",
+     "difficulte_candidats": true,
+     "consequence": "Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas."
+    },
+    {
+     "annee": 2021,
+     "page": "p. 8",
+     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
+     "difficulte_candidats": false,
+     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
+    },
+    {
+     "annee": 2025,
+     "page": "p. 28",
+     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
+     "difficulte_candidats": false,
+     "consequence": "Savoir construire soi-même une décomposition d'écarts."
+    }
+   ],
+   "ressources_personnelles": {
+    "support": "M ch.2 p.32 ; séances 1/5",
+    "statut_notion": "I/A"
+   },
+   "zone_a_ne_pas_negliger": "En principal en 2019 D1 (RSE), 2021 D4 (rôle du contrôleur en start-up) et 2025 D1 (RSE et redevance de pollution) : la RSE vue par le contrôle de gestion est revenue en 2025."
+  },
+  {
    "code": "2.6",
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Analyse des parties prenantes et structures de gouvernance",
@@ -401,9 +562,9 @@
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
-    "rang_reference": 6,
+    "rang_reference": 8,
     "rang_min": 6,
-    "rang_max": 8,
+    "rang_max": 9,
     "scenarios_premier_tiers": "0/7"
    },
    "sessions_principal": [
@@ -436,120 +597,16 @@
    "zone_a_ne_pas_negliger": null
   },
   {
-   "code": "2.3",
-   "partie": "2. Management stratégique (80 h)",
-   "intitule": "Approche du marketing stratégique",
-   "notions_officielles": "leviers du marketing, communication multicanale, e-réputation, digitalisation et fidélisation, B to B, B to C, tarification dynamique (yield), big data",
-   "ipr": 36.0,
-   "categorie": "PRIORITÉ ÉLEVÉE",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 7,
-    "rang_min": 6,
-    "rang_max": 8,
-    "scenarios_premier_tiers": "0/7"
-   },
-   "sessions_principal": [
-    2020,
-    2022,
-    2024
-   ],
-   "sessions_toile_de_fond": [
-    2021
-   ],
-   "frequence_2016_2025": 0.3,
-   "frequence_2020_2025": 0.5,
-   "frequence_2023_2025": 0.333,
-   "derniere_apparition": 2024,
-   "poids_bareme_quand_present": 0.244,
-   "dossiers": [
-    "2022 D1",
-    "2020 D1",
-    "2024 D1",
-    "2024 D2"
-   ],
-   "jury": [
-    {
-     "annee": 2021,
-     "page": "p. 8",
-     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
-     "difficulte_candidats": false,
-     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
-    }
-   ],
-   "ressources_personnelles": {
-    "support": "M ch.7 p.188",
-    "statut_notion": "A"
-   },
-   "zone_a_ne_pas_negliger": null
-  },
-  {
-   "code": "1.2",
-   "partie": "1. Modèles d'organisation et contrôle de gestion (30 h)",
-   "intitule": "Le positionnement du contrôle de gestion et l'identification du métier comme aide à la stratégie",
-   "notions_officielles": "rôle et place du CG selon les structures, travail d'information du contrôleur, CG et DD/RSE, éthique et déontologie",
-   "ipr": 34.5,
-   "categorie": "PRIORITÉ ÉLEVÉE",
-   "regle_jury_2025": false,
-   "robustesse": {
-    "rang_reference": 8,
-    "rang_min": 6,
-    "rang_max": 9,
-    "scenarios_premier_tiers": "0/7"
-   },
-   "sessions_principal": [
-    2019,
-    2021,
-    2025
-   ],
-   "sessions_toile_de_fond": [
-    2016,
-    2018,
-    2022
-   ],
-   "frequence_2016_2025": 0.3,
-   "frequence_2020_2025": 0.333,
-   "frequence_2023_2025": 0.333,
-   "derniere_apparition": 2025,
-   "poids_bareme_quand_present": 0.11,
-   "dossiers": [
-    "2021 D4",
-    "2025 D1",
-    "2019 D1"
-   ],
-   "jury": [
-    {
-     "annee": 2021,
-     "page": "p. 8",
-     "observation": "Sujet start-up en 4 dossiers (diagnostic, business model, RH, rôle du contrôleur) ; « assez long » ; contenu du programme UE3 « pas […] profondément modifié avec la réforme ».",
-     "difficulte_candidats": false,
-     "consequence": "Les annales antérieures à 2020 restent exploitables en UE3."
-    },
-    {
-     "annee": 2025,
-     "page": "p. 28",
-     "observation": "Rééquilibrage CG/management « confirmé » ; concevoir un schéma d'analyse d'écarts, analyser masse salariale et prix de transfert ; RSE traitée par le double prisme.",
-     "difficulte_candidats": false,
-     "consequence": "Savoir construire soi-même une décomposition d'écarts."
-    }
-   ],
-   "ressources_personnelles": {
-    "support": "M ch.2 p.32 ; séances 1/5",
-    "statut_notion": "I/A"
-   },
-   "zone_a_ne_pas_negliger": "En principal en 2019 D1 (RSE), 2021 D4 (rôle du contrôleur en start-up) et 2025 D1 (RSE et redevance de pollution) : la RSE vue par le contrôle de gestion est revenue en 2025."
-  },
-  {
    "code": "3.3",
    "partie": "3. Conduite du changement (40 h)",
    "intitule": "Le contrôle de gestion et le pilotage stratégique",
    "notions_officielles": "performance globale, FCS, KPI, tableaux de bord stratégiques",
-   "ipr": 33.3,
+   "ipr": 32.0,
    "categorie": "PRIORITÉ ÉLEVÉE",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 9,
-    "rang_min": 6,
+    "rang_min": 7,
     "rang_max": 10,
     "scenarios_premier_tiers": "0/7"
    },
@@ -633,8 +690,8 @@
    "partie": "3. Conduite du changement (40 h)",
    "intitule": "Le management du changement",
    "notions_officielles": "types et diagnostic du changement, styles et leviers, management en mode projet, suivi des projets, ordonnancement",
-   "ipr": 20.8,
-   "categorie": "À MAÎTRISER",
+   "ipr": 19.5,
+   "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
     "rang_reference": 11,
@@ -751,7 +808,7 @@
    "partie": "2. Management stratégique (80 h)",
    "intitule": "Contrôle de gestion et changement organisationnel",
    "notions_officielles": "CG interface stratégie/organisation, aide à l'évolution de la structure",
-   "ipr": 13.8,
+   "ipr": 12.6,
    "categorie": "COMPLÉMENT",
    "regle_jury_2025": false,
    "robustesse": {
@@ -2362,6 +2419,38 @@
    "rubriques": "",
    "difficulte_candidats": false,
    "consequence": "Toujours appliquer l'outil au cas."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 9",
+   "observation": "Sujet accessible (stratégie, GRH, enjeux contemporains) ; un volet marketing, notamment digital, « qu'il convient d'intégrer dans son programme de révision ».",
+   "rubriques": "2.1|2.3|4.1",
+   "difficulte_candidats": false,
+   "consequence": "Intégrer le marketing digital aux révisions."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 9",
+   "observation": "« l'épreuve constitue une étude de cas et pas des questions de cours » : contextualiser, ne pas paraphraser les annexes, être analytique et non descriptif.",
+   "rubriques": "",
+   "difficulte_candidats": true,
+   "consequence": "S'entraîner à la démarche d'étude de cas."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 10",
+   "observation": "« La partie marketing n'est pas maîtrisée et souvent abandonnée » ; lacunes sur la RSE et la politique RH ; « Les notions de stratégie ne sont pas maîtrisées ».",
+   "rubriques": "2.3|1.2|4.2|2.1",
+   "difficulte_candidats": true,
+   "consequence": "Marketing (y compris digital), RSE, politique RH et stratégie : fiches + application au cas."
+  },
+  {
+   "annee": 2022,
+   "page": "p. 10",
+   "observation": "« Le calcul de la masse salariale n'était pas compliqué mais peu de candidat[s] ont réussi par manque de maîtrise ».",
+   "rubriques": "4.1",
+   "difficulte_candidats": true,
+   "consequence": "Masse salariale : faiblesse signalée en 2022 puis de nouveau en 2025."
   },
   {
    "annee": 2021,
