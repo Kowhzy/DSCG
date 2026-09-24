@@ -53,7 +53,7 @@ Chaque PDF est autonome : synthèse exécutive, méthodologie, programme officie
 - Reclassement de 30 dossiers. Effet majeur en UE3 : la rubrique 2.2 (audit, contrôle interne, risques) n'avait en réalité jamais été interrogée en principal ; 2.5, 2.4, 4.2 et 1.2 montent.
 - Nouvelle colonne « techniques » et statistiques par technique (`03_analyses/UE*_techniques.csv`).
 - Test de sensibilité de l'IPR sous 7 jeux de pondérations (`03_analyses/UE*_sensibilite.csv`).
-- Corrigés 2020-2025 lus question par question (112 entrées) ; 7 alertes (erreurs de calcul ou règles dépassées).
+- Corrigés 2020-2025 lus question par question (120 entrées, UE3 2024 incluse) ; 7 alertes (erreurs de calcul ou règles dépassées).
 
 ## Mettre à jour
 ```bash
